@@ -1,0 +1,10 @@
+<page type="ARTICLE" url="http://www.vpro.nl/article/123"  xmlns="urn:vpro:pages:update:2013">
+  <broadcaster>VPRO</broadcaster>
+  <title>Hoi2</title>
+  <embeds>
+     <embed midRef="PO_VPRO_1234">
+       <title>Onze titel</title>
+       <description>En een omschrijving</description>
+     </embed>
+  </embeds>
+</page>
