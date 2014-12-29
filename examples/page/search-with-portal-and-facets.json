@@ -1,0 +1,20 @@
+{
+    "facets": {
+        "genres": {},
+        "keywords": {},
+        "sections": {},
+        "types": {}
+    },
+    "highlight": true,
+    "searches": {
+        "portals": [
+            "WETENSCHAP24"
+        ]
+    },
+    "mediaForm" : {
+        "facets" : {
+            "avTypes" : {}
+
+        }
+    }
+}

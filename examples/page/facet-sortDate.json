@@ -1,0 +1,13 @@
+{
+    "facets": {
+        "sortDates": [
+            "2WEEK"
+         ]
+    },
+    "searches": {
+         "sortDates": [{
+           "begin": 1326931200000,
+           "end":1328140800000
+         }]
+    }
+}

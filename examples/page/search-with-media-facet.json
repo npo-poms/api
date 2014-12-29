@@ -1,0 +1,10 @@
+{
+    "searches" : {
+        "broadcasters" : ["TROS"]
+    },
+    "mediaForm" : {
+        "facets" : {
+            "descendantOf" : {}
+        }
+    }
+}
