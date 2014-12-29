@@ -5,7 +5,7 @@
   "offset" : 0,
   "max" : 2,
   "items" : [ {
-    "score" : 11.117192,
+    "score" : 11.107168,
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",
@@ -274,89 +274,95 @@
       "refCount" : 0
     }
   }, {
-    "score" : 4.4220567,
+    "score" : 4.410431,
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",
       "type" : "PLAYER",
-      "url" : "http://www-test.cultura.nl/speel.NPS_1242301.html",
-      "sortDate" : 1395690900000,
-      "crids" : [ "crid://vpro/media/cultura/NPS_1242301" ],
+      "url" : "http://www-test.cultura.nl/speel.VPWON_1188083.html",
+      "sortDate" : 1371371400000,
+      "crids" : [ "crid://vpro/media/cultura/VPWON_1188083" ],
       "broadcasters" : [ {
-        "id" : "NTR",
-        "value" : "NTR"
+        "id" : "VPRO",
+        "value" : "VPRO"
       } ],
       "portal" : {
         "id" : "CULTURA24",
         "url" : "http://www-test.cultura.nl",
         "value" : "NPO Cultura"
       },
-      "title" : "2Doc",
+      "title" : "Vrije geluiden",
       "genres" : [ {
-        "id" : "3.0.3.3",
-        "terms" : [ "Kunst" ],
-        "displayName" : "Kunst"
-      }, {
         "id" : "3.0.3.5",
         "terms" : [ "Klassiek" ],
         "displayName" : "Klassiek"
       } ],
       "embeds" : [ {
-        "title" : "2Doc",
-        "description" : "Tania Kross maakte snel furore als zangeres in de wereld van de opera en de klassieke muziek. Door haar stralende aanwezigheid en toegankelijke manier van praten is zij een graag geziene gast op televisie en daarmee een in de klassieke muziek zeldzame BN'er. Maar Tania wil meer, veel meer dan zingen alleen. Ze treedt buiten de paden van de klassieke muziek en produceert een eigen cd. Ze zingt bij een kinderconcert of voor de koningin. En bovenal: zij wil iets betekenen voor haar geliefde geboorte-eiland Curaçao, en initieert daarom de eerste papiamentstalige opera, Katibu di Shon, een groot project waar ze zich met hart en ziel aan verbindt. En tussen al deze projecten door bevalt ze van haar tweede kind. Ze doet alles op haar manier en voorwaarden. Zoals ze zelf zegt: 'Ik wil alles'. Kan ze tegelijkertijd de perfecte moeder zijn en haar muzikale en andere dromen verwezenlijken? Lukt het haar alle ballen in de lucht te houden? Barbara Makkinga reist met Tania Kross tussen polder en tropen en kijkt achter de aanstekelijke lach van de Antilliaanse mezzosopraan.",
+        "title" : "Vrije geluiden",
+        "description" : "Mexicaanse Mariachi muziek door de band Tierra Caliente. Sinds 1986 betovert de band het publiek met de warme klankkleur van trompetten, violen en gitaren. Ze zijn gekleed in imponerende zwarte, met zilverwerk versierde kostuums en het is al feest zonder dat er ook maar een noot geklonken heeft!  De muziek van Bach kent vele aanbidders en daaronder vele instrumentalisten die vinden dat zijn muziek ook goed gedijd op het instrument waar Bach het niet voor bedoelde of zelfs niet eens kende. Accordeoniste Marieke Grotenhuis speelt samen met violiste Rosanne Philippens en cellist Sietse Jan Weijnberg o.a. Bachs Contrapunctus no.8. Samen vormen zij het Floridus Trio.  Ngoni Ba met de Malinese ngoni-virtuoos Bassekou Kouyaté. Bassekou verheft op zijn nieuwste album Jama Ko zijn stem tegen de radicale islamieten. Hij en zijn bandleden bespelen o.a. vier ngonis, de traditionele harpluiten, die allen een andere stemming hebben, van bas tot hoog. De ngoni is de oudste versie van de huidige banjo. Ngoni Ba staat centraal op het 25e Afrikafestival Hertme. Een gesprek met oprichter en programmamaker Rob Lokin.  Presentatie: Melchior Huurdeman.",
         "media" : {
           "objectType" : "program",
-          "mid" : "NPS_1242301",
-          "creationDate" : 1393566643805,
-          "lastModified" : 1407999141666,
-          "hasSubtitles" : true,
-          "sortDate" : 1395690900000,
-          "urn" : "urn:vpro:media:program:37925910",
+          "mid" : "VPWON_1188083",
+          "creationDate" : 1369284550249,
+          "lastModified" : 1374503826309,
+          "sortDate" : 1371371400000,
+          "urn" : "urn:vpro:media:program:25905587",
           "embeddable" : true,
-          "broadcasters" : [ {
-            "id" : "NTR",
-            "value" : "NTR"
+          "episodeOf" : [ {
+            "midRef" : "VPWON_1188063",
+            "urnRef" : "urn:vpro:media:group:17331500",
+            "type" : "SEASON",
+            "index" : 20,
+            "highlighted" : false,
+            "added" : 1369284550418
+          }, {
+            "midRef" : "AUTO_VRIJEGELUIDEN",
+            "urnRef" : "urn:vpro:media:group:18190007",
+            "type" : "SEASON",
+            "index" : 213,
+            "highlighted" : false,
+            "added" : 1371407642171
           } ],
-          "regions" : [ "NL" ],
+          "crids" : [ "crid://tmp.program.omroep.nl/15708503" ],
+          "broadcasters" : [ {
+            "id" : "VPRO",
+            "value" : "VPRO"
+          } ],
           "titles" : [ {
-            "value" : "2Doc",
-            "owner" : "BROADCASTER",
+            "value" : "Vrije geluiden",
+            "owner" : "NEBO",
             "type" : "MAIN"
           }, {
-            "value" : "2doc: Tania Kross - Ik wil alles",
+            "value" : "Vrije geluiden",
             "owner" : "MIS",
             "type" : "MAIN"
           }, {
-            "value" : "2doc: Tania Kross - Ik wil alles",
+            "value" : "Vrije Geluiden",
             "owner" : "WHATS_ON",
             "type" : "MAIN"
           }, {
-            "value" : "Tania Kross - Ik wil alles",
-            "owner" : "BROADCASTER",
-            "type" : "SUB"
-          }, {
-            "value" : "TANIA KROSS - IK WIL ALLES",
+            "value" : "Vrije Geluiden",
             "owner" : "WHATS_ON",
             "type" : "ORIGINAL"
           } ],
           "descriptions" : [ {
-            "value" : "Tania Kross maakte snel furore als zangeres in de wereld van de opera en de klassieke muziek. Door haar stralende aanwezigheid en toegankelijke manier van praten is zij een graag geziene gast op televisie en daarmee een in de klassieke muziek zeldzame BN'er. Maar Tania wil meer, veel meer dan zingen alleen. Ze treedt buiten de paden van de klassieke muziek en produceert een eigen cd. Ze zingt bij een kinderconcert of voor de koningin. En bovenal: zij wil iets betekenen voor haar geliefde geboorte-eiland Curaçao, en initieert daarom de eerste papiamentstalige opera, Katibu di Shon, een groot project waar ze zich met hart en ziel aan verbindt. En tussen al deze projecten door bevalt ze van haar tweede kind. Ze doet alles op haar manier en voorwaarden. Zoals ze zelf zegt: 'Ik wil alles'. Kan ze tegelijkertijd de perfecte moeder zijn en haar muzikale en andere dromen verwezenlijken? Lukt het haar alle ballen in de lucht te houden? Barbara Makkinga reist met Tania Kross tussen polder en tropen en kijkt achter de aanstekelijke lach van de Antilliaanse mezzosopraan.",
-            "owner" : "MIS",
-            "type" : "MAIN"
-          }, {
-            "value" : "Tania Kross maakte snel furore als zangeres in de wereld van de opera en de klassieke muziek. Door haar stralende aanwezigheid en toegankelijke manier van praten is zij een graag geziene gast op televisie en daarmee een in de klassieke muziek zeldzame BN'er. Maar Tania wil meer, veel meer dan zingen alleen. Ze treedt buiten de paden van de klassieke muziek en produceert een eigen cd. Ze zingt bij een kinderconcert of voor de Koningin. En bovenal: zij wil iets betekenen voor haar geliefde geboorte-eiland Curaçao, en initieert daarom de eerste Papiaments-talige opera, Katibu di Shon, een groot project waar ze zich met hart en ziel aan verbindt. En tussen al deze projecten door bevalt ze van haar tweede kind. Ze doet alles op haar manier en voorwaarden. Zoals ze zelf zegt: \"Ik wil alles\". Kan ze tegelijkertijd de perfecte moeder zijn en haar muzikale en andere dromen verwezenlijken? Lukt het haar alle ballen in de lucht te houden? Barbara Makkinga reist met Tania Kross tussen polder en tropen en kijkt achter de aanstekelijke lach van de Antilliaanse mezzosopraan.",
+            "value" : "Mexicaanse Mariachi muziek door de band Tierra Caliente. Sinds 1986 betovert de band het publiek met de warme klankkleur van trompetten, violen en gitaren. Ze zijn gekleed in imponerende zwarte, met zilverwerk versierde kostuums en het is al feest zonder dat er ook maar een noot geklonken heeft!  De muziek van Bach kent vele aanbidders en daaronder vele instrumentalisten die vinden dat zijn muziek ook goed gedijd op het instrument waar Bach het niet voor bedoelde of zelfs niet eens kende. Accordeoniste Marieke Grotenhuis speelt samen met violiste Rosanne Philippens en cellist Sietse Jan Weijnberg o.a. Bachs Contrapunctus no.8. Samen vormen zij het Floridus Trio.  Ngoni Ba met de Malinese ngoni-virtuoos Bassekou Kouyaté. Bassekou verheft op zijn nieuwste album Jama Ko zijn stem tegen de radicale islamieten. Hij en zijn bandleden bespelen o.a. vier ngonis, de traditionele harpluiten, die allen een andere stemming hebben, van bas tot hoog. De ngoni is de oudste versie van de huidige banjo. Ngoni Ba staat centraal op het 25e Afrikafestival Hertme. Een gesprek met oprichter en programmamaker Rob Lokin.  Presentatie: Melchior Huurdeman.",
             "owner" : "WHATS_ON",
             "type" : "MAIN"
           }, {
-            "value" : "Barbara Makkinga reist met Tania Kross tussen polder en tropen en kijkt achter de aanstekelijke lach van de Antilliaanse mezzosopraan.",
+            "value" : "Mexicaanse Mariachi muziek door de band Tierra Caliente. Sinds 1986 betovert de band het publiek met de warme klankkleur van trompetten, violen en gitaren.",
             "owner" : "MIS",
             "type" : "SHORT"
+          }, {
+            "value" : "Mexicaanse Mariachi muziek door de band Tierra Caliente. Sinds 1986 betovert de band het publiek met de warme klankkleur van trompetten, violen en gitaren. Ze zijn gekleed in imponerende zwarte, met zilverwerk versierde kostuums en het is al feest zonder dat er ook maar een noot geklonken heeft! De muziek van Bach kent vele aanbidders en daaronder vele instrumentalisten die vinden dat zijn muziek ook goed gedijd op het instrument waar Bach het niet voor bedoelde of zelfs niet eens kende. Accordeoniste Marieke Grotenhuis speelt samen met violiste Rosanne Philippens en cellist Sietse Jan Weijnberg o.a. Bachs Contrapunctus nr. 8. Samen vormen zij het Floridus Trio. Ngoni Ba met de Malinese ngoni-virtuoos Bassekou Kouyaté. Bassekou verheft op zijn nieuwste album Jama Ko zijn stem tegen de radicale islamieten. Hij en zijn bandleden bespelen o.a. vier ngonis, de traditionele harpluiten, die allen een andere stemming hebben, van bas tot hoog. De ngoni is de oudste versie van de huidige banjo. Ngoni Ba staat centraal op het 25e Afrikafestival Hertme. Een gesprek met oprichter en programmamaker Rob Lokin.",
+            "owner" : "MIS",
+            "type" : "EPISODE"
           } ],
           "genres" : [ {
-            "id" : "3.0.1.8",
-            "terms" : [ "Documentaire" ]
+            "id" : "3.0.1.5",
+            "terms" : [ "Muziek" ]
           } ],
-          "tags" : [ "klassieke muziek", "opera", "tania kross", "zangeres" ],
+          "tags" : [ "Afrika Festival Hertme", "Bassekou Kouyaté & Ngoni Ba", "Floridus Trio", "Johann Sebastian Bach", "klassieke muziek", "Mariachi", "Muziek", "Rob Lokin", "Tierra Caliente", "Vrije Geluiden" ],
           "countries" : [ ],
           "languages" : [ {
             "code" : "nl",
@@ -367,110 +373,147 @@
               "color" : "BLACK_AND_WHITE_AND_COLOR",
               "aspectRatio" : "16:9"
             },
-            "audioAttributes" : { }
+            "audioAttributes" : {
+              "numberOfChannels" : 2
+            }
           },
-          "duration" : 3360000,
+          "duration" : 3000000,
           "descendantOf" : [ {
             "midRef" : "POMS_S_VPRO_171668",
             "urnRef" : "urn:vpro:media:group:14683553",
             "type" : "ARCHIVE"
           }, {
-            "midRef" : "POMS_S_VPRO_170138",
-            "urnRef" : "urn:vpro:media:group:14921822",
-            "type" : "ARCHIVE"
-          }, {
             "midRef" : "POMS_S_VPRO_170117",
             "urnRef" : "urn:vpro:media:group:14921910",
             "type" : "ARCHIVE"
           }, {
-            "midRef" : "POMS_S_VPRO_478241",
-            "urnRef" : "urn:vpro:media:group:36564324",
-            "type" : "PLAYLIST"
+            "midRef" : "VPWON_1188063",
+            "urnRef" : "urn:vpro:media:group:17331500",
+            "type" : "SEASON"
           }, {
-            "midRef" : "POMS_S_VPRO_084025",
-            "urnRef" : "urn:vpro:media:group:72670",
+            "midRef" : "AUTO_VRIJEGELUIDEN",
+            "urnRef" : "urn:vpro:media:group:18190007",
+            "type" : "SEASON"
+          }, {
+            "midRef" : "POMS_S_VPRO_083804",
+            "urnRef" : "urn:vpro:media:group:72628",
             "type" : "SERIES"
           } ],
-          "memberOf" : [ {
-            "midRef" : "POMS_S_VPRO_170117",
-            "urnRef" : "urn:vpro:media:group:14921910",
-            "type" : "ARCHIVE",
-            "index" : 346,
-            "highlighted" : false,
-            "added" : 1395140847745
-          }, {
-            "midRef" : "POMS_S_VPRO_478241",
-            "urnRef" : "urn:vpro:media:group:36564324",
-            "type" : "PLAYLIST",
-            "highlighted" : false,
-            "added" : 1395737044211
-          }, {
-            "midRef" : "POMS_S_VPRO_084025",
-            "urnRef" : "urn:vpro:media:group:72670",
-            "type" : "SERIES",
-            "index" : 167,
-            "highlighted" : false,
-            "added" : 1395240426921
-          } ],
           "websites" : [ {
-            "value" : "www.ntr.nl/hetuurvandewolf"
+            "value" : "www.vrijegeluiden.nl"
           } ],
           "predictions" : [ {
             "state" : "REALIZED",
+            "publishStart" : 1371374703000,
             "platform" : "INTERNETVOD"
-          }, {
-            "state" : "REALIZED",
-            "publishStart" : 1395694320000,
-            "publishStop" : 1396381920000,
-            "platform" : "PLUSVOD"
           } ],
           "locations" : [ {
-            "programUrl" : "odip+http://odi.omroep.nl/video/adaptive/NPS_1242301",
+            "programUrl" : "odip+http://odi.omroep.nl/video/adaptive/VPWON_1188083",
             "avAttributes" : {
               "avFileFormat" : "HASP"
             },
-            "creationDate" : 1395696697211,
-            "lastModified" : 1395696697334,
+            "creationDate" : 1371376864592,
+            "lastModified" : 1371376864926,
             "workflow" : "PUBLISHED",
             "owner" : "CERES",
             "platform" : "INTERNETVOD",
-            "urn" : "urn:vpro:media:location:39095397"
+            "urn" : "urn:vpro:media:location:26732463"
           }, {
-            "programUrl" : "odi+http://odi.omroep.nl/video/h264_sb/NPS_1242301",
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_sb/VPWON_1188083",
             "avAttributes" : {
-              "bitrate" : 200000,
-              "avFileFormat" : "H264"
+              "bitrate" : 204800,
+              "avFileFormat" : "MP4",
+              "videoAttributes" : {
+                "videoCoding" : "WM",
+                "aspectRatio" : "16:9"
+              }
             },
-            "creationDate" : 1395694868508,
-            "lastModified" : 1395694868675,
+            "creationDate" : 1371407638438,
+            "lastModified" : 1371407638591,
             "workflow" : "PUBLISHED",
-            "owner" : "CERES",
+            "owner" : "NEBO",
             "platform" : "INTERNETVOD",
-            "urn" : "urn:vpro:media:location:39095329"
+            "urn" : "urn:vpro:media:location:26734337"
           }, {
-            "programUrl" : "odi+http://odi.omroep.nl/video/h264_bb/NPS_1242301",
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_bb/VPWON_1188083",
             "avAttributes" : {
-              "bitrate" : 500000,
-              "avFileFormat" : "H264"
+              "bitrate" : 512000,
+              "avFileFormat" : "MP4",
+              "videoAttributes" : {
+                "videoCoding" : "WM",
+                "aspectRatio" : "16:9"
+              }
             },
-            "creationDate" : 1395694888501,
-            "lastModified" : 1395694888724,
+            "creationDate" : 1371407638438,
+            "lastModified" : 1371407638592,
             "workflow" : "PUBLISHED",
-            "owner" : "CERES",
+            "owner" : "NEBO",
             "platform" : "INTERNETVOD",
-            "urn" : "urn:vpro:media:location:39095331"
+            "urn" : "urn:vpro:media:location:26734340"
           }, {
-            "programUrl" : "odi+http://odi.omroep.nl/video/h264_std/NPS_1242301",
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_std/VPWON_1188083",
             "avAttributes" : {
-              "bitrate" : 1000000,
-              "avFileFormat" : "H264"
+              "bitrate" : 1024000,
+              "avFileFormat" : "MP4",
+              "videoAttributes" : {
+                "videoCoding" : "WM",
+                "aspectRatio" : "16:9"
+              }
             },
-            "creationDate" : 1395695470631,
-            "lastModified" : 1395695470779,
+            "creationDate" : 1371407638438,
+            "lastModified" : 1371407638593,
             "workflow" : "PUBLISHED",
-            "owner" : "CERES",
+            "owner" : "NEBO",
             "platform" : "INTERNETVOD",
-            "urn" : "urn:vpro:media:location:39095358"
+            "urn" : "urn:vpro:media:location:26734343"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/wvc1_std/VPWON_1188083",
+            "avAttributes" : {
+              "bitrate" : 1024000,
+              "avFileFormat" : "WVC1",
+              "videoAttributes" : {
+                "videoCoding" : "WM",
+                "aspectRatio" : "16:9"
+              }
+            },
+            "creationDate" : 1371407638437,
+            "lastModified" : 1371407638595,
+            "workflow" : "PUBLISHED",
+            "owner" : "NEBO",
+            "platform" : "INTERNETVOD",
+            "urn" : "urn:vpro:media:location:26734346"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/wmv_sb/VPWON_1188083",
+            "avAttributes" : {
+              "bitrate" : 204800,
+              "avFileFormat" : "WM",
+              "videoAttributes" : {
+                "videoCoding" : "WM",
+                "aspectRatio" : "16:9"
+              }
+            },
+            "creationDate" : 1371407638438,
+            "lastModified" : 1371407638596,
+            "workflow" : "PUBLISHED",
+            "owner" : "NEBO",
+            "platform" : "INTERNETVOD",
+            "urn" : "urn:vpro:media:location:26734349"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/wmv_bb/VPWON_1188083",
+            "avAttributes" : {
+              "bitrate" : 512000,
+              "avFileFormat" : "WM",
+              "videoAttributes" : {
+                "videoCoding" : "WM",
+                "aspectRatio" : "16:9"
+              }
+            },
+            "creationDate" : 1371407638437,
+            "lastModified" : 1371407638597,
+            "workflow" : "PUBLISHED",
+            "owner" : "NEBO",
+            "platform" : "INTERNETVOD",
+            "urn" : "urn:vpro:media:location:26734352"
           } ],
           "scheduleEvents" : [ {
             "avAttributes" : {
@@ -478,14 +521,15 @@
                 "aspectRatio" : "16:9"
               }
             },
-            "start" : 1395690900000,
-            "offset" : 146000,
-            "duration" : 3900000,
-            "poProgID" : "NPS_1242301",
-            "channel" : "NED2",
-            "imi" : "imi:17536",
-            "urnRef" : "urn:vpro:media:program:37925910",
-            "midRef" : "NPS_1242301"
+            "textSubtitles" : "Teletekst ondertitels",
+            "start" : 1371371400000,
+            "offset" : 113000,
+            "duration" : 3000000,
+            "poProgID" : "VPWON_1188083",
+            "channel" : "NED1",
+            "imi" : "imi:62511",
+            "urnRef" : "urn:vpro:media:program:25905587",
+            "midRef" : "VPWON_1188083"
           }, {
             "repeat" : {
               "isRerun" : true
@@ -495,45 +539,49 @@
                 "aspectRatio" : "16:9"
               }
             },
-            "start" : 1395737700000,
-            "offset" : 15000,
-            "duration" : 3900000,
-            "poProgID" : "NPS_1242301",
-            "channel" : "NED2",
-            "imi" : "imi:18578",
-            "urnRef" : "urn:vpro:media:program:37925910",
-            "midRef" : "NPS_1242301"
-          }, {
-            "repeat" : {
-              "isRerun" : true
-            },
-            "avAttributes" : {
-              "videoAttributes" : {
-                "aspectRatio" : "16:9"
-              }
-            },
-            "start" : 1396081800000,
-            "offset" : 56000,
-            "duration" : 3300000,
-            "poProgID" : "NPS_1242301",
-            "channel" : "NED2",
-            "imi" : "imi:17583",
-            "urnRef" : "urn:vpro:media:program:37925910",
-            "midRef" : "NPS_1242301"
+            "textSubtitles" : "Teletekst ondertitels",
+            "start" : 1371884400000,
+            "offset" : 77000,
+            "duration" : 3000000,
+            "poProgID" : "VPWON_1188083",
+            "channel" : "NED1",
+            "imi" : "imi:62812",
+            "urnRef" : "urn:vpro:media:program:25905587",
+            "midRef" : "VPWON_1188083"
           } ],
           "images" : [ {
-            "title" : "Tania Kross",
-            "description" : "Tania Kross",
-            "imageUri" : "urn:vpro:image:443001",
-            "height" : 310,
-            "width" : 550,
-            "creationDate" : 1395737044187,
-            "lastModified" : 1395737044412,
+            "title" : "Vrije geluiden",
+            "description" : "Mexicaanse Mariachi muziek door de Amsterdamse band Tierra Caliente; Floridus Trio met Bach op viool, cello en accordeon; Afrika Festival Hertme bestaat 25 jaar, Rob Lokin te gast en Bassekou Kouyaté & Ngoni Ba",
+            "imageUri" : "urn:vpro:image:191868",
+            "creationDate" : 1371376814209,
+            "lastModified" : 1371376821091,
             "workflow" : "PUBLISHED",
-            "owner" : "BROADCASTER",
-            "type" : "PICTURE",
+            "owner" : "NEBO",
+            "type" : "STILL",
             "highlighted" : false,
-            "urn" : "urn:vpro:media:image:39123225"
+            "urn" : "urn:vpro:media:image:26732459"
+          }, {
+            "title" : "Vrije geluiden",
+            "description" : "Mexicaanse Mariachi muziek door de Amsterdamse band Tierra Caliente; Floridus Trio met Bach op viool, cello en accordeon; Afrika Festival Hertme bestaat 25 jaar, Rob Lokin te gast en Bassekou Kouyaté & Ngoni Ba",
+            "imageUri" : "urn:vpro:image:191869",
+            "creationDate" : 1371376817546,
+            "lastModified" : 1371376821091,
+            "workflow" : "PUBLISHED",
+            "owner" : "NEBO",
+            "type" : "STILL",
+            "highlighted" : false,
+            "urn" : "urn:vpro:media:image:26732460"
+          }, {
+            "title" : "Vrije geluiden",
+            "description" : "Mexicaanse Mariachi muziek door de Amsterdamse band Tierra Caliente; Floridus Trio met Bach op viool, cello en accordeon; Afrika Festival Hertme bestaat 25 jaar, Rob Lokin te gast en Bassekou Kouyaté & Ngoni Ba",
+            "imageUri" : "urn:vpro:image:191870",
+            "creationDate" : 1371376820918,
+            "lastModified" : 1371376821092,
+            "workflow" : "PUBLISHED",
+            "owner" : "NEBO",
+            "type" : "STILL",
+            "highlighted" : false,
+            "urn" : "urn:vpro:media:image:26732461"
           } ],
           "workflow" : "PUBLISHED",
           "type" : "BROADCAST",
@@ -542,13 +590,13 @@
       } ],
       "images" : [ {
         "type" : "PICTURE",
-        "url" : "http://images.poms.omroep.nl/image/s360/443001.jpg",
-        "title" : "Tania Kross",
-        "description" : "Tania Kross"
+        "url" : "http://images.poms.omroep.nl/image/s360/191868.jpg",
+        "title" : "Vrije geluiden",
+        "description" : "Mexicaanse Mariachi muziek door de Amsterdamse band Tierra Caliente; Floridus Trio met Bach op viool, cello en accordeon; Afrika Festival Hertme bestaat 25 jaar, Rob Lokin te gast en Bassekou Kouyaté & Ngoni Ba"
       } ],
-      "publishStart" : 1395690900000,
-      "creationDate" : 1411391969471,
-      "lastModified" : 1411396426045,
+      "publishStart" : 1371371400000,
+      "creationDate" : 1411384763945,
+      "lastModified" : 1414463860852,
       "refCount" : 0
     }
   } ]

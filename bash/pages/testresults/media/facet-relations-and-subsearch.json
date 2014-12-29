@@ -1,13 +1,101 @@
 {
   "facets" : { },
   "selectedFacets" : { },
-  "mediaFacets" : { },
+  "mediaFacets" : {
+    "relations" : [ {
+      "name" : "labels",
+      "facet" : [ {
+        "count" : 464,
+        "id" : "Eigen Beheer",
+        "value" : "Eigen Beheer"
+      }, {
+        "count" : 242,
+        "id" : "Cooperative Music",
+        "value" : "Cooperative Music"
+      }, {
+        "count" : 240,
+        "id" : "PIAS",
+        "value" : "PIAS"
+      }, {
+        "count" : 226,
+        "id" : "Asthmatic Kitty/Konkurrent",
+        "value" : "Asthmatic Kitty/Konkurrent"
+      }, {
+        "count" : 127,
+        "id" : "Mute/PIAS",
+        "value" : "Mute/PIAS"
+      }, {
+        "count" : 94,
+        "id" : "Columbia/Sony",
+        "value" : "Columbia/Sony"
+      }, {
+        "count" : 78,
+        "id" : "Excelsior Recordings",
+        "value" : "Excelsior Recordings"
+      }, {
+        "count" : 55,
+        "id" : "V2 Records",
+        "value" : "V2 Records"
+      }, {
+        "count" : 47,
+        "id" : "Suburban",
+        "value" : "Suburban"
+      }, {
+        "count" : 43,
+        "id" : "Sub Pop/Konkurrent",
+        "value" : "Sub Pop/Konkurrent"
+      } ]
+    }, {
+      "name" : "artiesten",
+      "facet" : [ {
+        "count" : 657,
+        "id" : "Diverse Artiesten",
+        "value" : "Diverse Artiesten"
+      }, {
+        "count" : 226,
+        "id" : "Sufjan Stevens",
+        "value" : "Sufjan Stevens"
+      }, {
+        "count" : 103,
+        "id" : "Diverse artiesten",
+        "value" : "Diverse artiesten"
+      }, {
+        "count" : 60,
+        "id" : "Steve Mason",
+        "value" : "Steve Mason"
+      }, {
+        "count" : 52,
+        "id" : "Joost van Bellen",
+        "value" : "Joost van Bellen"
+      }, {
+        "count" : 45,
+        "id" : "Various Artists",
+        "value" : "Various Artists"
+      }, {
+        "count" : 26,
+        "id" : "Melon",
+        "value" : "Melon"
+      }, {
+        "count" : 24,
+        "id" : "Promo",
+        "value" : "Promo"
+      }, {
+        "count" : 23,
+        "id" : "Dick Brave & The Backbeats",
+        "value" : "Dick Brave & The Backbeats"
+      }, {
+        "count" : 23,
+        "id" : "Kaiser Chiefs",
+        "value" : "Kaiser Chiefs"
+      } ]
+    } ]
+  },
   "mediaSelectedFacets" : { },
   "total" : 91282,
   "offset" : 0,
   "max" : 2,
   "items" : [ {
-    "score" : 7.4953566,
+    "score" : 7.495356,
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",
@@ -76,7 +164,7 @@
       "refCount" : 0
     }
   }, {
-    "score" : 7.4953566,
+    "score" : 7.495356,
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",

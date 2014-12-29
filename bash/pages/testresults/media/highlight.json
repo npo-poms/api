@@ -5,7 +5,7 @@
   "offset" : 0,
   "max" : 2,
   "items" : [ {
-    "score" : 5.1469607,
+    "score" : 5.4843893,
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",
@@ -111,14 +111,14 @@
       "refCount" : 0
     }
   }, {
-    "score" : 1.7007753,
+    "score" : 1.764094,
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",
       "type" : "PLAYER",
-      "url" : "http://human.localhost/speel.POMS_VPRO_1224859.html",
+      "url" : "http://www-test.vpro.nl/speel.POMS_VPRO_1224859.html",
       "sortDate" : 1335608100000,
-      "crids" : [ "crid://vpro/media/human/POMS_VPRO_1224859" ],
+      "crids" : [ "crid://vpro/media/vpro/POMS_VPRO_1224859" ],
       "broadcasters" : [ {
         "id" : "VPRO",
         "value" : "VPRO"
@@ -130,9 +130,9 @@
         "value" : "VARA"
       } ],
       "portal" : {
-        "id" : "HUMANNL",
-        "url" : "http://human.localhost",
-        "value" : "Human.nl"
+        "id" : "VPRONL",
+        "url" : "http://www-test.vpro.nl",
+        "value" : "VPRO.nl"
       },
       "title" : "Argos",
       "embeds" : [ {
@@ -347,8 +347,8 @@
         "description" : "Argos"
       } ],
       "publishStart" : 1335608100000,
-      "creationDate" : 1407961588532,
-      "lastModified" : 1411147979376,
+      "creationDate" : 1411409608334,
+      "lastModified" : 1411409608598,
       "refCount" : 0
     }
   } ]

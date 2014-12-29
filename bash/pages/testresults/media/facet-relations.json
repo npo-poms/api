@@ -1,13 +1,47 @@
 {
   "facets" : { },
   "selectedFacets" : { },
-  "mediaFacets" : { },
-  "mediaSelectedFacets" : { },
+  "mediaFacets" : {
+    "relations" : [ {
+      "name" : "labels",
+      "facet" : [ {
+        "count" : 12,
+        "id" : "V2",
+        "value" : "V2"
+      }, {
+        "count" : 12,
+        "id" : "V2 Records",
+        "value" : "V2 Records"
+      } ]
+    }, {
+      "name" : "artiesten",
+      "facet" : [ {
+        "count" : 32,
+        "selected" : true,
+        "id" : "Blaudzun",
+        "value" : "Blaudzun"
+      } ]
+    } ]
+  },
+  "mediaSelectedFacets" : {
+    "relations" : [ {
+      "name" : "labels",
+      "facet" : [ ]
+    }, {
+      "name" : "artiesten",
+      "facet" : [ {
+        "count" : 32,
+        "selected" : true,
+        "id" : "Blaudzun",
+        "value" : "Blaudzun"
+      } ]
+    } ]
+  },
   "total" : 32,
   "offset" : 0,
   "max" : 2,
   "items" : [ {
-    "score" : 6.773236,
+    "score" : 6.7554116,
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",
@@ -112,7 +146,7 @@
       "refCount" : 0
     }
   }, {
-    "score" : 6.7262206,
+    "score" : 6.7085204,
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",

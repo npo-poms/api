@@ -5,14 +5,14 @@
   "offset" : 0,
   "max" : 2,
   "items" : [ {
-    "score" : 8.686622,
+    "score" : 8.577692,
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",
       "type" : "PLAYER",
-      "url" : "http://www-test.cultura.nl/speel.BNN_101360416.html",
-      "sortDate" : 1398540600000,
-      "crids" : [ "crid://vpro/media/cultura/BNN_101360416" ],
+      "url" : "http://www-test.cultura.nl/speel.BNN_101353910.html",
+      "sortDate" : 1397331000000,
+      "crids" : [ "crid://vpro/media/cultura/BNN_101353910" ],
       "broadcasters" : [ {
         "id" : "BNN",
         "value" : "BNN"
@@ -22,65 +22,55 @@
         "url" : "http://www-test.cultura.nl",
         "value" : "NPO Cultura"
       },
-      "title" : "Joanna Lumley meets will.i.am",
+      "title" : "3Doc: Rihanna 777",
+      "genres" : [ {
+        "id" : "3.0.3.4",
+        "terms" : [ "Pop/jazz/world" ],
+        "displayName" : "Pop/jazz/world"
+      } ],
       "embeds" : [ {
-        "title" : "Joanna Lumley meets will.i.am",
-        "description" : "Joanna Lumley is op een missie om de geheimzinnige en excentrieke frontman van de Black Eyed Peace, will.i.am, te leren kennen. Hiervoor reist ze af naar Los Angeles waar ze tijd de producer, muzikant en jurylid van The Voice UK doorbrengt. Hier ontmoet ze tijdens een familiediner zijn moeder die haar meer vertelt over will.i.am zijn jeugd. We leren hoe de drukke jongen aan de achterbuurt van zijn jeugd wist te ontsnappen. Een wereldwijd succes wist te behalen. En inmiddels zelfs bevriend is met president Obama. Joanna ontmoet de echte will.i.am die gefascineerd is door nu de toekomst te creëren en zijn fans iets terug te geven. Ze wordt meegesleept in zijn hectische wereld en weet uiteindelijk wat will.i.am's hart sneller doet kloppen.",
+        "title" : "3Doc: Rihanna 777",
+        "description" : "Een kijkje voor en achter de schermen van Rihanna's tour waarmee ze haar zevende album 'Unapologetic' promootte. In 7 dagen doet ze 7 steden aan waar ze met haar eigen Boeing 777 vol crew, journalisten en fans naartoe vloog. Van Berlijn tot New York, in elke stad horen we een ander nummer van het nieuwe album en volgen we haar entourage tijdens de gekte van deze tour.",
         "media" : {
           "objectType" : "program",
-          "mid" : "BNN_101360416",
-          "creationDate" : 1396587043819,
-          "lastModified" : 1398954928786,
-          "sortDate" : 1398540600000,
-          "urn" : "urn:vpro:media:program:39651829",
+          "mid" : "BNN_101353910",
+          "creationDate" : 1395294657116,
+          "lastModified" : 1397658567953,
+          "sortDate" : 1397331000000,
+          "urn" : "urn:vpro:media:program:38925813",
           "embeddable" : true,
           "broadcasters" : [ {
             "id" : "BNN",
             "value" : "BNN"
           } ],
+          "regions" : [ "NL" ],
           "titles" : [ {
-            "value" : "Joanna Lumley meets will.i.am",
-            "owner" : "BROADCASTER",
-            "type" : "MAIN"
-          }, {
-            "value" : "Joanna Lumley meets Will.i.am",
+            "value" : "3Doc: Rihanna 777",
             "owner" : "MIS",
             "type" : "MAIN"
           }, {
-            "value" : "Joanna Lumley meets Will.i.am",
+            "value" : "3Doc Rihanna 777",
             "owner" : "WHATS_ON",
             "type" : "MAIN"
           }, {
-            "value" : "Joanna Lumley meets will.i.am",
-            "owner" : "BROADCASTER",
-            "type" : "ORIGINAL"
-          }, {
-            "value" : "Joanna Lumley meets Will.i.am",
+            "value" : "3Doc Rihanna 777",
             "owner" : "WHATS_ON",
             "type" : "ORIGINAL"
           } ],
           "descriptions" : [ {
-            "value" : "Joanna Lumley is op een missie om de geheimzinnige en excentrieke frontman van de Black Eyed Peace, will.i.am, te leren kennen. Hiervoor reist ze af naar Los Angeles waar ze tijd de producer, muzikant en jurylid van The Voice UK doorbrengt. Hier ontmoet ze tijdens een familiediner zijn moeder die haar meer vertelt over will.i.am zijn jeugd. We leren hoe de drukke jongen aan de achterbuurt van zijn jeugd wist te ontsnappen. Een wereldwijd succes wist te behalen. En inmiddels zelfs bevriend is met president Obama. Joanna ontmoet de echte will.i.am die gefascineerd is door nu de toekomst te creëren en zijn fans iets terug te geven. Ze wordt meegesleept in zijn hectische wereld en weet uiteindelijk wat will.i.am's hart sneller doet kloppen.",
-            "owner" : "BROADCASTER",
-            "type" : "MAIN"
-          }, {
-            "value" : "Joanna Lumley is op een missie om de geheimzinnige en exentrieke frontman van de Black Eyed Peace, Will.i.am, te leren kennen. Hiervoor reist ze af naar Los Angeles waar ze tijd de producer, muzikant en jurylid van The Voice UK door brengt. Hier ontmoet ze tijdens een familie diner zijn moeder die haar meer verteld over Will.i.am zijn jeugd. We leren hoe de drukke jongen zich aan de achterbuurt van zijn jeugd wist te ontsnappen en wereldwijd succes wist te behalen, en inmiddels zelfs bevriend is met president Obama. Joanna ontmoet de echte Will.i.am die gefascineerd is door nu de toekomst te creëren en zijn fans iets terug te geven. Ze wordt meegesleept in zijn hectische wereld en weet uiteindelijk wat Will.i.am's hart sneller doet kloppen.",
+            "value" : "Een kijkje voor en achter de schermen van Rihanna's tour waarmee ze haar zevende album 'Unapologetic' promootte. In 7 dagen doet ze 7 steden aan waar ze met haar eigen Boeing 777 vol crew, journalisten en fans naartoe vloog. Van Berlijn tot New York, in elke stad horen we een ander nummer van het nieuwe album en volgen we haar entourage tijdens de gekte van deze tour.",
             "owner" : "MIS",
             "type" : "MAIN"
           }, {
-            "value" : "Joanna Lumley is op een missie om de geheimzinnige en exentrieke frontman van de Black Eyed Peace, Will.I.Am, te leren kennen. Hiervoor reist ze af naar Los Angeles waar ze tijd de producer, muzikant en jurylid van The Voice UK door brengt. Hier ontmoet ze tijdens een familie diner zijn moeder die haar meer verteld over Will.I.Am zijn jeugd. We leren hoe de drukke jongen zich aan de achterbuurt van zijn jeugd wist te ontsnappen en wereldwijd succes wist te behalen, en inmiddels zelfs bevriend is met president Obama. Joanna ontmoet de echte Will.I.Am die gefascineerd is door nu de toekomst te creëren en zijn fans iets terug te geven. Ze wordt meegesleept in zijn hectische wereld en weet uiteindelijk wat Will.I.Am?s hart sneller doet kloppen.",
+            "value" : "Deze documentaire geeft je een kijkje voor en achter de schermen van Rihanna's tour waarmee ze haar zevende album 'Unapologetic' promootte. In 7 dagen doet ze 7 steden aan waar ze met haar eigen Boeing 777 vol crew, journalisten en fans naartoe vloog. Van Berlijn tot New York, in elke stad horen we een ander nummer van het nieuwe album en volgen we haar entourage tijdens de gekte van deze tour.",
             "owner" : "WHATS_ON",
             "type" : "MAIN"
           }, {
-            "value" : "Joanna Lumley is op een missie om de geheimzinnige en excentrieke frontman van de Black Eyed Peace, will.i.am, te leren kennen.",
-            "owner" : "BROADCASTER",
-            "type" : "SHORT"
-          }, {
-            "value" : "Joanna Lumley is op een missie om de geheimzinnige en exentrieke frontman van de Black Eyed Peace, Will.i.am, te leren kennen.",
+            "value" : "Een kijkje voor en achter de schermen van Rihanna's tour waarmee ze haar zevende album 'Unapologetic' promootte. In 7 dagen deed ze 7 steden aan waar ze met haar eigen Boeing 777 naartoe vloog.",
             "owner" : "MIS",
             "type" : "SHORT"
           }, {
-            "value" : "Joanna Lumley is op een missie om de geheimzinnige en exentrieke frontman van de Black Eyed Peace, Will.I.Am, te leren k",
+            "value" : "Deze documentaire geeft je een kijkje voor en achter de schermen van Rihanna's tour waarmee ze haar zevende album 'Unapo",
             "owner" : "WHATS_ON",
             "type" : "SHORT"
           } ],
@@ -97,10 +87,14 @@
             "value" : "Nederlands"
           } ],
           "avAttributes" : {
-            "videoAttributes" : { },
-            "audioAttributes" : { }
+            "videoAttributes" : {
+              "color" : "BLACK_AND_WHITE_AND_COLOR"
+            },
+            "audioAttributes" : {
+              "numberOfChannels" : 2
+            }
           },
-          "duration" : 3900000,
+          "duration" : 3000000,
           "descendantOf" : [ {
             "midRef" : "POMS_S_VPRO_171668",
             "urnRef" : "urn:vpro:media:group:14683553",
@@ -114,113 +108,139 @@
             "urnRef" : "urn:vpro:media:group:20347947",
             "type" : "PLAYLIST"
           }, {
-            "midRef" : "POMS_S_BNN_520040",
-            "urnRef" : "urn:vpro:media:group:40654137",
-            "type" : "SERIES"
-          }, {
-            "midRef" : "POMS_S_BNN_520041",
-            "urnRef" : "urn:vpro:media:group:40654142",
+            "midRef" : "AUTO_DOCRIHANNA",
+            "urnRef" : "urn:vpro:media:group:26984725",
             "type" : "SEASON"
+          }, {
+            "midRef" : "POMS_S_BNN_373606",
+            "urnRef" : "urn:vpro:media:group:26984730",
+            "type" : "SERIES"
           } ],
           "memberOf" : [ {
             "midRef" : "POMS_S_VPRO_218686",
             "urnRef" : "urn:vpro:media:group:14921825",
             "type" : "ARCHIVE",
-            "index" : 572,
+            "index" : 551,
             "highlighted" : false,
-            "added" : 1398166645409
+            "added" : 1396948566726
           }, {
-            "midRef" : "POMS_S_BNN_520041",
-            "urnRef" : "urn:vpro:media:group:40654142",
+            "midRef" : "AUTO_DOCRIHANNA",
+            "urnRef" : "urn:vpro:media:group:26984725",
             "type" : "SEASON",
             "index" : 1,
             "highlighted" : false,
-            "added" : 1398345175696
+            "added" : 1397208771664
           } ],
           "predictions" : [ {
             "state" : "REALIZED",
+            "publishStart" : 1397333400000,
+            "publishStop" : 1399839000000,
             "platform" : "INTERNETVOD"
           }, {
             "state" : "REALIZED",
-            "publishStart" : 1398544191000,
-            "publishStop" : 1430166591000,
+            "publishStart" : 1397330880000,
+            "publishStop" : 1428866940000,
             "platform" : "PLUSVOD"
           } ],
           "locations" : [ {
-            "programUrl" : "odi+http://odi.omroep.nl/video/h264_sb/BNN_101360416",
-            "avAttributes" : {
-              "bitrate" : 200000,
-              "avFileFormat" : "H264"
-            },
-            "creationDate" : 1398545172426,
-            "lastModified" : 1398545172651,
-            "workflow" : "PUBLISHED",
-            "owner" : "CERES",
-            "platform" : "INTERNETVOD",
-            "urn" : "urn:vpro:media:location:40748281"
-          }, {
-            "programUrl" : "sub+http//npoplus.nl/video/mpeg2_hr/BNN_101360416",
+            "programUrl" : "sub+http//npoplus.nl/video/mpeg2_hr/BNN_101353910",
             "avAttributes" : {
               "bitrate" : 3500000,
               "avFileFormat" : "MPEG2"
             },
-            "creationDate" : 1398545172655,
-            "lastModified" : 1398545172914,
-            "publishStart" : 1398544191000,
-            "publishStop" : 1430166591000,
+            "creationDate" : 1397334069301,
+            "lastModified" : 1397334069502,
+            "publishStart" : 1397330880000,
+            "publishStop" : 1428866940000,
             "workflow" : "PUBLISHED",
             "owner" : "CERES",
             "platform" : "PLUSVOD",
-            "urn" : "urn:vpro:media:location:40748283"
+            "urn" : "urn:vpro:media:location:40059050"
           } ],
           "scheduleEvents" : [ {
+            "repeat" : {
+              "value" : "22-3-2013",
+              "isRerun" : true
+            },
             "memberOf" : "crid://bds.tv/17400359",
             "avAttributes" : {
               "videoAttributes" : { }
             },
-            "textSubtitles" : "Teletekst ondertitels",
-            "start" : 1398540600000,
-            "offset" : 138000,
-            "duration" : 3900000,
-            "poProgID" : "BNN_101360416",
+            "start" : 1397331000000,
+            "offset" : 10000,
+            "duration" : 3000000,
+            "poProgID" : "BNN_101353910",
             "channel" : "NED3",
-            "imi" : "imi:7345",
-            "urnRef" : "urn:vpro:media:program:39651829",
-            "midRef" : "BNN_101360416"
+            "imi" : "imi:1085",
+            "urnRef" : "urn:vpro:media:program:38925813",
+            "midRef" : "BNN_101353910"
           } ],
           "images" : [ {
-            "title" : "Joanna Lumley meets will.i.am",
-            "description" : "Joanna Lumley is op een missie om de geheimzinnige en excentrieke frontman van de Black Eyed Peace, will.i.am, te leren kennen.",
-            "imageUri" : "urn:vpro:image:456083",
-            "creationDate" : 1398546017611,
-            "lastModified" : 1398546058901,
+            "title" : "3Doc: Rihanna 777",
+            "description" : "Een kijkje voor en achter de schermen van Rihanna's tour waarmee ze haar zevende album 'Unapologetic' promootte. In 7 dagen deed ze 7 steden aan waar ze met haar eigen Boeing 777 naartoe vloog.",
+            "imageUri" : "urn:vpro:image:450470",
+            "creationDate" : 1397334614832,
+            "lastModified" : 1397334642626,
             "workflow" : "PUBLISHED",
             "owner" : "NEBO",
             "type" : "STILL",
             "highlighted" : false,
-            "urn" : "urn:vpro:media:image:40748311"
+            "urn" : "urn:vpro:media:image:40059054"
           }, {
-            "title" : "Joanna Lumley meets will.i.am",
-            "description" : "Joanna Lumley is op een missie om de geheimzinnige en excentrieke frontman van de Black Eyed Peace, will.i.am, te leren kennen.",
-            "imageUri" : "urn:vpro:image:456084",
-            "creationDate" : 1398546039325,
-            "lastModified" : 1398546058902,
+            "title" : "3Doc: Rihanna 777",
+            "description" : "Een kijkje voor en achter de schermen van Rihanna's tour waarmee ze haar zevende album 'Unapologetic' promootte. In 7 dagen deed ze 7 steden aan waar ze met haar eigen Boeing 777 naartoe vloog.",
+            "imageUri" : "urn:vpro:image:450471",
+            "creationDate" : 1397334628778,
+            "lastModified" : 1397334642626,
             "workflow" : "PUBLISHED",
             "owner" : "NEBO",
             "type" : "STILL",
             "highlighted" : false,
-            "urn" : "urn:vpro:media:image:40748312"
+            "urn" : "urn:vpro:media:image:40059055"
           }, {
-            "title" : "Joanna Lumley meets will.i.am",
-            "description" : "Joanna Lumley is op een missie om de geheimzinnige en excentrieke frontman van de Black Eyed Peace, will.i.am, te leren kennen.",
-            "imageUri" : "urn:vpro:image:456085",
-            "creationDate" : 1398546058355,
-            "lastModified" : 1398546058902,
+            "title" : "3Doc: Rihanna 777",
+            "description" : "Een kijkje voor en achter de schermen van Rihanna's tour waarmee ze haar zevende album 'Unapologetic' promootte. In 7 dagen deed ze 7 steden aan waar ze met haar eigen Boeing 777 naartoe vloog.",
+            "imageUri" : "urn:vpro:image:450472",
+            "creationDate" : 1397334642267,
+            "lastModified" : 1397334642627,
             "workflow" : "PUBLISHED",
             "owner" : "NEBO",
             "type" : "STILL",
             "highlighted" : false,
-            "urn" : "urn:vpro:media:image:40748313"
+            "urn" : "urn:vpro:media:image:40059056"
+          }, {
+            "title" : "3Doc: Rihanna 777",
+            "description" : "Een kijkje voor en achter de schermen van Rihanna's tour waarmee ze haar zevende album 'Unapologetic' promootte. In 7 dagen deed ze 7 steden aan waar ze met haar eigen Boeing 777 naartoe vloog.",
+            "imageUri" : "urn:vpro:image:451087",
+            "creationDate" : 1397477714572,
+            "lastModified" : 1397477747178,
+            "workflow" : "PUBLISHED",
+            "owner" : "NEBO",
+            "type" : "STILL",
+            "highlighted" : false,
+            "urn" : "urn:vpro:media:image:40133032"
+          }, {
+            "title" : "3Doc: Rihanna 777",
+            "description" : "Een kijkje voor en achter de schermen van Rihanna's tour waarmee ze haar zevende album 'Unapologetic' promootte. In 7 dagen deed ze 7 steden aan waar ze met haar eigen Boeing 777 naartoe vloog.",
+            "imageUri" : "urn:vpro:image:451088",
+            "creationDate" : 1397477731935,
+            "lastModified" : 1397477747179,
+            "workflow" : "PUBLISHED",
+            "owner" : "NEBO",
+            "type" : "STILL",
+            "highlighted" : false,
+            "urn" : "urn:vpro:media:image:40133033"
+          }, {
+            "title" : "3Doc: Rihanna 777",
+            "description" : "Een kijkje voor en achter de schermen van Rihanna's tour waarmee ze haar zevende album 'Unapologetic' promootte. In 7 dagen deed ze 7 steden aan waar ze met haar eigen Boeing 777 naartoe vloog.",
+            "imageUri" : "urn:vpro:image:451089",
+            "creationDate" : 1397477746943,
+            "lastModified" : 1397477747179,
+            "workflow" : "PUBLISHED",
+            "owner" : "NEBO",
+            "type" : "STILL",
+            "highlighted" : false,
+            "urn" : "urn:vpro:media:image:40133034"
           } ],
           "workflow" : "PUBLISHED",
           "type" : "BROADCAST",
@@ -229,24 +249,24 @@
       } ],
       "images" : [ {
         "type" : "PICTURE",
-        "url" : "http://images.poms.omroep.nl/image/s360/456083.jpg",
-        "title" : "Joanna Lumley meets will.i.am",
-        "description" : "Joanna Lumley is op een missie om de geheimzinnige en excentrieke frontman van de Black Eyed Peace, will.i.am, te leren kennen."
+        "url" : "http://images.poms.omroep.nl/image/s360/450470.jpg",
+        "title" : "3Doc: Rihanna 777",
+        "description" : "Een kijkje voor en achter de schermen van Rihanna's tour waarmee ze haar zevende album 'Unapologetic' promootte. In 7 dagen deed ze 7 steden aan waar ze met haar eigen Boeing 777 naartoe vloog."
       } ],
-      "publishStart" : 1398540600000,
-      "creationDate" : 1414485640351,
-      "lastModified" : 1414485640360,
+      "publishStart" : 1397331000000,
+      "creationDate" : 1411389884858,
+      "lastModified" : 1411391702599,
       "refCount" : 0
     }
   }, {
-    "score" : 8.6750765,
+    "score" : 8.564262,
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",
       "type" : "PLAYER",
-      "url" : "http://www-test.cultura.nl/speel.POW_00633967.html",
-      "sortDate" : 1392578797000,
-      "crids" : [ "crid://vpro/media/cultura/POW_00633967" ],
+      "url" : "http://www-test.cultura.nl/speel.POW_00633964.html",
+      "sortDate" : 1390764600000,
+      "crids" : [ "crid://vpro/media/cultura/POW_00633964" ],
       "broadcasters" : [ {
         "id" : "BNN",
         "value" : "BNN"
@@ -264,22 +284,22 @@
       } ],
       "embeds" : [ {
         "title" : "Homeland",
-        "description" : "Brody 's loyaliteit aan de missie wankelt, wanneer hij een geest uit het verleden ziet. Saul staart in de afgrond tussen succes en mislukking.",
+        "description" : "Nadat er nieuwe informatie is vrijgekomen over de bomaanslag op Langley, hebben Quinn en Carrie een nieuwe verdachte op het oog. Fara ontdekt dat werken voor de inlichtingendienst zijn tol eist. De Brody familie krijgt geweldig nieuws.",
         "media" : {
           "objectType" : "program",
-          "mid" : "POW_00633967",
-          "creationDate" : 1390456215391,
-          "lastModified" : 1419422246884,
-          "sortDate" : 1392578797000,
-          "urn" : "urn:vpro:media:program:35924420",
+          "mid" : "POW_00633964",
+          "creationDate" : 1388641596045,
+          "lastModified" : 1419422244949,
+          "sortDate" : 1390764600000,
+          "urn" : "urn:vpro:media:program:34883840",
           "embeddable" : true,
           "episodeOf" : [ {
             "midRef" : "POW_00633952",
             "urnRef" : "urn:vpro:media:group:32470230",
             "type" : "SEASON",
-            "index" : 11,
+            "index" : 8,
             "highlighted" : false,
-            "added" : 1390456215519
+            "added" : 1388641596157
           } ],
           "broadcasters" : [ {
             "id" : "BNN",
@@ -290,36 +310,36 @@
             "owner" : "MIS",
             "type" : "MAIN"
           }, {
-            "value" : "Big man in Tehran",
+            "value" : "A Red Wheelbarrow",
             "owner" : "WHATS_ON",
             "type" : "MAIN"
           }, {
-            "value" : "Big man in Tehran",
+            "value" : "A Red Wheelbarrow",
             "owner" : "MIS",
             "type" : "SUB"
           }, {
-            "value" : "Big man in Tehran",
+            "value" : "A Red Wheelbarrow",
             "owner" : "WHATS_ON",
             "type" : "ORIGINAL"
           } ],
           "descriptions" : [ {
-            "value" : "Brody 's loyaliteit aan de missie wankelt, wanneer hij een geest uit het verleden ziet. Saul staart in de afgrond tussen succes en mislukking.",
+            "value" : "Nadat er nieuwe informatie is vrijgekomen over de bomaanslag op Langley, hebben Quinn en Carrie een nieuwe verdachte op het oog. Fara ontdekt dat werken voor de inlichtingendienst zijn tol eist. De Brody familie krijgt geweldig nieuws.",
             "owner" : "WHATS_ON",
             "type" : "MAIN"
           }, {
-            "value" : "Brody's loyaliteit aan de missie wankelt, wanneer hij een geest uit het verleden ziet. Saul staart in de afgrond tussen succes en mislukking.",
+            "value" : "Nadat er nieuwe informatie is vrijgekomen over de bomaanslag op Langley, hebben Quinn en Carrie een nieuwe verdachte op het oog.",
             "owner" : "MIS",
             "type" : "SHORT"
           }, {
-            "value" : "Brody 's loyaliteit aan de missie wankelt, wanneer hij een geest uit het verleden ziet. Saul staart in de afgrond tussen succes en mislukking.",
+            "value" : "Nadat er nieuwe informatie is vrijgekomen over de bomaanslag op Langley, hebben Quinn en Carrie een nieuwe verdachte op het oog.",
             "owner" : "WHATS_ON",
             "type" : "SHORT"
           }, {
-            "value" : "Brody's loyaliteit aan de missie wankelt, als hij een geest uit het verleden ziet. Saul staart in de afgrond tussen succes en mislukking.",
+            "value" : "Nadat er nieuwe informatie is vrijgekomen over de bomaanslag op Langley, hebben Quinn en Carrie een nieuwe verdachte op het oog.",
             "owner" : "MIS",
             "type" : "KICKER"
           }, {
-            "value" : "Brody's loyaliteit aan de missie wankelt, wanneer hij een geest uit het verleden ziet. Saul staart in de afgrond tussen succes en mislukking.",
+            "value" : "Nadat er nieuwe informatie is vrijgekomen over de bomaanslag op Langley, hebben Quinn en Carrie een nieuwe verdachte op het oog. Fara ontdekt dat werken voor de inlichtingendienst zijn tol eist. De Brody-familie krijgt geweldig nieuws.",
             "owner" : "MIS",
             "type" : "EPISODE"
           } ],
@@ -339,7 +359,7 @@
             "audioAttributes" : { }
           },
           "releaseYear" : 2013,
-          "duration" : 3600000,
+          "duration" : 3000000,
           "descendantOf" : [ {
             "midRef" : "POMS_S_VPRO_171668",
             "urnRef" : "urn:vpro:media:group:14683553",
@@ -361,76 +381,129 @@
           "contentRatings" : [ "GEWELD", "ANGST", "GROF_TAALGEBRUIK" ],
           "predictions" : [ {
             "state" : "REALIZED",
-            "publishStart" : 1392581885000,
-            "publishStop" : 1424204285000,
+            "publishStart" : 1390767105000,
+            "publishStop" : 1422389505000,
             "platform" : "PLUSVOD"
           } ],
           "locations" : [ {
-            "programUrl" : "sub+http//npoplus.nl/video/mpeg2_hr/POW_00633967",
+            "programUrl" : "odip+http://odi.omroep.nl/video/adaptive/POW_00633964",
+            "avAttributes" : {
+              "avFileFormat" : "HASP"
+            },
+            "creationDate" : 1390768863704,
+            "lastModified" : 1390768863860,
+            "workflow" : "PUBLISHED",
+            "owner" : "CERES",
+            "platform" : "INTERNETVOD",
+            "urn" : "urn:vpro:media:location:36072245"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_sb/POW_00633964",
+            "avAttributes" : {
+              "bitrate" : 200000,
+              "avFileFormat" : "H264"
+            },
+            "creationDate" : 1390767370876,
+            "lastModified" : 1390767371040,
+            "workflow" : "PUBLISHED",
+            "owner" : "CERES",
+            "platform" : "INTERNETVOD",
+            "urn" : "urn:vpro:media:location:36072206"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_bb/POW_00633964",
+            "avAttributes" : {
+              "bitrate" : 500000,
+              "avFileFormat" : "H264"
+            },
+            "creationDate" : 1390767371372,
+            "lastModified" : 1390767371592,
+            "workflow" : "PUBLISHED",
+            "owner" : "CERES",
+            "platform" : "INTERNETVOD",
+            "urn" : "urn:vpro:media:location:36072208"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_std/POW_00633964",
+            "avAttributes" : {
+              "bitrate" : 1000000,
+              "avFileFormat" : "H264"
+            },
+            "creationDate" : 1390767970474,
+            "lastModified" : 1390767970727,
+            "workflow" : "PUBLISHED",
+            "owner" : "CERES",
+            "platform" : "INTERNETVOD",
+            "urn" : "urn:vpro:media:location:36072222"
+          }, {
+            "programUrl" : "sub+http//npoplus.nl/video/mpeg2_hr/POW_00633964",
             "avAttributes" : {
               "bitrate" : 3500000,
               "avFileFormat" : "MPEG2"
             },
-            "creationDate" : 1392582367766,
-            "lastModified" : 1392582367941,
-            "publishStart" : 1392581885000,
-            "publishStop" : 1424204285000,
+            "creationDate" : 1390767672155,
+            "lastModified" : 1390767672299,
+            "publishStart" : 1390767105000,
+            "publishStop" : 1422389505000,
             "workflow" : "PUBLISHED",
             "owner" : "CERES",
             "platform" : "PLUSVOD",
-            "urn" : "urn:vpro:media:location:37151543"
+            "urn" : "urn:vpro:media:location:36072216"
           } ],
           "scheduleEvents" : [ {
-            "start" : 1392578797000,
-            "duration" : 3061000,
-            "poProgID" : "POW_00633967",
+            "memberOf" : "crid://bds.tv/17400359",
+            "avAttributes" : {
+              "videoAttributes" : { }
+            },
+            "start" : 1390764600000,
+            "offset" : -156000,
+            "duration" : 3000000,
+            "poProgID" : "POW_00633964",
             "channel" : "NED3",
             "net" : "NED3",
-            "urnRef" : "urn:vpro:media:program:35924420",
-            "midRef" : "POW_00633967"
+            "imi" : "imi:51075",
+            "urnRef" : "urn:vpro:media:program:34883840",
+            "midRef" : "POW_00633964"
           }, {
-            "start" : 1420337700000,
-            "offset" : -422000,
-            "duration" : 3120000,
-            "poProgID" : "POW_00633967",
+            "start" : 1420329000000,
+            "offset" : -245000,
+            "duration" : 2702000,
+            "poProgID" : "POW_00633964",
             "channel" : "NED3",
             "net" : "NED3",
-            "urnRef" : "urn:vpro:media:program:35924420",
-            "midRef" : "POW_00633967"
+            "urnRef" : "urn:vpro:media:program:34883840",
+            "midRef" : "POW_00633964"
           } ],
           "images" : [ {
             "title" : "Homeland",
-            "description" : "Brody's loyaliteit aan de missie wankelt, wanneer hij een geest uit het verleden ziet. Saul staart in de afgrond tussen succes en mislukking.",
-            "imageUri" : "urn:vpro:image:407861",
-            "creationDate" : 1392583516482,
-            "lastModified" : 1392583549545,
+            "description" : "Nadat er nieuwe informatie is vrijgekomen over de bomaanslag op Langley, hebben Quinn en Carrie een nieuwe verdachte op het oog. Fara ontdekt dat werken voor de inlichtingendienst zijn tol eist.",
+            "imageUri" : "urn:vpro:image:367950",
+            "creationDate" : 1390768215091,
+            "lastModified" : 1390768242548,
             "workflow" : "PUBLISHED",
             "owner" : "NEBO",
             "type" : "STILL",
             "highlighted" : false,
-            "urn" : "urn:vpro:media:image:37151567"
+            "urn" : "urn:vpro:media:image:36072236"
           }, {
             "title" : "Homeland",
-            "description" : "Brody's loyaliteit aan de missie wankelt, wanneer hij een geest uit het verleden ziet. Saul staart in de afgrond tussen succes en mislukking.",
-            "imageUri" : "urn:vpro:image:407862",
-            "creationDate" : 1392583532763,
-            "lastModified" : 1392583549545,
+            "description" : "Nadat er nieuwe informatie is vrijgekomen over de bomaanslag op Langley, hebben Quinn en Carrie een nieuwe verdachte op het oog. Fara ontdekt dat werken voor de inlichtingendienst zijn tol eist.",
+            "imageUri" : "urn:vpro:image:367951",
+            "creationDate" : 1390768228061,
+            "lastModified" : 1390768242548,
             "workflow" : "PUBLISHED",
             "owner" : "NEBO",
             "type" : "STILL",
             "highlighted" : false,
-            "urn" : "urn:vpro:media:image:37151568"
+            "urn" : "urn:vpro:media:image:36072237"
           }, {
             "title" : "Homeland",
-            "description" : "Brody's loyaliteit aan de missie wankelt, wanneer hij een geest uit het verleden ziet. Saul staart in de afgrond tussen succes en mislukking.",
-            "imageUri" : "urn:vpro:image:407863",
-            "creationDate" : 1392583549365,
-            "lastModified" : 1392583549546,
+            "description" : "Nadat er nieuwe informatie is vrijgekomen over de bomaanslag op Langley, hebben Quinn en Carrie een nieuwe verdachte op het oog. Fara ontdekt dat werken voor de inlichtingendienst zijn tol eist.",
+            "imageUri" : "urn:vpro:image:367952",
+            "creationDate" : 1390768242389,
+            "lastModified" : 1390768242549,
             "workflow" : "PUBLISHED",
             "owner" : "NEBO",
             "type" : "STILL",
             "highlighted" : false,
-            "urn" : "urn:vpro:media:image:37151569"
+            "urn" : "urn:vpro:media:image:36072238"
           } ],
           "workflow" : "PUBLISHED",
           "type" : "BROADCAST",
@@ -439,13 +512,13 @@
       } ],
       "images" : [ {
         "type" : "PICTURE",
-        "url" : "http://images.poms.omroep.nl/image/s360/407861.jpg",
+        "url" : "http://images.poms.omroep.nl/image/s360/367950.jpg",
         "title" : "Homeland",
-        "description" : "Brody's loyaliteit aan de missie wankelt, wanneer hij een geest uit het verleden ziet. Saul staart in de afgrond tussen succes en mislukking."
+        "description" : "Nadat er nieuwe informatie is vrijgekomen over de bomaanslag op Langley, hebben Quinn en Carrie een nieuwe verdachte op het oog. Fara ontdekt dat werken voor de inlichtingendienst zijn tol eist."
       } ],
-      "publishStart" : 1392578797000,
-      "creationDate" : 1418919086880,
-      "lastModified" : 1419482685263,
+      "publishStart" : 1390764600000,
+      "creationDate" : 1418919087087,
+      "lastModified" : 1419482685610,
       "refCount" : 0
     }
   } ]
