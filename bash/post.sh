@@ -11,5 +11,5 @@ target="$rs/pages/updates"
 
 echo $target >&2
 
-curl -i -s --insecure --user $user --header "Content-Type: application/xml" --header "Accept: application/json" -X POST --data @$1 \
+curl -i -s --insecure --user $user --header "Content-Type: application/xml" --header "Accept: application/xml" -X POST --data @$1 \
     ${target}
