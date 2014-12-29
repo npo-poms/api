@@ -1,0 +1,529 @@
+{
+  "facets" : {
+    "types" : [ {
+      "count" : 5585,
+      "id" : "ARTICLE",
+      "value" : "Artikel"
+    }, {
+      "count" : 9,
+      "id" : "SPECIAL",
+      "value" : "Special"
+    }, {
+      "count" : 1890,
+      "id" : "PLAYER",
+      "value" : "Speler"
+    }, {
+      "count" : 11,
+      "id" : "HOME",
+      "value" : "Thuis"
+    } ],
+    "keywords" : [ {
+      "count" : 1,
+      "id" : " Henk Brinkhuis",
+      "value" : " Henk Brinkhuis"
+    }, {
+      "count" : 4,
+      "id" : " radio",
+      "value" : " radio"
+    }, {
+      "count" : 2,
+      "id" : "'s Gravesande",
+      "value" : "'s Gravesande"
+    }, {
+      "count" : 1,
+      "id" : "1 maart 2010",
+      "value" : "1 maart 2010"
+    }, {
+      "count" : 1,
+      "id" : "100",
+      "value" : "100"
+    }, {
+      "count" : 1,
+      "id" : "113",
+      "value" : "113"
+    }, {
+      "count" : 1,
+      "id" : "123bakkiebakkiezoiets56",
+      "value" : "123bakkiebakkiezoiets56"
+    }, {
+      "count" : 1,
+      "id" : "1907",
+      "value" : "1907"
+    }, {
+      "count" : 1,
+      "id" : "19e eeuw",
+      "value" : "19e eeuw"
+    }, {
+      "count" : 1,
+      "id" : "22q11syndroom",
+      "value" : "22q11syndroom"
+    }, {
+      "count" : 1,
+      "id" : "24 januari 1597",
+      "value" : "24 januari 1597"
+    }, {
+      "count" : 1,
+      "id" : "24 oktober",
+      "value" : "24 oktober"
+    }, {
+      "count" : 1,
+      "id" : "270 graden onder nul",
+      "value" : "270 graden onder nul"
+    }, {
+      "count" : 1,
+      "id" : "3 seconden",
+      "value" : "3 seconden"
+    }, {
+      "count" : 1,
+      "id" : "3-d",
+      "value" : "3-d"
+    }, {
+      "count" : 1,
+      "id" : "3-d touchscreen",
+      "value" : "3-d touchscreen"
+    }, {
+      "count" : 1,
+      "id" : "350 jaar",
+      "value" : "350 jaar"
+    }, {
+      "count" : 14,
+      "id" : "3D",
+      "value" : "3D"
+    }, {
+      "count" : 1,
+      "id" : "3D printer",
+      "value" : "3D printer"
+    }, {
+      "count" : 1,
+      "id" : "3D-model",
+      "value" : "3D-model"
+    }, {
+      "count" : 1,
+      "id" : "3Dgames",
+      "value" : "3Dgames"
+    }, {
+      "count" : 5,
+      "id" : "3d",
+      "value" : "3d"
+    }, {
+      "count" : 1,
+      "id" : "3d-mondscanner",
+      "value" : "3d-mondscanner"
+    }, {
+      "count" : 1,
+      "id" : "3d-printer",
+      "value" : "3d-printer"
+    } ],
+    "genres" : [ {
+      "count" : 130,
+      "id" : "3.0.2.6",
+      "value" : "Aarde & Klimaat"
+    }, {
+      "count" : 392,
+      "id" : "3.0.2.2",
+      "value" : "Beta & Tech"
+    }, {
+      "count" : 296,
+      "id" : "3.0.2.4",
+      "value" : "Brein & Gedrag"
+    }, {
+      "count" : 364,
+      "id" : "3.0.2.1",
+      "value" : "Flora & Fauna"
+    }, {
+      "count" : 172,
+      "id" : "3.0.2.7",
+      "value" : "Geschiedenis & Archeologie"
+    }, {
+      "count" : 173,
+      "id" : "3.0.2.3",
+      "value" : "Heelal & Ruimtevaart"
+    }, {
+      "count" : 323,
+      "id" : "3.0.2.5",
+      "value" : "Lijf & Gezondheid"
+    }, {
+      "count" : 397,
+      "id" : "3.0.2.8",
+      "value" : "Mens & Maatschappij"
+    } ],
+    "sections" : [ {
+      "count" : 59,
+      "id" : "WETENSCHAP24./wetenschap/programmas/beagle",
+      "value" : "Beagle"
+    }, {
+      "count" : 8,
+      "id" : "WETENSCHAP24./wetenschap/programmas/grootnationaalonderzoek",
+      "value" : "Groot Nationaal Onderzoek"
+    }, {
+      "count" : 320,
+      "id" : "WETENSCHAP24./wetenschap/programmas/hoezo-radio",
+      "value" : "Hoe?Zo!"
+    }, {
+      "count" : 2,
+      "id" : "WETENSCHAP24./wetenschap/programmas/nwq",
+      "value" : "Nationale Wetenschapsquiz"
+    }, {
+      "count" : 5369,
+      "id" : "WETENSCHAP24./wetenschap/nieuws",
+      "value" : "Nieuws"
+    }, {
+      "count" : 1,
+      "id" : "WETENSCHAP24./wetenschap-sample/nieuws",
+      "value" : "Noorderlicht"
+    }, {
+      "count" : 30,
+      "id" : "WETENSCHAP24./wetenschap/programmas/Noorderlicht-TV",
+      "value" : "Noorderlicht TV"
+    }, {
+      "count" : 1,
+      "id" : "WETENSCHAP24./wetenschap/over-wetenschap24",
+      "value" : "Over Wetenschap24"
+    }, {
+      "count" : 52,
+      "id" : "WETENSCHAP24./wetenschap/programmas/pavlov",
+      "value" : "Pavlov"
+    }, {
+      "count" : 564,
+      "id" : "WETENSCHAP24./wetenschap/programmas/scienceflash",
+      "value" : "ScienceFlash"
+    }, {
+      "count" : 217,
+      "id" : "WETENSCHAP24./wetenschap/programmas/wisebits",
+      "value" : "WiseBits"
+    }, {
+      "count" : 316,
+      "id" : "WETENSCHAP24./wetenschap/programmas/labyrint",
+      "value" : "labyrint"
+    } ]
+  },
+  "mediaFacets" : {
+    "avTypes" : [ {
+      "count" : 314,
+      "id" : "AUDIO",
+      "value" : "Audio"
+    }, {
+      "count" : 1585,
+      "id" : "VIDEO",
+      "value" : "Video"
+    } ]
+  },
+  "total" : 7495,
+  "offset" : 0,
+  "max" : 2,
+  "items" : [ {
+    "score" : 3.5968032,
+    "highlights" : [ ],
+    "result" : {
+      "objectType" : "page",
+      "type" : "HOME",
+      "url" : "http://www-test.npowetenschap.nl/programmas/scienceflash.html",
+      "sortDate" : 1304494272562,
+      "crids" : [ "crid://vpro/website/a164b134-a919-462b-aef9-f0b0b4f29404" ],
+      "broadcasters" : [ {
+        "id" : "NPS",
+        "value" : "NPS"
+      }, {
+        "id" : "VPRO",
+        "value" : "VPRO"
+      } ],
+      "portal" : {
+        "id" : "WETENSCHAP24",
+        "url" : "http://www-test.npowetenschap.nl",
+        "value" : "NPO Wetenschap",
+        "section" : {
+          "path" : "/wetenschap/programmas/scienceflash",
+          "id" : "WETENSCHAP24./wetenschap/programmas/scienceflash",
+          "value" : "ScienceFlash"
+        }
+      },
+      "title" : "ScienceFlash",
+      "embeds" : [ {
+        "media" : {
+          "objectType" : "program",
+          "mid" : "WO_NTR_406270",
+          "creationDate" : 1379931112938,
+          "lastModified" : 1380008989622,
+          "publishStart" : 1379887200000,
+          "sortDate" : 1379887200000,
+          "urn" : "urn:vpro:media:program:29902993",
+          "embeddable" : true,
+          "broadcasters" : [ {
+            "id" : "NTR",
+            "value" : "NTR"
+          } ],
+          "titles" : [ {
+            "value" : "Waarom je vader je vriendje afkeurt",
+            "owner" : "BROADCASTER",
+            "type" : "MAIN"
+          }, {
+            "value" : "ScienceFlash Weekjournaal 20 september 2013",
+            "owner" : "BROADCASTER",
+            "type" : "SUB"
+          } ],
+          "descriptions" : [ {
+            "value" : "Vaders vinden het vriendje van hun dochter eigenlijk nooit goed genoeg. Daar kan hij helemaal niks aan doen, want dat is evolutionair zo bepaald. Promovendus Piet van den Berg van de Rijksuniversiteit Groningen zocht naar een verklaring voor dit gedrag. Verder o.a: kleine dieren zien alles in slow motion, breed gezicht maar egoïstisch, geuren gecategoriseerd en een kat als astronaut.",
+            "owner" : "BROADCASTER",
+            "type" : "MAIN"
+          }, {
+            "value" : "Vaders vinden het vriendje van hun dochter eigenlijk nooit goed genoeg. Daar kan hij helemaal niks aan doen, want dat is evolutionair zo bepaald. Promovendus Piet van den Berg van de Rijksuniversiteit Groningen zocht naar een verklaring voor dit gedrag. Verder o.a: kleine dieren zien alles in slow motion, breed gezicht maar egoïstisch, geuren gecategoriseerd en een kat als astronaut.",
+            "owner" : "BROADCASTER",
+            "type" : "SHORT"
+          } ],
+          "genres" : [ ],
+          "countries" : [ ],
+          "languages" : [ ],
+          "predictions" : [ {
+            "state" : "REALIZED",
+            "platform" : "INTERNETVOD"
+          } ],
+          "locations" : [ {
+            "programUrl" : "http://content.omroep.nl/vpro/poms/world/29/90/29/93/NPO_bb.m4v",
+            "avAttributes" : {
+              "bitrate" : 1241000,
+              "avFileFormat" : "MP4",
+              "videoAttributes" : {
+                "width" : 854,
+                "heigth" : 480
+              },
+              "audioAttributes" : {
+                "numberOfChannels" : 2,
+                "audioCoding" : "AAC"
+              }
+            },
+            "duration" : 538888,
+            "creationDate" : 1379932587131,
+            "lastModified" : 1379932587665,
+            "workflow" : "PUBLISHED",
+            "owner" : "BROADCASTER",
+            "urn" : "urn:vpro:media:location:29903235"
+          } ],
+          "images" : [ {
+            "title" : "schoonouders1",
+            "description" : "schoonouders",
+            "imageUri" : "urn:vpro:image:222916",
+            "height" : 412,
+            "width" : 640,
+            "creationDate" : 1379937075394,
+            "lastModified" : 1379937075512,
+            "publishStart" : 1379887200000,
+            "workflow" : "PUBLISHED",
+            "owner" : "BROADCASTER",
+            "type" : "PICTURE",
+            "highlighted" : false,
+            "urn" : "urn:vpro:media:image:29904183"
+          } ],
+          "workflow" : "PUBLISHED",
+          "segments" : [ {
+            "objectType" : "segment",
+            "mid" : "POMS_NTR_407030",
+            "creationDate" : 1380008341694,
+            "lastModified" : 1380008989622,
+            "sortDate" : 1379887200000,
+            "urn" : "urn:vpro:media:segment:29938392",
+            "embeddable" : true,
+            "broadcasters" : [ {
+              "id" : "NTR",
+              "value" : "NTR"
+            } ],
+            "titles" : [ {
+              "value" : "Waarom je vader je vriendje afkeurt",
+              "owner" : "BROADCASTER",
+              "type" : "MAIN"
+            } ],
+            "descriptions" : [ {
+              "value" : "Vaders vinden het vriendje van hun dochter eigenlijk nooit goed genoeg. Daar kan hij helemaal niks aan doen, want dat is evolutionair zo bepaald. Promovendus Piet van den Berg van de Rijksuniversiteit Groningen zocht naar een verklaring voor dit gedrag.",
+              "owner" : "BROADCASTER",
+              "type" : "MAIN"
+            }, {
+              "value" : "Vaders vinden het vriendje van hun dochter eigenlijk nooit goed genoeg. Daar kan hij helemaal niks aan doen, want dat is evolutionair zo bepaald. Promovendus Piet van den Berg van de Rijksuniversiteit Groningen zocht naar een verklaring voor dit gedrag.",
+              "owner" : "BROADCASTER",
+              "type" : "SHORT"
+            } ],
+            "genres" : [ ],
+            "countries" : [ ],
+            "languages" : [ ],
+            "duration" : 177000,
+            "descendantOf" : [ {
+              "midRef" : "WO_NTR_406270",
+              "urnRef" : "urn:vpro:media:program:29902993",
+              "type" : "CLIP"
+            } ],
+            "images" : [ {
+              "title" : "Waarom je vader je vriendje afkeurt",
+              "description" : "Vaders vinden het vriendje van hun dochter eigenlijk nooit goed genoeg. Daar kan hij helemaal niks aan doen, want dat is evolutionair zo bepaald. Promovendus Piet van den Berg van de Rijksuniversiteit Groningen zocht naar een verklaring voor dit gedrag.",
+              "imageUri" : "urn:vpro:image:223238",
+              "height" : 406,
+              "width" : 630,
+              "creationDate" : 1380008704332,
+              "lastModified" : 1380008704478,
+              "workflow" : "PUBLISHED",
+              "owner" : "BROADCASTER",
+              "type" : "PICTURE",
+              "highlighted" : false,
+              "urn" : "urn:vpro:media:image:29938411"
+            } ],
+            "workflow" : "PUBLISHED",
+            "start" : 151000,
+            "urnRef" : "urn:vpro:media:program:29902993",
+            "midRef" : "WO_NTR_406270",
+            "type" : "SEGMENT",
+            "avType" : "VIDEO"
+          } ],
+          "type" : "CLIP",
+          "avType" : "VIDEO"
+        }
+      } ],
+      "images" : [ {
+        "type" : "PICTURE",
+        "url" : "http://images.poms.omroep.nl/image/s360/222916.jpg",
+        "title" : "schoonouders1",
+        "description" : "schoonouders"
+      } ],
+      "publishStart" : 1304494272562,
+      "creationDate" : 1411380587809,
+      "lastModified" : 1418900092641,
+      "refCount" : 0
+    }
+  }, {
+    "score" : 3.2566724,
+    "highlights" : [ ],
+    "result" : {
+      "objectType" : "page",
+      "type" : "HOME",
+      "url" : "http://www-test.npowetenschap.nl/programmas/grootnationaalonderzoek.html",
+      "sortDate" : 1310720304202,
+      "crids" : [ "crid://vpro/website/8f5e4606-233a-42bb-be4e-bb5dbff6f2ee" ],
+      "broadcasters" : [ {
+        "id" : "NPS",
+        "value" : "NPS"
+      }, {
+        "id" : "VPRO",
+        "value" : "VPRO"
+      } ],
+      "portal" : {
+        "id" : "WETENSCHAP24",
+        "url" : "http://www-test.npowetenschap.nl",
+        "value" : "NPO Wetenschap",
+        "section" : {
+          "path" : "/wetenschap/programmas/grootnationaalonderzoek",
+          "id" : "WETENSCHAP24./wetenschap/programmas/grootnationaalonderzoek",
+          "value" : "Groot Nationaal Onderzoek"
+        }
+      },
+      "title" : "Groot Nationaal Onderzoek",
+      "keywords" : [ "wetenschap", "onderzoek", "publieksonderzoek" ],
+      "embeds" : [ {
+        "media" : {
+          "objectType" : "program",
+          "mid" : "WO_VPRO_035791",
+          "creationDate" : 1314889061121,
+          "lastModified" : 1344870528076,
+          "sortDate" : 1314889061121,
+          "urn" : "urn:vpro:media:program:10643436",
+          "embeddable" : true,
+          "broadcasters" : [ {
+            "id" : "VPRO",
+            "value" : "VPRO"
+          } ],
+          "titles" : [ {
+            "value" : "GNO",
+            "owner" : "BROADCASTER",
+            "type" : "MAIN"
+          } ],
+          "descriptions" : [ {
+            "value" : "Video op website van het GNO over sociale vaardigheden.",
+            "owner" : "BROADCASTER",
+            "type" : "SHORT"
+          } ],
+          "genres" : [ ],
+          "countries" : [ ],
+          "languages" : [ ],
+          "predictions" : [ {
+            "state" : "REALIZED",
+            "platform" : "INTERNETVOD"
+          } ],
+          "locations" : [ {
+            "programUrl" : "http://download.omroep.nl/vpro/W24/GNO%202.mp4",
+            "avAttributes" : {
+              "avFileFormat" : "MP4"
+            },
+            "creationDate" : 1314889061380,
+            "lastModified" : 1314889061417,
+            "workflow" : "PUBLISHED",
+            "owner" : "BROADCASTER",
+            "urn" : "urn:vpro:media:location:10643439"
+          } ],
+          "images" : [ {
+            "title" : "GNO",
+            "description" : "1",
+            "imageUri" : "urn:vpro.image:15174",
+            "height" : 571,
+            "width" : 1017,
+            "creationDate" : 1314889804775,
+            "lastModified" : 1314889804809,
+            "workflow" : "PUBLISHED",
+            "owner" : "BROADCASTER",
+            "type" : "BACKGROUND",
+            "highlighted" : false,
+            "urn" : "urn:vpro:media:image:10643446"
+          }, {
+            "title" : "GNO",
+            "description" : "2",
+            "imageUri" : "urn:vpro.image:15175",
+            "height" : 571,
+            "width" : 1017,
+            "creationDate" : 1314889804780,
+            "lastModified" : 1314889804809,
+            "workflow" : "PUBLISHED",
+            "owner" : "BROADCASTER",
+            "type" : "PICTURE",
+            "highlighted" : false,
+            "urn" : "urn:vpro:media:image:10643447"
+          }, {
+            "title" : "GNO",
+            "description" : "3",
+            "imageUri" : "urn:vpro.image:15176",
+            "height" : 571,
+            "width" : 1017,
+            "creationDate" : 1314889848593,
+            "lastModified" : 1314889848636,
+            "workflow" : "PUBLISHED",
+            "owner" : "BROADCASTER",
+            "type" : "STILL",
+            "highlighted" : false,
+            "urn" : "urn:vpro:media:image:10643448"
+          }, {
+            "title" : "GNO",
+            "description" : "4",
+            "imageUri" : "urn:vpro.image:15177",
+            "height" : 571,
+            "width" : 1017,
+            "creationDate" : 1314889876280,
+            "lastModified" : 1314889876321,
+            "workflow" : "PUBLISHED",
+            "owner" : "BROADCASTER",
+            "type" : "ICON",
+            "highlighted" : false,
+            "urn" : "urn:vpro:media:image:10643449"
+          } ],
+          "workflow" : "PUBLISHED",
+          "type" : "CLIP",
+          "avType" : "VIDEO"
+        }
+      } ],
+      "images" : [ {
+        "type" : "PICTURE",
+        "url" : "http://images.poms.omroep.nl/image/s360/15174.jpg",
+        "title" : "GNO",
+        "description" : "1"
+      } ],
+      "publishStart" : 1310720304202,
+      "creationDate" : 1411381134177,
+      "lastModified" : 1418900279169,
+      "refCount" : 0
+    }
+  } ],
+  "selectedFacets" : { },
+  "mediaSelectedFacets" : { }
+}

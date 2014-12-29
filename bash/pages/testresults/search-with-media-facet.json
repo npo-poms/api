@@ -1,0 +1,264 @@
+{
+  "facets" : { },
+  "mediaFacets" : { },
+  "total" : 610,
+  "offset" : 0,
+  "max" : 2,
+  "items" : [ {
+    "score" : 11.596914,
+    "highlights" : [ ],
+    "result" : {
+      "objectType" : "page",
+      "type" : "PLAYER",
+      "url" : "http://cultura-sample.localhost/speel.RBX_TROS_543907.html",
+      "sortDate" : 1417971600000,
+      "crids" : [ "crid://vpro/media/cultura/RBX_TROS_543907" ],
+      "broadcasters" : [ {
+        "id" : "TROS",
+        "value" : "TROS"
+      } ],
+      "portal" : {
+        "id" : "CULTURA24",
+        "url" : "http://cultura-sample.localhost",
+        "value" : "NPO Cultura"
+      },
+      "title" : "Ernst Daniël",
+      "genres" : [ {
+        "id" : "3.0.3.5",
+        "terms" : [ "Klassiek" ],
+        "displayName" : "Klassiek"
+      } ],
+      "embeds" : [ {
+        "title" : "Ernst Daniël",
+        "description" : "Ernst Daniël is een programma met passie voor opera en operazangers, gepresenteerd door Ernst Daniël Smid. Elke week staat een operazanger of -diva centraal en daarna hoort u hoogtepunten uit de beroemdste opera's.",
+        "media" : {
+          "objectType" : "program",
+          "mid" : "RBX_TROS_543907",
+          "creationDate" : 1401527817448,
+          "lastModified" : 1417980005255,
+          "sortDate" : 1417971600000,
+          "urn" : "urn:vpro:media:program:42106628",
+          "embeddable" : true,
+          "episodeOf" : [ {
+            "midRef" : "AUTO_ERNSTDANIL",
+            "urnRef" : "urn:vpro:media:group:13405644",
+            "type" : "SERIES",
+            "index" : 1,
+            "highlighted" : false,
+            "added" : 1401527817495
+          } ],
+          "crids" : [ "crid://broadcast.radiobox2/260658" ],
+          "broadcasters" : [ {
+            "id" : "TROS",
+            "value" : "TROS"
+          } ],
+          "titles" : [ {
+            "value" : "Ernst Daniël",
+            "owner" : "RADIOBOX",
+            "type" : "MAIN"
+          } ],
+          "descriptions" : [ {
+            "value" : "Ernst Daniël is een programma met passie voor opera en operazangers, gepresenteerd door Ernst Daniël Smid. Elke week staat een operazanger of -diva centraal en daarna hoort u hoogtepunten uit de beroemdste opera's.",
+            "owner" : "RADIOBOX",
+            "type" : "MAIN"
+          } ],
+          "genres" : [ ],
+          "countries" : [ ],
+          "languages" : [ ],
+          "duration" : 7200000,
+          "descendantOf" : [ {
+            "midRef" : "AUTO_ERNSTDANIL",
+            "urnRef" : "urn:vpro:media:group:13405644",
+            "type" : "SERIES"
+          }, {
+            "midRef" : "POMS_S_VPRO_171668",
+            "urnRef" : "urn:vpro:media:group:14683553",
+            "type" : "ARCHIVE"
+          }, {
+            "midRef" : "POMS_S_VPRO_170117",
+            "urnRef" : "urn:vpro:media:group:14921910",
+            "type" : "ARCHIVE"
+          } ],
+          "email" : [ "klassiek@avrotros.nl" ],
+          "websites" : [ {
+            "value" : "http://www.radio4.nl/ernstdaniel"
+          } ],
+          "locations" : [ {
+            "programUrl" : "http://download.omroep.nl/audiologging/r4/2014/12/07/1800_2000_ernst_daniel_20141207.mp3",
+            "avAttributes" : {
+              "avFileFormat" : "MP3"
+            },
+            "duration" : 7200000,
+            "creationDate" : 1417979951063,
+            "lastModified" : 1417980005252,
+            "workflow" : "PUBLISHED",
+            "owner" : "RADIOBOX",
+            "urn" : "urn:vpro:media:location:44958885"
+          } ],
+          "scheduleEvents" : [ {
+            "start" : 1417971600000,
+            "duration" : 7200000,
+            "poProgID" : "RBX_TROS_543907",
+            "channel" : "RAD4",
+            "urnRef" : "urn:vpro:media:program:42106628",
+            "midRef" : "RBX_TROS_543907"
+          } ],
+          "images" : [ {
+            "title" : "Ernst-Daniel-Smid.jpg",
+            "description" : "Ernst Daniël",
+            "imageUri" : "urn:vpro:image:120780",
+            "creationDate" : 1401527817331,
+            "lastModified" : 1401527817453,
+            "workflow" : "PUBLISHED",
+            "owner" : "RADIOBOX",
+            "type" : "PICTURE",
+            "highlighted" : false,
+            "urn" : "urn:vpro:media:image:42106630"
+          } ],
+          "workflow" : "PUBLISHED",
+          "type" : "BROADCAST",
+          "avType" : "AUDIO"
+        }
+      } ],
+      "images" : [ {
+        "type" : "PICTURE",
+        "url" : "http://images.poms.omroep.nl/image/s360/120780.jpg",
+        "title" : "Ernst-Daniel-Smid.jpg",
+        "description" : "Ernst Daniël"
+      } ],
+      "publishStart" : 1417971600000,
+      "creationDate" : 1418747657328,
+      "lastModified" : 1418747657335,
+      "refCount" : 0
+    }
+  }, {
+    "score" : 11.595507,
+    "highlights" : [ ],
+    "result" : {
+      "objectType" : "page",
+      "type" : "PLAYER",
+      "url" : "http://www-test.cultura.nl/speel.RBX_TROS_544049.html",
+      "sortDate" : 1416762000000,
+      "crids" : [ "crid://vpro/media/cultura/RBX_TROS_544049" ],
+      "broadcasters" : [ {
+        "id" : "TROS",
+        "value" : "TROS"
+      } ],
+      "portal" : {
+        "id" : "CULTURA24",
+        "url" : "http://www-test.cultura.nl",
+        "value" : "NPO Cultura"
+      },
+      "title" : "Ernst Daniël",
+      "genres" : [ {
+        "id" : "3.0.3.5",
+        "terms" : [ "Klassiek" ],
+        "displayName" : "Klassiek"
+      } ],
+      "embeds" : [ {
+        "title" : "Ernst Daniël",
+        "description" : "Ernst Daniël is een programma met passie voor opera en operazangers, gepresenteerd door Ernst Daniël Smid. Elke week staat een operazanger of -diva centraal en daarna hoort u hoogtepunten uit de beroemdste opera's.",
+        "media" : {
+          "objectType" : "program",
+          "mid" : "RBX_TROS_544049",
+          "creationDate" : 1401529319234,
+          "lastModified" : 1417039620794,
+          "sortDate" : 1416762000000,
+          "urn" : "urn:vpro:media:program:42107289",
+          "embeddable" : true,
+          "episodeOf" : [ {
+            "midRef" : "AUTO_ERNSTDANIL",
+            "urnRef" : "urn:vpro:media:group:13405644",
+            "type" : "SERIES",
+            "index" : 1,
+            "highlighted" : false,
+            "added" : 1401529319255
+          } ],
+          "crids" : [ "crid://broadcast.radiobox2/260656" ],
+          "broadcasters" : [ {
+            "id" : "TROS",
+            "value" : "TROS"
+          } ],
+          "titles" : [ {
+            "value" : "Ernst Daniël",
+            "owner" : "RADIOBOX",
+            "type" : "MAIN"
+          } ],
+          "descriptions" : [ {
+            "value" : "Ernst Daniël is een programma met passie voor opera en operazangers, gepresenteerd door Ernst Daniël Smid. Elke week staat een operazanger of -diva centraal en daarna hoort u hoogtepunten uit de beroemdste opera's.",
+            "owner" : "RADIOBOX",
+            "type" : "MAIN"
+          } ],
+          "genres" : [ ],
+          "countries" : [ ],
+          "languages" : [ ],
+          "duration" : 7200000,
+          "descendantOf" : [ {
+            "midRef" : "AUTO_ERNSTDANIL",
+            "urnRef" : "urn:vpro:media:group:13405644",
+            "type" : "SERIES"
+          }, {
+            "midRef" : "POMS_S_VPRO_171668",
+            "urnRef" : "urn:vpro:media:group:14683553",
+            "type" : "ARCHIVE"
+          }, {
+            "midRef" : "POMS_S_VPRO_170117",
+            "urnRef" : "urn:vpro:media:group:14921910",
+            "type" : "ARCHIVE"
+          } ],
+          "email" : [ "klassiek@avrotros.nl" ],
+          "websites" : [ {
+            "value" : "http://www.radio4.nl/ernstdaniel"
+          } ],
+          "locations" : [ {
+            "programUrl" : "http://download.omroep.nl/audiologging/r4/2014/11/23/1800_2000_ernst_daniel_20141123.mp3",
+            "avAttributes" : {
+              "avFileFormat" : "MP3"
+            },
+            "duration" : 7200000,
+            "creationDate" : 1417039619520,
+            "lastModified" : 1417039620022,
+            "workflow" : "PUBLISHED",
+            "owner" : "RADIOBOX",
+            "urn" : "urn:vpro:media:location:44834647"
+          } ],
+          "scheduleEvents" : [ {
+            "start" : 1416762000000,
+            "duration" : 7200000,
+            "poProgID" : "RBX_TROS_544049",
+            "channel" : "RAD4",
+            "urnRef" : "urn:vpro:media:program:42107289",
+            "midRef" : "RBX_TROS_544049"
+          } ],
+          "images" : [ {
+            "title" : "Ernst-Daniel-Smid.jpg",
+            "description" : "Ernst Daniël",
+            "imageUri" : "urn:vpro:image:120780",
+            "creationDate" : 1401529319059,
+            "lastModified" : 1401529319238,
+            "workflow" : "PUBLISHED",
+            "owner" : "RADIOBOX",
+            "type" : "PICTURE",
+            "highlighted" : false,
+            "urn" : "urn:vpro:media:image:42107291"
+          } ],
+          "workflow" : "PUBLISHED",
+          "type" : "BROADCAST",
+          "avType" : "AUDIO"
+        }
+      } ],
+      "images" : [ {
+        "type" : "PICTURE",
+        "url" : "http://images.poms.omroep.nl/image/s360/120780.jpg",
+        "title" : "Ernst-Daniel-Smid.jpg",
+        "description" : "Ernst Daniël"
+      } ],
+      "publishStart" : 1416762000000,
+      "creationDate" : 1417244633221,
+      "lastModified" : 1417244633227,
+      "refCount" : 0
+    }
+  } ],
+  "selectedFacets" : { },
+  "mediaSelectedFacets" : { }
+}

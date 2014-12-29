@@ -1,0 +1,276 @@
+{
+  "facets" : {
+    "sortDates" : [ {
+      "count" : 814,
+      "selected" : false,
+      "value" : "2012-W03",
+      "begin" : 1326931200000,
+      "end" : 1328140800000
+    } ]
+  },
+  "total" : 814,
+  "offset" : 0,
+  "max" : 2,
+  "items" : [ {
+    "score" : 0.5039375,
+    "highlights" : [ ],
+    "result" : {
+      "objectType" : "page",
+      "type" : "PLAYER",
+      "url" : "http://www-test.woord.nl/luister.POMS_NTR_473434.html",
+      "sortDate" : 1328139900000,
+      "crids" : [ "crid://vpro/media/woord/POMS_NTR_473434" ],
+      "broadcasters" : [ {
+        "id" : "NTR",
+        "value" : "NTR"
+      } ],
+      "portal" : {
+        "id" : "WOORD",
+        "url" : "http://www-test.woord.nl",
+        "value" : "Woord.nl"
+      },
+      "title" : "Het Bureau",
+      "genres" : [ {
+        "id" : "3.0.4.3",
+        "terms" : [ "Hoorspel" ],
+        "displayName" : "Hoorspel"
+      } ],
+      "embeds" : [ {
+        "title" : "Het Bureau",
+        "description" : "1964 - De Commissie vindt het wenselijk dat Maarten een proefschrift schrijft. Buitenrust Hettema en Van der Land hebben ieder op zijn manier hun bedenkingen en uiten die achteraf. 's Avonds brengen Maarten en Nicolien een bezoek aan Hendrik en Annechien. Hendrik heeft juist zijn IQ uitgerekend. Annechien toont het kind. Over het schrijven van een proefschrift en over Pier Schaafsma. Op de terugweg door het Vondelpark zegt Maarten dat hij geen proefschrift zal schrijven. Juffrouw Haan valt uit over 'dat afschuwelijke juffrouw'. Maarten zegt dat hij geen mevrouw zegt, omdat het voor haar een statuskwestie is. Als ze hem niet begrijpt, bindt hij in. Beerta wil dat Maarten hem opvolgt in de Boerenhuisclub. Maarten vindt dat Hendrik dat moet doen. Maarten zegt tegen Hendrik dat hij in de Boerenhuisclub moet.",
+        "media" : {
+          "objectType" : "program",
+          "mid" : "POMS_NTR_473434",
+          "creationDate" : 1391004526188,
+          "lastModified" : 1391004526236,
+          "publishStart" : 1328139900000,
+          "sortDate" : 1328139900000,
+          "urn" : "urn:vpro:media:program:36249099",
+          "embeddable" : true,
+          "episodeOf" : [ {
+            "midRef" : "POMS_S_NTR_453148",
+            "urnRef" : "urn:vpro:media:group:34163396",
+            "type" : "SERIES",
+            "index" : 1,
+            "highlighted" : false,
+            "added" : 1391004526231
+          } ],
+          "crids" : [ "crid://ntr.abc/13755700" ],
+          "broadcasters" : [ {
+            "id" : "NTR",
+            "value" : "NTR"
+          } ],
+          "titles" : [ {
+            "value" : "Het Bureau",
+            "owner" : "BROADCASTER",
+            "type" : "MAIN"
+          }, {
+            "value" : "Aflevering 63",
+            "owner" : "BROADCASTER",
+            "type" : "SUB"
+          }, {
+            "value" : "Aflevering 63",
+            "owner" : "BROADCASTER",
+            "type" : "EPISODE"
+          } ],
+          "descriptions" : [ {
+            "value" : "1964 - De Commissie vindt het wenselijk dat Maarten een proefschrift schrijft. Buitenrust Hettema en Van der Land hebben ieder op zijn manier hun bedenkingen en uiten die achteraf. 's Avonds brengen Maarten en Nicolien een bezoek aan Hendrik en Annechien. Hendrik heeft juist zijn IQ uitgerekend. Annechien toont het kind. Over het schrijven van een proefschrift en over Pier Schaafsma. Op de terugweg door het Vondelpark zegt Maarten dat hij geen proefschrift zal schrijven. Juffrouw Haan valt uit over 'dat afschuwelijke juffrouw'. Maarten zegt dat hij geen mevrouw zegt, omdat het voor haar een statuskwestie is. Als ze hem niet begrijpt, bindt hij in. Beerta wil dat Maarten hem opvolgt in de Boerenhuisclub. Maarten vindt dat Hendrik dat moet doen. Maarten zegt tegen Hendrik dat hij in de Boerenhuisclub moet.",
+            "owner" : "BROADCASTER",
+            "type" : "MAIN"
+          }, {
+            "value" : "1964 - De Commissie vindt het wenselijk dat Maarten een proefschrift schrijft. Buitenrust Hettema en Van der Land hebben ieder op zijn manier hun bedenkingen en uiten die achteraf. 's Avonds brengen Maarten en Nicolien een bezoek aan Hendrik en Annechien. Hendrik heeft juist zijn IQ uitgerekend. Annechien toont het kind. Over het schrijven van een proefschrift en over Pier Schaafsma. Op de terugweg door het Vondelpark zegt Maarten dat hij geen proefschrift zal schrijven. Juffrouw Haan valt uit over 'dat afschuwelijke juffrouw'. Maarten zegt dat hij geen mevrouw zegt, omdat het voor haar een statuskwestie is. Als ze hem niet begrijpt, bindt hij in. Beerta wil dat Maarten hem opvolgt in de Boerenhuisclub. Maarten vindt dat Hendrik dat moet doen. Maarten zegt tegen Hendrik dat hij in de Boerenhuisclub moet.",
+            "owner" : "BROADCASTER",
+            "type" : "SHORT"
+          } ],
+          "genres" : [ ],
+          "countries" : [ ],
+          "languages" : [ ],
+          "duration" : 900000,
+          "descendantOf" : [ {
+            "midRef" : "POMS_S_VPRO_195283",
+            "urnRef" : "urn:vpro:media:group:11887617",
+            "type" : "ARCHIVE"
+          }, {
+            "midRef" : "POMS_S_VPRO_417550",
+            "urnRef" : "urn:vpro:media:group:30800869",
+            "type" : "COLLECTION"
+          }, {
+            "midRef" : "POMS_S_NTR_453148",
+            "urnRef" : "urn:vpro:media:group:34163396",
+            "type" : "SERIES"
+          } ],
+          "email" : [ "hetbureau@ntr.nl" ],
+          "websites" : [ {
+            "value" : "http://www.ntr.nl/hetbureau"
+          } ],
+          "locations" : [ {
+            "programUrl" : "http://content.omroep.nl/ntr/hetbureau/mp3/63.mp3",
+            "avAttributes" : {
+              "bitrate" : 128000,
+              "avFileFormat" : "MP3",
+              "videoAttributes" : { }
+            },
+            "creationDate" : 1391004524619,
+            "lastModified" : 1391004526193,
+            "workflow" : "PUBLISHED",
+            "owner" : "BROADCASTER",
+            "urn" : "urn:vpro:media:location:36249104"
+          } ],
+          "workflow" : "PUBLISHED",
+          "type" : "BROADCAST",
+          "avType" : "AUDIO"
+        }
+      } ],
+      "publishStart" : 1328139900000,
+      "creationDate" : 1415271481762,
+      "lastModified" : 1415953498103,
+      "refCount" : 0
+    }
+  }, {
+    "score" : 0.50393283,
+    "highlights" : [ ],
+    "result" : {
+      "objectType" : "page",
+      "type" : "PLAYER",
+      "url" : "http://www-test.vpro.nl/speel.POMS_VPRO_192643.html",
+      "sortDate" : 1328130360000,
+      "crids" : [ "crid://vpro/media/vpro/POMS_VPRO_192643" ],
+      "broadcasters" : [ {
+        "id" : "VPRO",
+        "value" : "VPRO"
+      } ],
+      "portal" : {
+        "id" : "VPRONL",
+        "url" : "http://www-test.vpro.nl",
+        "value" : "VPRO.nl"
+      },
+      "title" : "3VOOR12RADIO",
+      "embeds" : [ {
+        "title" : "3VOOR12RADIO",
+        "description" : "Alternatieve pop en rock. Met de nieuwste releases, de 3NA12 en concertverslagen in 3VOOR12 was erbij.",
+        "media" : {
+          "objectType" : "program",
+          "mid" : "POMS_VPRO_192643",
+          "creationDate" : 1326915234859,
+          "lastModified" : 1328729154019,
+          "sortDate" : 1328130360000,
+          "urn" : "urn:vpro:media:program:12428515",
+          "embeddable" : true,
+          "crids" : [ "crid://tmp.program.omroep.nl/13756612" ],
+          "broadcasters" : [ {
+            "id" : "VPRO",
+            "value" : "VPRO"
+          } ],
+          "titles" : [ {
+            "value" : "3VOOR12RADIO",
+            "owner" : "NEBO",
+            "type" : "MAIN"
+          }, {
+            "value" : "3VOOR12RADIO",
+            "owner" : "MIS",
+            "type" : "MAIN"
+          } ],
+          "descriptions" : [ {
+            "value" : "Alternatieve pop en rock. Met de nieuwste releases, de 3NA12 en concertverslagen in 3VOOR12 was erbij.",
+            "owner" : "NEBO",
+            "type" : "MAIN"
+          }, {
+            "value" : "Alternatieve pop en rock. Met de nieuwste releases, de 3NA12 en concertverslagen in 3VOOR12 was erbij.",
+            "owner" : "MIS",
+            "type" : "MAIN"
+          }, {
+            "value" : "Alternatieve pop en rock. Met de nieuwste releases, de 3NA12 en concertverslagen in 3VOOR12 was erbij.",
+            "owner" : "NEBO",
+            "type" : "SHORT"
+          }, {
+            "value" : "Alternatieve pop en rock. Met de nieuwste releases, de 3NA12 en concertverslagen in 3VOOR12 was erbij.",
+            "owner" : "MIS",
+            "type" : "SHORT"
+          } ],
+          "genres" : [ ],
+          "countries" : [ ],
+          "languages" : [ ],
+          "duration" : 10560000,
+          "predictions" : [ {
+            "state" : "REALIZED",
+            "publishStart" : 1328143620000,
+            "platform" : "INTERNETVOD"
+          } ],
+          "locations" : [ {
+            "programUrl" : "http://audio.omroep.nl/radio3/vpro/3voor12radio/20120201-22.mp3",
+            "avAttributes" : {
+              "avFileFormat" : "MP3"
+            },
+            "creationDate" : 1328104570666,
+            "lastModified" : 1328104570702,
+            "workflow" : "PUBLISHED",
+            "owner" : "BROADCASTER",
+            "urn" : "urn:vpro:media:location:12616467"
+          }, {
+            "programUrl" : "http://cgi.omroep.nl/cgi-bin/streams?/radio3/vpro/3voor12radio/20120201-22.wma",
+            "avAttributes" : {
+              "bitrate" : 96000,
+              "avFileFormat" : "WM"
+            },
+            "duration" : 10560000,
+            "creationDate" : 1328191342748,
+            "lastModified" : 1328191343607,
+            "publishStart" : 1328143620000,
+            "workflow" : "PUBLISHED",
+            "owner" : "NEBO",
+            "urn" : "urn:vpro:media:location:12630107"
+          }, {
+            "programUrl" : "http://player.omroep.nl/?aflID=13756612",
+            "avAttributes" : {
+              "avFileFormat" : "HTML"
+            },
+            "duration" : 10560000,
+            "creationDate" : 1328191342748,
+            "lastModified" : 1328191343613,
+            "publishStart" : 1328143620000,
+            "workflow" : "PUBLISHED",
+            "owner" : "NEBO",
+            "urn" : "urn:vpro:media:location:12630109"
+          } ],
+          "scheduleEvents" : [ {
+            "start" : 1328130360000,
+            "duration" : 10560000,
+            "poProgID" : "POMS_VPRO_192643",
+            "channel" : "RAD3",
+            "imi" : "imi:19715",
+            "urnRef" : "urn:vpro:media:program:12428515",
+            "midRef" : "POMS_VPRO_192643"
+          } ],
+          "images" : [ {
+            "title" : "annemieke",
+            "description" : "annemieke",
+            "imageUri" : "urn:vpro.image:42350",
+            "height" : 293,
+            "width" : 448,
+            "creationDate" : 1328107796715,
+            "lastModified" : 1328107796748,
+            "workflow" : "PUBLISHED",
+            "owner" : "BROADCASTER",
+            "type" : "PICTURE",
+            "highlighted" : false,
+            "urn" : "urn:vpro:media:image:12616582"
+          } ],
+          "workflow" : "PUBLISHED",
+          "type" : "BROADCAST",
+          "avType" : "AUDIO"
+        }
+      } ],
+      "images" : [ {
+        "type" : "PICTURE",
+        "url" : "http://images.poms.omroep.nl/image/s360/42350.jpg",
+        "title" : "annemieke",
+        "description" : "annemieke"
+      } ],
+      "publishStart" : 1328130360000,
+      "creationDate" : 1411403474609,
+      "lastModified" : 1411403474714,
+      "refCount" : 0
+    }
+  } ],
+  "selectedFacets" : { }
+}
