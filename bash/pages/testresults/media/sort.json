@@ -1,0 +1,238 @@
+{
+  "facets" : { },
+  "selectedFacets" : { },
+  "total" : 6816,
+  "offset" : 0,
+  "max" : 2,
+  "items" : [ {
+    "score" : 0.3910432,
+    "highlights" : [ ],
+    "result" : {
+      "objectType" : "page",
+      "type" : "PLAYER",
+      "url" : "http://www-test.vpro.nl/speel.POMS_VPRO_200051.html",
+      "sortDate" : 904287600000,
+      "crids" : [ "crid://vpro/media/vpro/POMS_VPRO_200051" ],
+      "broadcasters" : [ {
+        "id" : "VPRO",
+        "value" : "VPRO"
+      } ],
+      "portal" : {
+        "id" : "VPRONL",
+        "url" : "http://www-test.vpro.nl",
+        "value" : "VPRO.nl"
+      },
+      "title" : "Twee Vandaag: Poncke Princen",
+      "embeds" : [ {
+        "title" : "Twee Vandaag: Poncke Princen",
+        "description" : "Voor Twee Vandaag wordt Poncke Princen geïnterviewd in Jakarta, Indonesië. Hij vertelt de verslaggever waarom Van Mierlo hem een visum heeft gegeven. Princen (1925 – 2002) was een Indonesische mensenrechtenactivist van Nederlandse afkomst. Als dienstplichtige deserteerde hij in 1948 in Nederlands-Indië om bij de Indonesische republikeinse troepen dienst te nemen. Sommigen beschouwden hem als een moedig mens vanwege de keuze die hij tegen de koloniale oorlog maakte. Veel oud-strijders vonden het echter onvergeeflijk dat Princen de wapens tegen zijn eigen landgenoten had opgenomen. In 1994 werd Princen op humanitaire gronden en op voorwaarde dat hij zich onopvallend zou gedragen, door minister Van Mierlo een visum voor Nederland verstrekt, nadat dit hem eerder door de Nederlandse ambassadeur in Jakarta was geweigerd. Een strafklacht tegen Princen door de Vereniging Oud Militairen Indiëgangers werd door justitie niet in behandeling genomen. (TROS 1994)",
+        "media" : {
+          "objectType" : "segment",
+          "mid" : "POMS_VPRO_200051",
+          "creationDate" : 1311151715761,
+          "lastModified" : 1338881793509,
+          "sortDate" : 904287600000,
+          "urn" : "urn:vpro:media:segment:10330538",
+          "embeddable" : true,
+          "crids" : [ "crid://tmp.fragment.mmbase.vpro.nl/42405411", "crid://tmp.item.mmbase.vpro.nl/42371121" ],
+          "broadcasters" : [ {
+            "id" : "VPRO",
+            "value" : "VPRO"
+          } ],
+          "titles" : [ {
+            "value" : "Twee Vandaag: Poncke Princen",
+            "owner" : "BROADCASTER",
+            "type" : "MAIN"
+          }, {
+            "value" : "Zomergasten 2009: Alexander Pechtold",
+            "owner" : "BROADCASTER",
+            "type" : "SUB"
+          } ],
+          "descriptions" : [ {
+            "value" : "Voor Twee Vandaag wordt Poncke Princen geïnterviewd in Jakarta, Indonesië. Hij vertelt de verslaggever waarom Van Mierlo hem een visum heeft gegeven. Princen (1925 – 2002) was een Indonesische mensenrechtenactivist van Nederlandse afkomst. Als dienstplichtige deserteerde hij in 1948 in Nederlands-Indië om bij de Indonesische republikeinse troepen dienst te nemen. Sommigen beschouwden hem als een moedig mens vanwege de keuze die hij tegen de koloniale oorlog maakte. Veel oud-strijders vonden het echter onvergeeflijk dat Princen de wapens tegen zijn eigen landgenoten had opgenomen. In 1994 werd Princen op humanitaire gronden en op voorwaarde dat hij zich onopvallend zou gedragen, door minister Van Mierlo een visum voor Nederland verstrekt, nadat dit hem eerder door de Nederlandse ambassadeur in Jakarta was geweigerd. Een strafklacht tegen Princen door de Vereniging Oud Militairen Indiëgangers werd door justitie niet in behandeling genomen. (TROS 1994)",
+            "owner" : "BROADCASTER",
+            "type" : "MAIN"
+          } ],
+          "genres" : [ ],
+          "countries" : [ ],
+          "languages" : [ ],
+          "duration" : 3600000,
+          "descendantOf" : [ {
+            "midRef" : "POMS_S_VPRO_201060",
+            "urnRef" : "urn:vpro:media:group:10154461",
+            "type" : "SEASON"
+          }, {
+            "midRef" : "POMS_S_VPRO_174530",
+            "urnRef" : "urn:vpro:media:group:14376491",
+            "type" : "PLAYLIST"
+          }, {
+            "midRef" : "VPRO_5",
+            "urnRef" : "urn:vpro:media:program:7085596",
+            "type" : "BROADCAST"
+          } ],
+          "memberOf" : [ {
+            "midRef" : "POMS_S_VPRO_174530",
+            "urnRef" : "urn:vpro:media:group:14376491",
+            "type" : "PLAYLIST",
+            "index" : 1,
+            "highlighted" : false,
+            "added" : 1338881722773
+          } ],
+          "predictions" : [ {
+            "state" : "REALIZED",
+            "platform" : "INTERNETVOD"
+          } ],
+          "locations" : [ {
+            "programUrl" : "http://cgi.omroep.nl/cgi-bin/streams?/vpro/42405411/windowsmedia.asf",
+            "avAttributes" : {
+              "bitrate" : 500000,
+              "avFileFormat" : "WM"
+            },
+            "creationDate" : 1251496800000,
+            "lastModified" : 1311151748112,
+            "workflow" : "PUBLISHED",
+            "owner" : "BROADCASTER",
+            "urn" : "urn:vpro:media:location:10330540"
+          } ],
+          "images" : [ {
+            "title" : "Twee Vandaag",
+            "description" : "Twee Vandaag: Poncke Princen",
+            "imageUri" : "urn:vpro:image:80623",
+            "height" : 225,
+            "width" : 378,
+            "creationDate" : 1338881495105,
+            "lastModified" : 1338881495106,
+            "workflow" : "PUBLISHED",
+            "owner" : "BROADCASTER",
+            "type" : "STILL",
+            "highlighted" : false,
+            "urn" : "urn:vpro:media:image:14376588"
+          } ],
+          "workflow" : "PUBLISHED",
+          "start" : 0,
+          "urnRef" : "urn:vpro:media:program:7085596",
+          "midRef" : "VPRO_5",
+          "type" : "SEGMENT",
+          "avType" : "VIDEO"
+        }
+      } ],
+      "images" : [ {
+        "type" : "PICTURE",
+        "url" : "http://images.poms.omroep.nl/image/s360/80623.jpg",
+        "title" : "Twee Vandaag",
+        "description" : "Twee Vandaag: Poncke Princen"
+      } ],
+      "publishStart" : 904287600000,
+      "creationDate" : 1411405903559,
+      "lastModified" : 1411405903800,
+      "refCount" : 0
+    }
+  }, {
+    "score" : 0.07058446,
+    "highlights" : [ ],
+    "result" : {
+      "objectType" : "page",
+      "type" : "PLAYER",
+      "url" : "http://www-test.vpro.nl/speel.POMS_VPRO_505258.html",
+      "sortDate" : 1331452800000,
+      "crids" : [ "crid://vpro/media/vpro/POMS_VPRO_505258" ],
+      "broadcasters" : [ {
+        "id" : "VPRO",
+        "value" : "VPRO"
+      } ],
+      "portal" : {
+        "id" : "VPRONL",
+        "url" : "http://www-test.vpro.nl",
+        "value" : "VPRO.nl"
+      },
+      "title" : "Gluren bij de buren (5)",
+      "embeds" : [ {
+        "title" : "Gluren bij de buren (5)",
+        "description" : "De twee gluurders die het vandaag tegen elkaar opnemen zijn: Dana & Koen",
+        "media" : {
+          "objectType" : "segment",
+          "mid" : "POMS_VPRO_505258",
+          "creationDate" : 1395062259160,
+          "lastModified" : 1398685159557,
+          "publishStart" : 1398031200000,
+          "sortDate" : 1331452800000,
+          "urn" : "urn:vpro:media:segment:38776174",
+          "embeddable" : true,
+          "broadcasters" : [ {
+            "id" : "VPRO",
+            "value" : "VPRO"
+          } ],
+          "titles" : [ {
+            "value" : "Gluren bij de buren (5)",
+            "owner" : "BROADCASTER",
+            "type" : "MAIN"
+          } ],
+          "descriptions" : [ {
+            "value" : "De twee gluurders die het vandaag tegen elkaar opnemen zijn: Dana & Koen",
+            "owner" : "BROADCASTER",
+            "type" : "MAIN"
+          } ],
+          "genres" : [ ],
+          "countries" : [ ],
+          "languages" : [ ],
+          "duration" : 484300,
+          "descendantOf" : [ {
+            "midRef" : "VPWON_1165187",
+            "urnRef" : "urn:vpro:media:group:13551475",
+            "type" : "SEASON"
+          }, {
+            "midRef" : "POMS_S_VPRO_505316",
+            "urnRef" : "urn:vpro:media:group:38777610",
+            "type" : "PLAYLIST"
+          }, {
+            "midRef" : "POMS_S_VPRO_083871",
+            "urnRef" : "urn:vpro:media:group:72829",
+            "type" : "SERIES"
+          }, {
+            "midRef" : "VPWON_1165197",
+            "urnRef" : "urn:vpro:media:program:12979989",
+            "type" : "BROADCAST"
+          } ],
+          "memberOf" : [ {
+            "midRef" : "POMS_S_VPRO_505316",
+            "urnRef" : "urn:vpro:media:group:38777610",
+            "type" : "PLAYLIST",
+            "index" : 2,
+            "highlighted" : false,
+            "added" : 1395062956647
+          } ],
+          "images" : [ {
+            "title" : "Gluren bij de buren (5)",
+            "description" : "De twee gluurders die het vandaag tegen elkaar opnemen zijn: Dana & Koen",
+            "imageUri" : "urn:vpro:image:439715",
+            "height" : 360,
+            "width" : 640,
+            "creationDate" : 1395062259160,
+            "lastModified" : 1395062259433,
+            "workflow" : "PUBLISHED",
+            "owner" : "BROADCASTER",
+            "type" : "STILL",
+            "highlighted" : false,
+            "urn" : "urn:vpro:media:image:38776176"
+          } ],
+          "workflow" : "PUBLISHED",
+          "start" : 183000,
+          "urnRef" : "urn:vpro:media:program:12979989",
+          "midRef" : "VPWON_1165197",
+          "type" : "SEGMENT",
+          "avType" : "VIDEO"
+        }
+      } ],
+      "images" : [ {
+        "type" : "PICTURE",
+        "url" : "http://images.poms.omroep.nl/image/s360/439715.jpg",
+        "title" : "Gluren bij de buren (5)",
+        "description" : "De twee gluurders die het vandaag tegen elkaar opnemen zijn: Dana & Koen"
+      } ],
+      "publishStart" : 1331452800000,
+      "creationDate" : 1411408924139,
+      "lastModified" : 1411408924355,
+      "refCount" : 0
+    }
+  } ]
+}

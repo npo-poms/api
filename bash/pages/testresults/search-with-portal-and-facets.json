@@ -197,6 +197,7 @@
       "value" : "labyrint"
     } ]
   },
+  "selectedFacets" : { },
   "mediaFacets" : {
     "avTypes" : [ {
       "count" : 314,
@@ -208,11 +209,12 @@
       "value" : "Video"
     } ]
   },
+  "mediaSelectedFacets" : { },
   "total" : 7495,
   "offset" : 0,
   "max" : 2,
   "items" : [ {
-    "score" : 3.5968032,
+    "score" : 14.437049,
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",
@@ -386,18 +388,15 @@
       "refCount" : 0
     }
   }, {
-    "score" : 3.2566724,
+    "score" : 14.313056,
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",
       "type" : "HOME",
-      "url" : "http://www-test.npowetenschap.nl/programmas/grootnationaalonderzoek.html",
-      "sortDate" : 1310720304202,
-      "crids" : [ "crid://vpro/website/8f5e4606-233a-42bb-be4e-bb5dbff6f2ee" ],
+      "url" : "http://www-test.npowetenschap.nl/programmas/labyrint.html",
+      "sortDate" : 1296832729055,
+      "crids" : [ "crid://vpro/website/2f0aa9f5-b9af-4760-af2b-d6023b201d57" ],
       "broadcasters" : [ {
-        "id" : "NPS",
-        "value" : "NPS"
-      }, {
         "id" : "VPRO",
         "value" : "VPRO"
       } ],
@@ -406,124 +405,133 @@
         "url" : "http://www-test.npowetenschap.nl",
         "value" : "NPO Wetenschap",
         "section" : {
-          "path" : "/wetenschap/programmas/grootnationaalonderzoek",
-          "id" : "WETENSCHAP24./wetenschap/programmas/grootnationaalonderzoek",
-          "value" : "Groot Nationaal Onderzoek"
+          "path" : "/wetenschap/programmas/labyrint",
+          "id" : "WETENSCHAP24./wetenschap/programmas/labyrint",
+          "value" : "labyrint"
         }
       },
-      "title" : "Groot Nationaal Onderzoek",
-      "keywords" : [ "wetenschap", "onderzoek", "publieksonderzoek" ],
+      "title" : "labyrint",
       "embeds" : [ {
         "media" : {
-          "objectType" : "program",
-          "mid" : "WO_VPRO_035791",
-          "creationDate" : 1314889061121,
-          "lastModified" : 1344870528076,
-          "sortDate" : 1314889061121,
-          "urn" : "urn:vpro:media:program:10643436",
+          "objectType" : "group",
+          "mid" : "VPWON_1181854",
+          "creationDate" : 1356760140615,
+          "lastModified" : 1388237511556,
+          "sortDate" : 1388226600000,
+          "urn" : "urn:vpro:media:group:17337408",
           "embeddable" : true,
           "broadcasters" : [ {
             "id" : "VPRO",
             "value" : "VPRO"
+          }, {
+            "id" : "TELE",
+            "value" : "Teleac"
+          }, {
+            "id" : "NTR",
+            "value" : "NTR"
           } ],
           "titles" : [ {
-            "value" : "GNO",
+            "value" : "Labyrint TV 2013",
             "owner" : "BROADCASTER",
             "type" : "MAIN"
+          }, {
+            "value" : "Labyrint",
+            "owner" : "NEBO",
+            "type" : "MAIN"
+          }, {
+            "value" : "Labyrint",
+            "owner" : "CERES",
+            "type" : "MAIN"
+          }, {
+            "value" : "Labyrint",
+            "owner" : "WHATS_ON",
+            "type" : "MAIN"
+          }, {
+            "value" : "Labyrint",
+            "owner" : "CERES",
+            "type" : "LEXICO"
           } ],
           "descriptions" : [ {
-            "value" : "Video op website van het GNO over sociale vaardigheden.",
-            "owner" : "BROADCASTER",
-            "type" : "SHORT"
+            "value" : "Elk programma zal op basis van één thema twee items bevatten die aansluiten bij de actuele thema's in de samenleving.",
+            "owner" : "NEBO",
+            "type" : "MAIN"
           } ],
-          "genres" : [ ],
+          "genres" : [ {
+            "id" : "3.0.1.6",
+            "terms" : [ "Amusement" ]
+          }, {
+            "id" : "3.0.1.7",
+            "terms" : [ "Informatief" ]
+          }, {
+            "id" : "3.0.1.7.22",
+            "terms" : [ "Informatief", "Gezondheid/opvoeding" ]
+          }, {
+            "id" : "3.0.1.7.27",
+            "terms" : [ "Informatief", "Wetenschap" ]
+          } ],
           "countries" : [ ],
           "languages" : [ ],
-          "predictions" : [ {
-            "state" : "REALIZED",
-            "platform" : "INTERNETVOD"
+          "descendantOf" : [ {
+            "midRef" : "POMS_S_NTR_160161",
+            "urnRef" : "urn:vpro:media:group:16357199",
+            "type" : "ARCHIVE"
+          }, {
+            "midRef" : "POMS_S_NTR_447024",
+            "urnRef" : "urn:vpro:media:group:33412963",
+            "type" : "SERIES"
+          }, {
+            "midRef" : "POMS_S_VPRO_113117",
+            "urnRef" : "urn:vpro:media:group:72801",
+            "type" : "SERIES"
           } ],
-          "locations" : [ {
-            "programUrl" : "http://download.omroep.nl/vpro/W24/GNO%202.mp4",
-            "avAttributes" : {
-              "avFileFormat" : "MP4"
-            },
-            "creationDate" : 1314889061380,
-            "lastModified" : 1314889061417,
-            "workflow" : "PUBLISHED",
-            "owner" : "BROADCASTER",
-            "urn" : "urn:vpro:media:location:10643439"
+          "memberOf" : [ {
+            "midRef" : "POMS_S_NTR_160161",
+            "urnRef" : "urn:vpro:media:group:16357199",
+            "type" : "ARCHIVE",
+            "index" : 13,
+            "highlighted" : false,
+            "added" : 1358259817828
+          }, {
+            "midRef" : "POMS_S_NTR_447024",
+            "urnRef" : "urn:vpro:media:group:33412963",
+            "type" : "SERIES",
+            "index" : 18,
+            "highlighted" : false,
+            "added" : 1385986886206
+          }, {
+            "midRef" : "POMS_S_VPRO_113117",
+            "urnRef" : "urn:vpro:media:group:72801",
+            "type" : "SERIES",
+            "highlighted" : false,
+            "added" : 1362380030386
           } ],
           "images" : [ {
-            "title" : "GNO",
-            "description" : "1",
-            "imageUri" : "urn:vpro.image:15174",
-            "height" : 571,
-            "width" : 1017,
-            "creationDate" : 1314889804775,
-            "lastModified" : 1314889804809,
+            "title" : "Labyrint",
+            "description" : "Labyrint",
+            "imageUri" : "urn:vpro:image:136124",
+            "creationDate" : 1363064509189,
+            "lastModified" : 1363064509239,
             "workflow" : "PUBLISHED",
-            "owner" : "BROADCASTER",
-            "type" : "BACKGROUND",
-            "highlighted" : false,
-            "urn" : "urn:vpro:media:image:10643446"
-          }, {
-            "title" : "GNO",
-            "description" : "2",
-            "imageUri" : "urn:vpro.image:15175",
-            "height" : 571,
-            "width" : 1017,
-            "creationDate" : 1314889804780,
-            "lastModified" : 1314889804809,
-            "workflow" : "PUBLISHED",
-            "owner" : "BROADCASTER",
+            "owner" : "NEBO",
             "type" : "PICTURE",
             "highlighted" : false,
-            "urn" : "urn:vpro:media:image:10643447"
-          }, {
-            "title" : "GNO",
-            "description" : "3",
-            "imageUri" : "urn:vpro.image:15176",
-            "height" : 571,
-            "width" : 1017,
-            "creationDate" : 1314889848593,
-            "lastModified" : 1314889848636,
-            "workflow" : "PUBLISHED",
-            "owner" : "BROADCASTER",
-            "type" : "STILL",
-            "highlighted" : false,
-            "urn" : "urn:vpro:media:image:10643448"
-          }, {
-            "title" : "GNO",
-            "description" : "4",
-            "imageUri" : "urn:vpro.image:15177",
-            "height" : 571,
-            "width" : 1017,
-            "creationDate" : 1314889876280,
-            "lastModified" : 1314889876321,
-            "workflow" : "PUBLISHED",
-            "owner" : "BROADCASTER",
-            "type" : "ICON",
-            "highlighted" : false,
-            "urn" : "urn:vpro:media:image:10643449"
+            "urn" : "urn:vpro:media:image:22845147"
           } ],
           "workflow" : "PUBLISHED",
-          "type" : "CLIP",
+          "type" : "SEASON",
+          "isOrdered" : true,
           "avType" : "VIDEO"
         }
       } ],
       "images" : [ {
         "type" : "PICTURE",
-        "url" : "http://images.poms.omroep.nl/image/s360/15174.jpg",
-        "title" : "GNO",
-        "description" : "1"
+        "url" : "http://www-test.npowetenschap.nl/.imaging/stk/wetenschap/search/media/test/blender/original/blender.jpg",
+        "description" : "fhfsgdfgfdg"
       } ],
-      "publishStart" : 1310720304202,
-      "creationDate" : 1411381134177,
-      "lastModified" : 1418900279169,
+      "publishStart" : 1296832729055,
+      "creationDate" : 1411380780788,
+      "lastModified" : 1418900161545,
       "refCount" : 0
     }
-  } ],
-  "selectedFacets" : { },
-  "mediaSelectedFacets" : { }
+  } ]
 }

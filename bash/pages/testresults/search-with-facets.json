@@ -40,11 +40,12 @@
       "value" : "VPRO.nl"
     } ]
   },
+  "selectedFacets" : { },
   "total" : 9,
   "offset" : 0,
   "max" : 2,
   "items" : [ {
-    "score" : 0.21695767,
+    "score" : 0.3016068,
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",
@@ -157,7 +158,7 @@
       "refCount" : 0
     }
   }, {
-    "score" : 0.15568592,
+    "score" : 0.2945367,
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",
@@ -258,6 +259,5 @@
       "lastModified" : 1411401691789,
       "refCount" : 0
     }
-  } ],
-  "selectedFacets" : { }
+  } ]
 }

@@ -1,8 +1,8 @@
 {
   "facets" : { },
+  "selectedFacets" : { },
   "total" : 0,
   "offset" : 0,
   "max" : 2,
-  "items" : [ ],
-  "selectedFacets" : { }
+  "items" : [ ]
 }

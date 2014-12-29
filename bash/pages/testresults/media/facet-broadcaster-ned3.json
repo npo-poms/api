@@ -1,0 +1,252 @@
+{
+  "facets" : { },
+  "selectedFacets" : { },
+  "mediaFacets" : {
+    "broadcasters" : [ {
+      "count" : 56659,
+      "id" : "VPRO",
+      "value" : "VPRO"
+    }, {
+      "count" : 6386,
+      "id" : "NTR",
+      "value" : "NTR"
+    }, {
+      "count" : 4460,
+      "id" : "AVRO",
+      "value" : "AVRO"
+    }, {
+      "count" : 1719,
+      "id" : "NPS",
+      "value" : "NPS"
+    }, {
+      "count" : 1263,
+      "id" : "HUMA",
+      "value" : "HUMAN"
+    }, {
+      "count" : 882,
+      "id" : "VARA",
+      "value" : "VARA"
+    }, {
+      "count" : 715,
+      "id" : "ZAPP",
+      "value" : "NPO Zapp"
+    }, {
+      "count" : 515,
+      "id" : "TROS",
+      "value" : "TROS"
+    }, {
+      "count" : 474,
+      "id" : "KRO",
+      "value" : "KRO"
+    }, {
+      "count" : 336,
+      "id" : "MAX",
+      "value" : "MAX"
+    }, {
+      "count" : 293,
+      "id" : "AVTR",
+      "value" : "AVROTROS"
+    }, {
+      "count" : 288,
+      "id" : "NOS",
+      "value" : "NOS"
+    }, {
+      "count" : 271,
+      "id" : "RAD3",
+      "value" : "NPO 3FM"
+    }, {
+      "count" : 209,
+      "id" : "IKON",
+      "value" : "IKON"
+    }, {
+      "count" : 194,
+      "id" : "EO",
+      "value" : "EO"
+    }, {
+      "count" : 170,
+      "id" : "RKK",
+      "value" : "RKK"
+    }, {
+      "count" : 140,
+      "id" : "NCRV",
+      "value" : "NCRV"
+    }, {
+      "count" : 109,
+      "id" : "RAD6",
+      "value" : "NPO Radio 6"
+    }, {
+      "count" : 105,
+      "id" : "RNW",
+      "value" : "Radio Nederland Wereldomroep"
+    }, {
+      "count" : 84,
+      "id" : "TELE",
+      "value" : "Teleac"
+    }, {
+      "count" : 78,
+      "id" : "BNN",
+      "value" : "BNN"
+    }, {
+      "count" : 74,
+      "id" : "RVU",
+      "value" : "RVU"
+    }, {
+      "count" : 72,
+      "id" : "POWN",
+      "value" : "PowNed"
+    }, {
+      "count" : 32,
+      "id" : "ZAPL",
+      "value" : "NPO Zappelin"
+    } ]
+  },
+  "mediaSelectedFacets" : { },
+  "total" : 91282,
+  "offset" : 0,
+  "max" : 2,
+  "items" : [ {
+    "score" : 7.4953566,
+    "highlights" : [ ],
+    "result" : {
+      "objectType" : "page",
+      "type" : "HOME",
+      "url" : "http://vpronl.localhost/boeken/programmas/boeken-op-reis.html",
+      "sortDate" : 1406294252571,
+      "crids" : [ "crid://vpro/website/5db2c424-9a47-43ad-95d0-c5eebdbba4ad" ],
+      "broadcasters" : [ {
+        "id" : "VPRO",
+        "value" : "VPRO"
+      } ],
+      "portal" : {
+        "id" : "VPRONL",
+        "url" : "http://vpronl.localhost",
+        "value" : "VPRO.nl",
+        "section" : {
+          "path" : "/vpronl-sample/boeken",
+          "id" : "VPRONL./vpronl-sample/boeken",
+          "value" : "boeken"
+        }
+      },
+      "title" : "Boeken op reis",
+      "summary" : "Wim Brands gaat op reis naar zes schrijvers die internationaal bekend zijn en praat met hen over het ontstaan van hun werk, hun werkwijze en hun omgeving.",
+      "embeds" : [ {
+        "media" : {
+          "objectType" : "group",
+          "mid" : "POMS_S_VPRO_397957",
+          "creationDate" : 1378061117749,
+          "lastModified" : 1378061117877,
+          "sortDate" : 1381404108000,
+          "urn" : "urn:vpro:media:group:29149997",
+          "embeddable" : true,
+          "crids" : [ "crid://nebo.masterserie.omroep.nl/9060" ],
+          "broadcasters" : [ {
+            "id" : "VPRO",
+            "value" : "VPRO"
+          } ],
+          "titles" : [ {
+            "value" : "Boeken op reis met Wim Brands",
+            "owner" : "NEBO",
+            "type" : "MAIN"
+          } ],
+          "descriptions" : [ {
+            "value" : "Wim Brands gaat op reis naar zes schrijvers die internationaal bekend zijn en praat met hen over het ontstaan van hun werk, hun werkwijze en hun omgeving.",
+            "owner" : "NEBO",
+            "type" : "MAIN"
+          } ],
+          "genres" : [ {
+            "id" : "3.0.1.6",
+            "terms" : [ "Amusement" ]
+          }, {
+            "id" : "3.0.1.7.24",
+            "terms" : [ "Informatief", "Kunst/cultuur" ]
+          } ],
+          "countries" : [ ],
+          "languages" : [ ],
+          "workflow" : "PUBLISHED",
+          "type" : "SERIES",
+          "isOrdered" : true,
+          "avType" : "VIDEO"
+        }
+      } ],
+      "publishStart" : 1406294252571,
+      "creationDate" : 1410783578587,
+      "lastModified" : 1411146829118,
+      "refCount" : 0
+    }
+  }, {
+    "score" : 7.4953566,
+    "highlights" : [ ],
+    "result" : {
+      "objectType" : "page",
+      "type" : "HOME",
+      "url" : "http://www-test.vpro.nl/boeken/programmas/nooit-meer-slapen.html",
+      "sortDate" : 1406294285517,
+      "crids" : [ "crid://vpro/website/362cdec9-6c3d-4fab-9314-521737a97877" ],
+      "broadcasters" : [ {
+        "id" : "VPRO",
+        "value" : "VPRO"
+      } ],
+      "portal" : {
+        "id" : "VPRONL",
+        "url" : "http://www-test.vpro.nl",
+        "value" : "VPRO.nl",
+        "section" : {
+          "path" : "/vpronl/boeken",
+          "id" : "VPRONL./vpronl/boeken",
+          "value" : "boeken"
+        }
+      },
+      "title" : "Nooit meer slapen",
+      "summary" : "Op 6 januari 2014 is de VPRO van start gegaan met een nieuw cultuurprogramma op Radio 1, getiteld Nooit Meer Slapen. Elke werkdag, direct na Met Het Oog Op Morgen, van middernacht tot 02.00 uur. In het eerste uur van Nooit Meer Slapen vindt telkens een lang studiogesprek plaats, waarin vaste presentator Pieter van der Wielen een gast uit de cultuur of de actualiteit ontvangt. In het tweede uur doen we - middels reportages - verslag van actuele gebeurtenissen op het gebied van film, theater, literatuur en beeldende kunst. Op vrijdagavond wijkt de programmering van het eerste uur af. Dan begint Nooit Meer Slapen vanwege het hoorspel rond 0.30 uur.",
+      "embeds" : [ {
+        "media" : {
+          "objectType" : "group",
+          "mid" : "POMS_S_VPRO_449041",
+          "creationDate" : 1386326902278,
+          "lastModified" : 1395675429217,
+          "sortDate" : 1406584800000,
+          "urn" : "urn:vpro:media:group:33644950",
+          "embeddable" : true,
+          "crids" : [ "crid://programme.radiobox2/2465" ],
+          "broadcasters" : [ {
+            "id" : "VPRO",
+            "value" : "VPRO"
+          } ],
+          "titles" : [ {
+            "value" : "Nooit Meer Slapen",
+            "owner" : "RADIOBOX",
+            "type" : "MAIN"
+          } ],
+          "descriptions" : [ {
+            "value" : "Nooit Meer Slapen",
+            "owner" : "RADIOBOX",
+            "type" : "MAIN"
+          } ],
+          "genres" : [ ],
+          "countries" : [ ],
+          "languages" : [ ],
+          "images" : [ {
+            "title" : "nms_itunes_profiel.jpg",
+            "description" : "Nooit Meer Slapen",
+            "imageUri" : "urn:vpro:image:330221",
+            "creationDate" : 1389117507952,
+            "lastModified" : 1389445466649,
+            "workflow" : "PUBLISHED",
+            "owner" : "RADIOBOX",
+            "type" : "PICTURE",
+            "highlighted" : false,
+            "urn" : "urn:vpro:media:image:35114213"
+          } ],
+          "workflow" : "PUBLISHED",
+          "type" : "SERIES",
+          "isOrdered" : true,
+          "avType" : "AUDIO"
+        }
+      } ],
+      "publishStart" : 1406294285517,
+      "creationDate" : 1412266770595,
+      "lastModified" : 1412274148413,
+      "refCount" : 0
+    }
+  } ]
+}

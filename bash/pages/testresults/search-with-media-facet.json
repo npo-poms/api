@@ -1,11 +1,65 @@
 {
   "facets" : { },
-  "mediaFacets" : { },
+  "selectedFacets" : { },
+  "mediaFacets" : {
+    "descendantOf" : [ {
+      "count" : 1,
+      "id" : "AUTO_ALIBGEEFTANTWOORD",
+      "value" : "Ali B geeft antwoord",
+      "type" : "SEASON"
+    }, {
+      "count" : 1,
+      "id" : "AUTO_ANDRRIEUINDEARENA",
+      "value" : "André Rieu in de ArenA",
+      "type" : "SEASON"
+    }, {
+      "count" : 1,
+      "id" : "AUTO_ANDRRIEUINHEIDELBERGEENAVON",
+      "value" : "André Rieu in Heidelberg, een avond vol romantiek",
+      "type" : "SEASON"
+    }, {
+      "count" : 3,
+      "id" : "AUTO_ANDRRIEUOPHETVRIJTHOF",
+      "value" : "André Rieu op het Vrijthof",
+      "type" : "SEASON"
+    }, {
+      "count" : 3,
+      "id" : "AUTO_AVONDCONCERT",
+      "value" : "Avondconcert",
+      "type" : "SERIES"
+    }, {
+      "count" : 87,
+      "id" : "AUTO_DEBARBIERVANHILVERSUM",
+      "value" : "De Barbier van Hilversum",
+      "type" : "SERIES"
+    }, {
+      "count" : 1,
+      "id" : "AUTO_EENGOEDEMORGENM",
+      "value" : "Een goedemorgen met...",
+      "type" : "SERIES"
+    }, {
+      "count" : 106,
+      "id" : "AUTO_EENGOEDEMORGENMET",
+      "value" : "Een goedemorgen met...",
+      "type" : "SERIES"
+    }, {
+      "count" : 107,
+      "id" : "AUTO_ERNSTDANIL",
+      "value" : "Ernst Daniël",
+      "type" : "SERIES"
+    }, {
+      "count" : 12,
+      "id" : "AUTO_HETCONCERTHUISDEVRIJDAGVANV",
+      "value" : "De Vrijdag van Vredenburg",
+      "type" : "SERIES"
+    } ]
+  },
+  "mediaSelectedFacets" : { },
   "total" : 610,
   "offset" : 0,
   "max" : 2,
   "items" : [ {
-    "score" : 11.596914,
+    "score" : 6.9581485,
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",
@@ -132,7 +186,7 @@
       "refCount" : 0
     }
   }, {
-    "score" : 11.595507,
+    "score" : 6.958139,
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",
@@ -258,7 +312,5 @@
       "lastModified" : 1417244633227,
       "refCount" : 0
     }
-  } ],
-  "selectedFacets" : { },
-  "mediaSelectedFacets" : { }
+  } ]
 }
