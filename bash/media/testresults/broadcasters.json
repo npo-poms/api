@@ -1,0 +1,496 @@
+{
+  "total" : 22014,
+  "offset" : 0,
+  "max" : 2,
+  "items" : [ {
+    "score" : 17.35132,
+    "highlights" : [ ],
+    "result" : {
+      "objectType" : "program",
+      "mid" : "RBX_BNN_556651",
+      "creationDate" : 1411471821131,
+      "lastModified" : 1419233081419,
+      "sortDate" : 1419120000000,
+      "urn" : "urn:vpro:media:program:43764583",
+      "embeddable" : true,
+      "episodeOf" : [ {
+        "midRef" : "RBX_S_BNN_553882",
+        "urnRef" : "urn:vpro:media:group:33646309",
+        "type" : "SERIES",
+        "index" : 1,
+        "highlighted" : false,
+        "added" : 1411471821311
+      } ],
+      "crids" : [ "crid://broadcast.radiobox2/284343" ],
+      "broadcasters" : [ {
+        "id" : "BNN",
+        "value" : "BNN"
+      } ],
+      "titles" : [ {
+        "value" : "De Wereld van BNN",
+        "owner" : "RADIOBOX",
+        "type" : "MAIN"
+      } ],
+      "descriptions" : [ {
+        "value" : "Nachtprogramma met Thijs Maaldrink",
+        "owner" : "RADIOBOX",
+        "type" : "MAIN"
+      } ],
+      "genres" : [ ],
+      "countries" : [ ],
+      "languages" : [ ],
+      "duration" : 7200000,
+      "credits" : [ {
+        "givenName" : "Thijs",
+        "familyName" : "Maalderink",
+        "role" : "PRESENTER"
+      } ],
+      "descendantOf" : [ {
+        "midRef" : "RBX_S_BNN_553882",
+        "urnRef" : "urn:vpro:media:group:33646309",
+        "type" : "SERIES"
+      } ],
+      "email" : [ "dewereldvanbnn@bnn.nl" ],
+      "websites" : [ {
+        "value" : "http://www.radio1.nl/dewereldvanbnn"
+      } ],
+      "locations" : [ {
+        "programUrl" : "http://download.omroep.nl/audiologging/r1/2014/12/21/0100_0300_de_wereld_van_bnn_20141221.mp3",
+        "avAttributes" : {
+          "avFileFormat" : "MP3"
+        },
+        "duration" : 7200000,
+        "creationDate" : 1419127764058,
+        "lastModified" : 1419127797790,
+        "workflow" : "PUBLISHED",
+        "owner" : "RADIOBOX",
+        "urn" : "urn:vpro:media:location:45148050"
+      } ],
+      "scheduleEvents" : [ {
+        "start" : 1419120000000,
+        "duration" : 7200000,
+        "poProgID" : "RBX_BNN_556651",
+        "channel" : "RAD1",
+        "urnRef" : "urn:vpro:media:program:43764583",
+        "midRef" : "RBX_BNN_556651"
+      } ],
+      "images" : [ {
+        "title" : "dewereldvanbnn475.jpg",
+        "description" : "De Wereld van BNN",
+        "imageUri" : "urn:vpro:image:288774",
+        "creationDate" : 1411471819216,
+        "lastModified" : 1411471821188,
+        "workflow" : "PUBLISHED",
+        "owner" : "RADIOBOX",
+        "type" : "PICTURE",
+        "highlighted" : false,
+        "urn" : "urn:vpro:media:image:43764585"
+      } ],
+      "workflow" : "PUBLISHED",
+      "segments" : [ {
+        "objectType" : "segment",
+        "mid" : "RBX_BNN_741646",
+        "creationDate" : 1419232175665,
+        "lastModified" : 1419232175782,
+        "sortDate" : 1419120000000,
+        "urn" : "urn:vpro:media:segment:45152954",
+        "embeddable" : true,
+        "crids" : [ "crid://audiofragment.radiobox2/169308" ],
+        "broadcasters" : [ {
+          "id" : "BNN",
+          "value" : "BNN"
+        } ],
+        "titles" : [ {
+          "value" : "Ambachtslieden",
+          "owner" : "RADIOBOX",
+          "type" : "MAIN"
+        } ],
+        "descriptions" : [ {
+          "value" : "In Nederland hebben ambachtslieden niet altijd de beste reputatie, maar hoe is dat in Amerika, Spanje, Macedonië en Australië?",
+          "owner" : "RADIOBOX",
+          "type" : "MAIN"
+        } ],
+        "genres" : [ ],
+        "countries" : [ ],
+        "languages" : [ ],
+        "duration" : 1193000,
+        "descendantOf" : [ {
+          "midRef" : "RBX_S_BNN_553882",
+          "urnRef" : "urn:vpro:media:group:33646309",
+          "type" : "SERIES"
+        }, {
+          "midRef" : "RBX_BNN_556651",
+          "urnRef" : "urn:vpro:media:program:43764583",
+          "type" : "BROADCAST"
+        } ],
+        "locations" : [ {
+          "programUrl" : "http://radiobox2.omroep.nl/audiofragment/file/169308/fragment.mp3",
+          "avAttributes" : {
+            "avFileFormat" : "MP3"
+          },
+          "duration" : 1193000,
+          "creationDate" : 1419232141711,
+          "lastModified" : 1419232175785,
+          "workflow" : "PUBLISHED",
+          "owner" : "RADIOBOX",
+          "urn" : "urn:vpro:media:location:45152958"
+        } ],
+        "images" : [ {
+          "title" : "Schermafbeelding 2014-12-22 om 07.53.58.png",
+          "description" : "Ambachtslieden",
+          "imageUri" : "urn:vpro:image:377119",
+          "creationDate" : 1419232173289,
+          "lastModified" : 1419232175784,
+          "workflow" : "PUBLISHED",
+          "owner" : "RADIOBOX",
+          "type" : "PICTURE",
+          "highlighted" : false,
+          "urn" : "urn:vpro:media:image:45152956"
+        } ],
+        "workflow" : "PUBLISHED",
+        "start" : 787000,
+        "urnRef" : "urn:vpro:media:program:43764583",
+        "midRef" : "RBX_BNN_556651",
+        "type" : "SEGMENT",
+        "avType" : "AUDIO"
+      }, {
+        "objectType" : "segment",
+        "mid" : "RBX_BNN_741653",
+        "creationDate" : 1419232486606,
+        "lastModified" : 1419232486729,
+        "sortDate" : 1419120000000,
+        "urn" : "urn:vpro:media:segment:45152994",
+        "embeddable" : true,
+        "crids" : [ "crid://audiofragment.radiobox2/169312" ],
+        "broadcasters" : [ {
+          "id" : "BNN",
+          "value" : "BNN"
+        } ],
+        "titles" : [ {
+          "value" : "Memorabele dagen",
+          "owner" : "RADIOBOX",
+          "type" : "MAIN"
+        } ],
+        "descriptions" : [ {
+          "value" : "Het is alweer precies een jaar geleden dat Thijs voor de eerste keer De Wereld van BNN presenteerde. Een memorabele dag. Maar wat zijn typische memorabele dagen in Amerika, Macedonië, Spanje en Australië?",
+          "owner" : "RADIOBOX",
+          "type" : "MAIN"
+        } ],
+        "genres" : [ ],
+        "countries" : [ ],
+        "languages" : [ ],
+        "duration" : 1085000,
+        "descendantOf" : [ {
+          "midRef" : "RBX_S_BNN_553882",
+          "urnRef" : "urn:vpro:media:group:33646309",
+          "type" : "SERIES"
+        }, {
+          "midRef" : "RBX_BNN_556651",
+          "urnRef" : "urn:vpro:media:program:43764583",
+          "type" : "BROADCAST"
+        } ],
+        "locations" : [ {
+          "programUrl" : "http://radiobox2.omroep.nl/audiofragment/file/169312/fragment.mp3",
+          "avAttributes" : {
+            "avFileFormat" : "MP3"
+          },
+          "duration" : 1085000,
+          "creationDate" : 1419232443427,
+          "lastModified" : 1419232486731,
+          "workflow" : "PUBLISHED",
+          "owner" : "RADIOBOX",
+          "urn" : "urn:vpro:media:location:45152998"
+        } ],
+        "images" : [ {
+          "title" : "Schermafbeelding 2014-12-22 om 08.02.11.png",
+          "description" : "Memorabele dagen",
+          "imageUri" : "urn:vpro:image:377121",
+          "creationDate" : 1419232484167,
+          "lastModified" : 1419232486730,
+          "workflow" : "PUBLISHED",
+          "owner" : "RADIOBOX",
+          "type" : "PICTURE",
+          "highlighted" : false,
+          "urn" : "urn:vpro:media:image:45152996"
+        } ],
+        "workflow" : "PUBLISHED",
+        "start" : 2125000,
+        "urnRef" : "urn:vpro:media:program:43764583",
+        "midRef" : "RBX_BNN_556651",
+        "type" : "SEGMENT",
+        "avType" : "AUDIO"
+      }, {
+        "objectType" : "segment",
+        "mid" : "RBX_BNN_741655",
+        "creationDate" : 1419232779157,
+        "lastModified" : 1419232779263,
+        "sortDate" : 1419120000000,
+        "urn" : "urn:vpro:media:segment:45153013",
+        "embeddable" : true,
+        "crids" : [ "crid://audiofragment.radiobox2/169313" ],
+        "broadcasters" : [ {
+          "id" : "BNN",
+          "value" : "BNN"
+        } ],
+        "titles" : [ {
+          "value" : "Kerst tradities",
+          "owner" : "RADIOBOX",
+          "type" : "MAIN"
+        } ],
+        "descriptions" : [ {
+          "value" : "Gezellig met zijn allen eten, familiebezoekjes, kerstboom.. Echte kersttradities hier in Nederland. Maar wat zijn nou kersttradities in Peru, Denemarken en Amerika?",
+          "owner" : "RADIOBOX",
+          "type" : "MAIN"
+        } ],
+        "genres" : [ ],
+        "countries" : [ ],
+        "languages" : [ ],
+        "duration" : 1197000,
+        "descendantOf" : [ {
+          "midRef" : "RBX_S_BNN_553882",
+          "urnRef" : "urn:vpro:media:group:33646309",
+          "type" : "SERIES"
+        }, {
+          "midRef" : "RBX_BNN_556651",
+          "urnRef" : "urn:vpro:media:program:43764583",
+          "type" : "BROADCAST"
+        } ],
+        "locations" : [ {
+          "programUrl" : "http://radiobox2.omroep.nl/audiofragment/file/169313/fragment.mp3",
+          "avAttributes" : {
+            "avFileFormat" : "MP3"
+          },
+          "duration" : 1197000,
+          "creationDate" : 1419232744300,
+          "lastModified" : 1419232779265,
+          "workflow" : "PUBLISHED",
+          "owner" : "RADIOBOX",
+          "urn" : "urn:vpro:media:location:45153017"
+        } ],
+        "images" : [ {
+          "title" : "Schermafbeelding 2014-12-22 om 08.07.53.png",
+          "description" : "Kerst tradities",
+          "imageUri" : "urn:vpro:image:377125",
+          "creationDate" : 1419232776555,
+          "lastModified" : 1419232779264,
+          "workflow" : "PUBLISHED",
+          "owner" : "RADIOBOX",
+          "type" : "PICTURE",
+          "highlighted" : false,
+          "urn" : "urn:vpro:media:image:45153015"
+        } ],
+        "workflow" : "PUBLISHED",
+        "start" : 4259000,
+        "urnRef" : "urn:vpro:media:program:43764583",
+        "midRef" : "RBX_BNN_556651",
+        "type" : "SEGMENT",
+        "avType" : "AUDIO"
+      }, {
+        "objectType" : "segment",
+        "mid" : "RBX_BNN_741657",
+        "creationDate" : 1419233081284,
+        "lastModified" : 1419233081411,
+        "sortDate" : 1419120000000,
+        "urn" : "urn:vpro:media:segment:45153049",
+        "embeddable" : true,
+        "crids" : [ "crid://audiofragment.radiobox2/169314" ],
+        "broadcasters" : [ {
+          "id" : "BNN",
+          "value" : "BNN"
+        } ],
+        "titles" : [ {
+          "value" : "Bijzondere verboden",
+          "owner" : "RADIOBOX",
+          "type" : "MAIN"
+        } ],
+        "descriptions" : [ {
+          "value" : "Een streng islamitische man in Londen mag niet meer vrijen met zijn gehandicapte vrouw. Een verbod. Wat zijn nou bijzondere verboden in Peru, Denemarken en Amerika?",
+          "owner" : "RADIOBOX",
+          "type" : "MAIN"
+        } ],
+        "genres" : [ ],
+        "countries" : [ ],
+        "languages" : [ ],
+        "duration" : 1054000,
+        "descendantOf" : [ {
+          "midRef" : "RBX_S_BNN_553882",
+          "urnRef" : "urn:vpro:media:group:33646309",
+          "type" : "SERIES"
+        }, {
+          "midRef" : "RBX_BNN_556651",
+          "urnRef" : "urn:vpro:media:program:43764583",
+          "type" : "BROADCAST"
+        } ],
+        "locations" : [ {
+          "programUrl" : "http://radiobox2.omroep.nl/audiofragment/file/169314/fragment.mp3",
+          "avAttributes" : {
+            "avFileFormat" : "MP3"
+          },
+          "duration" : 1054000,
+          "creationDate" : 1419233044663,
+          "lastModified" : 1419233081413,
+          "workflow" : "PUBLISHED",
+          "owner" : "RADIOBOX",
+          "urn" : "urn:vpro:media:location:45153053"
+        } ],
+        "images" : [ {
+          "title" : "Schermafbeelding 2014-12-22 om 08.13.39.png",
+          "description" : "Bijzondere verboden",
+          "imageUri" : "urn:vpro:image:377126",
+          "creationDate" : 1419233078602,
+          "lastModified" : 1419233081412,
+          "workflow" : "PUBLISHED",
+          "owner" : "RADIOBOX",
+          "type" : "PICTURE",
+          "highlighted" : false,
+          "urn" : "urn:vpro:media:image:45153051"
+        } ],
+        "workflow" : "PUBLISHED",
+        "start" : 5939000,
+        "urnRef" : "urn:vpro:media:program:43764583",
+        "midRef" : "RBX_BNN_556651",
+        "type" : "SEGMENT",
+        "avType" : "AUDIO"
+      } ],
+      "type" : "BROADCAST",
+      "avType" : "AUDIO"
+    }
+  }, {
+    "score" : 17.35127,
+    "highlights" : [ ],
+    "result" : {
+      "objectType" : "program",
+      "mid" : "RBX_BNN_641293",
+      "creationDate" : 1412601938048,
+      "lastModified" : 1419001482234,
+      "sortDate" : 1418860800000,
+      "urn" : "urn:vpro:media:program:43956309",
+      "embeddable" : true,
+      "episodeOf" : [ {
+        "midRef" : "POMS_S_BNN_457755",
+        "urnRef" : "urn:vpro:media:group:34327359",
+        "type" : "SERIES",
+        "index" : 1,
+        "highlighted" : false,
+        "added" : 1412601938154
+      } ],
+      "crids" : [ "crid://broadcast.radiobox2/295291" ],
+      "broadcasters" : [ {
+        "id" : "BNN",
+        "value" : "BNN"
+      } ],
+      "titles" : [ {
+        "value" : "Thijs",
+        "owner" : "RADIOBOX",
+        "type" : "MAIN"
+      } ],
+      "descriptions" : [ {
+        "value" : "Thijs Maalderink in de nacht. Met onder andere: het razendsnelle spel Matthijs Draait Door, de Muziekrecensie van de Straat en Praatje Praatje!",
+        "owner" : "RADIOBOX",
+        "type" : "MAIN"
+      } ],
+      "genres" : [ ],
+      "countries" : [ ],
+      "languages" : [ ],
+      "duration" : 10800000,
+      "credits" : [ {
+        "givenName" : "Thijs",
+        "familyName" : "Maalderink",
+        "role" : "PRESENTER"
+      } ],
+      "descendantOf" : [ {
+        "midRef" : "POMS_S_BNN_457755",
+        "urnRef" : "urn:vpro:media:group:34327359",
+        "type" : "SERIES"
+      } ],
+      "websites" : [ {
+        "value" : "http://3fm.nl/thijs"
+      } ],
+      "locations" : [ {
+        "programUrl" : "http://download.omroep.nl/audiologging/r3/2014/12/18/0100_0400_thijs_20141218.mp3",
+        "avAttributes" : {
+          "avFileFormat" : "MP3"
+        },
+        "duration" : 10800000,
+        "creationDate" : 1418872744309,
+        "lastModified" : 1418872778104,
+        "workflow" : "PUBLISHED",
+        "owner" : "RADIOBOX",
+        "urn" : "urn:vpro:media:location:45117518"
+      } ],
+      "scheduleEvents" : [ {
+        "start" : 1418860800000,
+        "duration" : 10800000,
+        "poProgID" : "RBX_BNN_641293",
+        "channel" : "RAD3",
+        "urnRef" : "urn:vpro:media:program:43956309",
+        "midRef" : "RBX_BNN_641293"
+      } ],
+      "images" : [ {
+        "title" : "Thijs Maalderink",
+        "description" : "Thijs",
+        "imageUri" : "urn:vpro:image:292548",
+        "creationDate" : 1412601935149,
+        "lastModified" : 1412601938054,
+        "workflow" : "PUBLISHED",
+        "owner" : "RADIOBOX",
+        "type" : "PICTURE",
+        "highlighted" : false,
+        "urn" : "urn:vpro:media:image:43956311"
+      } ],
+      "workflow" : "PUBLISHED",
+      "segments" : [ {
+        "objectType" : "segment",
+        "mid" : "RBX_BNN_740306",
+        "creationDate" : 1419001481999,
+        "lastModified" : 1419001482230,
+        "sortDate" : 1418860800000,
+        "urn" : "urn:vpro:media:segment:45139007",
+        "embeddable" : true,
+        "crids" : [ "crid://audiofragment.radiobox2/168987" ],
+        "broadcasters" : [ {
+          "id" : "BNN",
+          "value" : "BNN"
+        } ],
+        "titles" : [ {
+          "value" : "Jaaroverzicht: De Minst Trending Topics van 2014",
+          "owner" : "RADIOBOX",
+          "type" : "MAIN"
+        } ],
+        "genres" : [ ],
+        "countries" : [ ],
+        "languages" : [ ],
+        "duration" : 100000,
+        "descendantOf" : [ {
+          "midRef" : "POMS_S_BNN_457755",
+          "urnRef" : "urn:vpro:media:group:34327359",
+          "type" : "SERIES"
+        }, {
+          "midRef" : "RBX_BNN_641293",
+          "urnRef" : "urn:vpro:media:program:43956309",
+          "type" : "BROADCAST"
+        } ],
+        "locations" : [ {
+          "programUrl" : "http://radiobox2.omroep.nl/audiofragment/file/168987/fragment.mp3",
+          "avAttributes" : {
+            "avFileFormat" : "MP3"
+          },
+          "duration" : 100000,
+          "creationDate" : 1419001444921,
+          "lastModified" : 1419001482231,
+          "workflow" : "PUBLISHED",
+          "owner" : "RADIOBOX",
+          "urn" : "urn:vpro:media:location:45139009"
+        } ],
+        "workflow" : "PUBLISHED",
+        "start" : 6565000,
+        "urnRef" : "urn:vpro:media:program:43956309",
+        "midRef" : "RBX_BNN_641293",
+        "type" : "SEGMENT",
+        "avType" : "AUDIO"
+      } ],
+      "type" : "BROADCAST",
+      "avType" : "AUDIO"
+    }
+  } ]
+}

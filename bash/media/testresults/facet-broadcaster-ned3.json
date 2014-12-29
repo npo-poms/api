@@ -1,0 +1,290 @@
+{
+  "facets" : {
+    "broadcasters" : [ {
+      "count" : 86989,
+      "id" : "NOS",
+      "value" : "NOS"
+    }, {
+      "count" : 84562,
+      "id" : "VPRO",
+      "value" : "VPRO"
+    }, {
+      "count" : 59973,
+      "id" : "NCRV",
+      "value" : "NCRV"
+    }, {
+      "count" : 55722,
+      "id" : "NTR",
+      "value" : "NTR"
+    }, {
+      "count" : 45859,
+      "id" : "KRO",
+      "value" : "KRO"
+    }, {
+      "count" : 42995,
+      "id" : "EO",
+      "value" : "EO"
+    }, {
+      "count" : 37947,
+      "id" : "MAX",
+      "value" : "MAX"
+    }, {
+      "count" : 35012,
+      "id" : "VARA",
+      "value" : "VARA"
+    }, {
+      "count" : 32150,
+      "id" : "AVRO",
+      "value" : "AVRO"
+    }, {
+      "count" : 23398,
+      "id" : "TROS",
+      "value" : "TROS"
+    }, {
+      "count" : 22413,
+      "id" : "BNN",
+      "value" : "BNN"
+    }, {
+      "count" : 19358,
+      "id" : "NPS",
+      "value" : "NPS"
+    }, {
+      "count" : 10634,
+      "id" : "TELE",
+      "value" : "Teleac"
+    }, {
+      "count" : 10110,
+      "id" : "WNL",
+      "value" : "WNL"
+    }, {
+      "count" : 10066,
+      "id" : "RTUT",
+      "value" : "RTV Utrecht"
+    }, {
+      "count" : 8129,
+      "id" : "POWN",
+      "value" : "PowNed"
+    }, {
+      "count" : 7565,
+      "id" : "AVTR",
+      "value" : "AVROTROS"
+    }, {
+      "count" : 6705,
+      "id" : "ZAPP",
+      "value" : "NPO Zapp"
+    }, {
+      "count" : 5804,
+      "id" : "IKON",
+      "value" : "IKON"
+    }, {
+      "count" : 4978,
+      "id" : "ROFR",
+      "value" : "Omrop Fryslân"
+    }, {
+      "count" : 4832,
+      "id" : "L1",
+      "value" : "L1"
+    }, {
+      "count" : 4783,
+      "id" : "RTOO",
+      "value" : "RTV Oost"
+    }, {
+      "count" : 4219,
+      "id" : "RKK",
+      "value" : "RKK"
+    }, {
+      "count" : 3896,
+      "id" : "OBBT",
+      "value" : "Omroep Brabant"
+    } ]
+  },
+  "selectedFacets" : { },
+  "total" : 623411,
+  "offset" : 0,
+  "max" : 2,
+  "items" : [ {
+    "score" : 5.0,
+    "highlights" : [ ],
+    "result" : {
+      "objectType" : "group",
+      "mid" : "POMS_S_VPRO_157807",
+      "creationDate" : 1352295543264,
+      "lastModified" : 1352295543579,
+      "urn" : "urn:vpro:media:group:16055794",
+      "embeddable" : true,
+      "broadcasters" : [ {
+        "id" : "VPRO",
+        "value" : "VPRO"
+      } ],
+      "titles" : [ {
+        "value" : "WOORD 27 oktober 2012: UUR 1",
+        "owner" : "BROADCASTER",
+        "type" : "MAIN"
+      } ],
+      "descriptions" : [ {
+        "value" : "Het Radiohistorisch Amsterdam",
+        "owner" : "BROADCASTER",
+        "type" : "MAIN"
+      } ],
+      "genres" : [ ],
+      "countries" : [ ],
+      "languages" : [ ],
+      "predictions" : [ {
+        "state" : "REALIZED",
+        "platform" : "INTERNETVOD"
+      } ],
+      "locations" : [ {
+        "programUrl" : "http://audio.omroep.nl/radio1/vpro/woord/20121027-02.mp3",
+        "avAttributes" : {
+          "avFileFormat" : "MP3"
+        },
+        "creationDate" : 1352295543460,
+        "lastModified" : 1352295543578,
+        "workflow" : "PUBLISHED",
+        "owner" : "BROADCASTER",
+        "urn" : "urn:vpro:media:location:16055798"
+      } ],
+      "workflow" : "PUBLISHED",
+      "type" : "SERIES",
+      "isOrdered" : true,
+      "avType" : "AUDIO"
+    }
+  }, {
+    "score" : 5.0,
+    "highlights" : [ ],
+    "result" : {
+      "objectType" : "group",
+      "mid" : "POMS_S_NTR_470249",
+      "creationDate" : 1390232343068,
+      "lastModified" : 1393580536315,
+      "urn" : "urn:vpro:media:group:35773765",
+      "embeddable" : true,
+      "broadcasters" : [ {
+        "id" : "NTR",
+        "value" : "NTR"
+      } ],
+      "titles" : [ {
+        "value" : "Dokter Corrie",
+        "owner" : "BROADCASTER",
+        "type" : "MAIN"
+      }, {
+        "value" : "Dokter Corrie ",
+        "owner" : "BROADCASTER",
+        "type" : "LEXICO"
+      } ],
+      "descriptions" : [ {
+        "value" : "Dokter Corrie, hilarisch vertolkt door Martine Sandifort, praat met allerlei bekende Nederlanders over hoe zij de puberteit hebben ervaren. Elke vrijdag in het Schooltv-weekjournaal om 11:00 uur bij Zapp.",
+        "owner" : "BROADCASTER",
+        "type" : "MAIN"
+      }, {
+        "value" : "Dokter Corrie, hilarisch vertolkt door Martine Sandifort, praat met allerlei bekende Nederlanders over hoe zij de puberteit hebben ervaren. Elke vrijdag in het Schooltv-weekjournaal om 11:00 uur bij Zapp.",
+        "owner" : "BROADCASTER",
+        "type" : "SHORT"
+      } ],
+      "genres" : [ {
+        "id" : "3.0.1.1",
+        "terms" : [ "Jeugd" ]
+      } ],
+      "tags" : [ "dokter", "lichaam", "pubertijd", "SchoolTV" ],
+      "countries" : [ ],
+      "languages" : [ ],
+      "descendantOf" : [ {
+        "midRef" : "WO_NTR_479456",
+        "urnRef" : "urn:vpro:media:program:36696799",
+        "type" : "CLIP"
+      }, {
+        "midRef" : "WO_NTR_479458",
+        "urnRef" : "urn:vpro:media:program:36696873",
+        "type" : "CLIP"
+      } ],
+      "memberOf" : [ {
+        "midRef" : "WO_NTR_479456",
+        "urnRef" : "urn:vpro:media:program:36696799",
+        "type" : "CLIP",
+        "index" : 1,
+        "highlighted" : false,
+        "added" : 1392045882985
+      }, {
+        "midRef" : "WO_NTR_479458",
+        "urnRef" : "urn:vpro:media:program:36696873",
+        "type" : "CLIP",
+        "index" : 1,
+        "highlighted" : false,
+        "added" : 1392721302269
+      } ],
+      "ageRating" : "12",
+      "websites" : [ {
+        "value" : "http://www.schooltv.nl/weekjournaal/"
+      } ],
+      "locations" : [ {
+        "programUrl" : "http://cgi.omroep.nl/cgi-bin/streams?/ntr/schooltv/weekjournaal/video/WJCorrieGeraldine.wmv",
+        "avAttributes" : {
+          "bitrate" : 1000000,
+          "avFileFormat" : "WM"
+        },
+        "creationDate" : 1391676858971,
+        "lastModified" : 1391676859133,
+        "workflow" : "PUBLISHED",
+        "owner" : "BROADCASTER",
+        "urn" : "urn:vpro:media:location:36686887"
+      } ],
+      "images" : [ {
+        "title" : "dokter corrie schooltv",
+        "description" : "copyright_Lilian_van_Rooij",
+        "imageUri" : "urn:vpro:image:367113",
+        "height" : 1525,
+        "width" : 2287,
+        "creationDate" : 1390558544610,
+        "lastModified" : 1390558544679,
+        "workflow" : "PUBLISHED",
+        "owner" : "BROADCASTER",
+        "type" : "PICTURE",
+        "highlighted" : false,
+        "urn" : "urn:vpro:media:image:35995269"
+      }, {
+        "title" : "Dokter Corrie 2",
+        "description" : "Dokter Corrie 2",
+        "imageUri" : "urn:vpro:image:396081",
+        "height" : 140,
+        "width" : 240,
+        "creationDate" : 1391443689030,
+        "lastModified" : 1391443691069,
+        "workflow" : "PUBLISHED",
+        "owner" : "BROADCASTER",
+        "type" : "PICTURE",
+        "highlighted" : false,
+        "urn" : "urn:vpro:media:image:36505735"
+      }, {
+        "title" : "Dokter Corrie",
+        "description" : "Dokter Corrie",
+        "imageUri" : "urn:vpro:image:398472",
+        "height" : 140,
+        "width" : 240,
+        "creationDate" : 1391507789813,
+        "lastModified" : 1391507789923,
+        "workflow" : "PUBLISHED",
+        "owner" : "BROADCASTER",
+        "type" : "PICTURE",
+        "highlighted" : false,
+        "urn" : "urn:vpro:media:image:36566104"
+      }, {
+        "title" : "dokter corrie",
+        "description" : "dokter corrie schooltv",
+        "imageUri" : "urn:vpro:image:358612",
+        "height" : 3150,
+        "width" : 4724,
+        "creationDate" : 1390298345952,
+        "lastModified" : 1390298346010,
+        "workflow" : "PUBLISHED",
+        "owner" : "BROADCASTER",
+        "type" : "PICTURE",
+        "highlighted" : false,
+        "urn" : "urn:vpro:media:image:35806459"
+      } ],
+      "workflow" : "PUBLISHED",
+      "type" : "SERIES",
+      "isOrdered" : true,
+      "avType" : "VIDEO"
+    }
+  } ]
+}

@@ -1,0 +1,342 @@
+{
+  "total" : 44,
+  "offset" : 0,
+  "max" : 2,
+  "items" : [ {
+    "score" : 38.738155,
+    "highlights" : [ ],
+    "result" : {
+      "objectType" : "program",
+      "mid" : "POMS_AVRO_361999",
+      "creationDate" : 1369751743494,
+      "lastModified" : 1394968168172,
+      "sortDate" : 1394964000000,
+      "urn" : "urn:vpro:media:program:26077974",
+      "embeddable" : true,
+      "episodeOf" : [ {
+        "midRef" : "AUTO_HETZONDAGOCHTENDCONCERT",
+        "urnRef" : "urn:vpro:media:group:13405628",
+        "type" : "SERIES",
+        "index" : 1,
+        "highlighted" : false,
+        "added" : 1369751745171
+      } ],
+      "crids" : [ "crid://broadcast.radiobox2/243051" ],
+      "broadcasters" : [ {
+        "id" : "AVRO",
+        "value" : "AVRO"
+      } ],
+      "titles" : [ {
+        "value" : "Het Zondagochtend Concert",
+        "owner" : "RADIOBOX",
+        "type" : "MAIN"
+      } ],
+      "descriptions" : [ {
+        "value" : "Het Zondagochtend Concert is een serie concerten met toegankelijke muziek, rechtstreeks om 11.00 uur vanuit het Concertgebouw in Amsterdam. Georganiseerd door de AVRO en het Concertgebouw en mede mogelijk gemaakt door Menzis. Presentatie: Hans van den Boom. Met uw kaartje voor Het Zondagochtend Concert kunt u gratis naar Spiegelzaal, het voorprogramma (10.00-10.50 uur) met korte live optredens.",
+        "owner" : "BROADCASTER",
+        "type" : "MAIN"
+      }, {
+        "value" : "Le Concert OlympiqueJan Caeyers, dirigentLenneke Ruiten, sopraanFrancois-Frédéric Guy, piano\n1.  W.A. Mozart  -  Ouverture 'La Clemenza di Tito'2.  L. v. Beethoven  -  Concertaria 'Ah, perfido!'3.  L. v. Beethoven  -  Tweede pianoconcert, op. 19",
+        "owner" : "RADIOBOX",
+        "type" : "MAIN"
+      }, {
+        "value" : "Het Zondagochtend Concert is een serie concerten met toegankelijke muziek, rechtstreeks om 11.00 uur vanuit het Concertgebouw in Amsterdam. Georganiseerd door de AVRO en het Concertgebouw en mede mogelijk gemaakt door Menzis. Presentatie: Hans van den Boom. Met uw kaartje voor Het Zondagochtend Concert kunt u gratis naar Spiegelzaal, het voorprogramma (10.00-10.50 uur) met korte live optredens.",
+        "owner" : "BROADCASTER",
+        "type" : "SHORT"
+      } ],
+      "genres" : [ {
+        "id" : "3.0.1.5",
+        "terms" : [ "Muziek" ]
+      }, {
+        "id" : "3.0.1.5.16",
+        "terms" : [ "Muziek", "Muziek klassiek" ]
+      } ],
+      "tags" : [ "AVRO", "Hans van den Boom", "klassiek", "klassieke muziek", "Zondagochtend Concert" ],
+      "countries" : [ ],
+      "languages" : [ ],
+      "duration" : 3600000,
+      "descendantOf" : [ {
+        "midRef" : "AUTO_HETZONDAGOCHTENDCONCERT",
+        "urnRef" : "urn:vpro:media:group:13405628",
+        "type" : "SERIES"
+      } ],
+      "email" : [ "klassiek@avrotros.nl" ],
+      "websites" : [ {
+        "value" : "http://www.radio4.nl/zondagochtendconcert"
+      } ],
+      "locations" : [ {
+        "programUrl" : "http://download.omroep.nl/audiologging/r4/2014/03/16/1100_1200_het_zondagochtend_concert_20140316.mp3",
+        "avAttributes" : {
+          "avFileFormat" : "MP3"
+        },
+        "duration" : 3600000,
+        "creationDate" : 1394968120574,
+        "lastModified" : 1394968145336,
+        "workflow" : "PUBLISHED",
+        "owner" : "RADIOBOX",
+        "urn" : "urn:vpro:media:location:38727422"
+      } ],
+      "scheduleEvents" : [ {
+        "start" : 1394964000000,
+        "duration" : 4500000,
+        "poProgID" : "POMS_AVRO_361999",
+        "channel" : "RAD4",
+        "urnRef" : "urn:vpro:media:program:26077974",
+        "midRef" : "POMS_AVRO_361999"
+      } ],
+      "images" : [ {
+        "title" : "Hans-van-den-Boom.jpg",
+        "description" : "Het Zondagochtend Concert",
+        "imageUri" : "urn:vpro:image:146910",
+        "creationDate" : 1369751742024,
+        "lastModified" : 1369751743608,
+        "workflow" : "PUBLISHED",
+        "owner" : "RADIOBOX",
+        "type" : "PICTURE",
+        "highlighted" : false,
+        "urn" : "urn:vpro:media:image:26077976"
+      } ],
+      "workflow" : "PUBLISHED",
+      "type" : "BROADCAST",
+      "avType" : "AUDIO"
+    }
+  }, {
+    "score" : 38.730644,
+    "highlights" : [ ],
+    "result" : {
+      "objectType" : "program",
+      "mid" : "AVRO_1656036",
+      "creationDate" : 1390369756611,
+      "lastModified" : 1395923170565,
+      "hasSubtitles" : true,
+      "sortDate" : 1392500523000,
+      "urn" : "urn:vpro:media:program:35846134",
+      "embeddable" : true,
+      "episodeOf" : [ {
+        "midRef" : "AVRO_1655995",
+        "urnRef" : "urn:vpro:media:group:34582358",
+        "type" : "SEASON",
+        "index" : 5,
+        "highlighted" : false,
+        "added" : 1390369756748
+      } ],
+      "broadcasters" : [ {
+        "id" : "AVRO",
+        "value" : "AVRO"
+      } ],
+      "regions" : [ "NL" ],
+      "titles" : [ {
+        "value" : "Opium",
+        "owner" : "MIS",
+        "type" : "MAIN"
+      }, {
+        "value" : "Opium",
+        "owner" : "WHATS_ON",
+        "type" : "MAIN"
+      } ],
+      "descriptions" : [ {
+        "value" : "Culturele live talkshow met commentaar op het actuele culturele nieuws en bijzondere gasten uit de wereld van theater, film en literatuur en aandacht voor beeldende kunst en live jazz.",
+        "owner" : "MIS",
+        "type" : "MAIN"
+      }, {
+        "value" : "Culturele live talkshow met commentaar op het actuele culturele nieuws en bijzondere gasten uit de wereld van theater, film, literatuur, beeldende kunst en muziek. Presentatie Cornald Maas.",
+        "owner" : "WHATS_ON",
+        "type" : "MAIN"
+      }, {
+        "value" : "Zaterdag 15 februari in Opium: de 3JS, acteurs Carine Crutzen, Marie-Louise Stheins, Renée Fokker en Tim Teunissen, journalist Wouke van Scherrenburg en violiste Lisa Jacobs!",
+        "owner" : "BROADCASTER",
+        "type" : "SHORT"
+      }, {
+        "value" : "Culturele live talkshow met commentaar op het actuele culturele nieuws en bijzondere gasten uit de wereld van theater, film en literatuur en aandacht voor beeldende kunst en live jazz.",
+        "owner" : "MIS",
+        "type" : "SHORT"
+      } ],
+      "genres" : [ {
+        "id" : "3.0.1.7.24",
+        "terms" : [ "Informatief", "Kunst/cultuur" ]
+      } ],
+      "tags" : [ "DeLaMar Theater", "klassieke muziek", "Muziek", "Theater", "Volendam" ],
+      "countries" : [ ],
+      "languages" : [ ],
+      "avAttributes" : {
+        "videoAttributes" : {
+          "color" : "BLACK_AND_WHITE_AND_COLOR",
+          "aspectRatio" : "16:9"
+        },
+        "audioAttributes" : {
+          "numberOfChannels" : 2
+        }
+      },
+      "duration" : 3000000,
+      "descendantOf" : [ {
+        "midRef" : "POMS_S_VPRO_171668",
+        "urnRef" : "urn:vpro:media:group:14683553",
+        "type" : "ARCHIVE"
+      }, {
+        "midRef" : "POMS_S_VPRO_170116",
+        "urnRef" : "urn:vpro:media:group:14921818",
+        "type" : "ARCHIVE"
+      }, {
+        "midRef" : "POMS_S_VPRO_170138",
+        "urnRef" : "urn:vpro:media:group:14921822",
+        "type" : "ARCHIVE"
+      }, {
+        "midRef" : "POMS_S_VPRO_218686",
+        "urnRef" : "urn:vpro:media:group:14921825",
+        "type" : "ARCHIVE"
+      }, {
+        "midRef" : "POMS_S_VPRO_117474",
+        "urnRef" : "urn:vpro:media:group:20347947",
+        "type" : "PLAYLIST"
+      }, {
+        "midRef" : "AVRO_1655995",
+        "urnRef" : "urn:vpro:media:group:34582358",
+        "type" : "SEASON"
+      }, {
+        "midRef" : "POMS_S_AVRO_501459",
+        "urnRef" : "urn:vpro:media:group:38230019",
+        "type" : "COLLECTION"
+      }, {
+        "midRef" : "POMS_S_AVRO_096997",
+        "urnRef" : "urn:vpro:media:group:4446737",
+        "type" : "SERIES"
+      } ],
+      "memberOf" : [ {
+        "midRef" : "POMS_S_VPRO_170116",
+        "urnRef" : "urn:vpro:media:group:14921818",
+        "type" : "ARCHIVE",
+        "index" : 361,
+        "highlighted" : false,
+        "added" : 1392284016877
+      }, {
+        "midRef" : "POMS_S_VPRO_218686",
+        "urnRef" : "urn:vpro:media:group:14921825",
+        "type" : "ARCHIVE",
+        "index" : 518,
+        "highlighted" : false,
+        "added" : 1392284017078
+      } ],
+      "predictions" : [ {
+        "state" : "REALIZED",
+        "platform" : "INTERNETVOD"
+      }, {
+        "state" : "REALIZED",
+        "publishStart" : 1392502620000,
+        "publishStop" : 1395958620000,
+        "platform" : "PLUSVOD"
+      } ],
+      "locations" : [ {
+        "programUrl" : "odip+http://odi.omroep.nl/video/adaptive/AVRO_1656036",
+        "avAttributes" : {
+          "avFileFormat" : "HASP"
+        },
+        "creationDate" : 1392504368475,
+        "lastModified" : 1392504368724,
+        "workflow" : "PUBLISHED",
+        "owner" : "CERES",
+        "platform" : "INTERNETVOD",
+        "urn" : "urn:vpro:media:location:37118326"
+      }, {
+        "programUrl" : "odi+http://odi.omroep.nl/video/h264_sb/AVRO_1656036",
+        "avAttributes" : {
+          "bitrate" : 200000,
+          "avFileFormat" : "H264"
+        },
+        "creationDate" : 1392504068678,
+        "lastModified" : 1392504068956,
+        "workflow" : "PUBLISHED",
+        "owner" : "CERES",
+        "platform" : "INTERNETVOD",
+        "urn" : "urn:vpro:media:location:37118321"
+      }, {
+        "programUrl" : "odi+http://odi.omroep.nl/video/h264_bb/AVRO_1656036",
+        "avAttributes" : {
+          "bitrate" : 500000,
+          "avFileFormat" : "H264"
+        },
+        "creationDate" : 1392504068158,
+        "lastModified" : 1392504068412,
+        "workflow" : "PUBLISHED",
+        "owner" : "CERES",
+        "platform" : "INTERNETVOD",
+        "urn" : "urn:vpro:media:location:37118319"
+      }, {
+        "programUrl" : "odi+http://odi.omroep.nl/video/h264_std/AVRO_1656036",
+        "avAttributes" : {
+          "bitrate" : 1000000,
+          "avFileFormat" : "H264"
+        },
+        "creationDate" : 1392503767831,
+        "lastModified" : 1392503768131,
+        "workflow" : "PUBLISHED",
+        "owner" : "CERES",
+        "platform" : "INTERNETVOD",
+        "urn" : "urn:vpro:media:location:37118317"
+      }, {
+        "programUrl" : "sub+http//npoplus.nl/video/mpeg2_hr/AVRO_1656036",
+        "avAttributes" : {
+          "bitrate" : 3500000,
+          "avFileFormat" : "MPEG2"
+        },
+        "creationDate" : 1392503467786,
+        "lastModified" : 1392503468191,
+        "workflow" : "PUBLISHED",
+        "owner" : "CERES",
+        "platform" : "PLUSVOD",
+        "urn" : "urn:vpro:media:location:37118310"
+      } ],
+      "scheduleEvents" : [ {
+        "start" : 1392500523000,
+        "duration" : 2374000,
+        "poProgID" : "AVRO_1656036",
+        "channel" : "NED2",
+        "urnRef" : "urn:vpro:media:program:35846134",
+        "midRef" : "AVRO_1656036"
+      }, {
+        "start" : 1392850659000,
+        "duration" : 2375000,
+        "poProgID" : "AVRO_1656036",
+        "channel" : "NED2",
+        "urnRef" : "urn:vpro:media:program:35846134",
+        "midRef" : "AVRO_1656036"
+      } ],
+      "images" : [ {
+        "title" : "Opium",
+        "description" : "Zaterdag 15 februari in Opium: de 3JS, acteurs Carine Crutzen, Marie-Louise Stheins, Renée Fokker en Tim Teunissen, journalist Wouke van Scherrenburg en violiste Lisa Jacobs!",
+        "imageUri" : "urn:vpro:image:407638",
+        "creationDate" : 1392504315945,
+        "lastModified" : 1392504346836,
+        "workflow" : "PUBLISHED",
+        "owner" : "NEBO",
+        "type" : "STILL",
+        "highlighted" : false,
+        "urn" : "urn:vpro:media:image:37118322"
+      }, {
+        "title" : "Opium",
+        "description" : "Zaterdag 15 februari in Opium: de 3JS, acteurs Carine Crutzen, Marie-Louise Stheins, Renée Fokker en Tim Teunissen, journalist Wouke van Scherrenburg en violiste Lisa Jacobs!",
+        "imageUri" : "urn:vpro:image:407639",
+        "creationDate" : 1392504331195,
+        "lastModified" : 1392504346837,
+        "workflow" : "PUBLISHED",
+        "owner" : "NEBO",
+        "type" : "STILL",
+        "highlighted" : false,
+        "urn" : "urn:vpro:media:image:37118323"
+      }, {
+        "title" : "Opium",
+        "description" : "Zaterdag 15 februari in Opium: de 3JS, acteurs Carine Crutzen, Marie-Louise Stheins, Renée Fokker en Tim Teunissen, journalist Wouke van Scherrenburg en violiste Lisa Jacobs!",
+        "imageUri" : "urn:vpro:image:407640",
+        "creationDate" : 1392504346603,
+        "lastModified" : 1392504346837,
+        "workflow" : "PUBLISHED",
+        "owner" : "NEBO",
+        "type" : "STILL",
+        "highlighted" : false,
+        "urn" : "urn:vpro:media:image:37118324"
+      } ],
+      "workflow" : "PUBLISHED",
+      "type" : "BROADCAST",
+      "avType" : "VIDEO"
+    }
+  } ]
+}

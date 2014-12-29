@@ -21,8 +21,11 @@ date() {
 }
 
 authenticateHeader() {
-    #$1: date $2: uri
+    #$1: date $2: uri $3 parameters
     message="origin:$origin,x-npo-date:$1,uri:$2"
+    for param in $3 ; do
+        message="$message,${param//=/:}"
+    done
     # should be possible with openssl, but I can't get it working. This is in python
     base64=`python -c "import hmac, hashlib,base64,sys; print base64.b64encode(hmac.new(b\"$secret\", msg=\"$message\", digestmod=hashlib.sha256).digest())"`
     echo "NPO $apiKey:$base64"

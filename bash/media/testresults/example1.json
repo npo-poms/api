@@ -1,0 +1,276 @@
+{
+  "total" : 827,
+  "offset" : 0,
+  "max" : 2,
+  "items" : [ {
+    "score" : 7.105594,
+    "highlights" : [ ],
+    "result" : {
+      "objectType" : "program",
+      "mid" : "POMS_VPRO_1224859",
+      "creationDate" : 1334385256709,
+      "lastModified" : 1400833386908,
+      "sortDate" : 1335608100000,
+      "urn" : "urn:vpro:media:program:13631936",
+      "embeddable" : true,
+      "episodeOf" : [ {
+        "midRef" : "AUTO_ARGOS",
+        "urnRef" : "urn:vpro:media:group:73167",
+        "type" : "SERIES",
+        "index" : 1,
+        "highlighted" : false,
+        "added" : 1400833386477
+      } ],
+      "crids" : [ "crid://tmp.program.omroep.nl/14135648", "crid://broadcast.radiobox2/59469" ],
+      "broadcasters" : [ {
+        "id" : "VPRO",
+        "value" : "VPRO"
+      }, {
+        "id" : "HUMA",
+        "value" : "HUMAN"
+      }, {
+        "id" : "VARA",
+        "value" : "VARA"
+      } ],
+      "titles" : [ {
+        "value" : "Argos",
+        "owner" : "RADIOBOX",
+        "type" : "MAIN"
+      }, {
+        "value" : "Argos",
+        "owner" : "NEBO",
+        "type" : "MAIN"
+      }, {
+        "value" : "Argos",
+        "owner" : "MIS",
+        "type" : "MAIN"
+      } ],
+      "descriptions" : [ {
+        "value" : "Weinig controle vooraf op subsidie-aanvragers Een ondernemer die al twee keer failliet is gegaan krijgt toch voor een derde project 289.000 euro subsidie van de provincie en de gemeente.\nHoe kan dat? Kijken de overheden dan niet na aan wíe ze subsidie geven?\nUit onderzoek van de Rekenkamer bleek vorig jaar al dat er weinig tot niets te zeggen is over de werking en het effect van veel overheidssubsidies Omdat dat zeer gebrekkig worden geëvalueerd.\nMaar ook vooraf wordt er niet goed gekeken. Voordat de subsidie wordt toegekend blijkt de overheid nauwelijks de gangen van de subsidieaanvrager na te gaan.\nArgos over weinig controle op veel subsidies",
+        "owner" : "RADIOBOX",
+        "type" : "MAIN"
+      }, {
+        "value" : "Onderzoeksjournalistiek met onthullende reportages en met de nieuwsrubriek Onjoradio, waarin aandacht voor successen en mislukkingen bij journalistieke onderzoeksprojecten. www.onjo.nl.",
+        "owner" : "NEBO",
+        "type" : "MAIN"
+      }, {
+        "value" : "Onderzoeksjournalistiek met onthullende reportages en met de nieuwsrubriek Onjoradio, waarin aandacht voor successen en mislukkingen bij journalistieke onderzoeksprojecten. www.onjo.nl.",
+        "owner" : "MIS",
+        "type" : "MAIN"
+      }, {
+        "value" : "Onderzoeksjournalistiek met onthullende reportages en met de nieuwsrubriek Onjoradio, waarin aandacht voor successen en mislukkingen bij journalistieke onderzoeksprojecten. www.onjo.nl.",
+        "owner" : "NEBO",
+        "type" : "SHORT"
+      }, {
+        "value" : "Onderzoeksjournalistiek met onthullende reportages en met de nieuwsrubriek Onjoradio, waarin aandacht voor successen en mislukkingen bij journalistieke onderzoeksprojecten. www.onjo.nl.",
+        "owner" : "MIS",
+        "type" : "SHORT"
+      } ],
+      "genres" : [ ],
+      "countries" : [ ],
+      "languages" : [ ],
+      "duration" : 2700000,
+      "descendantOf" : [ {
+        "midRef" : "AUTO_ARGOS",
+        "urnRef" : "urn:vpro:media:group:73167",
+        "type" : "SERIES"
+      } ],
+      "email" : [ "argos@vpro.nl" ],
+      "websites" : [ {
+        "value" : "http://weblogs.vpro.nl/argos/"
+      } ],
+      "predictions" : [ {
+        "state" : "REALIZED",
+        "publishStart" : 1335613500000,
+        "platform" : "INTERNETVOD"
+      } ],
+      "locations" : [ {
+        "programUrl" : "http://cgi.omroep.nl/cgi-bin/streams?/radio1/vpro/argos/20120428-12.wma",
+        "avAttributes" : {
+          "bitrate" : 96000,
+          "avFileFormat" : "WM"
+        },
+        "duration" : 2700000,
+        "creationDate" : 1335551305436,
+        "lastModified" : 1335551306101,
+        "publishStart" : 1335613500000,
+        "workflow" : "PUBLISHED",
+        "owner" : "NEBO",
+        "urn" : "urn:vpro:media:location:13914897"
+      }, {
+        "programUrl" : "http://player.omroep.nl/?aflID=14135648",
+        "avAttributes" : {
+          "avFileFormat" : "HTML"
+        },
+        "duration" : 2700000,
+        "creationDate" : 1335551305436,
+        "lastModified" : 1335551306102,
+        "publishStart" : 1335613500000,
+        "workflow" : "PUBLISHED",
+        "owner" : "NEBO",
+        "urn" : "urn:vpro:media:location:13914899"
+      } ],
+      "scheduleEvents" : [ {
+        "start" : 1335608100000,
+        "duration" : 2700000,
+        "poProgID" : "POMS_VPRO_1224859",
+        "channel" : "RAD1",
+        "imi" : "imi:49362",
+        "urnRef" : "urn:vpro:media:program:13631936",
+        "midRef" : "POMS_VPRO_1224859"
+      } ],
+      "images" : [ {
+        "title" : "Argos",
+        "description" : "Argos",
+        "imageUri" : "urn:vpro:image:120779",
+        "creationDate" : 1363466187966,
+        "lastModified" : 1363466189489,
+        "workflow" : "PUBLISHED",
+        "owner" : "RADIOBOX",
+        "type" : "PICTURE",
+        "highlighted" : false,
+        "urn" : "urn:vpro:media:image:23133991"
+      } ],
+      "workflow" : "PUBLISHED",
+      "segments" : [ {
+        "objectType" : "segment",
+        "mid" : "POMS_VPRO_1224860",
+        "creationDate" : 1363466189384,
+        "lastModified" : 1400833383994,
+        "sortDate" : 1335608100000,
+        "urn" : "urn:vpro:media:segment:23133994",
+        "embeddable" : true,
+        "crids" : [ "crid://fragment.radiobox2/41048" ],
+        "broadcasters" : [ {
+          "id" : "VPRO",
+          "value" : "VPRO"
+        } ],
+        "titles" : [ {
+          "value" : "Argos: weinig controle op subsidie-aanvrager",
+          "owner" : "RADIOBOX",
+          "type" : "MAIN"
+        } ],
+        "descriptions" : [ {
+          "value" : "Een ondernemer die al twee keer failliet is gegaan krijgt toch voor een derde project 289.000 euro subsidie van de provincie en de gemeente.\nHoe kan dat? Kijken de overheden dan niet na aan wíe ze subsidie geven?\nUit onderzoek van de Rekenkamer bleek vorig jaar al dat er weinig tot niets te zeggen is over de werking en het effect van veel overheidssubsidies Omdat dat zeer gebrekkig worden geëvalueerd.\nMaar ook vooraf wordt er niet goed gekeken. Voordat de subsidie wordt toegekend blijkt de overheid nauwelijks de gangen van de subsidieaanvrager na te gaan.\nArgos over weinig controle op veel subsidies",
+          "owner" : "RADIOBOX",
+          "type" : "MAIN"
+        } ],
+        "genres" : [ ],
+        "countries" : [ ],
+        "languages" : [ ],
+        "duration" : 2567000,
+        "descendantOf" : [ {
+          "midRef" : "AUTO_ARGOS",
+          "urnRef" : "urn:vpro:media:group:73167",
+          "type" : "SERIES"
+        }, {
+          "midRef" : "POMS_VPRO_1224859",
+          "urnRef" : "urn:vpro:media:program:13631936",
+          "type" : "BROADCAST"
+        } ],
+        "predictions" : [ {
+          "state" : "REALIZED",
+          "platform" : "INTERNETVOD"
+        } ],
+        "locations" : [ {
+          "programUrl" : "http://radiobox2.omroep.nl/audiofragment/file/41048/fragment.mp3",
+          "avAttributes" : {
+            "avFileFormat" : "MP3"
+          },
+          "duration" : 2567000,
+          "creationDate" : 1363466185397,
+          "lastModified" : 1363466189492,
+          "workflow" : "PUBLISHED",
+          "owner" : "RADIOBOX",
+          "urn" : "urn:vpro:media:location:23133996"
+        } ],
+        "images" : [ {
+          "title" : "euro_papier_geld.jpg",
+          "description" : "Argos: weinig controle op subsidie-aanvrager",
+          "imageUri" : "urn:vpro:image:277705",
+          "creationDate" : 1400833381443,
+          "lastModified" : 1400833383993,
+          "workflow" : "PUBLISHED",
+          "owner" : "RADIOBOX",
+          "type" : "PICTURE",
+          "highlighted" : false,
+          "urn" : "urn:vpro:media:image:41764533"
+        } ],
+        "workflow" : "PUBLISHED",
+        "start" : 19000,
+        "urnRef" : "urn:vpro:media:program:13631936",
+        "midRef" : "POMS_VPRO_1224859",
+        "type" : "SEGMENT",
+        "avType" : "AUDIO"
+      } ],
+      "type" : "BROADCAST",
+      "avType" : "AUDIO"
+    }
+  }, {
+    "score" : 6.5697637,
+    "highlights" : [ ],
+    "result" : {
+      "objectType" : "program",
+      "mid" : "WO_VPRO_380449",
+      "creationDate" : 1374051370384,
+      "lastModified" : 1374051891529,
+      "sortDate" : 1374051370384,
+      "urn" : "urn:vpro:media:program:27748550",
+      "embeddable" : true,
+      "broadcasters" : [ {
+        "id" : "VPRO",
+        "value" : "VPRO"
+      } ],
+      "titles" : [ {
+        "value" : "promo argos 20 juli 2013",
+        "owner" : "BROADCASTER",
+        "type" : "MAIN"
+      }, {
+        "value" : "hoe banken slim geld verdienen met uw hypotheek",
+        "owner" : "BROADCASTER",
+        "type" : "SUB"
+      } ],
+      "descriptions" : [ {
+        "value" : "Welke rol speelden Amerikaanse en Nederlandse banken in het opblazen van de huizen bubble, hoe kwamen ze aan het geld en hoe hielpen ondoorzichtige financiele producten daarbij? Argos, het nieuws van alle kanten",
+        "owner" : "BROADCASTER",
+        "type" : "SHORT"
+      } ],
+      "genres" : [ ],
+      "tags" : [ "argos", "banken", "crisis", "financiële crisis", "Hypotheek" ],
+      "countries" : [ ],
+      "languages" : [ ],
+      "predictions" : [ {
+        "state" : "REALIZED",
+        "platform" : "INTERNETVOD"
+      } ],
+      "locations" : [ {
+        "programUrl" : "http://download.omroep.nl/vpro/algemeen/vpronl/radio/argos/promo_argos-20-07-2013.mp3",
+        "avAttributes" : {
+          "avFileFormat" : "MP3"
+        },
+        "creationDate" : 1374051891489,
+        "lastModified" : 1374051891527,
+        "workflow" : "PUBLISHED",
+        "owner" : "BROADCASTER",
+        "urn" : "urn:vpro:media:location:27748578"
+      } ],
+      "images" : [ {
+        "title" : "argos",
+        "description" : "argos",
+        "imageUri" : "urn:vpro:image:202161",
+        "height" : 452,
+        "width" : 657,
+        "creationDate" : 1374051693487,
+        "lastModified" : 1374051693521,
+        "workflow" : "PUBLISHED",
+        "owner" : "BROADCASTER",
+        "type" : "PICTURE",
+        "highlighted" : false,
+        "urn" : "urn:vpro:media:image:27748565"
+      } ],
+      "workflow" : "PUBLISHED",
+      "type" : "TRACK",
+      "avType" : "AUDIO"
+    }
+  } ]
+}

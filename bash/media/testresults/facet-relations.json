@@ -1,0 +1,182 @@
+{
+  "facets" : {
+    "relations" : [ {
+      "name" : "labels",
+      "facet" : [ {
+        "count" : 13,
+        "id" : "V2",
+        "value" : "V2"
+      }, {
+        "count" : 12,
+        "id" : "V2 Records",
+        "value" : "V2 Records"
+      } ]
+    }, {
+      "name" : "artiesten",
+      "facet" : [ {
+        "count" : 33,
+        "id" : "Blaudzun",
+        "value" : "Blaudzun"
+      } ]
+    } ]
+  },
+  "selectedFacets" : {
+    "relations" : [ {
+      "name" : "labels",
+      "facet" : [ ]
+    }, {
+      "name" : "artiesten",
+      "facet" : [ ]
+    } ]
+  },
+  "total" : 33,
+  "offset" : 0,
+  "max" : 2,
+  "items" : [ {
+    "score" : 23.73281,
+    "highlights" : [ ],
+    "result" : {
+      "objectType" : "program",
+      "mid" : "WO_VPRO_031867",
+      "creationDate" : 1334760888741,
+      "lastModified" : 1344869437784,
+      "sortDate" : 1334760888741,
+      "urn" : "urn:vpro:media:program:13685957",
+      "embeddable" : true,
+      "broadcasters" : [ {
+        "id" : "VPRO",
+        "value" : "VPRO"
+      } ],
+      "titles" : [ {
+        "value" : "Blaudzun - Flame On My Head live op Paaspop 2012",
+        "owner" : "BROADCASTER",
+        "type" : "MAIN"
+      } ],
+      "genres" : [ ],
+      "countries" : [ ],
+      "languages" : [ ],
+      "descendantOf" : [ {
+        "midRef" : "POMS_S_VPRO_219057",
+        "urnRef" : "urn:vpro:media:group:13525117",
+        "type" : "PLAYLIST"
+      } ],
+      "memberOf" : [ {
+        "midRef" : "POMS_S_VPRO_219057",
+        "urnRef" : "urn:vpro:media:group:13525117",
+        "type" : "PLAYLIST",
+        "index" : 1,
+        "highlighted" : false,
+        "added" : 1334760918440
+      } ],
+      "predictions" : [ {
+        "state" : "REALIZED",
+        "platform" : "INTERNETVOD"
+      } ],
+      "locations" : [ {
+        "programUrl" : "odis+http://content.omroep.nl/vpro/protected/luisterpaal/video/2012/04/18/BlauzunFlameonmyhead.mp4",
+        "avAttributes" : {
+          "avFileFormat" : "MP4"
+        },
+        "creationDate" : 1334760888867,
+        "lastModified" : 1334760888902,
+        "workflow" : "PUBLISHED",
+        "owner" : "BROADCASTER",
+        "urn" : "urn:vpro:media:location:13685960"
+      } ],
+      "relations" : [ {
+        "value" : "Blaudzun",
+        "urn" : "urn:vpro:media:relation:13685961",
+        "type" : "ARTIST",
+        "broadcaster" : "VPRO"
+      } ],
+      "images" : [ {
+        "title" : "Blaudzun",
+        "description" : "Blaudzun",
+        "imageUri" : "urn:vpro:image:64078",
+        "height" : 394,
+        "width" : 433,
+        "creationDate" : 1334823964931,
+        "lastModified" : 1334823964949,
+        "workflow" : "PUBLISHED",
+        "owner" : "BROADCASTER",
+        "type" : "PICTURE",
+        "highlighted" : false,
+        "urn" : "urn:vpro:media:image:13698009"
+      } ],
+      "workflow" : "PUBLISHED",
+      "type" : "CLIP",
+      "avType" : "VIDEO"
+    }
+  }, {
+    "score" : 23.522503,
+    "highlights" : [ ],
+    "result" : {
+      "objectType" : "program",
+      "mid" : "WO_VPRO_336459",
+      "creationDate" : 1365082172037,
+      "lastModified" : 1365082172530,
+      "sortDate" : 1365082172037,
+      "urn" : "urn:vpro:media:program:24038959",
+      "embeddable" : true,
+      "broadcasters" : [ {
+        "id" : "VPRO",
+        "value" : "VPRO"
+      } ],
+      "titles" : [ {
+        "value" : "Flame On My Head",
+        "owner" : "BROADCASTER",
+        "type" : "MAIN"
+      } ],
+      "genres" : [ ],
+      "countries" : [ ],
+      "languages" : [ ],
+      "duration" : 255000,
+      "predictions" : [ {
+        "state" : "REALIZED",
+        "platform" : "INTERNETVOD"
+      } ],
+      "locations" : [ {
+        "programUrl" : "odis+http://content.omroep.nl/vpro/protected/luisterpaal/albums/nl/urn:vpro:media:group:24038953/track01.mp3",
+        "avAttributes" : {
+          "bitrate" : 112,
+          "avFileFormat" : "MP3",
+          "audioAttributes" : {
+            "numberOfChannels" : 2,
+            "audioCoding" : "MP3"
+          }
+        },
+        "duration" : 255000,
+        "creationDate" : 1365082171853,
+        "lastModified" : 1365082172084,
+        "workflow" : "PUBLISHED",
+        "owner" : "BROADCASTER",
+        "urn" : "urn:vpro:media:location:24038963"
+      } ],
+      "relations" : [ {
+        "value" : "Blaudzun",
+        "urn" : "urn:vpro:media:relation:24038964",
+        "type" : "ARTIST",
+        "broadcaster" : "VPRO"
+      }, {
+        "value" : "V2",
+        "urn" : "urn:vpro:media:relation:24038965",
+        "type" : "LABEL",
+        "broadcaster" : "VPRO"
+      } ],
+      "images" : [ {
+        "title" : "Heavy Flowers",
+        "imageUri" : "urn:vpro:image:167492",
+        "creationDate" : 1365082171157,
+        "lastModified" : 1365082172530,
+        "workflow" : "PUBLISHED",
+        "owner" : "BROADCASTER",
+        "type" : "PICTURE",
+        "highlighted" : false,
+        "urn" : "urn:vpro:media:image:24038967"
+      } ],
+      "workflow" : "PUBLISHED",
+      "type" : "TRACK",
+      "avType" : "AUDIO"
+    }
+  } ]
+}
