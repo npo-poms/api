@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 #set -x
 
-source ../creds.sh
-source ../functions.sh
+source $(dirname ${BASH_SOURCE[0]})/../creds.sh
+source $(dirname ${BASH_SOURCE[0]})/../functions.sh
 
 call="api/media/"
 uri="/v1/$call"
