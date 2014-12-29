@@ -1,0 +1,9 @@
+{
+    "searches" : {
+        "text" : "Twee vandaag"
+    },
+    "sortFields" : {
+        "title" : "ASC",
+        "sortDate" : "DESC"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "searches" : {
+        "broadcasters" : {
+            "match" : "SHOULD",
+            "value" : [
+                {"value" : "AVRO", "match" : "SHOULD"}
+            ]
+        },
+        "tags" : ["klassieke muziek"]
+    }
+}

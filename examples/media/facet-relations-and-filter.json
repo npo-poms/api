@@ -1,0 +1,18 @@
+{
+    "facets": {
+        "relations": [
+            {
+                "name": "labels",
+                "sort": "COUNT_DESC",
+                "filter": {
+                    "types": "ALBUM"
+                },
+                "subSearch": {
+                    "broadcasters": "VPRO",
+                    "types": "LABEL"
+                }
+            }
+
+        ]
+    }
+}

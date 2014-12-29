@@ -1,0 +1,14 @@
+{
+    "searches": {
+        "broadcasters": [
+            {
+                "match": "SHOULD",
+                "value": "BNN"
+            },
+            {
+                "match": "NOT",
+                "value": "VARA"
+            }
+        ]
+    }
+}

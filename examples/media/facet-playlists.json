@@ -1,0 +1,9 @@
+{
+    "facets": {
+        "descendantOf": {
+            "subSearch": {
+                "types": "PLAYLIST"
+            }
+       }
+    }
+}

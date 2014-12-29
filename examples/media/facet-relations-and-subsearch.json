@@ -1,0 +1,25 @@
+{
+    "facets": {
+        "relations":  {
+            "subSearch": {
+                "broadcasters": "VPRO"
+            },
+            "value": [
+                {
+                    "name": "labels",
+                    "sort": "COUNT_DESC",
+                    "subSearch": {
+                        "types": "LABEL"
+                    }
+                },
+                {
+                    "name": "artiesten",
+                    "sort": "COUNT_DESC",
+                    "subSearch": {
+                        "types": "ARTIST"
+                    }
+                }
+            ]
+        }
+    }
+}

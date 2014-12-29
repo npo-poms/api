@@ -1,0 +1,10 @@
+{
+    "facets":{
+        "memberOf":{
+            "sort": "COUNT_DESC",
+            "filter":{
+                "types":"TRACK"
+            }
+        }
+   }
+}

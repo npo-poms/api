@@ -1,0 +1,14 @@
+{
+    "searches" : {
+        "schedule" : {
+            "channel" : "NED3",
+            "begin" : 1393196400000,
+            "end" : 1393282800000
+        }
+    },
+    "facets" : {
+        "broadcasters" : {
+            "sort" : "COUNT_DESC"
+        }
+    }
+}

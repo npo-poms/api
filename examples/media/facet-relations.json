@@ -1,0 +1,31 @@
+{
+    "facets": {
+        "relations": [
+            {
+                "name": "labels",
+                "sort": "COUNT_DESC",
+                "subSearch": {
+                    "broadcasters": "VPRO",
+                    "types": "LABEL"
+                }
+            },
+            {
+                "name": "artiesten",
+                "sort": "COUNT_DESC",
+                "subSearch": {
+                    "broadcasters": "VPRO",
+                    "types": "ARTIST"
+                }
+            }
+        ]
+    },
+    "searches": {
+        "relations": [
+            {
+                "match": "SHOULD",
+                "types": "ARTIST",
+                "values": "Blaudzun"
+            }
+        ]
+    }
+}

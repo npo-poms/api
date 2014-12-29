@@ -1,0 +1,10 @@
+{
+    "facets" : {
+        "broadcasters" : {
+            "sort" : "COUNT_DESC"
+        },
+        "filter" : {
+            "broadcasters" : ["NOS", "NTR"]
+        }
+    }
+}

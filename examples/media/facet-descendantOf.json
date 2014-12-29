@@ -1,0 +1,9 @@
+{
+    "facets" : {
+        "descendantOf" : {
+            "sort" : "VALUE_ASC",
+            "offset" : 0,
+            "max" : 10
+        }
+    }
+}
