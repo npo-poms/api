@@ -33,7 +33,7 @@
   "offset" : 0,
   "max" : 2,
   "items" : [ {
-    "score" : 23.73281,
+    "score" : 23.732672,
     "highlights" : [ ],
     "result" : {
       "objectType" : "program",
@@ -85,8 +85,8 @@
       } ],
       "relations" : [ {
         "value" : "Blaudzun",
-        "urn" : "urn:vpro:media:relation:13685961",
         "type" : "ARTIST",
+        "urn" : "urn:vpro:media:relation:13685961",
         "broadcaster" : "VPRO"
       } ],
       "images" : [ {
@@ -108,7 +108,7 @@
       "avType" : "VIDEO"
     }
   }, {
-    "score" : 23.522503,
+    "score" : 23.522415,
     "highlights" : [ ],
     "result" : {
       "objectType" : "program",
@@ -154,13 +154,13 @@
       } ],
       "relations" : [ {
         "value" : "Blaudzun",
-        "urn" : "urn:vpro:media:relation:24038964",
         "type" : "ARTIST",
+        "urn" : "urn:vpro:media:relation:24038964",
         "broadcaster" : "VPRO"
       }, {
         "value" : "V2",
-        "urn" : "urn:vpro:media:relation:24038965",
         "type" : "LABEL",
+        "urn" : "urn:vpro:media:relation:24038965",
         "broadcaster" : "VPRO"
       } ],
       "images" : [ {

@@ -3,7 +3,7 @@
   "offset" : 0,
   "max" : 2,
   "items" : [ {
-    "score" : 7.105594,
+    "score" : 7.1055536,
     "highlights" : [ {
       "term" : "titles.value",
       "body" : [ "<em class=\"hlt1\">Argos</em>", "<em class=\"hlt1\">Argos</em>", "<em class=\"hlt1\">Argos</em>" ]
@@ -219,7 +219,7 @@
       "avType" : "AUDIO"
     }
   }, {
-    "score" : 6.5697637,
+    "score" : 6.569743,
     "highlights" : [ {
       "term" : "titles.value",
       "body" : [ "promo <em class=\"hlt1\">argos</em> 20 juli 2013" ]
