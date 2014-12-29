@@ -3,7 +3,7 @@
   "offset" : 0,
   "max" : 2,
   "items" : [ {
-    "score" : 7.1055536,
+    "score" : 7.1055202,
     "highlights" : [ ],
     "result" : {
       "objectType" : "program",
@@ -207,7 +207,7 @@
       "avType" : "AUDIO"
     }
   }, {
-    "score" : 6.569743,
+    "score" : 6.5697265,
     "highlights" : [ ],
     "result" : {
       "objectType" : "program",
