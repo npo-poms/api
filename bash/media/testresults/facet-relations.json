@@ -15,6 +15,7 @@
       "name" : "artiesten",
       "facet" : [ {
         "count" : 33,
+        "selected" : true,
         "id" : "Blaudzun",
         "value" : "Blaudzun"
       } ]
@@ -26,14 +27,90 @@
       "facet" : [ ]
     }, {
       "name" : "artiesten",
-      "facet" : [ ]
+      "facet" : [ {
+        "count" : 33,
+        "selected" : true,
+        "id" : "Blaudzun",
+        "value" : "Blaudzun"
+      } ]
     } ]
   },
   "total" : 33,
   "offset" : 0,
   "max" : 2,
   "items" : [ {
-    "score" : 23.732672,
+    "score" : 25.325224,
+    "highlights" : [ ],
+    "result" : {
+      "objectType" : "program",
+      "mid" : "WO_VPRO_336459",
+      "creationDate" : 1365082172037,
+      "lastModified" : 1365082172530,
+      "sortDate" : 1365082172037,
+      "urn" : "urn:vpro:media:program:24038959",
+      "embeddable" : true,
+      "broadcasters" : [ {
+        "id" : "VPRO",
+        "value" : "VPRO"
+      } ],
+      "titles" : [ {
+        "value" : "Flame On My Head",
+        "owner" : "BROADCASTER",
+        "type" : "MAIN"
+      } ],
+      "genres" : [ ],
+      "countries" : [ ],
+      "languages" : [ ],
+      "duration" : 255000,
+      "predictions" : [ {
+        "state" : "REALIZED",
+        "platform" : "INTERNETVOD"
+      } ],
+      "locations" : [ {
+        "programUrl" : "odis+http://content.omroep.nl/vpro/protected/luisterpaal/albums/nl/urn:vpro:media:group:24038953/track01.mp3",
+        "avAttributes" : {
+          "bitrate" : 112,
+          "avFileFormat" : "MP3",
+          "audioAttributes" : {
+            "numberOfChannels" : 2,
+            "audioCoding" : "MP3"
+          }
+        },
+        "duration" : 255000,
+        "creationDate" : 1365082171853,
+        "lastModified" : 1365082172084,
+        "workflow" : "PUBLISHED",
+        "owner" : "BROADCASTER",
+        "urn" : "urn:vpro:media:location:24038963"
+      } ],
+      "relations" : [ {
+        "value" : "Blaudzun",
+        "type" : "ARTIST",
+        "urn" : "urn:vpro:media:relation:24038964",
+        "broadcaster" : "VPRO"
+      }, {
+        "value" : "V2",
+        "type" : "LABEL",
+        "urn" : "urn:vpro:media:relation:24038965",
+        "broadcaster" : "VPRO"
+      } ],
+      "images" : [ {
+        "title" : "Heavy Flowers",
+        "imageUri" : "urn:vpro:image:167492",
+        "creationDate" : 1365082171157,
+        "lastModified" : 1365082172530,
+        "workflow" : "PUBLISHED",
+        "owner" : "BROADCASTER",
+        "type" : "PICTURE",
+        "highlighted" : false,
+        "urn" : "urn:vpro:media:image:24038967"
+      } ],
+      "workflow" : "PUBLISHED",
+      "type" : "TRACK",
+      "avType" : "AUDIO"
+    }
+  }, {
+    "score" : 25.265995,
     "highlights" : [ ],
     "result" : {
       "objectType" : "program",
@@ -106,77 +183,6 @@
       "workflow" : "PUBLISHED",
       "type" : "CLIP",
       "avType" : "VIDEO"
-    }
-  }, {
-    "score" : 23.522415,
-    "highlights" : [ ],
-    "result" : {
-      "objectType" : "program",
-      "mid" : "WO_VPRO_336459",
-      "creationDate" : 1365082172037,
-      "lastModified" : 1365082172530,
-      "sortDate" : 1365082172037,
-      "urn" : "urn:vpro:media:program:24038959",
-      "embeddable" : true,
-      "broadcasters" : [ {
-        "id" : "VPRO",
-        "value" : "VPRO"
-      } ],
-      "titles" : [ {
-        "value" : "Flame On My Head",
-        "owner" : "BROADCASTER",
-        "type" : "MAIN"
-      } ],
-      "genres" : [ ],
-      "countries" : [ ],
-      "languages" : [ ],
-      "duration" : 255000,
-      "predictions" : [ {
-        "state" : "REALIZED",
-        "platform" : "INTERNETVOD"
-      } ],
-      "locations" : [ {
-        "programUrl" : "odis+http://content.omroep.nl/vpro/protected/luisterpaal/albums/nl/urn:vpro:media:group:24038953/track01.mp3",
-        "avAttributes" : {
-          "bitrate" : 112,
-          "avFileFormat" : "MP3",
-          "audioAttributes" : {
-            "numberOfChannels" : 2,
-            "audioCoding" : "MP3"
-          }
-        },
-        "duration" : 255000,
-        "creationDate" : 1365082171853,
-        "lastModified" : 1365082172084,
-        "workflow" : "PUBLISHED",
-        "owner" : "BROADCASTER",
-        "urn" : "urn:vpro:media:location:24038963"
-      } ],
-      "relations" : [ {
-        "value" : "Blaudzun",
-        "type" : "ARTIST",
-        "urn" : "urn:vpro:media:relation:24038964",
-        "broadcaster" : "VPRO"
-      }, {
-        "value" : "V2",
-        "type" : "LABEL",
-        "urn" : "urn:vpro:media:relation:24038965",
-        "broadcaster" : "VPRO"
-      } ],
-      "images" : [ {
-        "title" : "Heavy Flowers",
-        "imageUri" : "urn:vpro:image:167492",
-        "creationDate" : 1365082171157,
-        "lastModified" : 1365082172530,
-        "workflow" : "PUBLISHED",
-        "owner" : "BROADCASTER",
-        "type" : "PICTURE",
-        "highlighted" : false,
-        "urn" : "urn:vpro:media:image:24038967"
-      } ],
-      "workflow" : "PUBLISHED",
-      "type" : "TRACK",
-      "avType" : "AUDIO"
     }
   } ]
 }
