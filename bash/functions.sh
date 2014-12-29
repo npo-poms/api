@@ -16,7 +16,7 @@ rawurlencode() {
 }
 
 
-date() {
+npodate() {
     gdate --rfc-822
 }
 
