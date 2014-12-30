@@ -5,7 +5,7 @@ if [ -z "$1" ] ; then
 fi
 
 
-source ./creds.sh
+source $(dirname ${BASH_SOURCE[0]})/creds.sh
 
 target="$rs/pages/updates"
 
