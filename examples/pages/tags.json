@@ -1,0 +1,44 @@
+{
+  "highlight" : true,
+  "searches" : {
+    "genres" : [ {
+      "value" : "3.0.4.1",
+      "match" : "MUST"
+    } ]
+  },
+  "mediaForm" : {
+    "highlight" : false,
+    "searches" : {
+      "tags" : [ {
+        "value" : "Tweede  Wereldoorlog",
+        "match" : "MUST"
+      } ]
+    },
+    "facets" : {
+      "avTypes" : {
+        "sort" : "COUNT",
+        "exclusive" : true
+      },
+      "episodeOf" : {
+        "sort" : "COUNT"
+      },
+      "tags" : {
+        "sort" : "COUNT"
+      },
+      "titles" : {
+        "sort" : "COUNT"
+      },
+      "types" : {
+        "sort" : "COUNT"
+      }
+    }
+  },
+  "facets" : {
+    "broadcasters" : {
+      "sort" : "COUNT"
+    },
+    "genres" : {
+      "sort" : "COUNT"
+    }
+  }
+}
