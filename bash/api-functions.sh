@@ -49,8 +49,9 @@ post() {
         -H "Origin: $origin"  \
         `# post file in json` \
         -H "Content-Type: application/json" \
+        -H "Accept: application/json" \
         -X POST --data \@$datafile  \
-        `#url` \
+        \
         "$baseUrl$call?${parameters}" \
         )
     if [ "$status" != "200" ] ; then
