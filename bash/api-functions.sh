@@ -1,3 +1,5 @@
+tempdir=$(mktemp -dt "$0")
+
 npodate() {
     gdate --rfc-822
 }
@@ -21,8 +23,15 @@ post() {
     uri="/v1/$call"
     parameters=$2
     datafile=$3
+
+    output=$tempdir/curloutput
     separator="&" # to join the parameters array correctly
     header=$(authenticateHeader "$npodate" "$uri" $parameters)
-    curl -s -H "Authorization: $header"  -H "Content-Type: application/json" -H "X-NPO-Date: $npodate" -H "Origin: $origin"  -X POST --data \@$datafile  "$baseUrl$call?${parameters}"
-    echo $!
+    status=$(curl  -sw "%{http_code}" -H "Authorization: $header"  -H "Content-Type: application/json" -H "X-NPO-Date: $npodate" -H "Origin: $origin"  -X POST --data \@$datafile  "$baseUrl$call?${parameters}" --output $output)
+    if [ "$status" != "200" ] ; then
+        echo "ERROR: $status, $baseUrl$call?${parameters} @$3"  1>&2
+        echo "See $output" 1>&2
+    fi
+    cat $output
+
 }

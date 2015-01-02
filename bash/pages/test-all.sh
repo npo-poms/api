@@ -16,7 +16,7 @@ for mediaForm in `ls ../../examples/media` ; do
     echo "$mediaForm -> $target"
     pageForm=testresults/forms/$mediaForm
 
-    echo " {    \"mediaForm\" :" >  $pageForm
+    echo " {\"mediaForm\" :" >  $pageForm
     cat ../../examples/media/$mediaForm >> $pageForm
     echo "}" >> $pageForm
     echo "Using $pageForm";
