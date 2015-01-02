@@ -16,8 +16,8 @@ authenticateHeader() {
     done
     #note: $secret and $apiKey variables are coming from creds.sh, which should have been included
     # should be possible with openssl, but I can't get it working. This is in python
-    base64=`$PYTHON -c "import hmac, hashlib,base64,sys;\
-                       print base64.b64encode(hmac.new(b\"$secret\", msg=\"$message\", digestmod=hashlib.sha256).digest())"`
+    base64=`$PYTHON -c "import hmac,hashlib,base64;\
+                        print base64.b64encode(hmac.new(b\"$secret\", msg=\"$message\", digestmod=hashlib.sha256).digest())"`
     echo "NPO $apiKey:$base64"
 }
 
