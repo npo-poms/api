@@ -7,38 +7,36 @@
     } ]
   },
   "mediaForm" : {
-    "highlight" : false,
-    "searches" : {
-      "tags" : [ {
-        "value" : "Tweede  Wereldoorlog",
+      "searches" : {
+          "tags" : [ {
+              "value" : "Tweede  Wereldoorlog",
         "match" : "MUST"
       } ]
     },
     "facets" : {
       "avTypes" : {
-        "sort" : "COUNT",
-        "exclusive" : true
+        "sort" : "COUNT_DESC"
       },
       "episodeOf" : {
-        "sort" : "COUNT"
+        "sort" : "COUNT_DESC"
       },
       "tags" : {
-        "sort" : "COUNT"
+        "sort" : "COUNT_DESC"
       },
       "titles" : {
-        "sort" : "COUNT"
+        "sort" : "COUNT_DESC"
       },
       "types" : {
-        "sort" : "COUNT"
+        "sort" : "COUNT_DESC"
       }
     }
   },
   "facets" : {
     "broadcasters" : {
-      "sort" : "COUNT"
+      "sort" : "COUNT_DESC"
     },
     "genres" : {
-      "sort" : "COUNT"
+      "sort" : "COUNT_DESC"
     }
   }
 }
