@@ -1,10 +1,16 @@
 #!/usr/bin/env bash
 
+cd $(dirname ${BASH_SOURCE[0]})
+source ../creds.sh
+source ../api-functions.sh
+
+parameters=("max=2") # make sure they are ordered!
+
 mkdir -p testresults
 for form in `ls ../../examples/pages` ; do
     target=testresults/$form
     echo "$form -> $target"
-    ./search.sh ../../examples/pages/$form | jsonformat > $target
+    post "api/pages" $parameters $thisDir/../../examples/pages/$form | jsonformat > $target
 done
 
 
@@ -20,5 +26,5 @@ for mediaForm in `ls ../../examples/media` ; do
     cat ../../examples/media/$mediaForm >> $pageForm
     echo "}" >> $pageForm
     echo "Using $pageForm";
-    ./search.sh $pageForm | jsonformat > $target
+    post "api/pages" $parameters $pageForm | jsonformat > $target
 done

@@ -7,4 +7,4 @@ source $(dirname ${BASH_SOURCE[0]})/../api-functions.sh
 parameters=("max=2") # make sure they are ordered!
 
 # find the implementation of the post function in ../api-functions.sh
-post "api/pages" $parameters $1 $2
+post "api/pages" $parameters $1

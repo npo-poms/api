@@ -1,8 +1,12 @@
-tempdir=$(mktemp -dt "$0")
 
-npodate() {
-    gdate --rfc-822
-}
+# external program used, make sure they are in your path
+GDATE=gdate
+PYTHON=python
+CURL=curl
+CAT=cat
+
+tempdir=$(mktemp -dt `basename $0`)
+
 
 authenticateHeader() {
     #$1: date $2: call $3 parameters
@@ -12,7 +16,8 @@ authenticateHeader() {
     done
     #note: $secret and $apiKey variables are coming from creds.sh, which should have been included
     # should be possible with openssl, but I can't get it working. This is in python
-    base64=`python -c "import hmac, hashlib,base64,sys; print base64.b64encode(hmac.new(b\"$secret\", msg=\"$message\", digestmod=hashlib.sha256).digest())"`
+    base64=`$PYTHON -c "import hmac, hashlib,base64,sys;\
+                       print base64.b64encode(hmac.new(b\"$secret\", msg=\"$message\", digestmod=hashlib.sha256).digest())"`
     echo "NPO $apiKey:$base64"
 }
 
@@ -22,7 +27,7 @@ post() {
     parameters=$2 # an array of <param>=<value>
     datafile=$3   # a file containing the form to post (in json)
 
-    npodate=$(npodate) # call this method
+    npodate=$($GDATE --rfc-822)
 
     output=$tempdir/curloutput
     separator="&" # to join the parameters array correctly
@@ -34,7 +39,7 @@ post() {
     # We set the headers as specified
     # and post a file  in json
     status=$(\
-        curl \
+        $CURL \
         `# these two option just take arrange curl's output as we want it`\
         -sw "%{http_code}"  \
         --output $output \
@@ -52,7 +57,7 @@ post() {
         echo "ERROR: $status, $baseUrl$call?${parameters} @$3"  1>&2
         echo "See $output" 1>&2
     fi
-    cat $output
+    $CAT $output
     if [ "$status" == "200" ] ; then
         rm $output
     fi
