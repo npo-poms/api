@@ -1,7 +1,7 @@
 {
   "facets" : {
     "sortDates" : [ {
-      "count" : 814,
+      "count" : 840,
       "selected" : false,
       "value" : "2012-W03",
       "begin" : 1326931200000,
@@ -9,11 +9,11 @@
     } ]
   },
   "selectedFacets" : { },
-  "total" : 814,
+  "total" : 840,
   "offset" : 0,
   "max" : 2,
   "items" : [ {
-    "score" : 0.9590928,
+    "score" : 0.95878935,
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",
@@ -31,8 +31,7 @@
         "value" : "VPRO.nl",
         "section" : {
           "path" : "/vpronl-sample/boeken",
-          "id" : "VPRONL./vpronl-sample/boeken",
-          "value" : "boeken"
+          "id" : "VPRONL./vpronl-sample/boeken"
         }
       },
       "title" : "De mythe van Dr. Rat",
@@ -80,7 +79,7 @@
       "refCount" : 0
     }
   }, {
-    "score" : 0.9590928,
+    "score" : 0.95878935,
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",
@@ -98,8 +97,7 @@
         "value" : "VPRO.nl",
         "section" : {
           "path" : "/vpronl/boeken",
-          "id" : "VPRONL./vpronl/boeken",
-          "value" : "boeken"
+          "id" : "VPRONL./vpronl/boeken"
         }
       },
       "title" : "De mythe van Dr. Rat",

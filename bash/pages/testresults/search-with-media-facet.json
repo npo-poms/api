@@ -55,11 +55,11 @@
     } ]
   },
   "mediaSelectedFacets" : { },
-  "total" : 610,
+  "total" : 646,
   "offset" : 0,
   "max" : 2,
   "items" : [ {
-    "score" : 6.977883,
+    "score" : 6.870919,
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",
@@ -143,10 +143,10 @@
               "avFileFormat" : "MP3"
             },
             "duration" : 7200000,
+            "owner" : "RADIOBOX",
             "creationDate" : 1415564978672,
             "lastModified" : 1415564980121,
             "workflow" : "PUBLISHED",
-            "owner" : "RADIOBOX",
             "urn" : "urn:vpro:media:location:44488256"
           } ],
           "scheduleEvents" : [ {
@@ -161,12 +161,12 @@
             "title" : "Ernst-Daniel-Smid.jpg",
             "description" : "Ernst Daniël",
             "imageUri" : "urn:vpro:image:120780",
-            "creationDate" : 1401529139724,
-            "lastModified" : 1401529139890,
-            "workflow" : "PUBLISHED",
             "owner" : "RADIOBOX",
             "type" : "PICTURE",
             "highlighted" : false,
+            "creationDate" : 1401529139724,
+            "lastModified" : 1401529139890,
+            "workflow" : "PUBLISHED",
             "urn" : "urn:vpro:media:image:42107225"
           } ],
           "workflow" : "PUBLISHED",
@@ -186,7 +186,7 @@
       "refCount" : 0
     }
   }, {
-    "score" : 6.9698944,
+    "score" : 6.8627334,
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",
@@ -269,10 +269,10 @@
               "avFileFormat" : "MP3"
             },
             "duration" : 7200000,
+            "owner" : "RADIOBOX",
             "creationDate" : 1402313051475,
             "lastModified" : 1402313069663,
             "workflow" : "PUBLISHED",
-            "owner" : "RADIOBOX",
             "urn" : "urn:vpro:media:location:42513618"
           } ],
           "scheduleEvents" : [ {
@@ -287,12 +287,12 @@
             "title" : "Ernst-Daniel-Smid.jpg",
             "description" : "Ernst Daniël",
             "imageUri" : "urn:vpro:image:120780",
-            "creationDate" : 1401360075012,
-            "lastModified" : 1401360075196,
-            "workflow" : "PUBLISHED",
             "owner" : "RADIOBOX",
             "type" : "PICTURE",
             "highlighted" : false,
+            "creationDate" : 1401360075012,
+            "lastModified" : 1401360075196,
+            "workflow" : "PUBLISHED",
             "urn" : "urn:vpro:media:image:42007787"
           } ],
           "workflow" : "PUBLISHED",

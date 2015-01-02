@@ -214,7 +214,144 @@
   "offset" : 0,
   "max" : 2,
   "items" : [ {
-    "score" : 14.304416,
+    "score" : 14.497722,
+    "highlights" : [ ],
+    "result" : {
+      "objectType" : "page",
+      "type" : "HOME",
+      "url" : "http://www-test.npowetenschap.nl/programmas/grootnationaalonderzoek.html",
+      "sortDate" : 1310720304202,
+      "crids" : [ "crid://vpro/website/8f5e4606-233a-42bb-be4e-bb5dbff6f2ee" ],
+      "broadcasters" : [ {
+        "id" : "NPS",
+        "value" : "NPS"
+      }, {
+        "id" : "VPRO",
+        "value" : "VPRO"
+      } ],
+      "portal" : {
+        "id" : "WETENSCHAP24",
+        "url" : "http://www-test.npowetenschap.nl",
+        "value" : "NPO Wetenschap",
+        "section" : {
+          "path" : "/wetenschap/programmas/grootnationaalonderzoek",
+          "id" : "WETENSCHAP24./wetenschap/programmas/grootnationaalonderzoek"
+        }
+      },
+      "title" : "Groot Nationaal Onderzoek",
+      "keywords" : [ "wetenschap", "onderzoek", "publieksonderzoek" ],
+      "embeds" : [ {
+        "media" : {
+          "objectType" : "program",
+          "mid" : "WO_VPRO_035791",
+          "creationDate" : 1314889061121,
+          "lastModified" : 1344870528076,
+          "sortDate" : 1314889061121,
+          "urn" : "urn:vpro:media:program:10643436",
+          "embeddable" : true,
+          "broadcasters" : [ {
+            "id" : "VPRO",
+            "value" : "VPRO"
+          } ],
+          "titles" : [ {
+            "value" : "GNO",
+            "owner" : "BROADCASTER",
+            "type" : "MAIN"
+          } ],
+          "descriptions" : [ {
+            "value" : "Video op website van het GNO over sociale vaardigheden.",
+            "owner" : "BROADCASTER",
+            "type" : "SHORT"
+          } ],
+          "genres" : [ ],
+          "countries" : [ ],
+          "languages" : [ ],
+          "predictions" : [ {
+            "state" : "REALIZED",
+            "platform" : "INTERNETVOD"
+          } ],
+          "locations" : [ {
+            "programUrl" : "http://download.omroep.nl/vpro/W24/GNO%202.mp4",
+            "avAttributes" : {
+              "avFileFormat" : "MP4"
+            },
+            "owner" : "BROADCASTER",
+            "creationDate" : 1314889061380,
+            "lastModified" : 1314889061417,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:10643439"
+          } ],
+          "images" : [ {
+            "title" : "GNO",
+            "description" : "1",
+            "imageUri" : "urn:vpro.image:15174",
+            "height" : 571,
+            "width" : 1017,
+            "owner" : "BROADCASTER",
+            "type" : "BACKGROUND",
+            "highlighted" : false,
+            "creationDate" : 1314889804775,
+            "lastModified" : 1314889804809,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:10643446"
+          }, {
+            "title" : "GNO",
+            "description" : "2",
+            "imageUri" : "urn:vpro.image:15175",
+            "height" : 571,
+            "width" : 1017,
+            "owner" : "BROADCASTER",
+            "type" : "PICTURE",
+            "highlighted" : false,
+            "creationDate" : 1314889804780,
+            "lastModified" : 1314889804809,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:10643447"
+          }, {
+            "title" : "GNO",
+            "description" : "3",
+            "imageUri" : "urn:vpro.image:15176",
+            "height" : 571,
+            "width" : 1017,
+            "owner" : "BROADCASTER",
+            "type" : "STILL",
+            "highlighted" : false,
+            "creationDate" : 1314889848593,
+            "lastModified" : 1314889848636,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:10643448"
+          }, {
+            "title" : "GNO",
+            "description" : "4",
+            "imageUri" : "urn:vpro.image:15177",
+            "height" : 571,
+            "width" : 1017,
+            "owner" : "BROADCASTER",
+            "type" : "ICON",
+            "highlighted" : false,
+            "creationDate" : 1314889876280,
+            "lastModified" : 1314889876321,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:10643449"
+          } ],
+          "workflow" : "PUBLISHED",
+          "type" : "CLIP",
+          "avType" : "VIDEO"
+        }
+      } ],
+      "images" : [ {
+        "type" : "PICTURE",
+        "url" : "http://images.poms.omroep.nl/image/s360/15174.jpg",
+        "title" : "GNO",
+        "description" : "1"
+      } ],
+      "publishStart" : 1310720304202,
+      "creationDate" : 1411381134177,
+      "lastModified" : 1418900279169,
+      "refCount" : 0
+    }
+  }, {
+    "score" : 14.293819,
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",
@@ -235,8 +372,7 @@
         "value" : "NPO Wetenschap",
         "section" : {
           "path" : "/wetenschap/programmas/scienceflash",
-          "id" : "WETENSCHAP24./wetenschap/programmas/scienceflash",
-          "value" : "ScienceFlash"
+          "id" : "WETENSCHAP24./wetenschap/programmas/scienceflash"
         }
       },
       "title" : "ScienceFlash",
@@ -294,10 +430,10 @@
               }
             },
             "duration" : 538888,
+            "owner" : "BROADCASTER",
             "creationDate" : 1379932587131,
             "lastModified" : 1379932587665,
             "workflow" : "PUBLISHED",
-            "owner" : "BROADCASTER",
             "urn" : "urn:vpro:media:location:29903235"
           } ],
           "images" : [ {
@@ -306,13 +442,13 @@
             "imageUri" : "urn:vpro:image:222916",
             "height" : 412,
             "width" : 640,
+            "owner" : "BROADCASTER",
+            "type" : "PICTURE",
+            "highlighted" : false,
             "creationDate" : 1379937075394,
             "lastModified" : 1379937075512,
             "publishStart" : 1379887200000,
             "workflow" : "PUBLISHED",
-            "owner" : "BROADCASTER",
-            "type" : "PICTURE",
-            "highlighted" : false,
             "urn" : "urn:vpro:media:image:29904183"
           } ],
           "workflow" : "PUBLISHED",
@@ -357,12 +493,12 @@
               "imageUri" : "urn:vpro:image:223238",
               "height" : 406,
               "width" : 630,
-              "creationDate" : 1380008704332,
-              "lastModified" : 1380008704478,
-              "workflow" : "PUBLISHED",
               "owner" : "BROADCASTER",
               "type" : "PICTURE",
               "highlighted" : false,
+              "creationDate" : 1380008704332,
+              "lastModified" : 1380008704478,
+              "workflow" : "PUBLISHED",
               "urn" : "urn:vpro:media:image:29938411"
             } ],
             "workflow" : "PUBLISHED",
@@ -385,144 +521,6 @@
       "publishStart" : 1304494272562,
       "creationDate" : 1411380587809,
       "lastModified" : 1418900092641,
-      "refCount" : 0
-    }
-  }, {
-    "score" : 13.137223,
-    "highlights" : [ ],
-    "result" : {
-      "objectType" : "page",
-      "type" : "HOME",
-      "url" : "http://www-test.npowetenschap.nl/programmas/grootnationaalonderzoek.html",
-      "sortDate" : 1310720304202,
-      "crids" : [ "crid://vpro/website/8f5e4606-233a-42bb-be4e-bb5dbff6f2ee" ],
-      "broadcasters" : [ {
-        "id" : "NPS",
-        "value" : "NPS"
-      }, {
-        "id" : "VPRO",
-        "value" : "VPRO"
-      } ],
-      "portal" : {
-        "id" : "WETENSCHAP24",
-        "url" : "http://www-test.npowetenschap.nl",
-        "value" : "NPO Wetenschap",
-        "section" : {
-          "path" : "/wetenschap/programmas/grootnationaalonderzoek",
-          "id" : "WETENSCHAP24./wetenschap/programmas/grootnationaalonderzoek",
-          "value" : "Groot Nationaal Onderzoek"
-        }
-      },
-      "title" : "Groot Nationaal Onderzoek",
-      "keywords" : [ "wetenschap", "onderzoek", "publieksonderzoek" ],
-      "embeds" : [ {
-        "media" : {
-          "objectType" : "program",
-          "mid" : "WO_VPRO_035791",
-          "creationDate" : 1314889061121,
-          "lastModified" : 1344870528076,
-          "sortDate" : 1314889061121,
-          "urn" : "urn:vpro:media:program:10643436",
-          "embeddable" : true,
-          "broadcasters" : [ {
-            "id" : "VPRO",
-            "value" : "VPRO"
-          } ],
-          "titles" : [ {
-            "value" : "GNO",
-            "owner" : "BROADCASTER",
-            "type" : "MAIN"
-          } ],
-          "descriptions" : [ {
-            "value" : "Video op website van het GNO over sociale vaardigheden.",
-            "owner" : "BROADCASTER",
-            "type" : "SHORT"
-          } ],
-          "genres" : [ ],
-          "countries" : [ ],
-          "languages" : [ ],
-          "predictions" : [ {
-            "state" : "REALIZED",
-            "platform" : "INTERNETVOD"
-          } ],
-          "locations" : [ {
-            "programUrl" : "http://download.omroep.nl/vpro/W24/GNO%202.mp4",
-            "avAttributes" : {
-              "avFileFormat" : "MP4"
-            },
-            "creationDate" : 1314889061380,
-            "lastModified" : 1314889061417,
-            "workflow" : "PUBLISHED",
-            "owner" : "BROADCASTER",
-            "urn" : "urn:vpro:media:location:10643439"
-          } ],
-          "images" : [ {
-            "title" : "GNO",
-            "description" : "1",
-            "imageUri" : "urn:vpro.image:15174",
-            "height" : 571,
-            "width" : 1017,
-            "creationDate" : 1314889804775,
-            "lastModified" : 1314889804809,
-            "workflow" : "PUBLISHED",
-            "owner" : "BROADCASTER",
-            "type" : "BACKGROUND",
-            "highlighted" : false,
-            "urn" : "urn:vpro:media:image:10643446"
-          }, {
-            "title" : "GNO",
-            "description" : "2",
-            "imageUri" : "urn:vpro.image:15175",
-            "height" : 571,
-            "width" : 1017,
-            "creationDate" : 1314889804780,
-            "lastModified" : 1314889804809,
-            "workflow" : "PUBLISHED",
-            "owner" : "BROADCASTER",
-            "type" : "PICTURE",
-            "highlighted" : false,
-            "urn" : "urn:vpro:media:image:10643447"
-          }, {
-            "title" : "GNO",
-            "description" : "3",
-            "imageUri" : "urn:vpro.image:15176",
-            "height" : 571,
-            "width" : 1017,
-            "creationDate" : 1314889848593,
-            "lastModified" : 1314889848636,
-            "workflow" : "PUBLISHED",
-            "owner" : "BROADCASTER",
-            "type" : "STILL",
-            "highlighted" : false,
-            "urn" : "urn:vpro:media:image:10643448"
-          }, {
-            "title" : "GNO",
-            "description" : "4",
-            "imageUri" : "urn:vpro.image:15177",
-            "height" : 571,
-            "width" : 1017,
-            "creationDate" : 1314889876280,
-            "lastModified" : 1314889876321,
-            "workflow" : "PUBLISHED",
-            "owner" : "BROADCASTER",
-            "type" : "ICON",
-            "highlighted" : false,
-            "urn" : "urn:vpro:media:image:10643449"
-          } ],
-          "workflow" : "PUBLISHED",
-          "type" : "CLIP",
-          "avType" : "VIDEO"
-        }
-      } ],
-      "images" : [ {
-        "type" : "PICTURE",
-        "url" : "http://images.poms.omroep.nl/image/s360/15174.jpg",
-        "title" : "GNO",
-        "description" : "1"
-      } ],
-      "publishStart" : 1310720304202,
-      "creationDate" : 1411381134177,
-      "lastModified" : 1418900279169,
       "refCount" : 0
     }
   } ]

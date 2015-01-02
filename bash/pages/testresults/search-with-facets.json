@@ -45,7 +45,7 @@
   "offset" : 0,
   "max" : 2,
   "items" : [ {
-    "score" : 0.30183968,
+    "score" : 0.2630916,
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",
@@ -114,10 +114,10 @@
               }
             },
             "duration" : 470000,
+            "owner" : "BROADCASTER",
             "creationDate" : 1362655370020,
             "lastModified" : 1362655370274,
             "workflow" : "PUBLISHED",
-            "owner" : "BROADCASTER",
             "urn" : "urn:vpro:media:location:22686441"
           } ],
           "relations" : [ {
@@ -134,12 +134,12 @@
           "images" : [ {
             "title" : "an American Dream",
             "imageUri" : "urn:vpro:image:145628",
-            "creationDate" : 1362654142179,
-            "lastModified" : 1362655370852,
-            "workflow" : "PUBLISHED",
             "owner" : "BROADCASTER",
             "type" : "PICTURE",
             "highlighted" : false,
+            "creationDate" : 1362654142179,
+            "lastModified" : 1362655370852,
+            "workflow" : "PUBLISHED",
             "urn" : "urn:vpro:media:image:22686445"
           } ],
           "workflow" : "PUBLISHED",
@@ -158,7 +158,7 @@
       "refCount" : 0
     }
   }, {
-    "score" : 0.2947641,
+    "score" : 0.25689504,
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",
@@ -214,10 +214,10 @@
               }
             },
             "duration" : 4000,
+            "owner" : "BROADCASTER",
             "creationDate" : 1330089120604,
             "lastModified" : 1330089120738,
             "workflow" : "PUBLISHED",
-            "owner" : "BROADCASTER",
             "urn" : "urn:vpro:media:location:12962164"
           } ],
           "relations" : [ {
@@ -235,12 +235,12 @@
             "title" : "The Doors",
             "description" : "",
             "imageUri" : "urn:vpro:image:50647",
-            "creationDate" : 1330089120208,
-            "lastModified" : 1330089121015,
-            "workflow" : "PUBLISHED",
             "owner" : "BROADCASTER",
             "type" : "PICTURE",
             "highlighted" : false,
+            "creationDate" : 1330089120208,
+            "lastModified" : 1330089121015,
+            "workflow" : "PUBLISHED",
             "urn" : "urn:vpro:media:image:12962168"
           } ],
           "workflow" : "PUBLISHED",
