@@ -1,1 +1,1 @@
-See ../api-functions.sh
+See [../api-functions.sh]
