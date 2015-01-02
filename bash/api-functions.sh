@@ -5,8 +5,8 @@ npodate() {
 }
 
 authenticateHeader() {
-    #$1: date $2: uri $3 parameters
-    message="origin:$origin,x-npo-date:$1,uri:$2"
+    #$1: date $2: call $3 parameters
+    message="origin:$origin,x-npo-date:$1,uri:/v1/$2"
     for param in $3 ; do
         message="$message,${param//=/:}"
     done
@@ -18,20 +18,43 @@ authenticateHeader() {
 
 
 post() {
-    npodate=$(npodate)
-    call=$1
-    uri="/v1/$call"
-    parameters=$2
-    datafile=$3
+    call=$1       # e.g. api/pages
+    parameters=$2 # an array of <param>=<value>
+    datafile=$3   # a file containing the form to post (in json)
+
+    npodate=$(npodate) # call this method
 
     output=$tempdir/curloutput
     separator="&" # to join the parameters array correctly
-    header=$(authenticateHeader "$npodate" "$uri" $parameters)
-    status=$(curl  -sw "%{http_code}" -H "Authorization: $header"  -H "Content-Type: application/json" -H "X-NPO-Date: $npodate" -H "Origin: $origin"  -X POST --data \@$datafile  "$baseUrl$call?${parameters}" --output $output)
+    header=$(authenticateHeader "$npodate" $call $parameters)
+
+    # now we call curl
+    # We let the http_code come on stdout and the output itself is stored to a tempory file (which is afterwards returned with cat).
+    #
+    # We set the headers as specified
+    # and post a file  in json
+    status=$(\
+        curl \
+        `# these two option just take arrange curl's output as we want it`\
+        -sw "%{http_code}"  \
+        --output $output \
+        `# authentication related headers` \
+        -H "Authorization: $header" \
+        -H "X-NPO-Date: $npodate" \
+        -H "Origin: $origin"  \
+        `# post file in json` \
+        -H "Content-Type: application/json" \
+        -X POST --data \@$datafile  \
+        `#url` \
+        "$baseUrl$call?${parameters}" \
+        )
     if [ "$status" != "200" ] ; then
         echo "ERROR: $status, $baseUrl$call?${parameters} @$3"  1>&2
         echo "See $output" 1>&2
     fi
     cat $output
+    if [ "$status" == "200" ] ; then
+        rm $output
+    fi
 
 }
