@@ -33,6 +33,7 @@ post() {
     separator="&" # to join the parameters array correctly
     header=$(authenticateHeader "$npodate" $call $parameters)
 
+    #echo "Writing to $output" 1>&2
     # now we call curl
     # We let the http_code come on stdout and the output itself is stored to a tempory file (which is afterwards returned with cat).
     #
