@@ -4,7 +4,7 @@ user=vpro-cms:<password>
 
 
 # npo api
-baseUrl=http://api-dev.poms.omroep.nl/v1/
+baseUrl=http://api.poms.omroep.nl/v1/
 
 apiKey=<your key>
 secret=<your secret>
