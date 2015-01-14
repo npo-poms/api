@@ -12,3 +12,6 @@ for i in `ls ../../examples/media` ; do
     echo "$i -> $target"
     post "api/media" $parameters ../../examples/media/$i | jsonformat > $target
 done
+
+#iterateparameters=("profile=human")
+#post "api/media/iterate" $iterateparameters | jsonformat > testresults/iterate.json

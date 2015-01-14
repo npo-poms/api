@@ -7,6 +7,25 @@ CAT=cat
 
 tempdir=$(mktemp -dt `basename $0`)
 
+environments=("prod=http://rs.poms.omroep.nl/v1/" "test=http://rs-test.poms.omroep.nl/v1/" "dev=http://rs-dev.poms.omroep.nl/v1/" "localhost=http://localhost:8070/v1/")
+
+
+getUrl() {
+    if [ ! -z "$ENV" ] ; then
+        for env  in "${environments[@]}" ; do
+            if [ ${env%%=*} == $ENV ] ; then
+                echo "${env##*=}"
+                return
+            fi
+        done
+    fi
+    if [ -z "$baseUrl"] ; then
+        ENV=prod getUrl
+    else
+        echo $baseUrl
+    fi
+    return
+}
 
 authenticateHeader() {
     #$1: date $2: call $3 parameters

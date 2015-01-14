@@ -8,7 +8,7 @@ parameters=("max=2") # make sure they are ordered!
 
 if [[ "$1" == ""  ]] ; then
     echo Usage:
-    echo " $0 <MID> [<json file with search form>]"
+    echo "[ENV=<prod|test|dev>] $0 <MID> [<json file with search form>]"
     echo "e.g.: "
     echo " $0 VPWON_1174494 $(dirname ${BASH_SOURCE[0]})/../../examples/media/example1.json | jsonformat"
     exit
