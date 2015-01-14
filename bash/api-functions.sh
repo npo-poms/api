@@ -51,6 +51,7 @@ post() {
     output=$tempdir/curloutput
     separator="&" # to join the parameters array correctly
     header=$(authenticateHeader "$npodate" $call $parameters)
+    url=$(getUrl)
 
     #echo "Writing to $output" 1>&2
     # now we call curl
@@ -72,7 +73,7 @@ post() {
         -H "Accept: application/json" \
         -X POST --data \@$datafile  \
         \
-        "$baseUrl$call?${parameters}" \
+        "$url$call?${parameters}" \
         )
     if [ "$status" != "200" ] ; then
         echo "ERROR: $status, $baseUrl$call?${parameters} @$3"  1>&2
@@ -96,6 +97,7 @@ get() {
     output=$tempdir/curloutput
     separator="&" # to join the parameters array correctly
     header=$(authenticateHeader "$npodate" $call $parameters)
+    url=$(getUrl)
 
     #echo "Writing to $output" 1>&2
     # now we call curl
@@ -117,7 +119,7 @@ get() {
         -H "Accept: application/json" \
         -X GET  \
         \
-        "$baseUrl$call?${parameters}" \
+        "$url$call?${parameters}" \
         )
     if [ "$status" != "200" ] ; then
         echo "ERROR: $status, $baseUrl$call?${parameters} @$3"  1>&2

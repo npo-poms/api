@@ -1,8 +1,12 @@
 #!/usr/bin/env bash
 #set -x
 
-source $(dirname ${BASH_SOURCE[0]})/../creds.sh
-source $(dirname ${BASH_SOURCE[0]})/../api-functions.sh
+SOURCE=$(readlink  $BASH_SOURCE)
+if [[ -z "$SOURCE" ]] ; then
+    SOURCE=$BASH_SOURCE
+fi
+source $(dirname ${SOURCE[0]})/../creds.sh
+source $(dirname ${SOURCE[0]})/../api-functions.sh
 
 if [[ "$1" == ""  ]] ; then
     echo Usage:

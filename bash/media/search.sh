@@ -1,8 +1,13 @@
 #!/usr/bin/env bash
 #set -x
 
-source $(dirname ${BASH_SOURCE[0]})/../creds.sh
-source $(dirname ${BASH_SOURCE[0]})/../api-functions.sh
+
+SOURCE=$(readlink  $BASH_SOURCE)
+if [[ -z "$SOURCE" ]] ; then
+    SOURCE=$BASH_SOURCE
+fi
+source $(dirname ${SOURCE[0]})/../creds.sh
+source $(dirname ${SOURCE[0]})/../api-functions.sh
 
 parameters=("max=2") # make sure they are ordered!
 
@@ -10,7 +15,7 @@ if [[ "$1" != "" &&  ! -e $1 ]] ; then
     echo Usage:
     echo "[ENV=<prod|test|dev>] $0 [<json file with search form>]"
     echo "e.g.: "
-    echo " $0 $(dirname ${BASH_SOURCE[0]})/../../examples/media/example1.json | jsonformat"
+    echo " $0 $(dirname ${SOURCE[0]})/../../examples/media/example1.json | jsonformat"
     exit
 fi
 
