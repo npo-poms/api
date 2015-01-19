@@ -5,9 +5,17 @@ PYTHON=python
 CURL=curl
 CAT=cat
 
-tempdir=$(mktemp -dt `basename $0`)
+tempdir=$(mktemp -dt `basename $0.XXX`)
 
 environments=("prod=http://rs.poms.omroep.nl/v1/" "test=http://rs-test.poms.omroep.nl/v1/" "dev=http://rs-dev.poms.omroep.nl/v1/" "localhost=http://localhost:8070/v1/")
+
+if [ "$DEBUG" = 'true' ]  ; then
+    # Use DEBUG=true as prefix to toggle this
+    set -x
+fi
+
+trap "exit 1" TERM
+export TOP_PID=$$
 
 
 getUrl() {
@@ -18,6 +26,8 @@ getUrl() {
                 return
             fi
         done
+        echo "Not recognized $ENV. Use one of ${environments[@]}" 1>&2
+        kill -s TERM $TOP_PID
     fi
     if [ -z "$baseUrl"] ; then
         ENV=prod getUrl
@@ -30,7 +40,8 @@ getUrl() {
 authenticateHeader() {
     #$1: date $2: call $3 parameters
     message="origin:$origin,x-npo-date:$1,uri:/v1/$2"
-    for param in $3 ; do
+    IFS='&' read -ra ADDR <<< "$3"
+    for param in "${ADDR[@]}" ; do
         message="$message,${param//=/:}"
     done
     #note: $secret and $apiKey variables are coming from creds.sh, which should have been included
@@ -43,7 +54,7 @@ authenticateHeader() {
 
 post() {
     call=$1       # e.g. api/pages
-    parameters=$2 # an array of <param>=<value>
+    parameters=$2 # an <param>=<value>[&<param=value]
     datafile=$3   # a file containing the form to post (in json)
 
     npodate=$($GDATE --rfc-822)
