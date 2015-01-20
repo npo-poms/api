@@ -1,10 +1,13 @@
 #!/usr/bin/env bash
 #set -x
 
-source $(dirname ${BASH_SOURCE[0]})/../creds.sh
-source $(dirname ${BASH_SOURCE[0]})/../api-functions.sh
+SOURCE=$(readlink  $BASH_SOURCE)
+if [[ -z "$SOURCE" ]] ; then
+    SOURCE=$BASH_SOURCE
+fi
+source $(dirname ${SOURCE[0]})/../creds.sh
+source $(dirname ${SOURCE[0]})/../api-functions.sh
 
-parameters="max=2" # make sure they are ordered!
 
 if [[ "$1" == ""  ]] ; then
     echo Usage:
@@ -14,5 +17,4 @@ if [[ "$1" == ""  ]] ; then
     exit
 fi
 
-# find the implementation of the post function in ../api-functions.sh
-post "api/media/$1/related" $parameters $2
+get "api/media/$1/descendants"

@@ -1,14 +1,17 @@
 #!/usr/bin/env bash
-#set -x
+SOURCE=$(readlink  $BASH_SOURCE)
+if [[ -z "$SOURCE" ]] ; then
+    SOURCE=$BASH_SOURCE
+fi
+source $(dirname ${SOURCE[0]})/../creds.sh
+source $(dirname ${SOURCE[0]})/../api-functions.sh
 
-source $(dirname ${BASH_SOURCE[0]})/../creds.sh
-source $(dirname ${BASH_SOURCE[0]})/../api-functions.sh
 
-parameters=("max=2") # make sure they are ordered!
+parameters="max=2&profile=$2" # make sure they are ordered!
 
 if [[ "$1" != "" &&  ! -e $1 ]] ; then
     echo Usage:
-    echo " $0 [<json file with search form>]"
+    echo " $0 [<json file with search form>] [<profile>]"
     echo "e.g.: "
     echo " $0 $(dirname ${BASH_SOURCE[0]})/../../examples/pages/tags.json | jsonformat"
     exit

@@ -43,7 +43,7 @@
       "value" : "Een goedemorgen met...",
       "type" : "SERIES"
     }, {
-      "count" : 107,
+      "count" : 109,
       "id" : "AUTO_ERNSTDANIL",
       "value" : "Ernst Daniël",
       "type" : "SERIES"
@@ -55,18 +55,18 @@
     } ]
   },
   "mediaSelectedFacets" : { },
-  "total" : 646,
+  "total" : 648,
   "offset" : 0,
   "max" : 2,
   "items" : [ {
-    "score" : 6.870919,
+    "score" : 11.463475,
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",
       "type" : "PLAYER",
-      "url" : "http://cultura-sample.localhost/speel.RBX_TROS_544043.html",
-      "sortDate" : 1415552400000,
-      "crids" : [ "crid://vpro/media/cultura/RBX_TROS_544043" ],
+      "url" : "http://cultura-sample.localhost/speel.RBX_TROS_543907.html",
+      "sortDate" : 1417971600000,
+      "crids" : [ "crid://vpro/media/cultura/RBX_TROS_543907" ],
       "broadcasters" : [ {
         "id" : "TROS",
         "value" : "TROS"
@@ -87,11 +87,11 @@
         "description" : "Ernst Daniël is een programma met passie voor opera en operazangers, gepresenteerd door Ernst Daniël Smid. Elke week staat een operazanger of -diva centraal en daarna hoort u hoogtepunten uit de beroemdste opera's.",
         "media" : {
           "objectType" : "program",
-          "mid" : "RBX_TROS_544043",
-          "creationDate" : 1401529139886,
-          "lastModified" : 1415564982604,
-          "sortDate" : 1415552400000,
-          "urn" : "urn:vpro:media:program:42107223",
+          "mid" : "RBX_TROS_543907",
+          "creationDate" : 1401527817448,
+          "lastModified" : 1417980005255,
+          "sortDate" : 1417971600000,
+          "urn" : "urn:vpro:media:program:42106628",
           "embeddable" : true,
           "episodeOf" : [ {
             "midRef" : "AUTO_ERNSTDANIL",
@@ -99,9 +99,9 @@
             "type" : "SERIES",
             "index" : 1,
             "highlighted" : false,
-            "added" : 1401529139906
+            "added" : 1401527817495
           } ],
-          "crids" : [ "crid://broadcast.radiobox2/260654" ],
+          "crids" : [ "crid://broadcast.radiobox2/260658" ],
           "broadcasters" : [ {
             "id" : "TROS",
             "value" : "TROS"
@@ -138,24 +138,24 @@
             "value" : "http://www.radio4.nl/ernstdaniel"
           } ],
           "locations" : [ {
-            "programUrl" : "http://download.omroep.nl/audiologging/r4/2014/11/09/1800_2000_ernst_daniel_20141109.mp3",
+            "programUrl" : "http://download.omroep.nl/audiologging/r4/2014/12/07/1800_2000_ernst_daniel_20141207.mp3",
             "avAttributes" : {
               "avFileFormat" : "MP3"
             },
             "duration" : 7200000,
             "owner" : "RADIOBOX",
-            "creationDate" : 1415564978672,
-            "lastModified" : 1415564980121,
+            "creationDate" : 1417979951063,
+            "lastModified" : 1417980005252,
             "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:location:44488256"
+            "urn" : "urn:vpro:media:location:44958885"
           } ],
           "scheduleEvents" : [ {
-            "start" : 1415552400000,
+            "start" : 1417971600000,
             "duration" : 7200000,
-            "poProgID" : "RBX_TROS_544043",
+            "poProgID" : "RBX_TROS_543907",
             "channel" : "RAD4",
-            "urnRef" : "urn:vpro:media:program:42107223",
-            "midRef" : "RBX_TROS_544043"
+            "urnRef" : "urn:vpro:media:program:42106628",
+            "midRef" : "RBX_TROS_543907"
           } ],
           "images" : [ {
             "title" : "Ernst-Daniel-Smid.jpg",
@@ -164,10 +164,10 @@
             "owner" : "RADIOBOX",
             "type" : "PICTURE",
             "highlighted" : false,
-            "creationDate" : 1401529139724,
-            "lastModified" : 1401529139890,
+            "creationDate" : 1401527817331,
+            "lastModified" : 1401527817453,
             "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:image:42107225"
+            "urn" : "urn:vpro:media:image:42106630"
           } ],
           "workflow" : "PUBLISHED",
           "type" : "BROADCAST",
@@ -180,20 +180,20 @@
         "title" : "Ernst-Daniel-Smid.jpg",
         "description" : "Ernst Daniël"
       } ],
-      "publishStart" : 1415552400000,
-      "creationDate" : 1417081732826,
-      "lastModified" : 1417081732832,
+      "publishStart" : 1417971600000,
+      "creationDate" : 1418747657328,
+      "lastModified" : 1418747657335,
       "refCount" : 0
     }
   }, {
-    "score" : 6.8627334,
+    "score" : 11.4448,
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",
       "type" : "PLAYER",
-      "url" : "http://www-test.cultura.nl/speel.RBX_TROS_542946.html",
-      "sortDate" : 1402243200000,
-      "crids" : [ "crid://vpro/media/cultura/RBX_TROS_542946" ],
+      "url" : "http://www-test.cultura.nl/speel.RBX_TROS_544049.html",
+      "sortDate" : 1416762000000,
+      "crids" : [ "crid://vpro/media/cultura/RBX_TROS_544049" ],
       "broadcasters" : [ {
         "id" : "TROS",
         "value" : "TROS"
@@ -214,11 +214,11 @@
         "description" : "Ernst Daniël is een programma met passie voor opera en operazangers, gepresenteerd door Ernst Daniël Smid. Elke week staat een operazanger of -diva centraal en daarna hoort u hoogtepunten uit de beroemdste opera's.",
         "media" : {
           "objectType" : "program",
-          "mid" : "RBX_TROS_542946",
-          "creationDate" : 1401360075192,
-          "lastModified" : 1402313086722,
-          "sortDate" : 1402243200000,
-          "urn" : "urn:vpro:media:program:42007785",
+          "mid" : "RBX_TROS_544049",
+          "creationDate" : 1401529319234,
+          "lastModified" : 1417039620794,
+          "sortDate" : 1416762000000,
+          "urn" : "urn:vpro:media:program:42107289",
           "embeddable" : true,
           "episodeOf" : [ {
             "midRef" : "AUTO_ERNSTDANIL",
@@ -226,8 +226,9 @@
             "type" : "SERIES",
             "index" : 1,
             "highlighted" : false,
-            "added" : 1401360075214
+            "added" : 1401529319255
           } ],
+          "crids" : [ "crid://broadcast.radiobox2/260656" ],
           "broadcasters" : [ {
             "id" : "TROS",
             "value" : "TROS"
@@ -264,24 +265,24 @@
             "value" : "http://www.radio4.nl/ernstdaniel"
           } ],
           "locations" : [ {
-            "programUrl" : "http://download.omroep.nl/audiologging/r4/2014/06/08/1800_2000_ernst_daniel_20140608.mp3",
+            "programUrl" : "http://download.omroep.nl/audiologging/r4/2014/11/23/1800_2000_ernst_daniel_20141123.mp3",
             "avAttributes" : {
               "avFileFormat" : "MP3"
             },
             "duration" : 7200000,
             "owner" : "RADIOBOX",
-            "creationDate" : 1402313051475,
-            "lastModified" : 1402313069663,
+            "creationDate" : 1417039619520,
+            "lastModified" : 1417039620022,
             "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:location:42513618"
+            "urn" : "urn:vpro:media:location:44834647"
           } ],
           "scheduleEvents" : [ {
-            "start" : 1402243200000,
+            "start" : 1416762000000,
             "duration" : 7200000,
-            "poProgID" : "RBX_TROS_542946",
+            "poProgID" : "RBX_TROS_544049",
             "channel" : "RAD4",
-            "urnRef" : "urn:vpro:media:program:42007785",
-            "midRef" : "RBX_TROS_542946"
+            "urnRef" : "urn:vpro:media:program:42107289",
+            "midRef" : "RBX_TROS_544049"
           } ],
           "images" : [ {
             "title" : "Ernst-Daniel-Smid.jpg",
@@ -290,10 +291,10 @@
             "owner" : "RADIOBOX",
             "type" : "PICTURE",
             "highlighted" : false,
-            "creationDate" : 1401360075012,
-            "lastModified" : 1401360075196,
+            "creationDate" : 1401529319059,
+            "lastModified" : 1401529319238,
             "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:image:42007787"
+            "urn" : "urn:vpro:media:image:42107291"
           } ],
           "workflow" : "PUBLISHED",
           "type" : "BROADCAST",
@@ -306,9 +307,9 @@
         "title" : "Ernst-Daniel-Smid.jpg",
         "description" : "Ernst Daniël"
       } ],
-      "publishStart" : 1402243200000,
-      "creationDate" : 1411391853406,
-      "lastModified" : 1411391853421,
+      "publishStart" : 1416762000000,
+      "creationDate" : 1417244633221,
+      "lastModified" : 1417244633227,
       "refCount" : 0
     }
   } ]

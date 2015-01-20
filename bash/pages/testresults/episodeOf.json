@@ -1,0 +1,320 @@
+{
+  "facets" : { },
+  "selectedFacets" : { },
+  "mediaFacets" : {
+    "episodeOf" : [ {
+      "count" : 121,
+      "selected" : true,
+      "id" : "POMS_S_VPRO_130712",
+      "value" : "Het Spoor 1985  klaar",
+      "type" : "SEASON"
+    } ]
+  },
+  "mediaSelectedFacets" : {
+    "episodeOf" : [ {
+      "count" : 121,
+      "selected" : true,
+      "id" : "POMS_S_VPRO_130712",
+      "value" : "Het Spoor 1985  klaar",
+      "type" : "SEASON"
+    } ]
+  },
+  "total" : 121,
+  "offset" : 0,
+  "max" : 2,
+  "items" : [ {
+    "score" : 1.2602221,
+    "highlights" : [ ],
+    "result" : {
+      "objectType" : "page",
+      "type" : "PLAYER",
+      "url" : "http://www-test.woord.nl/luister.POMS_VPRO_133482.html",
+      "sortDate" : 495669600000,
+      "crids" : [ "crid://vpro/media/woord/POMS_VPRO_133482" ],
+      "broadcasters" : [ {
+        "id" : "VPRO",
+        "value" : "VPRO"
+      } ],
+      "portal" : {
+        "id" : "WOORD",
+        "url" : "http://www-test.woord.nl",
+        "value" : "Woord.nl"
+      },
+      "title" : "Het Spoor",
+      "genres" : [ {
+        "id" : "3.0.4.1",
+        "terms" : [ "Documentaire" ],
+        "displayName" : "Documentaire"
+      } ],
+      "embeds" : [ {
+        "title" : "Het Spoor",
+        "description" : "Voor een klein land produceert Nederland veel wapens. In Nederland werken ongeveer 15.000 mensen in de wapenindustrie, die een omzet heeft van vier miljard gulden. Hiermee bezet Nederland een vaste plaats in de top tien van wapenexporterende landen. \nTwee weken lang in Het Spoor een portret van deze industrie.\nVolgens verscheidene gerenommeerde economen is de wapenindustrie schadelijk voor de  economie, een mening die bij politici nog geen weerklank vindt. Ook in deze serie aandacht voor de houding van de vakbeweging, voor groepen die de wapenproductie willen ombouwen tot civiele productie (conversie) en voor het exportbeleid van de Staat. En hoe groot is de invloed van de politiek op de handel en wandel van de wapenhandelaren?\nIn deze aflevering veel aandacht voor het verzet tegen de wapenhandel.\nO.a. aandacht voor de zogenaamde conversieplatforms waar men wapenfabrikanten probeert over te halen over te gaan op civiele productie, waarbij ook oog is voor de werknemers in deze industrie.\n\nInterviews met o.a.: \n- hoogleraar economie H. de Haan; \n- PvdA-Tweede Kamerlid Harry van den Bergh. \n- directeur marinebouw J. Weug van de Marinescheepswerf 'De Schelde'; \n- ex-HSA-werknemer Roel van Twillert;\n- Paul de Hondt, lid van het conversieplatform Twente;\n- industriepastor en voorzitter van de werkgroep Vrede Industrie Milieu (VIM) Jan Scheffers;\n- FNV-er Cees Commandeur;\n- De heer Prins uit Tiel, lid van de vredesgroep 'Zwaarden en Ploegscharen';\n- De Beer uit Het Oosten;\n- Pieter van Rossum van Pax Christi;\n- PSP Tweede Kamerlid Fred van der Spek.\n- Journalist en wapendeskundige Ko Colijn.\n\nSamenstelling: Kiki Amsberg, Paul van der Gaag, Jacqueline Maris en  Kees Slager\nUitgebreidere documentatie in VPRO archief aanwezig\n",
+        "media" : {
+          "objectType" : "program",
+          "mid" : "POMS_VPRO_133482",
+          "creationDate" : 1361289805549,
+          "lastModified" : 1363270637297,
+          "publishStart" : 495669600000,
+          "sortDate" : 495669600000,
+          "urn" : "urn:vpro:media:program:21999589",
+          "embeddable" : true,
+          "episodeOf" : [ {
+            "midRef" : "POMS_S_VPRO_130712",
+            "urnRef" : "urn:vpro:media:group:21741208",
+            "type" : "SEASON",
+            "index" : 32,
+            "highlighted" : false,
+            "added" : 1361290949376
+          } ],
+          "broadcasters" : [ {
+            "id" : "VPRO",
+            "value" : "VPRO"
+          } ],
+          "titles" : [ {
+            "value" : "Het Spoor",
+            "owner" : "BROADCASTER",
+            "type" : "MAIN"
+          }, {
+            "value" : "De wapenindustrie in Nederland 2",
+            "owner" : "BROADCASTER",
+            "type" : "SUB"
+          } ],
+          "descriptions" : [ {
+            "value" : "Voor een klein land produceert Nederland veel wapens. In Nederland werken ongeveer 15.000 mensen in de wapenindustrie, die een omzet heeft van vier miljard gulden. Hiermee bezet Nederland een vaste plaats in de top tien van wapenexporterende landen. \nTwee weken lang in Het Spoor een portret van deze industrie.\nVolgens verscheidene gerenommeerde economen is de wapenindustrie schadelijk voor de  economie, een mening die bij politici nog geen weerklank vindt. Ook in deze serie aandacht voor de houding van de vakbeweging, voor groepen die de wapenproductie willen ombouwen tot civiele productie (conversie) en voor het exportbeleid van de Staat. En hoe groot is de invloed van de politiek op de handel en wandel van de wapenhandelaren?\nIn deze aflevering veel aandacht voor het verzet tegen de wapenhandel.\nO.a. aandacht voor de zogenaamde conversieplatforms waar men wapenfabrikanten probeert over te halen over te gaan op civiele productie, waarbij ook oog is voor de werknemers in deze industrie.\n\nInterviews met o.a.: \n- hoogleraar economie H. de Haan; \n- PvdA-Tweede Kamerlid Harry van den Bergh. \n- directeur marinebouw J. Weug van de Marinescheepswerf 'De Schelde'; \n- ex-HSA-werknemer Roel van Twillert;\n- Paul de Hondt, lid van het conversieplatform Twente;\n- industriepastor en voorzitter van de werkgroep Vrede Industrie Milieu (VIM) Jan Scheffers;\n- FNV-er Cees Commandeur;\n- De heer Prins uit Tiel, lid van de vredesgroep 'Zwaarden en Ploegscharen';\n- De Beer uit Het Oosten;\n- Pieter van Rossum van Pax Christi;\n- PSP Tweede Kamerlid Fred van der Spek.\n- Journalist en wapendeskundige Ko Colijn.\n\nSamenstelling: Kiki Amsberg, Paul van der Gaag, Jacqueline Maris en  Kees Slager\nUitgebreidere documentatie in VPRO archief aanwezig\n",
+            "owner" : "BROADCASTER",
+            "type" : "MAIN"
+          } ],
+          "genres" : [ ],
+          "tags" : [ "Zwaarden en Ploegscharen" ],
+          "countries" : [ ],
+          "languages" : [ ],
+          "releaseYear" : 1985,
+          "duration" : 7200000,
+          "credits" : [ {
+            "givenName" : "Kiki ",
+            "familyName" : "Amsberg",
+            "role" : "UNDEFINED"
+          }, {
+            "givenName" : "Paul ",
+            "familyName" : "van der Gaag",
+            "role" : "UNDEFINED"
+          }, {
+            "givenName" : "Jacqueline ",
+            "familyName" : "Maris",
+            "role" : "UNDEFINED"
+          }, {
+            "givenName" : "Kees ",
+            "familyName" : "Slager",
+            "role" : "UNDEFINED"
+          } ],
+          "descendantOf" : [ {
+            "midRef" : "POMS_S_VPRO_195283",
+            "urnRef" : "urn:vpro:media:group:11887617",
+            "type" : "ARCHIVE"
+          }, {
+            "midRef" : "POMS_S_VPRO_098728",
+            "urnRef" : "urn:vpro:media:group:18800908",
+            "type" : "SERIES"
+          }, {
+            "midRef" : "POMS_S_VPRO_130712",
+            "urnRef" : "urn:vpro:media:group:21741208",
+            "type" : "SEASON"
+          }, {
+            "midRef" : "POMS_S_VPRO_417553",
+            "urnRef" : "urn:vpro:media:group:30800911",
+            "type" : "COLLECTION"
+          } ],
+          "predictions" : [ {
+            "state" : "REALIZED",
+            "platform" : "INTERNETVOD"
+          } ],
+          "locations" : [ {
+            "programUrl" : "http://download.omroep.nl/vpro/algemeen/woord/het_spoor_terug/1985/Spoor_1985_09_16_Wapenhandel_2_Immix.mp3",
+            "avAttributes" : {
+              "avFileFormat" : "MP3"
+            },
+            "owner" : "BROADCASTER",
+            "creationDate" : 1361290999550,
+            "lastModified" : 1361290999742,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:21999845"
+          } ],
+          "images" : [ {
+            "title" : "Gidstekst Wapenindustrie 2",
+            "description" : "Gidstekst Wapenindustrie 2",
+            "imageUri" : "urn:vpro:image:141000",
+            "height" : 1792,
+            "width" : 1232,
+            "owner" : "BROADCASTER",
+            "type" : "PICTURE",
+            "highlighted" : false,
+            "creationDate" : 1361290932138,
+            "lastModified" : 1361290932233,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:21999823"
+          } ],
+          "workflow" : "PUBLISHED",
+          "type" : "BROADCAST",
+          "avType" : "AUDIO"
+        }
+      } ],
+      "images" : [ {
+        "type" : "PICTURE",
+        "url" : "http://images.poms.omroep.nl/image/s360/141000.jpg",
+        "title" : "Gidstekst Wapenindustrie 2",
+        "description" : "Gidstekst Wapenindustrie 2"
+      } ],
+      "publishStart" : 495669600000,
+      "creationDate" : 1415271925291,
+      "lastModified" : 1415954658992,
+      "refCount" : 0
+    }
+  }, {
+    "score" : 1.2602221,
+    "highlights" : [ ],
+    "result" : {
+      "objectType" : "page",
+      "type" : "PLAYER",
+      "url" : "http://www-test.woord.nl/luister.POMS_VPRO_219625.html",
+      "sortDate" : 497505600000,
+      "crids" : [ "crid://vpro/media/woord/POMS_VPRO_219625" ],
+      "broadcasters" : [ {
+        "id" : "VPRO",
+        "value" : "VPRO"
+      } ],
+      "portal" : {
+        "id" : "WOORD",
+        "url" : "http://www-test.woord.nl",
+        "value" : "Woord.nl"
+      },
+      "title" : "Het Spoor",
+      "genres" : [ {
+        "id" : "3.0.4.1",
+        "terms" : [ "Documentaire" ],
+        "displayName" : "Documentaire"
+      } ],
+      "embeds" : [ {
+        "title" : "Het Spoor",
+        "description" : "Deel 1 uit een serie over controlediensten van de overheid: Keuringsdienst van Waren.\nDe Keuringsdienst ziet toe op de naleving van de Warenwet ter bescherming van de volksgezondheid en van de eerlijke handel. De dienst die erop moet toezien dat iedereen zich aan de Warenwet houdt, die er is voor  ‘bescherming van de volksgezondheid’ en ‘eerlijkheid in de handel’. Maar is de controle door deze controleurs wel voldoende? Hans Simonse snuffelde rond in de laboratoria van de Utrechtse Keuringsdienst van Waren, en volgde een keurmeester tijdens zijn dagelijkse rondgang langs bakkers, slagers en restaurant en snackbars. \n\nMet interviews met: \n- de keurmeesters Koot, Beuger en van de Meer diverse keurmeesters, \n- adjunct-directeur Haken van de Keuringsdienst van Waren in Enschede, \n- voedingsdeskundige Albertien van der Veen van Konsumenten Kontakt \n- scheikundigen (Van Battum, Van Gend, Van Lierop) van de Utrechtse Keuringsdienst van Waren.\nSamenstelling: Kiki Amsberg en Hans Simonse\n\nUitgebreidere documentatie aanwezig in VPRO archief\n",
+        "media" : {
+          "objectType" : "program",
+          "mid" : "POMS_VPRO_219625",
+          "creationDate" : 1362492744135,
+          "lastModified" : 1363270868312,
+          "publishStart" : 497505600000,
+          "sortDate" : 497505600000,
+          "urn" : "urn:vpro:media:program:22618808",
+          "embeddable" : true,
+          "episodeOf" : [ {
+            "midRef" : "POMS_S_VPRO_130712",
+            "urnRef" : "urn:vpro:media:group:21741208",
+            "type" : "SEASON",
+            "index" : 37,
+            "highlighted" : false,
+            "added" : 1362497566726
+          } ],
+          "broadcasters" : [ {
+            "id" : "VPRO",
+            "value" : "VPRO"
+          } ],
+          "titles" : [ {
+            "value" : "Het Spoor",
+            "owner" : "BROADCASTER",
+            "type" : "MAIN"
+          }, {
+            "value" : "Controleurs gecontroleerd 1: Keuringsdienst van Waren",
+            "owner" : "BROADCASTER",
+            "type" : "SUB"
+          } ],
+          "descriptions" : [ {
+            "value" : "Deel 1 uit een serie over controlediensten van de overheid: Keuringsdienst van Waren.\nDe Keuringsdienst ziet toe op de naleving van de Warenwet ter bescherming van de volksgezondheid en van de eerlijke handel. De dienst die erop moet toezien dat iedereen zich aan de Warenwet houdt, die er is voor  ‘bescherming van de volksgezondheid’ en ‘eerlijkheid in de handel’. Maar is de controle door deze controleurs wel voldoende? Hans Simonse snuffelde rond in de laboratoria van de Utrechtse Keuringsdienst van Waren, en volgde een keurmeester tijdens zijn dagelijkse rondgang langs bakkers, slagers en restaurant en snackbars. \n\nMet interviews met: \n- de keurmeesters Koot, Beuger en van de Meer diverse keurmeesters, \n- adjunct-directeur Haken van de Keuringsdienst van Waren in Enschede, \n- voedingsdeskundige Albertien van der Veen van Konsumenten Kontakt \n- scheikundigen (Van Battum, Van Gend, Van Lierop) van de Utrechtse Keuringsdienst van Waren.\nSamenstelling: Kiki Amsberg en Hans Simonse\n\nUitgebreidere documentatie aanwezig in VPRO archief\n",
+            "owner" : "BROADCASTER",
+            "type" : "MAIN"
+          } ],
+          "genres" : [ ],
+          "tags" : [ "Keuringsdienst van Waren" ],
+          "countries" : [ ],
+          "languages" : [ ],
+          "releaseYear" : 1985,
+          "duration" : 3600000,
+          "credits" : [ {
+            "givenName" : "Kiki ",
+            "familyName" : "Amsberg",
+            "role" : "UNDEFINED"
+          }, {
+            "givenName" : "Hans ",
+            "familyName" : "Simonse",
+            "role" : "UNDEFINED"
+          } ],
+          "descendantOf" : [ {
+            "midRef" : "POMS_S_VPRO_195283",
+            "urnRef" : "urn:vpro:media:group:11887617",
+            "type" : "ARCHIVE"
+          }, {
+            "midRef" : "POMS_S_VPRO_098728",
+            "urnRef" : "urn:vpro:media:group:18800908",
+            "type" : "SERIES"
+          }, {
+            "midRef" : "POMS_S_VPRO_130712",
+            "urnRef" : "urn:vpro:media:group:21741208",
+            "type" : "SEASON"
+          }, {
+            "midRef" : "POMS_S_VPRO_417553",
+            "urnRef" : "urn:vpro:media:group:30800911",
+            "type" : "COLLECTION"
+          } ],
+          "memberOf" : [ {
+            "midRef" : "POMS_S_VPRO_130712",
+            "urnRef" : "urn:vpro:media:group:21741208",
+            "type" : "SEASON",
+            "index" : 1,
+            "highlighted" : false,
+            "added" : 1362497345989
+          } ],
+          "predictions" : [ {
+            "state" : "REALIZED",
+            "platform" : "INTERNETVOD"
+          } ],
+          "locations" : [ {
+            "programUrl" : "http://download.omroep.nl/vpro/algemeen/woord/het_spoor_terug/1985/Spoor_1985_10_07_Keuringsdienst_van_Waren_band.mp3",
+            "avAttributes" : {
+              "avFileFormat" : "MP3"
+            },
+            "owner" : "BROADCASTER",
+            "creationDate" : 1363270865069,
+            "lastModified" : 1363270865313,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:22962959"
+          } ],
+          "images" : [ {
+            "title" : "logo Keuringsdienst van Waren",
+            "description" : "logo Keuringsdienst van Waren",
+            "imageUri" : "urn:vpro:image:145129",
+            "height" : 169,
+            "width" : 299,
+            "owner" : "BROADCASTER",
+            "type" : "PICTURE",
+            "highlighted" : false,
+            "creationDate" : 1362497305962,
+            "lastModified" : 1362497306054,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:22622864"
+          } ],
+          "workflow" : "PUBLISHED",
+          "type" : "BROADCAST",
+          "avType" : "AUDIO"
+        }
+      } ],
+      "images" : [ {
+        "type" : "PICTURE",
+        "url" : "http://images.poms.omroep.nl/image/s360/145129.jpg",
+        "title" : "logo Keuringsdienst van Waren",
+        "description" : "logo Keuringsdienst van Waren"
+      } ],
+      "publishStart" : 497505600000,
+      "creationDate" : 1415271917910,
+      "lastModified" : 1415954641354,
+      "refCount" : 0
+    }
+  } ]
+}

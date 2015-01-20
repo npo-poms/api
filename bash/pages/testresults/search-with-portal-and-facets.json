@@ -1,19 +1,19 @@
 {
   "facets" : {
     "types" : [ {
-      "count" : 5585,
+      "count" : 5671,
       "id" : "ARTICLE",
       "value" : "Artikel"
     }, {
-      "count" : 9,
+      "count" : 11,
       "id" : "SPECIAL",
       "value" : "Special"
     }, {
-      "count" : 1890,
+      "count" : 1956,
       "id" : "PLAYER",
       "value" : "Speler"
     }, {
-      "count" : 11,
+      "count" : 13,
       "id" : "HOME",
       "value" : "Thuis"
     } ],
@@ -55,6 +55,10 @@
       "value" : "19e eeuw"
     }, {
       "count" : 1,
+      "id" : "2033",
+      "value" : "2033"
+    }, {
+      "count" : 1,
       "id" : "22q11syndroom",
       "value" : "22q11syndroom"
     }, {
@@ -69,6 +73,10 @@
       "count" : 1,
       "id" : "270 graden onder nul",
       "value" : "270 graden onder nul"
+    }, {
+      "count" : 1,
+      "id" : "2doc",
+      "value" : "2doc"
     }, {
       "count" : 1,
       "id" : "3 seconden",
@@ -105,45 +113,37 @@
       "count" : 5,
       "id" : "3d",
       "value" : "3d"
-    }, {
-      "count" : 1,
-      "id" : "3d-mondscanner",
-      "value" : "3d-mondscanner"
-    }, {
-      "count" : 1,
-      "id" : "3d-printer",
-      "value" : "3d-printer"
     } ],
     "genres" : [ {
-      "count" : 130,
+      "count" : 132,
       "id" : "3.0.2.6",
       "value" : "Aarde & Klimaat"
     }, {
-      "count" : 392,
+      "count" : 399,
       "id" : "3.0.2.2",
       "value" : "Beta & Tech"
     }, {
-      "count" : 296,
+      "count" : 302,
       "id" : "3.0.2.4",
       "value" : "Brein & Gedrag"
     }, {
-      "count" : 364,
+      "count" : 369,
       "id" : "3.0.2.1",
       "value" : "Flora & Fauna"
     }, {
-      "count" : 172,
+      "count" : 177,
       "id" : "3.0.2.7",
       "value" : "Geschiedenis & Archeologie"
     }, {
-      "count" : 173,
+      "count" : 177,
       "id" : "3.0.2.3",
       "value" : "Heelal & Ruimtevaart"
     }, {
-      "count" : 323,
+      "count" : 332,
       "id" : "3.0.2.5",
       "value" : "Lijf & Gezondheid"
     }, {
-      "count" : 397,
+      "count" : 414,
       "id" : "3.0.2.8",
       "value" : "Mens & Maatschappij"
     } ],
@@ -160,15 +160,19 @@
       "id" : "WETENSCHAP24./wetenschap/programmas/hoezo-radio",
       "value" : "Hoe?Zo!"
     }, {
+      "count" : 6,
+      "id" : "WETENSCHAP24./wetenschap-sample/programmas/Labyrint",
+      "value" : "Labyrint"
+    }, {
       "count" : 2,
       "id" : "WETENSCHAP24./wetenschap/programmas/nwq",
       "value" : "Nationale Wetenschapsquiz"
     }, {
-      "count" : 5369,
+      "count" : 5364,
       "id" : "WETENSCHAP24./wetenschap/nieuws",
       "value" : "Nieuws"
     }, {
-      "count" : 1,
+      "count" : 93,
       "id" : "WETENSCHAP24./wetenschap-sample/nieuws",
       "value" : "Noorderlicht"
     }, {
@@ -177,14 +181,18 @@
       "value" : "Noorderlicht TV"
     }, {
       "count" : 1,
-      "id" : "WETENSCHAP24./wetenschap/over-wetenschap24",
+      "id" : "WETENSCHAP24./wetenschap-sample/over-wetenschap24",
       "value" : "Over Wetenschap24"
     }, {
       "count" : 52,
       "id" : "WETENSCHAP24./wetenschap/programmas/pavlov",
       "value" : "Pavlov"
     }, {
-      "count" : 564,
+      "count" : 159,
+      "id" : "WETENSCHAP24./wetenschap-sample/programmas/scienceflash",
+      "value" : "ScienceFlash"
+    }, {
+      "count" : 405,
       "id" : "WETENSCHAP24./wetenschap/programmas/scienceflash",
       "value" : "ScienceFlash"
     }, {
@@ -192,7 +200,7 @@
       "id" : "WETENSCHAP24./wetenschap/programmas/wisebits",
       "value" : "WiseBits"
     }, {
-      "count" : 316,
+      "count" : 315,
       "id" : "WETENSCHAP24./wetenschap/programmas/labyrint",
       "value" : "labyrint"
     } ]
@@ -200,327 +208,570 @@
   "selectedFacets" : { },
   "mediaFacets" : {
     "avTypes" : [ {
-      "count" : 314,
+      "count" : 322,
       "id" : "AUDIO",
       "value" : "Audio"
     }, {
-      "count" : 1585,
+      "count" : 1,
+      "id" : "MIXED",
+      "value" : "Afwisselend"
+    }, {
+      "count" : 1630,
       "id" : "VIDEO",
       "value" : "Video"
     } ]
   },
   "mediaSelectedFacets" : { },
-  "total" : 7495,
+  "total" : 7651,
   "offset" : 0,
   "max" : 2,
   "items" : [ {
-    "score" : 14.497722,
+    "score" : 6.145438,
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",
-      "type" : "HOME",
-      "url" : "http://www-test.npowetenschap.nl/programmas/grootnationaalonderzoek.html",
-      "sortDate" : 1310720304202,
-      "crids" : [ "crid://vpro/website/8f5e4606-233a-42bb-be4e-bb5dbff6f2ee" ],
+      "type" : "PLAYER",
+      "url" : "http://wetenschap-sample.localhost/videos/meer-video/2doc-particle-fever.html",
+      "sortDate" : 1397658554000,
+      "crids" : [ "crid://vpro/website/b4036861-9d18-4c80-a97c-17820d1849b7" ],
       "broadcasters" : [ {
-        "id" : "NPS",
-        "value" : "NPS"
+        "id" : "NTR",
+        "value" : "NTR"
       }, {
         "id" : "VPRO",
         "value" : "VPRO"
       } ],
       "portal" : {
         "id" : "WETENSCHAP24",
-        "url" : "http://www-test.npowetenschap.nl",
-        "value" : "NPO Wetenschap",
-        "section" : {
-          "path" : "/wetenschap/programmas/grootnationaalonderzoek",
-          "id" : "WETENSCHAP24./wetenschap/programmas/grootnationaalonderzoek"
-        }
+        "url" : "http://wetenschap-sample.localhost",
+        "value" : "NPO Wetenschap"
       },
-      "title" : "Groot Nationaal Onderzoek",
-      "keywords" : [ "wetenschap", "onderzoek", "publieksonderzoek" ],
+      "title" : "Particle fever",
+      "subTitle" : "2Doc ",
+      "keywords" : [ "Higgs", "Gods-deeltje", "Gods Particle", "Particle fever", "2doc", "oerknal", "Higgs-Boson", "LHC", "Mark Levinson", "de Large Hadron Collider", "CERN", "deeltjes", "deeltjes-experiment", "deeltjesversneller", "massa", "standaardmodel", "elementaire deeltjes", "universum", "heelal", "Peter Higgs" ],
+      "genres" : [ {
+        "id" : "3.0.2.2",
+        "terms" : [ "Beta & Tech" ],
+        "displayName" : "Beta & Tech"
+      }, {
+        "id" : "3.0.2.3",
+        "terms" : [ "Heelal & Ruimtevaart" ],
+        "displayName" : "Heelal & Ruimtevaart"
+      } ],
+      "summary" : "Wat gebeurde er nèt na de oerknal? Vijf jaar lang worden de meest vooraanstaande wetenschappers gevolgd in hun zoektocht naar het HIGGS-deeltje.",
+      "paragraphs" : [ {
+        "body" : "Een thriller met sexy wetenschappers die ook nog goed de ingewikkelde materie kunnen uitleggen. 'Stel je een aantal opgewonden jongetjes van zes jaar vlak voor hun verjaardag voor' zo omschrijft een wetenschapster haar collega's als die voor het eerst het HIGGS-deeltje proberen aan te tonen. Met de vondst van dit zogenoemde Gods-deeltje hopen ze te ontcijferen wat er nèt na de oerknal gebeurde. Aan het onderzoek werken 10.000 wetenschappers uit meer dan 100 landen mee en de kijker zit op de eerste rang bij dit grootste en duurste experiment ooit. Van dichtbij wordt een aantal wetenschappers gevolgd en zien we hoe ze met bloed, zweet en tranen onderzoeken hoe onze wereld in elkaar zit. De film komt zo dichtbij dat het voelt alsof je er bovenop zit terwijl Edison de gloeilamp uitvond. Regie: Mark Levinson."
+      } ],
+      "links" : [ {
+        "text" : "De zoektocht naar het Higgs-deeltje. Zoeken naar het Higgs-deeltje; een speld in miljoenen hooibergen.",
+        "pageRef" : "http://wetenschap-sample.localhost/videos/meer-video/de-zoektocht-naar-het-higgs-deeltje.html"
+      } ],
       "embeds" : [ {
         "media" : {
           "objectType" : "program",
-          "mid" : "WO_VPRO_035791",
-          "creationDate" : 1314889061121,
-          "lastModified" : 1344870528076,
-          "sortDate" : 1314889061121,
-          "urn" : "urn:vpro:media:program:10643436",
+          "mid" : "VPWON_1208500",
+          "creationDate" : 1395640713075,
+          "lastModified" : 1398843817111,
+          "sortDate" : 1397682000000,
+          "urn" : "urn:vpro:media:program:39087928",
           "embeddable" : true,
+          "episodeOf" : [ {
+            "midRef" : "POMS_S_VPRO_472240",
+            "urnRef" : "urn:vpro:media:group:36114396",
+            "type" : "SERIES",
+            "index" : 34,
+            "highlighted" : false,
+            "added" : 1396597327674
+          } ],
           "broadcasters" : [ {
             "id" : "VPRO",
             "value" : "VPRO"
           } ],
+          "regions" : [ "NL" ],
           "titles" : [ {
-            "value" : "GNO",
+            "value" : "2Doc",
             "owner" : "BROADCASTER",
             "type" : "MAIN"
+          }, {
+            "value" : "2doc: Particle fever",
+            "owner" : "MIS",
+            "type" : "MAIN"
+          }, {
+            "value" : "2doc:Particle fever",
+            "owner" : "WHATS_ON",
+            "type" : "MAIN"
+          }, {
+            "value" : "Particle fever",
+            "owner" : "BROADCASTER",
+            "type" : "SUB"
+          }, {
+            "value" : "2doc:Particle fever",
+            "owner" : "WHATS_ON",
+            "type" : "ORIGINAL"
           } ],
           "descriptions" : [ {
-            "value" : "Video op website van het GNO over sociale vaardigheden.",
+            "value" : "Wat gebeurde er nèt na de oerknal? Vijf jaar lang worden de meest vooraanstaande wetenschappers gevolgd in hun zoektocht naar het Higgs-deeltje. Een thriller met sexy wetenschappers die ook nog goed de ingewikkelde materie kunnen uitleggen. 'Stel je een aantal opgewonden jongetjes van zes jaar vlak voor hun verjaardag voor' zo omschrijft een wetenschapster haar collega's als die voor het eerst het Higgs-deeltje proberen aan te tonen. Met de vondst van dit zogenoemde God-deeltje hopen ze te ontcijferen wat er nèt na de oerknal gebeurde. Aan het onderzoek werken 10.000 wetenschappers uit meer dan 100 landen mee en de kijker zit op de eerste rang bij dit grootste en duurste experiment ooit. Van dichtbij wordt een aantal wetenschappers gevolgd en zien we hoe ze met bloed, zweet en tranen onderzoeken hoe onze wereld in elkaar zit. De film komt zo dichtbij dat het voelt alsof je er bovenop zit terwijl Edison de gloeilamp uitvond. Regie: Mark Levinson.",
             "owner" : "BROADCASTER",
+            "type" : "MAIN"
+          }, {
+            "value" : "Wat gebeurde er nèt na de oerknal? Vijf jaar lang worden de meest vooraanstaande wetenschappers gevolgd in hun zoektocht naar het HIGGS-deeltje. Een thriller met sexy wetenschappers die ook nog goed de ingewikkelde materie kunnen uitleggen. 'Stel je een aantal opgewonden jongetjes van zes jaar vlak voor hun verjaardag voor' zo omschrijft een wetenschapster haar collega's als die voor het eerst het HIGGS-deeltje proberen aan te tonen. Met de vondst van dit zogenoemde Gods-deeltje hopen ze te ontcijferen wat er nèt na de oerknal gebeurde. Aan het onderzoek werken 10.000 wetenschappers uit meer dan 100 landen mee en de kijker zit op de eerste rang bij dit grootste en duurste experiment ooit. Van dichtbij wordt een aantal wetenschappers gevolgd en zien we hoe ze met bloed, zweet en tranen onderzoeken hoe onze wereld in elkaar zit. De film komt zo dichtbij dat het voelt alsof je er bovenop zit terwijl Edison de gloeilamp uitvond. Regie: Mark Levinson.",
+            "owner" : "MIS",
+            "type" : "MAIN"
+          }, {
+            "value" : "Wat gebeurde er nèt na de oerknal?  Vijf jaar lang worden de meest vooraanstaande wetenschappers gevolgd in hun zoektocht naar het HIGGS-deeltje. Een thriller met sexy wetenschappers die ook nog goed de ingewikkelde materie kunnen uitleggen.  'Stel je een aantal opgewonden jongetjes van 6 jaar vlak voor hun verjaardag voor' zo omschrijft een wetenschapster haar collega's als die voor het eerst het HIGGS-deeltje proberen aan te tonen. Met de vondst van dit zogenoemde Gods-deeltje hopen ze te ontcijferen wat er nèt na de oerknal gebeurde. Aan het onderzoek werken 10.000 wetenschappers uit meer dan 100 landen mee en de kijker zit op de eerste rang bij dit grootste en duurste experiment ooit. Van dichtbij wordt een aantal wetenschappers gevolgd en zien we hoe ze met bloed, zweet en tranen onderzoeken hoe onze wereld in elkaar zit. De film komt zo dichtbij dat het voelt alsof je er bovenop zit terwijl Edison de gloeilamp uitvond.   Regie: Mark Levinson",
+            "owner" : "WHATS_ON",
+            "type" : "MAIN"
+          }, {
+            "value" : "Wat gebeurde er nèt na de oerknal? Vijf jaar lang worden de meest vooraanstaande wetenschappers gevolgd in hun zoektocht naar het HIGGS-deeltje.",
+            "owner" : "MIS",
             "type" : "SHORT"
           } ],
-          "genres" : [ ],
+          "genres" : [ {
+            "id" : "3.0.1.8",
+            "terms" : [ "Documentaire" ]
+          } ],
+          "tags" : [ "documentaire", "Higgs-deeltje", "oerknal", "wetenschap" ],
           "countries" : [ ],
           "languages" : [ ],
+          "avAttributes" : {
+            "videoAttributes" : { },
+            "audioAttributes" : { }
+          },
+          "duration" : 5580000,
+          "descendantOf" : [ {
+            "midRef" : "POMS_S_VPRO_472240",
+            "urnRef" : "urn:vpro:media:group:36114396",
+            "type" : "SERIES"
+          }, {
+            "midRef" : "POMS_S_VPRO_522139",
+            "urnRef" : "urn:vpro:media:group:40914217",
+            "type" : "COLLECTION"
+          }, {
+            "midRef" : "POMS_S_VPRO_522208",
+            "urnRef" : "urn:vpro:media:group:40917007",
+            "type" : "COLLECTION"
+          } ],
           "predictions" : [ {
             "state" : "REALIZED",
+            "publishStart" : 1397714400000,
+            "publishStop" : 1398895080000,
             "platform" : "INTERNETVOD"
+          }, {
+            "state" : "REALIZED",
+            "publishStart" : 1397687566000,
+            "publishStop" : 1429309966000,
+            "platform" : "PLUSVOD"
           } ],
           "locations" : [ {
-            "programUrl" : "http://download.omroep.nl/vpro/W24/GNO%202.mp4",
+            "programUrl" : "sub+http//npoplus.nl/video/mpeg2_hr/VPWON_1208500",
             "avAttributes" : {
-              "avFileFormat" : "MP4"
+              "bitrate" : 3500000,
+              "avFileFormat" : "MPEG2"
             },
-            "owner" : "BROADCASTER",
-            "creationDate" : 1314889061380,
-            "lastModified" : 1314889061417,
+            "owner" : "CERES",
+            "creationDate" : 1397688666833,
+            "lastModified" : 1397688666954,
+            "publishStart" : 1397687566000,
+            "publishStop" : 1429309966000,
             "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:location:10643439"
+            "platform" : "PLUSVOD",
+            "urn" : "urn:vpro:media:location:40276763"
+          } ],
+          "scheduleEvents" : [ {
+            "avAttributes" : {
+              "videoAttributes" : {
+                "aspectRatio" : "16:9"
+              }
+            },
+            "start" : 1397682000000,
+            "offset" : -30000,
+            "duration" : 6300000,
+            "poProgID" : "VPWON_1208500",
+            "channel" : "NED2",
+            "imi" : "imi:18595",
+            "urnRef" : "urn:vpro:media:program:39087928",
+            "midRef" : "VPWON_1208500"
           } ],
           "images" : [ {
-            "title" : "GNO",
-            "description" : "1",
-            "imageUri" : "urn:vpro.image:15174",
-            "height" : 571,
-            "width" : 1017,
-            "owner" : "BROADCASTER",
-            "type" : "BACKGROUND",
-            "highlighted" : false,
-            "creationDate" : 1314889804775,
-            "lastModified" : 1314889804809,
-            "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:image:10643446"
-          }, {
-            "title" : "GNO",
-            "description" : "2",
-            "imageUri" : "urn:vpro.image:15175",
-            "height" : 571,
-            "width" : 1017,
+            "title" : "fever",
+            "description" : "fever",
+            "imageUri" : "urn:vpro:image:447082",
+            "height" : 390,
+            "width" : 600,
             "owner" : "BROADCASTER",
             "type" : "PICTURE",
             "highlighted" : false,
-            "creationDate" : 1314889804780,
-            "lastModified" : 1314889804809,
+            "creationDate" : 1396597835516,
+            "lastModified" : 1396597835662,
             "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:image:10643447"
-          }, {
-            "title" : "GNO",
-            "description" : "3",
-            "imageUri" : "urn:vpro.image:15176",
-            "height" : 571,
-            "width" : 1017,
-            "owner" : "BROADCASTER",
-            "type" : "STILL",
-            "highlighted" : false,
-            "creationDate" : 1314889848593,
-            "lastModified" : 1314889848636,
-            "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:image:10643448"
-          }, {
-            "title" : "GNO",
-            "description" : "4",
-            "imageUri" : "urn:vpro.image:15177",
-            "height" : 571,
-            "width" : 1017,
-            "owner" : "BROADCASTER",
-            "type" : "ICON",
-            "highlighted" : false,
-            "creationDate" : 1314889876280,
-            "lastModified" : 1314889876321,
-            "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:image:10643449"
+            "urn" : "urn:vpro:media:image:39653321"
           } ],
           "workflow" : "PUBLISHED",
-          "type" : "CLIP",
+          "type" : "BROADCAST",
           "avType" : "VIDEO"
         }
       } ],
       "images" : [ {
         "type" : "PICTURE",
-        "url" : "http://images.poms.omroep.nl/image/s360/15174.jpg",
-        "title" : "GNO",
-        "description" : "1"
+        "url" : "http://images.poms.omroep.nl/image/s360/447082.jpg",
+        "title" : "fever",
+        "description" : "fever"
       } ],
-      "publishStart" : 1310720304202,
-      "creationDate" : 1411381134177,
-      "lastModified" : 1418900279169,
+      "publishStart" : 1397658554000,
+      "creationDate" : 1420710441249,
+      "lastModified" : 1420710441699,
       "refCount" : 0
     }
   }, {
-    "score" : 14.293819,
+    "score" : 4.2661085,
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",
-      "type" : "HOME",
-      "url" : "http://www-test.npowetenschap.nl/programmas/scienceflash.html",
-      "sortDate" : 1304494272562,
-      "crids" : [ "crid://vpro/website/a164b134-a919-462b-aef9-f0b0b4f29404" ],
+      "type" : "PLAYER",
+      "url" : "http://wetenschap-sample.localhost/videos/meer-video/NTR-College-Tour-Frans-de-Waal.html",
+      "sortDate" : 1379686980000,
+      "crids" : [ "crid://vpro/website/b701b7d0-abf7-4680-a96b-4ae0dc947451" ],
       "broadcasters" : [ {
-        "id" : "NPS",
-        "value" : "NPS"
+        "id" : "NTR",
+        "value" : "NTR"
       }, {
         "id" : "VPRO",
         "value" : "VPRO"
       } ],
       "portal" : {
         "id" : "WETENSCHAP24",
-        "url" : "http://www-test.npowetenschap.nl",
-        "value" : "NPO Wetenschap",
-        "section" : {
-          "path" : "/wetenschap/programmas/scienceflash",
-          "id" : "WETENSCHAP24./wetenschap/programmas/scienceflash"
-        }
+        "url" : "http://wetenschap-sample.localhost",
+        "value" : "NPO Wetenschap"
       },
-      "title" : "ScienceFlash",
+      "title" : "NTR College Tour: Frans de Waal",
+      "genres" : [ {
+        "id" : "3.0.2.4",
+        "terms" : [ "Brein & Gedrag" ],
+        "displayName" : "Brein & Gedrag"
+      } ],
+      "summary" : "Twan Huys interviewt, samen met 400 studenten in Burgers Zoo, primatoloog Frans de Waal.",
+      "paragraphs" : [ {
+        "body" : "De Bosschenaar Frans de Waal is gespecialiseerd in primatologie en ethologie. Binnen zijn vakgebied is hij een van de meest vooraanstaande figuren. Zo werd hij in 2007 door het Amerikaanse Tijdschrift Time geschaard in de ‘TIME:100: The people who shape our world’, een lijst de meest invloedrijke wetenschappers, kunstenaars, politici en ondernemers van het moment."
+      } ],
       "embeds" : [ {
         "media" : {
           "objectType" : "program",
-          "mid" : "WO_NTR_406270",
-          "creationDate" : 1379931112938,
-          "lastModified" : 1380008989622,
-          "publishStart" : 1379887200000,
-          "sortDate" : 1379887200000,
-          "urn" : "urn:vpro:media:program:29902993",
+          "mid" : "NPS_1230343",
+          "creationDate" : 1377578991807,
+          "lastModified" : 1387153650396,
+          "hasSubtitles" : true,
+          "sortDate" : 1379701800000,
+          "urn" : "urn:vpro:media:program:28939210",
           "embeddable" : true,
+          "episodeOf" : [ {
+            "midRef" : "NPS_1227411",
+            "urnRef" : "urn:vpro:media:group:28493124",
+            "type" : "SEASON",
+            "index" : 3,
+            "highlighted" : false,
+            "added" : 1377578991884
+          } ],
+          "crids" : [ "crid://tmp.program.omroep.nl/16049935" ],
           "broadcasters" : [ {
+            "id" : "NPS",
+            "value" : "NPS"
+          }, {
             "id" : "NTR",
             "value" : "NTR"
           } ],
           "titles" : [ {
-            "value" : "Waarom je vader je vriendje afkeurt",
+            "value" : "College Tour",
             "owner" : "BROADCASTER",
             "type" : "MAIN"
           }, {
-            "value" : "ScienceFlash Weekjournaal 20 september 2013",
-            "owner" : "BROADCASTER",
+            "value" : "College Tour",
+            "owner" : "NEBO",
+            "type" : "MAIN"
+          }, {
+            "value" : "College Tour",
+            "owner" : "MIS",
+            "type" : "MAIN"
+          }, {
+            "value" : "Frans de Waal",
+            "owner" : "WHATS_ON",
+            "type" : "MAIN"
+          }, {
+            "value" : "Frans de Waal",
+            "owner" : "MIS",
             "type" : "SUB"
+          }, {
+            "value" : "FRANS DE WAAL",
+            "owner" : "WHATS_ON",
+            "type" : "ORIGINAL"
           } ],
           "descriptions" : [ {
-            "value" : "Vaders vinden het vriendje van hun dochter eigenlijk nooit goed genoeg. Daar kan hij helemaal niks aan doen, want dat is evolutionair zo bepaald. Promovendus Piet van den Berg van de Rijksuniversiteit Groningen zocht naar een verklaring voor dit gedrag. Verder o.a: kleine dieren zien alles in slow motion, breed gezicht maar egoïstisch, geuren gecategoriseerd en een kat als astronaut.",
+            "value" : "Twan Huys interviewt, samen met studenten, prominente gasten uit de politiek, media, cultuur en wetenschap.",
             "owner" : "BROADCASTER",
             "type" : "MAIN"
           }, {
-            "value" : "Vaders vinden het vriendje van hun dochter eigenlijk nooit goed genoeg. Daar kan hij helemaal niks aan doen, want dat is evolutionair zo bepaald. Promovendus Piet van den Berg van de Rijksuniversiteit Groningen zocht naar een verklaring voor dit gedrag. Verder o.a: kleine dieren zien alles in slow motion, breed gezicht maar egoïstisch, geuren gecategoriseerd en een kat als astronaut.",
+            "value" : "Twan Huys interviewt, samen met studenten, prominente gasten uit de politiek, media, cultuur en wetenschap.",
+            "owner" : "MIS",
+            "type" : "MAIN"
+          }, {
+            "value" : "Twan Huys interviewt, samen met studenten, prominente gasten uit de politiek, media, cultuur en wetenschap. Vandaag is Frans de Waal te gast. De Nederlandse bioloog is uitgeroepen door Time Magazine tot een van de meest invloedrijke wetenschappers ter wereld. Dit heeft hij te danken aan zijn baanbrekende onderzoek naar het gedrag van apen. Zijn boek Chimpansee Politiek vormt een inspiratiebron voor Amerikaanse politici als Jimmy Carter. Inmiddels doet Frans de Waal al jaren onderzoek in Atlanta waar hij tevens woont. De opname vindt plaats op de plek waar de carrière van De Waal in de jaren zeventig begon: Burgers' Zoo.  www.ntr.nl/collegetour",
+            "owner" : "WHATS_ON",
+            "type" : "MAIN"
+          }, {
+            "value" : "De Nederlandse bioloog Frans de Waal is uitgeroepen door Time Magazine tot een van de meest invloedrijke wetenschappers ter wereld. Dit heeft hij te danken aan zijn baanbrekende onderzoek naar het gedrag van apen.",
             "owner" : "BROADCASTER",
             "type" : "SHORT"
+          }, {
+            "value" : "Gast: Frans de Waal. De Nederlandse bioloog is uitgeroepen door Time Magazine tot een van de meest invloedrijke wetenschappers ter wereld, dankzij zijn baanbrekende onderzoek naar het gedrag van apen.",
+            "owner" : "MIS",
+            "type" : "SHORT"
+          }, {
+            "value" : "De Nederlandse bioloog Frans de Waal is uitgeroepen door Time Magazine tot een van de meest invloedrijke wetenschappers ter wereld. Dit heeft hij te danken aan zijn baanbrekende onderzoek naar het gedrag van apen. Zijn boek Chimpansee Politiek vormt een inspiratiebron voor Amerikaanse politici als Jimmy Carter. Inmiddels doet Frans de Waal al jaren onderzoek in Atlanta waar hij tevens woont. De opname vindt plaats op de plek waar de carrière van De Waal in de jaren zeventig begon: Burgers’ Zoo.",
+            "owner" : "BROADCASTER",
+            "type" : "SUB"
+          }, {
+            "value" : "Twan Huys interviewt, samen met studenten, prominente gasten uit de politiek, media, cultuur en wetenschap. Afl.: De Nederlandse bioloog Frans de Waal is uitgeroepen door Time Magazine tot een van de meest invloedrijke wetenschappers ter wereld. Dit heeft hij te danken aan zijn baanbrekende onderzoek naar het gedrag van apen. Zijn boek Chimpansee Politiek vormt een inspiratiebron voor Amerikaanse politici als Jimmy Carter. Inmiddels doet Frans de Waal al jaren onderzoek in Atlanta waar hij tevens woont. De opname vindt plaats op de plek waar de carrière van De Waal in de jaren zeventig begon: Burgers’ Zoo.",
+            "owner" : "BROADCASTER",
+            "type" : "EPISODE"
+          }, {
+            "value" : "Frans de Waal is te gast. De Nederlandse bioloog is uitgeroepen door Time Magazine tot een van de meest invloedrijke wetenschappers ter wereld. Dit heeft hij te danken aan zijn baanbrekende onderzoek naar het gedrag van apen. Zijn boek Chimpansee Politiek vormt een inspiratiebron voor Amerikaanse politici als Jimmy Carter. Inmiddels doet Frans de Waal al jaren onderzoek in Atlanta waar hij tevens woont. De opname vindt plaats op de plek waar de carrière van De Waal in de jaren zeventig begon: Burgers' Zoo.",
+            "owner" : "MIS",
+            "type" : "EPISODE"
           } ],
-          "genres" : [ ],
+          "genres" : [ {
+            "id" : "3.0.1.6",
+            "terms" : [ "Amusement" ]
+          }, {
+            "id" : "3.0.1.7",
+            "terms" : [ "Informatief" ]
+          } ],
           "countries" : [ ],
-          "languages" : [ ],
+          "languages" : [ {
+            "code" : "nl",
+            "value" : "Nederlands"
+          } ],
+          "avAttributes" : {
+            "videoAttributes" : {
+              "color" : "BLACK_AND_WHITE_AND_COLOR",
+              "aspectRatio" : "16:9"
+            },
+            "audioAttributes" : {
+              "numberOfChannels" : 2
+            }
+          },
+          "duration" : 3600000,
+          "credits" : [ {
+            "givenName" : "Twan",
+            "familyName" : "Huys",
+            "role" : "PRESENTER"
+          } ],
+          "descendantOf" : [ {
+            "midRef" : "NPS_1227411",
+            "urnRef" : "urn:vpro:media:group:28493124",
+            "type" : "SEASON"
+          }, {
+            "midRef" : "POMS_S_NTR_124382",
+            "urnRef" : "urn:vpro:media:group:4495230",
+            "type" : "SERIES"
+          } ],
+          "websites" : [ {
+            "value" : "www.ntr.nl/collegetour"
+          } ],
           "predictions" : [ {
             "state" : "REALIZED",
             "platform" : "INTERNETVOD"
           } ],
           "locations" : [ {
-            "programUrl" : "http://content.omroep.nl/vpro/poms/world/29/90/29/93/NPO_bb.m4v",
+            "programUrl" : "odip+http://odi.omroep.nl/video/adaptive/NPS_1230343",
             "avAttributes" : {
-              "bitrate" : 1241000,
+              "avFileFormat" : "HASP"
+            },
+            "owner" : "CERES",
+            "creationDate" : 1379707265413,
+            "lastModified" : 1379707265771,
+            "workflow" : "PUBLISHED",
+            "platform" : "INTERNETVOD",
+            "urn" : "urn:vpro:media:location:29842773"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_sb/NPS_1230343",
+            "avAttributes" : {
+              "bitrate" : 204800,
               "avFileFormat" : "MP4",
               "videoAttributes" : {
-                "width" : 854,
-                "heigth" : 480
-              },
-              "audioAttributes" : {
-                "numberOfChannels" : 2,
-                "audioCoding" : "AAC"
+                "videoCoding" : "MP4",
+                "aspectRatio" : "16:9"
               }
             },
-            "duration" : 538888,
-            "owner" : "BROADCASTER",
-            "creationDate" : 1379932587131,
-            "lastModified" : 1379932587665,
+            "owner" : "NEBO",
+            "creationDate" : 1379746688581,
+            "lastModified" : 1379746688745,
             "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:location:29903235"
+            "platform" : "INTERNETVOD",
+            "urn" : "urn:vpro:media:location:29846213"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_bb/NPS_1230343",
+            "avAttributes" : {
+              "bitrate" : 512000,
+              "avFileFormat" : "MP4",
+              "videoAttributes" : {
+                "videoCoding" : "MP4",
+                "aspectRatio" : "16:9"
+              }
+            },
+            "owner" : "NEBO",
+            "creationDate" : 1379746688581,
+            "lastModified" : 1379746688747,
+            "workflow" : "PUBLISHED",
+            "platform" : "INTERNETVOD",
+            "urn" : "urn:vpro:media:location:29846216"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_std/NPS_1230343",
+            "avAttributes" : {
+              "bitrate" : 1024000,
+              "avFileFormat" : "MP4",
+              "videoAttributes" : {
+                "videoCoding" : "MP4",
+                "aspectRatio" : "16:9"
+              }
+            },
+            "owner" : "NEBO",
+            "creationDate" : 1379746688581,
+            "lastModified" : 1379746688748,
+            "workflow" : "PUBLISHED",
+            "platform" : "INTERNETVOD",
+            "urn" : "urn:vpro:media:location:29846219"
+          } ],
+          "scheduleEvents" : [ {
+            "memberOf" : "crid://bds.tv/17400359",
+            "avAttributes" : {
+              "videoAttributes" : {
+                "aspectRatio" : "16:9"
+              }
+            },
+            "textSubtitles" : "Teletekst ondertitels",
+            "start" : 1379701800000,
+            "offset" : -135000,
+            "duration" : 3600000,
+            "poProgID" : "NPS_1230343",
+            "channel" : "NED3",
+            "imi" : "imi:36562",
+            "urnRef" : "urn:vpro:media:program:28939210",
+            "midRef" : "NPS_1230343"
+          }, {
+            "repeat" : {
+              "isRerun" : true
+            },
+            "avAttributes" : {
+              "videoAttributes" : {
+                "aspectRatio" : "16:9"
+              }
+            },
+            "textSubtitles" : "Teletekst ondertitels",
+            "start" : 1387478700000,
+            "duration" : 3000000,
+            "poProgID" : "NPS_1230343",
+            "channel" : "BVNT",
+            "imi" : "imi:11295",
+            "urnRef" : "urn:vpro:media:program:28939210",
+            "midRef" : "NPS_1230343"
+          }, {
+            "repeat" : {
+              "isRerun" : true
+            },
+            "avAttributes" : {
+              "videoAttributes" : {
+                "aspectRatio" : "16:9"
+              }
+            },
+            "textSubtitles" : "Teletekst ondertitels",
+            "start" : 1387521900000,
+            "duration" : 3000000,
+            "poProgID" : "NPS_1230343",
+            "channel" : "BVNT",
+            "imi" : "imi:11297",
+            "urnRef" : "urn:vpro:media:program:28939210",
+            "midRef" : "NPS_1230343"
           } ],
           "images" : [ {
-            "title" : "schoonouders1",
-            "description" : "schoonouders",
-            "imageUri" : "urn:vpro:image:222916",
-            "height" : 412,
-            "width" : 640,
-            "owner" : "BROADCASTER",
-            "type" : "PICTURE",
+            "title" : "College Tour",
+            "description" : "Twan Huys interviewt, samen met studenten, prominente gasten uit de politiek, media, cultuur en wetenschap.",
+            "imageUri" : "urn:vpro:image:222180",
+            "owner" : "NEBO",
+            "type" : "STILL",
             "highlighted" : false,
-            "creationDate" : 1379937075394,
-            "lastModified" : 1379937075512,
-            "publishStart" : 1379887200000,
+            "creationDate" : 1379707345119,
+            "lastModified" : 1379707461372,
             "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:image:29904183"
+            "urn" : "urn:vpro:media:image:29842786"
+          }, {
+            "title" : "College Tour",
+            "description" : "Twan Huys interviewt, samen met studenten, prominente gasten uit de politiek, media, cultuur en wetenschap.",
+            "imageUri" : "urn:vpro:image:222181",
+            "owner" : "NEBO",
+            "type" : "STILL",
+            "highlighted" : false,
+            "creationDate" : 1379707404137,
+            "lastModified" : 1379707461373,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:29842787"
+          }, {
+            "title" : "College Tour",
+            "description" : "Twan Huys interviewt, samen met studenten, prominente gasten uit de politiek, media, cultuur en wetenschap.",
+            "imageUri" : "urn:vpro:image:222182",
+            "owner" : "NEBO",
+            "type" : "STILL",
+            "highlighted" : false,
+            "creationDate" : 1379707461303,
+            "lastModified" : 1379707461373,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:29842788"
+          }, {
+            "title" : "College Tour",
+            "description" : "De Nederlandse bioloog Frans de Waal is uitgeroepen door Time Magazine tot een van de meest invloedrijke wetenschappers ter wereld. Dit heeft hij te danken aan zijn baanbrekende onderzoek naar het gedrag van apen.",
+            "imageUri" : "urn:vpro:image:319207",
+            "owner" : "NEBO",
+            "type" : "STILL",
+            "highlighted" : false,
+            "creationDate" : 1387129472730,
+            "lastModified" : 1387129498023,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:34123085"
+          }, {
+            "title" : "College Tour",
+            "description" : "De Nederlandse bioloog Frans de Waal is uitgeroepen door Time Magazine tot een van de meest invloedrijke wetenschappers ter wereld. Dit heeft hij te danken aan zijn baanbrekende onderzoek naar het gedrag van apen.",
+            "imageUri" : "urn:vpro:image:319208",
+            "owner" : "NEBO",
+            "type" : "STILL",
+            "highlighted" : false,
+            "creationDate" : 1387129485738,
+            "lastModified" : 1387129498023,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:34123086"
+          }, {
+            "title" : "College Tour",
+            "description" : "De Nederlandse bioloog Frans de Waal is uitgeroepen door Time Magazine tot een van de meest invloedrijke wetenschappers ter wereld. Dit heeft hij te danken aan zijn baanbrekende onderzoek naar het gedrag van apen.",
+            "imageUri" : "urn:vpro:image:319209",
+            "owner" : "NEBO",
+            "type" : "STILL",
+            "highlighted" : false,
+            "creationDate" : 1387129497911,
+            "lastModified" : 1387129498024,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:34123087"
           } ],
           "workflow" : "PUBLISHED",
-          "segments" : [ {
-            "objectType" : "segment",
-            "mid" : "POMS_NTR_407030",
-            "creationDate" : 1380008341694,
-            "lastModified" : 1380008989622,
-            "sortDate" : 1379887200000,
-            "urn" : "urn:vpro:media:segment:29938392",
-            "embeddable" : true,
-            "broadcasters" : [ {
-              "id" : "NTR",
-              "value" : "NTR"
-            } ],
-            "titles" : [ {
-              "value" : "Waarom je vader je vriendje afkeurt",
-              "owner" : "BROADCASTER",
-              "type" : "MAIN"
-            } ],
-            "descriptions" : [ {
-              "value" : "Vaders vinden het vriendje van hun dochter eigenlijk nooit goed genoeg. Daar kan hij helemaal niks aan doen, want dat is evolutionair zo bepaald. Promovendus Piet van den Berg van de Rijksuniversiteit Groningen zocht naar een verklaring voor dit gedrag.",
-              "owner" : "BROADCASTER",
-              "type" : "MAIN"
-            }, {
-              "value" : "Vaders vinden het vriendje van hun dochter eigenlijk nooit goed genoeg. Daar kan hij helemaal niks aan doen, want dat is evolutionair zo bepaald. Promovendus Piet van den Berg van de Rijksuniversiteit Groningen zocht naar een verklaring voor dit gedrag.",
-              "owner" : "BROADCASTER",
-              "type" : "SHORT"
-            } ],
-            "genres" : [ ],
-            "countries" : [ ],
-            "languages" : [ ],
-            "duration" : 177000,
-            "descendantOf" : [ {
-              "midRef" : "WO_NTR_406270",
-              "urnRef" : "urn:vpro:media:program:29902993",
-              "type" : "CLIP"
-            } ],
-            "images" : [ {
-              "title" : "Waarom je vader je vriendje afkeurt",
-              "description" : "Vaders vinden het vriendje van hun dochter eigenlijk nooit goed genoeg. Daar kan hij helemaal niks aan doen, want dat is evolutionair zo bepaald. Promovendus Piet van den Berg van de Rijksuniversiteit Groningen zocht naar een verklaring voor dit gedrag.",
-              "imageUri" : "urn:vpro:image:223238",
-              "height" : 406,
-              "width" : 630,
-              "owner" : "BROADCASTER",
-              "type" : "PICTURE",
-              "highlighted" : false,
-              "creationDate" : 1380008704332,
-              "lastModified" : 1380008704478,
-              "workflow" : "PUBLISHED",
-              "urn" : "urn:vpro:media:image:29938411"
-            } ],
-            "workflow" : "PUBLISHED",
-            "start" : 151000,
-            "urnRef" : "urn:vpro:media:program:29902993",
-            "midRef" : "WO_NTR_406270",
-            "type" : "SEGMENT",
-            "avType" : "VIDEO"
-          } ],
-          "type" : "CLIP",
+          "type" : "BROADCAST",
           "avType" : "VIDEO"
         }
       } ],
       "images" : [ {
         "type" : "PICTURE",
-        "url" : "http://images.poms.omroep.nl/image/s360/222916.jpg",
-        "title" : "schoonouders1",
-        "description" : "schoonouders"
+        "url" : "http://images.poms.omroep.nl/image/s360/222180.jpg",
+        "title" : "College Tour",
+        "description" : "Twan Huys interviewt, samen met studenten, prominente gasten uit de politiek, media, cultuur en wetenschap."
       } ],
-      "publishStart" : 1304494272562,
-      "creationDate" : 1411380587809,
-      "lastModified" : 1418900092641,
+      "publishStart" : 1379686980000,
+      "creationDate" : 1420710437805,
+      "lastModified" : 1420710438047,
       "refCount" : 0
     }
   } ]
