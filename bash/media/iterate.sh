@@ -15,5 +15,5 @@ else
     parameters="max=$1&profile=$2"
 fi
 
-echo "Tempdir $tempdir" 2>&1
+echo "Tempdir $tempdir" 1>&2
 post "api/media/iterate" $parameters $1
