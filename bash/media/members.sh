@@ -8,6 +8,7 @@ fi
 source $(dirname ${SOURCE[0]})/../creds.sh
 source $(dirname ${SOURCE[0]})/../api-functions.sh
 
+
 if [[ "$1" == ""  ]] ; then
     echo Usage:
     echo "[ENV=<prod|test|dev>] $0 <MID> [<json file with search form>]"
@@ -16,5 +17,4 @@ if [[ "$1" == ""  ]] ; then
     exit
 fi
 
-# find the implementation of the post function in ../api-functions.sh
-post "api/media/$1/related" $parameters $2
+get "api/media/$1/descendants"

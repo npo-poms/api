@@ -9,10 +9,15 @@ source $(dirname ${SOURCE[0]})/../creds.sh
 source $(dirname ${SOURCE[0]})/../api-functions.sh
 
 
-if [ -z "$2" ] ; then
-    parameters="max=$1"
+if [ -z "$1" ] ; then
+    parameters=""
 else
-    parameters="max=$1&profile=$2"
+    parameters="max=$1"
+fi
+
+
+if [ ! -z "$2" ] ; then
+    parameters="$parameters&profile=$2"
 fi
 
 echo "Tempdir $tempdir" 1>&2

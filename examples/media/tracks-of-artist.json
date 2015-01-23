@@ -1,0 +1,11 @@
+{
+    "searches": {
+        "relations":  {
+            "match": "MUST",
+            "types": "ARTIST",
+            "broadcasters": "VPRO",
+            "values": "Blaudzun"
+        },
+        "types": "TRACK"
+    }
+}

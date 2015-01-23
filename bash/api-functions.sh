@@ -5,7 +5,7 @@ PYTHON=python
 CURL=curl
 CAT=cat
 
-tempdir=$(mktemp -dt `basename $0.XXX`)
+tempdir=$(mktemp -dt `basename $0.xxx`)
 
 environments=("prod=http://rs.poms.omroep.nl/v1/" "test=http://rs-test.poms.omroep.nl/v1/" "dev=http://rs-dev.poms.omroep.nl/v1/" "localhost=http://localhost:8070/v1/")
 

@@ -1,0 +1,9 @@
+{
+  "searches" : {
+    "text" : {
+      "value" : "*bla",
+      "matchType" : "WILDCARD",
+      "match" : "MUST"
+    }
+  }
+}
