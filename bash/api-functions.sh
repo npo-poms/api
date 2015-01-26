@@ -88,7 +88,7 @@ post() {
         -H "Origin: $origin"  \
         `# post file in json` \
         -H "Content-Type: $contentType" \
-        -H "Accept: application/json" \
+        -H "Accept: $contentType" \
         -X POST --data \@$datafile  \
         \
         "$url$call?${parameters}" \
