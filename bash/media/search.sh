@@ -9,7 +9,11 @@ fi
 source $(dirname ${SOURCE[0]})/../creds.sh
 source $(dirname ${SOURCE[0]})/../api-functions.sh
 
-parameters="max=2" # make sure they are ordered!
+if [ -z "$2" ] ; then
+    parameters="max=240" # make sure they are ordered!
+else
+    parameters="max=2" # make sure they are ordered!
+fi
 
 if [[ "$1" != "" &&  ! -e $1 ]] ; then
     echo Usage:
