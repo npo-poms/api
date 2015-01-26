@@ -64,6 +64,13 @@ post() {
     header=$(authenticateHeader "$npodate" $call $parameters)
     url=$(getUrl)
 
+    if [ ${datafile%.xml} != $datafile ] ; then
+        contentType="application/xml"
+    else
+        contentType="application/json"
+    fi
+
+
     #echo "Writing to $output" 1>&2
     # now we call curl
     # We let the http_code come on stdout and the output itself is stored to a tempory file (which is afterwards returned with cat).
@@ -80,7 +87,7 @@ post() {
         -H "X-NPO-Date: $npodate" \
         -H "Origin: $origin"  \
         `# post file in json` \
-        -H "Content-Type: application/json" \
+        -H "Content-Type: $contentType" \
         -H "Accept: application/json" \
         -X POST --data \@$datafile  \
         \
