@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mediaForm xmlns="urn:vpro:api:2013" xmlns:media="urn:vpro:media:2009" highlight="false">
+    <searches>
+        <scheduleEvents inclusiveEnd="true">
+            <begin>2015-01-26T00:00:00+01:00</begin>
+            <end>2015-01-27T00:00:00+01:00</end>
+            <channel>NED3</channel>
+        </scheduleEvents>
+    </searches>
+    <facets>
+        <broadcasters sort="REVERSE_TERM">
+            <threshold>0</threshold>
+            <offset>0</offset>
+            <max>24</max>
+        </broadcasters>
+    </facets>
+</mediaForm>
