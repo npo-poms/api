@@ -1,0 +1,16 @@
+{
+    "facets": {
+        "sortDates": [
+            "2WEEK"
+         ]
+    },
+    "searches": {
+        "sortDates": [{
+            "begin" : -948326400000,
+            "end" : -947116800000
+         }],
+        "text": "nothingtofind!"
+    }
+
+
+}
