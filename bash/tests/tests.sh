@@ -6,4 +6,4 @@ if [[ -z "$SOURCE" ]] ; then
     SOURCE=$BASH_SOURCE
 fi
 
-source $(dirname ${SOURCE[0]})/pages/bucketsearches.sh
+ENV=dev source $(dirname ${SOURCE[0]})/pages/bucketsearches.sh

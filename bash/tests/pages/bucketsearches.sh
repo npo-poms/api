@@ -30,7 +30,7 @@ parameters="max=$MAX&profile=$2&properties=$PROPERTIES" # make sure they are ord
 
 
 # find the implementation of the post function in ../api-functions.sh
-post "api/pages" $parameters $sortDates | xsltproc --stringparam tempDir $tmpFile $xslt -
+post "api/pages" $parameters $sortDates | xsltproc --stringparam tempDir $tmpFile $xslt - > /dev/null
 
 for i in `ls $tmpFile/*.xml`; do
     echo "##teamcity[testStarted name='$i' captureStandardOutput='true']"
@@ -39,3 +39,4 @@ for i in `ls $tmpFile/*.xml`; do
        echo "##teamcity[testFailed name='$i' message='Too many results from facet search $count' details='']"
     fi
 done
+rm -rf $tmpFile/*
