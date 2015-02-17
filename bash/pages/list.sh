@@ -7,10 +7,11 @@ source $(dirname ${SOURCE[0]})/../api-functions.sh
 
 
 if [ -z "$MAX" ] ; then
-    MAX=500
+    MAX=2
 fi
 
-parameters="max=$MAX&profile=$2" # make sure they are ordered!
+
+parameters="max=$MAX&profile=$2&properties=$PROPERTIES" # make sure they are ordered!
 
 if [[ "$1" != "" &&  ! -e $1 ]] ; then
     echo Usage:
@@ -21,4 +22,4 @@ if [[ "$1" != "" &&  ! -e $1 ]] ; then
 fi
 
 # find the implementation of the post function in ../api-functions.sh
-post "api/pages" $parameters $1
+get "api/pages" $parameters $1

@@ -13,7 +13,11 @@
     <xsl:value-of select="$tempDir" />
     <xsl:for-each select="api:pageSearchResult/api:facets/*">
       <xsl:variable name="file">
-        <xsl:value-of select="$tempDir" />/<xsl:value-of select="name()" /><xsl:value-of select="@value" /><xsl:text>.xml</xsl:text>
+        <xsl:value-of select="$tempDir" />
+        <xsl:text>/</xsl:text>
+        <xsl:value-of select="local-name()" />
+        <xsl:value-of select="@value" />
+        <xsl:text>.xml</xsl:text>
       </xsl:variable>
       <exsl:document href="{$file}" method="xml">
         <pagesForm xmlns="urn:vpro:api:2013" xmlns:media="urn:vpro:media:2009" highlight="false">

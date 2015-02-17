@@ -10,7 +10,6 @@ SOURCE=$(readlink  $BASH_SOURCE)
 if [[ -z "$SOURCE" ]] ; then
     SOURCE=$BASH_SOURCE
 fi
-source $(dirname ${SOURCE[0]})/../../creds.sh
 source $(dirname ${SOURCE[0]})/../../api-functions.sh
 
 
@@ -34,7 +33,9 @@ post "api/pages" $parameters $sortDates | xsltproc --stringparam tempDir $tmpFil
 
 for i in `ls $tmpFile/*.xml`; do
     echo "##teamcity[testStarted name='$i' captureStandardOutput='true']"
-    count=`post "api/pages" $parameters $i | xsltproc $xsltfilter - | xmllint --format - | grep "<sortDates" | wc  -l | xargs`
+    #count=`post "api/pages" $parameters $i | xsltproc $xsltfilter - | xmllint --format - | grep "<sortDates" | wc  -l | xargs`
+    post "api/pages" $parameters $i | xsltproc $xsltfilter - | xmllint --format -
+    echo $count
     if [ "$count" -gt "1" ] ; then
        echo "##teamcity[testFailed name='$i' message='Too many results from facet search $count' details='']"
     fi
