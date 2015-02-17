@@ -1,0 +1,10 @@
+{
+    "searches" : {
+
+    },
+
+    "sort": {"sortDate": "ASC" },
+    "facets" : {
+      "sortDates" : [ "YEAR" ]
+    }
+}
