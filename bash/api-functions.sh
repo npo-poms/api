@@ -1,6 +1,10 @@
 
 # external program used, make sure they are in your path
-GDATE=gdate
+if [ -e `which gdate` ] ; then
+    GDATE=gdate
+else
+    GDATE=date
+fi
 PYTHON=python
 CURL=curl
 CAT=cat
