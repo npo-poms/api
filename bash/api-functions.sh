@@ -11,15 +11,13 @@ CAT=cat
 
 tempdir=$(mktemp -dt `basename $0.XXX`)
 
-SOURCE=$(readlink  $BASH_SOURCE)
-if [[ -z "$SOURCE" ]] ; then
-    SOURCE=$BASH_SOURCE
-fi
-if [ -e $(dirname ${SOURCE[0]})/../../creds.sh ]; then
-    source $(dirname ${SOURCE[0]})/../../creds.sh
+thislocation=$(dirname $BASH_SOURCE)
+if [ -e $thislocation/../../creds.sh ]; then
+    source $thislocation/../../creds.sh
 else
-    source $(dirname ${SOURCE[0]})/creds.sh
+    source $thislocation/creds.sh
 fi
+
 
 environments=("prod=http://rs.poms.omroep.nl/v1/" "test=http://rs-test.poms.omroep.nl/v1/" "dev=http://rs-dev.poms.omroep.nl/v1/" "localhost=http://localhost:8070/v1/")
 
