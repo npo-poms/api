@@ -14,6 +14,9 @@ source $(dirname ${SOURCE[0]})/../../api-functions.sh
 
 
 sortDates=$(dirname ${SOURCE[0]})/../../../examples/pages/sortDates.xml
+
+echo $sortDates;
+
 xslt=$(dirname ${SOURCE[0]})/buckets_to_search.xslt
 xsltfilter=$(dirname ${SOURCE[0]})/filter_facets.xslt
 tmpFile=tmp
@@ -31,13 +34,24 @@ parameters="max=$MAX&profile=$2&properties=$PROPERTIES" # make sure they are ord
 # find the implementation of the post function in ../api-functions.sh
 post "api/pages" $parameters $sortDates | xsltproc --stringparam tempDir $tmpFile $xslt - > /dev/null
 
+totcount=0
+testcount=0
 for i in `ls $tmpFile/*.xml`; do
     echo "##teamcity[testStarted name='$i' captureStandardOutput='true']"
-    #count=`post "api/pages" $parameters $i | xsltproc $xsltfilter - | xmllint --format - | grep "<sortDates" | wc  -l | xargs`
-    post "api/pages" $parameters $i | xsltproc $xsltfilter - | xmllint --format -
+    count=`post "api/pages" $parameters $i | xsltproc $xsltfilter - | xmllint --format - | grep "sortDates " | wc  -l | xargs`
+    #post "api/pages" $parameters $i | xsltproc $xsltfilter - | xmllint --format -
     echo $count
     if [ "$count" -gt "1" ] ; then
        echo "##teamcity[testFailed name='$i' message='Too many results from facet search $count' details='']"
     fi
+    let totcount=totcount+count
+    let testcount=testcount+1
 done
-rm -rf $tmpFile/*
+echo $totcount/$testcount
+if [ "$totcount" -lt "10" ] ; then
+    echo "##teamcity[testFailed name='$0' message='Too few results from facet search $totcount' details='']"
+elif [ "$totcount" -gt "$testcount" ] ; then
+    echo "##teamcity[testFailed name='$0' message='Too many results from facet search $totcount' details='']"
+else
+    rm -rf $tmpFile/*
+fi

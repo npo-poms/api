@@ -8,7 +8,7 @@
   <xsl:output method="xml"/>
   <xsl:template match="/">
     <out>
-      <xsl:copy-of select="api:pageSearchResult/api:facets|api:pageSearchResult/api:selectedFacets" />
+      <xsl:copy-of select="api:pageSearchResult/api:facets" />
     </out>
   </xsl:template>
 </xsl:stylesheet>

@@ -5,5 +5,7 @@ SOURCE=$(readlink  $BASH_SOURCE)
 if [[ -z "$SOURCE" ]] ; then
     SOURCE=$BASH_SOURCE
 fi
-
-ENV=dev source $(dirname ${SOURCE[0]})/pages/bucketsearches.sh
+if [ -z "$ENV" ] ; then
+    ENV=dev
+fi
+source $(dirname ${SOURCE[0]})/pages/bucketsearches.sh
