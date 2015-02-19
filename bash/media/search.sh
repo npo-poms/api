@@ -6,7 +6,6 @@ SOURCE=$(readlink  $BASH_SOURCE)
 if [[ -z "$SOURCE" ]] ; then
     SOURCE=$BASH_SOURCE
 fi
-source $(dirname ${SOURCE[0]})/../creds.sh
 source $(dirname ${SOURCE[0]})/../api-functions.sh
 
 if [ -z "$2" ] ; then
@@ -14,6 +13,8 @@ if [ -z "$2" ] ; then
 else
     parameters="max=2" # make sure they are ordered!
 fi
+
+
 
 if [[ "$1" != "" &&  ! -e $1 ]] ; then
     echo Usage:

@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 
 cd $(dirname ${BASH_SOURCE[0]})
-source ../creds.sh
 source ../api-functions.sh
 
 parameters=("max=2") # make sure they are ordered!
