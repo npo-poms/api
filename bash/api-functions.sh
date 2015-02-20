@@ -108,6 +108,7 @@ post() {
     if [ "$status" != "200" ] ; then
         echo "ERROR: $status, $baseUrl$call?${parameters} @$3"  1>&2
         echo "See $output" 1>&2
+        kill -s TERM $TOP_PID
     fi
     $CAT $output
     if [ "$status" == "200" ] ; then
