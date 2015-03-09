@@ -13,4 +13,4 @@ if [[ "$1" == ""  ]] ; then
     exit
 fi
 
-CONTENT_TYPE=application/xml get "api/profiles/$1"
+CONTENT_TYPE=application/xml get "api/profiles/$1" |  xmllint -format -
