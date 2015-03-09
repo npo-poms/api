@@ -77,10 +77,13 @@ post() {
     url=$(getUrl)
 
     if [ ${datafile%.xml} != $datafile ] ; then
+        accept="application/xml"
         contentType="application/xml"
     else
+        accept="application/json"
         contentType="application/json"
     fi
+    #accept="application/xml"
 
 
     #echo "Writing to $output" 1>&2
@@ -100,7 +103,7 @@ post() {
         -H "Origin: $origin"  \
         `# post file in json` \
         -H "Content-Type: $contentType" \
-        -H "Accept: $contentType" \
+        -H "Accept: $accept" \
         -X POST --data \@$datafile  \
         \
         "$url$call?${parameters}" \
@@ -130,6 +133,12 @@ get() {
     header=$(authenticateHeader "$npodate" $call $parameters)
     url=$(getUrl)
 
+    contentType="$CONTENT_TYPE"
+    if [ -z "$contentType" ] ; then
+        contentType="application/json"
+    fi
+
+
     #echo "Writing to $output" 1>&2
     # now we call curl
     # We let the http_code come on stdout and the output itself is stored to a tempory file (which is afterwards returned with cat).
@@ -146,8 +155,8 @@ get() {
         -H "X-NPO-Date: $npodate" \
         -H "Origin: $origin"  \
         `# post file in json` \
-        -H "Content-Type: application/json" \
-        -H "Accept: application/json" \
+        -H "Content-Type: $contentType" \
+        -H "Accept: $contentType" \
         -X GET  \
         \
         "$url$call?${parameters}" \
