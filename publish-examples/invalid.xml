@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pageUpdate:page xmlns:page="urn:vpro:pages:2013" xmlns:media="urn:vpro:media:2009" xmlns:shared="urn:vpro:shared:2009" xmlns:pageUpdate="urn:vpro:pages:update:2013" type="HOME" url="http://vpronl.localhost/programmas/maartens-moestuin/extra.html" publishStart="2014-05-26T14:08:16.464+02:00">
+    <pageUpdate:crid>crid://vpro/website/df36aa1f-a65a-4d9e-aaae-435091ad5171</pageUpdate:crid>
+    <pageUpdate:broadcaster>VPRO</pageUpdate:broadcaster>
+    <pageUpdate:portal id="VPRONL" url="http://vpronl.localhost"/>
+    <pageUpdate:title></pageUpdate:title>
+    <pageUpdate:summary>Maarten 't Hart weet wel hoe je moet moestuinieren. Maar hoe doen anderen dat? Niet iedereen heeft een grote moestuin: sommigen planten in hun woonkamer, delen een buurttuin of schoffelen op het dak van een flatgebouw. VPRO.nl ging op bezoek bij tien alternatieve moestuinen, om in beeld te brengen hoe zij hun tuintje runnen.</pageUpdate:summary>
+    <pageUpdate:paragraphs>
+        <pageUpdate:paragraph>
+            <pageUpdate:title>credits</pageUpdate:title>
+        </pageUpdate:paragraph>
+        <pageUpdate:paragraph>
+            <pageUpdate:title>productie</pageUpdate:title>
+        </pageUpdate:paragraph>
+        <pageUpdate:paragraph>
+            <pageUpdate:title>nikki dekker</pageUpdate:title>
+        </pageUpdate:paragraph>
+        <pageUpdate:paragraph>
+            <pageUpdate:title>camera &amp; montage</pageUpdate:title>
+        </pageUpdate:paragraph>
+        <pageUpdate:paragraph>
+            <pageUpdate:title>david van brakel</pageUpdate:title>
+        </pageUpdate:paragraph>
+    </pageUpdate:paragraphs>
+    <pageUpdate:embeds>
+        <pageUpdate:embed midRef="POMS_S_VPRO_540894"/>
+    </pageUpdate:embeds>
+</pageUpdate:page>

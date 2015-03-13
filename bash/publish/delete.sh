@@ -4,11 +4,9 @@ if [ -z "$1" ] ; then
     exit
 fi
 
+source $(dirname ${BASH_SOURCE[0]})/functions.sh
 
-source ./creds.sh
-source ./functions.sh
-
-target=$rs/pages/updates/$(rawurlencode "$1" )
+target=$(getUrl)/pages/updates/$(rawurlencode "$1" )
 
 echo $target >&2
 

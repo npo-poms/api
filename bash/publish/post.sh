@@ -5,11 +5,12 @@ if [ -z "$1" ] ; then
 fi
 
 
-source $(dirname ${BASH_SOURCE[0]})/creds.sh
+source $(dirname ${BASH_SOURCE[0]})/functions.sh
 
-target="$rs/pages/updates"
+target="$(getUrl)/pages/updates"
 
 echo $target >&2
+
 
 curl -i -s --insecure --user $user --header "Content-Type: application/xml" --header "Accept: application/xml" -X POST --data @$1 \
     ${target}
