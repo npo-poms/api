@@ -1,0 +1,12 @@
+{
+    "facets" : {
+        "portals" : {
+            "sort" : "COUNT_DESC",
+            "max" : 100,
+            "filter": {
+                "portals": [{"value": "NTRPORTAL", "match": "NOT"}]
+            }
+
+        }
+    }
+}
