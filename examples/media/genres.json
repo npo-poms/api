@@ -1,0 +1,12 @@
+{
+    "facets" : {
+        "genres" : {
+            "sort" : "COUNT_DESC",
+            "max" : 100,
+            "filter": {
+                "genres": [{"value": "3.0.1.7.21", "match": "NOT"}]
+            }
+
+        }
+    }
+}

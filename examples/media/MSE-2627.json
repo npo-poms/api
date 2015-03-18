@@ -1,0 +1,12 @@
+{
+  "searches" : {
+    "mediaIds" : {
+      "match" : "MUST",
+        "value" : [
+            { "value": "POW_00768226", "match": "SHOULD"},
+            { "value": "POW_00979383", "match": "SHOULD"},
+            { "value": "POW_00979473", "match": "SHOULD"}
+        ]
+    }
+  }
+}

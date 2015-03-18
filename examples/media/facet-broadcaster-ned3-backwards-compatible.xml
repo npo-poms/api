@@ -9,9 +9,6 @@
     </searches>
     <facets>
         <broadcasters sort="REVERSE_TERM">
-            <threshold>0</threshold>
-            <offset>0</offset>
-            <max>24</max>
         </broadcasters>
     </facets>
 </mediaForm>
