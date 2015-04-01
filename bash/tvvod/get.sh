@@ -14,5 +14,5 @@ if [[ "$1" == ""  ]] ; then
 fi
 
 
-# find the implementation of the post function in ../api-functions.sh
+# find the implementation of the get function (including authentication) in ../api-functions.sh
 CONTENT_TYPE='application/xml' get "api/tvvod/$1"
