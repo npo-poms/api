@@ -1,41 +1,11 @@
 {
   "facets" : {
-    "broadcasters" : [ {
-      "count" : 1707,
-      "id" : "NTR",
-      "value" : "NTR"
-    }, {
-      "count" : 1707,
-      "id" : "NOS",
-      "value" : "NOS"
-    }, {
-      "count" : 624,
-      "id" : "NPS",
-      "value" : "NPS"
-    }, {
-      "count" : 70,
-      "id" : "VPRO",
-      "value" : "VPRO"
-    }, {
-      "count" : 55,
-      "id" : "BNN",
-      "value" : "BNN"
-    }, {
-      "count" : 4,
-      "id" : "VARA",
-      "value" : "VARA"
-    }, {
-      "count" : 2,
-      "id" : "TROS",
-      "value" : "TROS"
-    }, {
-      "count" : 2,
-      "id" : "AVRO",
-      "value" : "AVRO"
-    }, {
-      "count" : 1,
-      "id" : "NCRV",
-      "value" : "NCRV"
+    "durations" : [ {
+      "count" : 532507,
+      "selected" : false,
+      "value" : "null",
+      "begin" : -9223372036854775808,
+      "end" : 9223372036854775807
     } ]
   },
   "selectedFacets" : { },

@@ -1,0 +1,368 @@
+{
+  "total" : 58210,
+  "offset" : 0,
+  "max" : 2,
+  "items" : [ {
+    "score" : 2.3600465E-4,
+    "highlights" : [ ],
+    "result" : {
+      "objectType" : "segment",
+      "mid" : "POMS_NOS_293871",
+      "creationDate" : 1363664124491,
+      "lastModified" : 1363664124534,
+      "sortDate" : 1349154000000,
+      "urn" : "urn:vpro:media:segment:23447307",
+      "embeddable" : true,
+      "crids" : [ "crid://fragment.radiobox2/60054" ],
+      "broadcasters" : [ {
+        "id" : "NOS",
+        "value" : "NOS"
+      }, {
+        "id" : "KRO",
+        "value" : "KRO"
+      } ],
+      "titles" : [ {
+        "value" : " 'Bad', een nieuw ZKV van A.L. Snijders ",
+        "owner" : "RADIOBOX",
+        "type" : "MAIN"
+      } ],
+      "descriptions" : [ {
+        "value" : "Bad\nZouden ze in Den Haag iets van paasvuren weten? Ik was uitgenodigd om iets voor te lezen in een villa op Scheveningen. Daaraan voorafgaand mocht ik eten en slapen in het Hilton hotel. Het eten was heerlijk, hoewel ik later van andere schrijvers hoorde dat het heel slecht was. Ze legden uit waarom, maar ik bleef met terugwerkende kracht tevreden. Confrontaties en misverstanden. Na het eten kwam de kamer. Ik logeer tegenwoordig wel eens vaker in een hotel, maar deze keer was de luxe opvallend, vooral de badkamer maakte me nederig, nooit heb ik voor een grotere spiegel gestaan. Ik douche me in het dagelijks leven elke ochtend, kort, twee à drie minuten, dat is genoeg, mijn kop wordt nat en de rest ook. Bovendien is het goed voor het milieu en mijn portemonnee. Voor elke diepliggende beslissing is een oppervlakkig excuus. In het Hilton nam ik een belangrijk besluit, ik zou een bad nemen, voor het eerst in zeventig jaar. Het duurde lang voordat er genoeg water in zat, maar wat me vooral trof was dat mijn hoofd droog bleef – dat vind ik een nadeel van het bad. Het hoofd heeft een douche nodig, het lichaam een bad.\nIn de villa op Scheveningen las ik een kort verhaal voor over een paasvuur.\nBij het paasvuur van Klein Dochteren, dat brandde als een middeleeuwse stad, rende een meisje rond van een jaar of acht. De andere kinderen bewogen zich in groepen, maar zij was alleen en watervlug. Toen het vuur zo heet was geworden dat je er in je angst een draak in zag, gooide zij nog takken in de hel. Ze hield het midden tussen een jongen en een meisje, maar ze heette Valérie. Plotseling ging ze op haar rug in het gras liggen, heel stil, alsof ze dood was. Er kwam een vrouw aanlopen die ik voor haar moeder hield. Ze ging op dezelfde wijze in het gras liggen. Ik hoorde haar tegen het kind zeggen: 'Ik wil dezelfde dingen zien als jij.'",
+        "owner" : "RADIOBOX",
+        "type" : "MAIN"
+      } ],
+      "genres" : [ ],
+      "countries" : [ ],
+      "languages" : [ ],
+      "duration" : 254000,
+      "descendantOf" : [ {
+        "midRef" : "AUTO_NIEUWS",
+        "urnRef" : "urn:vpro:media:group:13405278",
+        "type" : "SERIES"
+      }, {
+        "midRef" : "AUTO_DEOCHTENDVAN4",
+        "urnRef" : "urn:vpro:media:group:15711309",
+        "type" : "SERIES"
+      }, {
+        "midRef" : "POMS_NOS_164197",
+        "urnRef" : "urn:vpro:media:program:15476212",
+        "type" : "BROADCAST"
+      } ],
+      "predictions" : [ {
+        "state" : "REALIZED",
+        "platform" : "INTERNETVOD"
+      } ],
+      "locations" : [ {
+        "programUrl" : "http://radiobox2.omroep.nl/audiofragment/file/60054/fragment.mp3",
+        "avAttributes" : {
+          "avFileFormat" : "MP3"
+        },
+        "duration" : 254000,
+        "owner" : "RADIOBOX",
+        "creationDate" : 1363664111796,
+        "lastModified" : 1363664124536,
+        "workflow" : "PUBLISHED",
+        "urn" : "urn:vpro:media:location:23447310"
+      } ],
+      "images" : [ {
+        "title" : "a.l. snijders.jpg",
+        "description" : " 'Bad', een nieuw ZKV van A.L. Snijders ",
+        "imageUri" : "urn:vpro:image:157689",
+        "owner" : "RADIOBOX",
+        "type" : "PICTURE",
+        "highlighted" : false,
+        "creationDate" : 1363664122896,
+        "lastModified" : 1363664124535,
+        "workflow" : "PUBLISHED",
+        "urn" : "urn:vpro:media:image:23447309"
+      } ],
+      "workflow" : "PUBLISHED",
+      "start" : 6316000,
+      "urnRef" : "urn:vpro:media:program:15476212",
+      "midRef" : "POMS_NOS_164197",
+      "type" : "SEGMENT",
+      "avType" : "AUDIO"
+    }
+  }, {
+    "score" : 7.822546E-4,
+    "highlights" : [ ],
+    "result" : {
+      "objectType" : "program",
+      "mid" : "REG_NORH_NHNWS130922",
+      "creationDate" : 1378606563553,
+      "lastModified" : 1379963116550,
+      "sortDate" : 1379833200000,
+      "urn" : "urn:vpro:media:program:29381435",
+      "embeddable" : true,
+      "episodeOf" : [ {
+        "midRef" : "SREGIONH_NHNWS",
+        "urnRef" : "urn:vpro:media:group:21963986",
+        "type" : "SEASON",
+        "index" : 243,
+        "highlighted" : false,
+        "added" : 1379963106156
+      } ],
+      "crids" : [ "crid://tmp.program.omroep.nl/16065791" ],
+      "broadcasters" : [ {
+        "id" : "RTNH",
+        "value" : "RTV Noord Holland"
+      } ],
+      "titles" : [ {
+        "value" : "NH Nieuws",
+        "owner" : "BROADCASTER",
+        "type" : "MAIN"
+      }, {
+        "value" : "NH Nieuws",
+        "owner" : "NEBO",
+        "type" : "MAIN"
+      }, {
+        "value" : "NH Nieuws",
+        "owner" : "MIS",
+        "type" : "MAIN"
+      }, {
+        "value" : " 22 september 2013 21:00 uur",
+        "owner" : "BROADCASTER",
+        "type" : "SUB"
+      } ],
+      "descriptions" : [ {
+        "value" : "Altijd op de hoogte van het laatste nieuws in de provincie met NH Nieuws. Iedere werkdag het laatste nieuws, reportages, sport en het weer. Heb je een tip voor de nieuwsredactie? Mail de tiplijn of bel: 020 - 850 54 04.",
+        "owner" : "BROADCASTER",
+        "type" : "MAIN"
+      }, {
+        "value" : "NH Nieuws  22 september 2013 21:00 uur",
+        "owner" : "BROADCASTER",
+        "type" : "SHORT"
+      }, {
+        "value" : "\nTientallen Dam tot Damlopers oververhit door drukkende warmte\n55.000 mensen liepen Dam tot Dam loop die verrassende winnaars had\nEen deel van Hoorn zat vandaag zonder stroom\n",
+        "owner" : "BROADCASTER",
+        "type" : "SUB"
+      } ],
+      "genres" : [ ],
+      "countries" : [ ],
+      "languages" : [ ],
+      "avAttributes" : {
+        "bitrate" : 0,
+        "avFileFormat" : "MP4",
+        "videoAttributes" : {
+          "videoCoding" : "MP4",
+          "aspectRatio" : "16:9"
+        }
+      },
+      "duration" : 600000,
+      "descendantOf" : [ {
+        "midRef" : "SREGIONH_NHNWS",
+        "urnRef" : "urn:vpro:media:group:21963986",
+        "type" : "SEASON"
+      }, {
+        "midRef" : "POMS_S_RTVNH_133604",
+        "urnRef" : "urn:vpro:media:group:21963993",
+        "type" : "SERIES"
+      } ],
+      "email" : [ "info@rtvnh.nl" ],
+      "websites" : [ {
+        "value" : "http://www.rtvnh.nl"
+      } ],
+      "predictions" : [ {
+        "state" : "REALIZED",
+        "publishStart" : 1379877964000,
+        "publishStop" : 2010597964000,
+        "platform" : "INTERNETVOD"
+      } ],
+      "locations" : [ {
+        "programUrl" : "http://www.rtvnh.nl/streamer.php?file=NHNieuws2013/2013-09-22_21.00.00_NH_Nieuws_350k.mp4",
+        "avAttributes" : {
+          "bitrate" : 204800,
+          "avFileFormat" : "MP4",
+          "videoAttributes" : {
+            "videoCoding" : "MP4",
+            "aspectRatio" : "16:9"
+          }
+        },
+        "owner" : "NEBO",
+        "creationDate" : 1379963101668,
+        "lastModified" : 1379963102021,
+        "publishStart" : 1379877964000,
+        "publishStop" : 2010597964000,
+        "workflow" : "PUBLISHED",
+        "urn" : "urn:vpro:media:location:29910215"
+      }, {
+        "programUrl" : "http://www.rtvnh.nl/streamer.php?file=NHNieuws2013/2013-09-22_21.00.00_NH_Nieuws.mp4",
+        "avAttributes" : {
+          "bitrate" : 1024000,
+          "avFileFormat" : "MP4",
+          "videoAttributes" : {
+            "videoCoding" : "MP4",
+            "aspectRatio" : "16:9"
+          }
+        },
+        "owner" : "NEBO",
+        "creationDate" : 1379963101668,
+        "lastModified" : 1379963102025,
+        "publishStart" : 1379877964000,
+        "publishStop" : 2010597964000,
+        "workflow" : "PUBLISHED",
+        "urn" : "urn:vpro:media:location:29910218"
+      } ],
+      "scheduleEvents" : [ {
+        "avAttributes" : { },
+        "start" : 1379833200000,
+        "duration" : 600000,
+        "poProgID" : "REG_NORH_NHNWS130922",
+        "channel" : "NORH",
+        "imi" : "imi:39955",
+        "urnRef" : "urn:vpro:media:program:29381435",
+        "midRef" : "REG_NORH_NHNWS130922"
+      }, {
+        "avAttributes" : { },
+        "start" : 1379836800000,
+        "duration" : 600000,
+        "poProgID" : "REG_NORH_NHNWS130922",
+        "channel" : "NORH",
+        "imi" : "imi:39961",
+        "urnRef" : "urn:vpro:media:program:29381435",
+        "midRef" : "REG_NORH_NHNWS130922"
+      }, {
+        "avAttributes" : { },
+        "start" : 1379862000000,
+        "duration" : 600000,
+        "poProgID" : "REG_NORH_NHNWS130922",
+        "channel" : "NORH",
+        "imi" : "imi:39989",
+        "urnRef" : "urn:vpro:media:program:29381435",
+        "midRef" : "REG_NORH_NHNWS130922"
+      }, {
+        "avAttributes" : { },
+        "start" : 1379865600000,
+        "duration" : 600000,
+        "poProgID" : "REG_NORH_NHNWS130922",
+        "channel" : "NORH",
+        "imi" : "imi:39990",
+        "urnRef" : "urn:vpro:media:program:29381435",
+        "midRef" : "REG_NORH_NHNWS130922"
+      }, {
+        "avAttributes" : { },
+        "start" : 1379869200000,
+        "duration" : 600000,
+        "poProgID" : "REG_NORH_NHNWS130922",
+        "channel" : "NORH",
+        "imi" : "imi:39993",
+        "urnRef" : "urn:vpro:media:program:29381435",
+        "midRef" : "REG_NORH_NHNWS130922"
+      }, {
+        "avAttributes" : { },
+        "start" : 1379872800000,
+        "duration" : 600000,
+        "poProgID" : "REG_NORH_NHNWS130922",
+        "channel" : "NORH",
+        "imi" : "imi:39996",
+        "urnRef" : "urn:vpro:media:program:29381435",
+        "midRef" : "REG_NORH_NHNWS130922"
+      }, {
+        "avAttributes" : { },
+        "start" : 1379876400000,
+        "duration" : 600000,
+        "poProgID" : "REG_NORH_NHNWS130922",
+        "channel" : "NORH",
+        "imi" : "imi:39999",
+        "urnRef" : "urn:vpro:media:program:29381435",
+        "midRef" : "REG_NORH_NHNWS130922"
+      }, {
+        "avAttributes" : { },
+        "start" : 1379880000000,
+        "duration" : 600000,
+        "poProgID" : "REG_NORH_NHNWS130922",
+        "channel" : "NORH",
+        "imi" : "imi:40002",
+        "urnRef" : "urn:vpro:media:program:29381435",
+        "midRef" : "REG_NORH_NHNWS130922"
+      }, {
+        "avAttributes" : { },
+        "start" : 1379883600000,
+        "duration" : 600000,
+        "poProgID" : "REG_NORH_NHNWS130922",
+        "channel" : "NORH",
+        "imi" : "imi:40005",
+        "urnRef" : "urn:vpro:media:program:29381435",
+        "midRef" : "REG_NORH_NHNWS130922"
+      }, {
+        "avAttributes" : { },
+        "start" : 1379887200000,
+        "duration" : 600000,
+        "poProgID" : "REG_NORH_NHNWS130922",
+        "channel" : "NORH",
+        "imi" : "imi:40481",
+        "urnRef" : "urn:vpro:media:program:29381435",
+        "midRef" : "REG_NORH_NHNWS130922"
+      }, {
+        "avAttributes" : { },
+        "start" : 1379890800000,
+        "duration" : 600000,
+        "poProgID" : "REG_NORH_NHNWS130922",
+        "channel" : "NORH",
+        "imi" : "imi:40484",
+        "urnRef" : "urn:vpro:media:program:29381435",
+        "midRef" : "REG_NORH_NHNWS130922"
+      }, {
+        "avAttributes" : { },
+        "start" : 1379894400000,
+        "duration" : 600000,
+        "poProgID" : "REG_NORH_NHNWS130922",
+        "channel" : "NORH",
+        "imi" : "imi:40487",
+        "urnRef" : "urn:vpro:media:program:29381435",
+        "midRef" : "REG_NORH_NHNWS130922"
+      }, {
+        "avAttributes" : { },
+        "start" : 1379898000000,
+        "duration" : 600000,
+        "poProgID" : "REG_NORH_NHNWS130922",
+        "channel" : "NORH",
+        "imi" : "imi:40490",
+        "urnRef" : "urn:vpro:media:program:29381435",
+        "midRef" : "REG_NORH_NHNWS130922"
+      }, {
+        "avAttributes" : { },
+        "start" : 1379901600000,
+        "duration" : 600000,
+        "poProgID" : "REG_NORH_NHNWS130922",
+        "channel" : "NORH",
+        "imi" : "imi:40493",
+        "urnRef" : "urn:vpro:media:program:29381435",
+        "midRef" : "REG_NORH_NHNWS130922"
+      }, {
+        "avAttributes" : { },
+        "start" : 1379905200000,
+        "duration" : 600000,
+        "poProgID" : "REG_NORH_NHNWS130922",
+        "channel" : "NORH",
+        "imi" : "imi:40496",
+        "urnRef" : "urn:vpro:media:program:29381435",
+        "midRef" : "REG_NORH_NHNWS130922"
+      }, {
+        "avAttributes" : { },
+        "start" : 1379908800000,
+        "duration" : 600000,
+        "poProgID" : "REG_NORH_NHNWS130922",
+        "channel" : "NORH",
+        "imi" : "imi:40499",
+        "urnRef" : "urn:vpro:media:program:29381435",
+        "midRef" : "REG_NORH_NHNWS130922"
+      } ],
+      "images" : [ {
+        "title" : "NH Nieuws",
+        "description" : "NH Nieuws",
+        "imageUri" : "urn:vpro:image:223098",
+        "owner" : "BROADCASTER",
+        "type" : "PICTURE",
+        "highlighted" : false,
+        "creationDate" : 1379963116485,
+        "lastModified" : 1379963116541,
+        "workflow" : "PUBLISHED",
+        "urn" : "urn:vpro:media:image:29910224"
+      } ],
+      "workflow" : "PUBLISHED",
+      "type" : "BROADCAST",
+      "avType" : "VIDEO"
+    }
+  } ]
+}

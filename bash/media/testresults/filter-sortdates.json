@@ -1,0 +1,655 @@
+{
+  "total" : 1983,
+  "offset" : 0,
+  "max" : 2,
+  "items" : [ {
+    "score" : 0.023860537,
+    "highlights" : [ ],
+    "result" : {
+      "objectType" : "program",
+      "mid" : "POMS_VPRO_348745",
+      "creationDate" : 1366977255943,
+      "lastModified" : 1376234407049,
+      "publishStart" : 978426120000,
+      "sortDate" : 978426120000,
+      "urn" : "urn:vpro:media:program:24853739",
+      "embeddable" : true,
+      "episodeOf" : [ {
+        "midRef" : "POMS_S_VPRO_348075",
+        "urnRef" : "urn:vpro:media:group:24776268",
+        "type" : "SEASON",
+        "index" : 1,
+        "highlighted" : false,
+        "added" : 1366977256032
+      } ],
+      "crids" : [ "crid://tmp.episode.mmbase.vpro.nl/3320081", "crid://tmp.fragment.mmbase.vpro.nl/13534928" ],
+      "broadcasters" : [ {
+        "id" : "VPRO",
+        "value" : "VPRO"
+      } ],
+      "titles" : [ {
+        "value" : "De Open plek  2-01-2001",
+        "owner" : "BROADCASTER",
+        "type" : "MAIN"
+      }, {
+        "value" : "De stad? De stad! 1 - Inleiding",
+        "owner" : "BROADCASTER",
+        "type" : "SUB"
+      } ],
+      "descriptions" : [ {
+        "value" : "Start van een nieuwe serie over de stad. Recente voorspellingen laten zien dat er de komende jaren zo'n 40.000 ha. grond nodig is om de groeiende ruimtebehoefte van bedrijven en particulieren in ons land op te vangen.\n\nMinister Pronk (ruimtelijke ordening) heeft in de voorpublicatie van de Vijfde Nota Ruimtelijke Ordening (eind december) al aangegeven dat om die reden enkele heilige huisjes van het ruimtelijk beleid, waaronder het totale bouwverbod in het Groene Hart, tegen de vlakte zullen moeten. \n \nWaar nodig zal open ruimte opgeofferd moeten worden om de steden van de Randstad uit hun ademnood te verlossen. Tegelijk dienen echt waardevolle landschappen nog beter dan voorheen beschermd te worden. \n \n\"De stad? De stad!\" stelt de vraag of er geen betere oplossingen zijn, dan het simpelweg volbouwen van de schaarse open ruimte tussen de steden. Hoeveel capaciteit is er bijvoorbeeld nog in de steden zelf te vinden? Wat zou hoogbouw opleveren? Nederland kent immers geen echt grote steden. Rotterdam, Amsterdam, of zelfs de steden van de Randstad bij elkaar lijken in de verste verte niet op metropolen als New York, Parijs, Londen of Mexico City. \n \nIn de eerste uitzending van \"De stad? De stad!\" zoekt verslaggeefster Marjoke Roorda planologe Louise de Rooij (De Lijn, bureau voor ruimtelijk ordening en volkshuisvesting) op. De Rooij is schrijfster van \"California Dreaming. Woonconcepten uit de San Francisco Bay Area\", een boek over nieuwe woonvormen in California (VS). Al wandelend over het KNSM-eiland in het Amsterdamse IJ bespreekt zij met Marjoke Roorda de kansen die nieuwe woonvormen als woonateliers te bieden hebben aan de steden in Nederland. \n \nOok spreekt Marjoke Roorda met Han Michel, directeur van De Principaal. De Principaal is het zelfstandige projectontwikkelingsbedrijf van woningbouwvereniging Lieven de Key. \n ",
+        "owner" : "BROADCASTER",
+        "type" : "MAIN"
+      } ],
+      "genres" : [ ],
+      "tags" : [ "Jan Pronk", "KNSMeiland", "Vijfde Nota", "VROM" ],
+      "countries" : [ ],
+      "languages" : [ ],
+      "duration" : 3492000,
+      "credits" : [ {
+        "givenName" : "Marjoke",
+        "familyName" : "Roorda",
+        "role" : "DIRECTOR"
+      }, {
+        "givenName" : "Gert",
+        "familyName" : "Hindriks",
+        "role" : "SCRIPTWRITER"
+      } ],
+      "descendantOf" : [ {
+        "midRef" : "POMS_S_VPRO_195283",
+        "urnRef" : "urn:vpro:media:group:11887617",
+        "type" : "ARCHIVE"
+      }, {
+        "midRef" : "POMS_S_VPRO_228692",
+        "urnRef" : "urn:vpro:media:group:22868154",
+        "type" : "SERIES"
+      }, {
+        "midRef" : "POMS_S_VPRO_348075",
+        "urnRef" : "urn:vpro:media:group:24776268",
+        "type" : "SEASON"
+      }, {
+        "midRef" : "POMS_S_VPRO_417559",
+        "urnRef" : "urn:vpro:media:group:30800944",
+        "type" : "COLLECTION"
+      } ],
+      "predictions" : [ {
+        "state" : "REALIZED",
+        "publishStop" : 1367236811000,
+        "platform" : "INTERNETVOD"
+      } ],
+      "images" : [ {
+        "title" : "open plek dsds stad",
+        "description" : "open plek dsds stad",
+        "imageUri" : "urn:vpro:image:175572",
+        "height" : 480,
+        "width" : 640,
+        "owner" : "BROADCASTER",
+        "type" : "PICTURE",
+        "highlighted" : false,
+        "creationDate" : 1366977253391,
+        "lastModified" : 1366977255992,
+        "workflow" : "PUBLISHED",
+        "urn" : "urn:vpro:media:image:24853742"
+      } ],
+      "workflow" : "PUBLISHED",
+      "type" : "BROADCAST",
+      "avType" : "AUDIO"
+    }
+  }, {
+    "score" : 0.0477495,
+    "highlights" : [ ],
+    "result" : {
+      "objectType" : "program",
+      "mid" : "immix_976792",
+      "creationDate" : 1359374405979,
+      "lastModified" : 1373890290883,
+      "sortDate" : 978458400000,
+      "urn" : "urn:vpro:media:program:18267802",
+      "embeddable" : true,
+      "episodeOf" : [ {
+        "midRef" : "IMMIX_MANBIJTHOND",
+        "urnRef" : "urn:vpro:media:group:18249581",
+        "type" : "SEASON",
+        "index" : 219,
+        "highlighted" : false,
+        "added" : 1359374406070
+      } ],
+      "crids" : [ "crid://tmp.program.omroep.nl/10343476" ],
+      "broadcasters" : [ {
+        "id" : "NCRV",
+        "value" : "NCRV"
+      } ],
+      "titles" : [ {
+        "value" : "MAN BIJT HOND",
+        "owner" : "NEBO",
+        "type" : "MAIN"
+      }, {
+        "value" : "MAN BIJT HOND",
+        "owner" : "NEBO",
+        "type" : "SUB"
+      } ],
+      "genres" : [ ],
+      "countries" : [ ],
+      "languages" : [ ],
+      "avAttributes" : {
+        "bitrate" : 0,
+        "avFileFormat" : "WM",
+        "videoAttributes" : {
+          "videoCoding" : "WM",
+          "aspectRatio" : "16:9"
+        }
+      },
+      "duration" : 1427000,
+      "descendantOf" : [ {
+        "midRef" : "IMMIX_MANBIJTHOND",
+        "urnRef" : "urn:vpro:media:group:18249581",
+        "type" : "SEASON"
+      }, {
+        "midRef" : "POMS_S_NCRV_059865",
+        "urnRef" : "urn:vpro:media:group:4421139",
+        "type" : "SERIES"
+      } ],
+      "predictions" : [ {
+        "state" : "REALIZED",
+        "publishStart" : 1256895364000,
+        "platform" : "INTERNETVOD"
+      } ],
+      "locations" : [ {
+        "programUrl" : "odip+http://odi.omroep.nl/video/adaptive/immix_976792",
+        "avAttributes" : {
+          "avFileFormat" : "HASP"
+        },
+        "owner" : "CERES",
+        "creationDate" : 1373890290448,
+        "lastModified" : 1373890290881,
+        "workflow" : "PUBLISHED",
+        "platform" : "INTERNETVOD",
+        "urn" : "urn:vpro:media:location:27678074"
+      }, {
+        "programUrl" : "odi+http://odi.omroep.nl/video/h264_sb/immix_976792",
+        "avAttributes" : {
+          "bitrate" : 204800,
+          "avFileFormat" : "MP4",
+          "videoAttributes" : {
+            "videoCoding" : "WM",
+            "aspectRatio" : "16:9"
+          }
+        },
+        "owner" : "NEBO",
+        "creationDate" : 1359374405984,
+        "lastModified" : 1359374406002,
+        "workflow" : "PUBLISHED",
+        "platform" : "INTERNETVOD",
+        "urn" : "urn:vpro:media:location:18267805"
+      }, {
+        "programUrl" : "odi+http://odi.omroep.nl/video/h264_bb/immix_976792",
+        "avAttributes" : {
+          "bitrate" : 512000,
+          "avFileFormat" : "MP4",
+          "videoAttributes" : {
+            "videoCoding" : "WM",
+            "aspectRatio" : "16:9"
+          }
+        },
+        "owner" : "NEBO",
+        "creationDate" : 1359374405983,
+        "lastModified" : 1359374406003,
+        "workflow" : "PUBLISHED",
+        "platform" : "INTERNETVOD",
+        "urn" : "urn:vpro:media:location:18267808"
+      }, {
+        "programUrl" : "odi+http://odi.omroep.nl/video/wmv_sb/immix_976792",
+        "avAttributes" : {
+          "bitrate" : 204800,
+          "avFileFormat" : "WM",
+          "videoAttributes" : {
+            "videoCoding" : "WM",
+            "aspectRatio" : "16:9"
+          }
+        },
+        "owner" : "NEBO",
+        "creationDate" : 1359374405983,
+        "lastModified" : 1359374406005,
+        "workflow" : "PUBLISHED",
+        "platform" : "INTERNETVOD",
+        "urn" : "urn:vpro:media:location:18267811"
+      }, {
+        "programUrl" : "odi+http://odi.omroep.nl/video/wmv_bb/immix_976792",
+        "avAttributes" : {
+          "bitrate" : 512000,
+          "avFileFormat" : "WM",
+          "videoAttributes" : {
+            "videoCoding" : "WM",
+            "aspectRatio" : "16:9"
+          }
+        },
+        "owner" : "NEBO",
+        "creationDate" : 1359374405983,
+        "lastModified" : 1359374406008,
+        "workflow" : "PUBLISHED",
+        "platform" : "INTERNETVOD",
+        "urn" : "urn:vpro:media:location:18267814"
+      } ],
+      "scheduleEvents" : [ {
+        "avAttributes" : {
+          "bitrate" : 0,
+          "avFileFormat" : "WM",
+          "videoAttributes" : {
+            "videoCoding" : "WM",
+            "aspectRatio" : "16:9"
+          }
+        },
+        "start" : 978458400000,
+        "duration" : 1427000,
+        "poProgID" : "immix_976792",
+        "channel" : "NED1",
+        "urnRef" : "urn:vpro:media:program:18267802",
+        "midRef" : "immix_976792"
+      } ],
+      "workflow" : "PUBLISHED",
+      "segments" : [ {
+        "objectType" : "segment",
+        "mid" : "POMS_NCRV_086013",
+        "creationDate" : 1359374407265,
+        "lastModified" : 1359374407798,
+        "sortDate" : 978458400000,
+        "urn" : "urn:vpro:media:segment:18267874",
+        "embeddable" : true,
+        "crids" : [ "crid://tmp.segment.omroep.nl/23587" ],
+        "broadcasters" : [ {
+          "id" : "NCRV",
+          "value" : "NCRV"
+        } ],
+        "titles" : [ {
+          "value" : "Radiosteun na ramp Volendam",
+          "owner" : "NEBO",
+          "type" : "MAIN"
+        } ],
+        "genres" : [ ],
+        "tags" : [ "brand", "doden", "dood", "gewonden", "hemel", "locaal", "LOVE", "muziek", "omroep", "overleden", "pers", "plaatjes", "radio", "ramp", "rouwen", "toeschouwer", "treuren", "verbrand", "verdriet", "Volendam", "vrienden" ],
+        "countries" : [ ],
+        "languages" : [ ],
+        "avAttributes" : {
+          "bitrate" : 0,
+          "avFileFormat" : "WM",
+          "videoAttributes" : {
+            "videoCoding" : "WM",
+            "aspectRatio" : "16:9"
+          }
+        },
+        "duration" : 196000,
+        "descendantOf" : [ {
+          "midRef" : "IMMIX_MANBIJTHOND",
+          "urnRef" : "urn:vpro:media:group:18249581",
+          "type" : "SEASON"
+        }, {
+          "midRef" : "POMS_S_NCRV_059865",
+          "urnRef" : "urn:vpro:media:group:4421139",
+          "type" : "SERIES"
+        }, {
+          "midRef" : "immix_976792",
+          "urnRef" : "urn:vpro:media:program:18267802",
+          "type" : "BROADCAST"
+        } ],
+        "workflow" : "PUBLISHED",
+        "start" : 32000,
+        "urnRef" : "urn:vpro:media:program:18267802",
+        "midRef" : "immix_976792",
+        "type" : "SEGMENT",
+        "avType" : "VIDEO"
+      }, {
+        "objectType" : "segment",
+        "mid" : "POMS_NCRV_086010",
+        "creationDate" : 1359374407314,
+        "lastModified" : 1359374407733,
+        "sortDate" : 978458400000,
+        "urn" : "urn:vpro:media:segment:18267860",
+        "embeddable" : true,
+        "crids" : [ "crid://tmp.segment.omroep.nl/23592" ],
+        "broadcasters" : [ {
+          "id" : "NCRV",
+          "value" : "NCRV"
+        } ],
+        "titles" : [ {
+          "value" : "Bekende begrafenisondernemer",
+          "owner" : "NEBO",
+          "type" : "MAIN"
+        } ],
+        "genres" : [ ],
+        "tags" : [ "afscheid", "begrafenis", "bekenden", "bidden", "dienst", "dood", "kerk", "kind", "ondernemer", "ramp", "slachtoffers", "verdriet", "Volendam", "vrienden" ],
+        "countries" : [ ],
+        "languages" : [ ],
+        "avAttributes" : {
+          "bitrate" : 0,
+          "avFileFormat" : "WM",
+          "videoAttributes" : {
+            "videoCoding" : "WM",
+            "aspectRatio" : "16:9"
+          }
+        },
+        "duration" : 193000,
+        "descendantOf" : [ {
+          "midRef" : "IMMIX_MANBIJTHOND",
+          "urnRef" : "urn:vpro:media:group:18249581",
+          "type" : "SEASON"
+        }, {
+          "midRef" : "POMS_S_NCRV_059865",
+          "urnRef" : "urn:vpro:media:group:4421139",
+          "type" : "SERIES"
+        }, {
+          "midRef" : "immix_976792",
+          "urnRef" : "urn:vpro:media:program:18267802",
+          "type" : "BROADCAST"
+        } ],
+        "workflow" : "PUBLISHED",
+        "start" : 228000,
+        "urnRef" : "urn:vpro:media:program:18267802",
+        "midRef" : "immix_976792",
+        "type" : "SEGMENT",
+        "avType" : "VIDEO"
+      }, {
+        "objectType" : "segment",
+        "mid" : "POMS_NCRV_086006",
+        "creationDate" : 1359374407337,
+        "lastModified" : 1359374407659,
+        "sortDate" : 978458400000,
+        "urn" : "urn:vpro:media:segment:18267844",
+        "embeddable" : true,
+        "crids" : [ "crid://tmp.segment.omroep.nl/23596" ],
+        "broadcasters" : [ {
+          "id" : "NCRV",
+          "value" : "NCRV"
+        } ],
+        "titles" : [ {
+          "value" : "Wat moet dit jaar anders dan vorig jaar?",
+          "owner" : "NEBO",
+          "type" : "MAIN"
+        } ],
+        "genres" : [ ],
+        "tags" : [ "2001", "buitenland", "diplomatisch", "genieten", "jongens", "koffie drinken", "millenium", "nieuwjaar", "presteren", "rustig", "versieren", "voornemens", "wandelen", "zakgeld" ],
+        "countries" : [ ],
+        "languages" : [ ],
+        "avAttributes" : {
+          "bitrate" : 0,
+          "avFileFormat" : "WM",
+          "videoAttributes" : {
+            "videoCoding" : "WM",
+            "aspectRatio" : "16:9"
+          }
+        },
+        "duration" : 100000,
+        "descendantOf" : [ {
+          "midRef" : "IMMIX_MANBIJTHOND",
+          "urnRef" : "urn:vpro:media:group:18249581",
+          "type" : "SEASON"
+        }, {
+          "midRef" : "POMS_S_NCRV_059865",
+          "urnRef" : "urn:vpro:media:group:4421139",
+          "type" : "SERIES"
+        }, {
+          "midRef" : "immix_976792",
+          "urnRef" : "urn:vpro:media:program:18267802",
+          "type" : "BROADCAST"
+        } ],
+        "workflow" : "PUBLISHED",
+        "start" : 421000,
+        "urnRef" : "urn:vpro:media:program:18267802",
+        "midRef" : "immix_976792",
+        "type" : "SEGMENT",
+        "avType" : "VIDEO"
+      }, {
+        "objectType" : "segment",
+        "mid" : "POMS_NCRV_086009",
+        "creationDate" : 1359374407378,
+        "lastModified" : 1359374407726,
+        "sortDate" : 978458400000,
+        "urn" : "urn:vpro:media:segment:18267856",
+        "embeddable" : true,
+        "crids" : [ "crid://tmp.segment.omroep.nl/23600" ],
+        "broadcasters" : [ {
+          "id" : "NCRV",
+          "value" : "NCRV"
+        } ],
+        "titles" : [ {
+          "value" : "Paranormaal bepaald huwelijk",
+          "owner" : "NEBO",
+          "type" : "MAIN"
+        } ],
+        "genres" : [ ],
+        "tags" : [ "begaafd", "contact", "fouten", "hoop", "huwelijk", "kaarten", "koffiedik", "koningshuis", "kroonprins", "maxima", "Nederland", "oranje", "paranormaal", "tarot", "trouwen", "Willem Alexander" ],
+        "countries" : [ ],
+        "languages" : [ ],
+        "avAttributes" : {
+          "bitrate" : 0,
+          "avFileFormat" : "WM",
+          "videoAttributes" : {
+            "videoCoding" : "WM",
+            "aspectRatio" : "16:9"
+          }
+        },
+        "duration" : 230000,
+        "descendantOf" : [ {
+          "midRef" : "IMMIX_MANBIJTHOND",
+          "urnRef" : "urn:vpro:media:group:18249581",
+          "type" : "SEASON"
+        }, {
+          "midRef" : "POMS_S_NCRV_059865",
+          "urnRef" : "urn:vpro:media:group:4421139",
+          "type" : "SERIES"
+        }, {
+          "midRef" : "immix_976792",
+          "urnRef" : "urn:vpro:media:program:18267802",
+          "type" : "BROADCAST"
+        } ],
+        "workflow" : "PUBLISHED",
+        "start" : 522000,
+        "urnRef" : "urn:vpro:media:program:18267802",
+        "midRef" : "immix_976792",
+        "type" : "SEGMENT",
+        "avType" : "VIDEO"
+      }, {
+        "objectType" : "segment",
+        "mid" : "POMS_NCRV_086011",
+        "creationDate" : 1359374407428,
+        "lastModified" : 1359374407738,
+        "sortDate" : 978458400000,
+        "urn" : "urn:vpro:media:segment:18267864",
+        "embeddable" : true,
+        "crids" : [ "crid://tmp.segment.omroep.nl/23612" ],
+        "broadcasters" : [ {
+          "id" : "NCRV",
+          "value" : "NCRV"
+        } ],
+        "titles" : [ {
+          "value" : "Onthaasten tussen de schapen",
+          "owner" : "NEBO",
+          "type" : "MAIN"
+        } ],
+        "genres" : [ ],
+        "tags" : [ "beroep", "buiten", "dagblad", "herderin", "krant", "land", "Loenen", "natuur", "nieuws", "onthaasten", "pagina 7", "schaapherder", "schapen", "stress" ],
+        "countries" : [ ],
+        "languages" : [ ],
+        "avAttributes" : {
+          "bitrate" : 0,
+          "avFileFormat" : "WM",
+          "videoAttributes" : {
+            "videoCoding" : "WM",
+            "aspectRatio" : "16:9"
+          }
+        },
+        "duration" : 190000,
+        "descendantOf" : [ {
+          "midRef" : "IMMIX_MANBIJTHOND",
+          "urnRef" : "urn:vpro:media:group:18249581",
+          "type" : "SEASON"
+        }, {
+          "midRef" : "POMS_S_NCRV_059865",
+          "urnRef" : "urn:vpro:media:group:4421139",
+          "type" : "SERIES"
+        }, {
+          "midRef" : "immix_976792",
+          "urnRef" : "urn:vpro:media:program:18267802",
+          "type" : "BROADCAST"
+        } ],
+        "workflow" : "PUBLISHED",
+        "start" : 752000,
+        "urnRef" : "urn:vpro:media:program:18267802",
+        "midRef" : "immix_976792",
+        "type" : "SEGMENT",
+        "avType" : "VIDEO"
+      }, {
+        "objectType" : "segment",
+        "mid" : "POMS_NCRV_086007",
+        "creationDate" : 1359374407469,
+        "lastModified" : 1359374407663,
+        "sortDate" : 978458400000,
+        "urn" : "urn:vpro:media:segment:18267848",
+        "embeddable" : true,
+        "crids" : [ "crid://tmp.segment.omroep.nl/23616" ],
+        "broadcasters" : [ {
+          "id" : "NCRV",
+          "value" : "NCRV"
+        } ],
+        "titles" : [ {
+          "value" : "Ridderkerkers verhuisden compleet",
+          "owner" : "NEBO",
+          "type" : "MAIN"
+        } ],
+        "genres" : [ ],
+        "tags" : [ "1955", "fundament", "huis", "Ridderkerk", "verhuizen", "verplaatsen", "woningnood", "zoveel jaar geleden" ],
+        "countries" : [ ],
+        "languages" : [ ],
+        "avAttributes" : {
+          "bitrate" : 0,
+          "avFileFormat" : "WM",
+          "videoAttributes" : {
+            "videoCoding" : "WM",
+            "aspectRatio" : "16:9"
+          }
+        },
+        "duration" : 171000,
+        "descendantOf" : [ {
+          "midRef" : "IMMIX_MANBIJTHOND",
+          "urnRef" : "urn:vpro:media:group:18249581",
+          "type" : "SEASON"
+        }, {
+          "midRef" : "POMS_S_NCRV_059865",
+          "urnRef" : "urn:vpro:media:group:4421139",
+          "type" : "SERIES"
+        }, {
+          "midRef" : "immix_976792",
+          "urnRef" : "urn:vpro:media:program:18267802",
+          "type" : "BROADCAST"
+        } ],
+        "workflow" : "PUBLISHED",
+        "start" : 942000,
+        "urnRef" : "urn:vpro:media:program:18267802",
+        "midRef" : "immix_976792",
+        "type" : "SEGMENT",
+        "avType" : "VIDEO"
+      }, {
+        "objectType" : "segment",
+        "mid" : "POMS_NCRV_086012",
+        "creationDate" : 1359374407487,
+        "lastModified" : 1359374407744,
+        "sortDate" : 978458400000,
+        "urn" : "urn:vpro:media:segment:18267868",
+        "embeddable" : true,
+        "crids" : [ "crid://tmp.segment.omroep.nl/23618" ],
+        "broadcasters" : [ {
+          "id" : "NCRV",
+          "value" : "NCRV"
+        } ],
+        "titles" : [ {
+          "value" : "Groot leeftijdsverschil aan tafel",
+          "owner" : "NEBO",
+          "type" : "MAIN"
+        } ],
+        "genres" : [ ],
+        "tags" : [ "aardappelschijfjes", "avond", "dag", "diner", "eten", "hond aan tafel", "honden", "ouder", "rottweiler", "samen", "schnitzel", "sla", "thuis" ],
+        "countries" : [ ],
+        "languages" : [ ],
+        "avAttributes" : {
+          "bitrate" : 0,
+          "avFileFormat" : "WM",
+          "videoAttributes" : {
+            "videoCoding" : "WM",
+            "aspectRatio" : "16:9"
+          }
+        },
+        "duration" : 190000,
+        "descendantOf" : [ {
+          "midRef" : "IMMIX_MANBIJTHOND",
+          "urnRef" : "urn:vpro:media:group:18249581",
+          "type" : "SEASON"
+        }, {
+          "midRef" : "POMS_S_NCRV_059865",
+          "urnRef" : "urn:vpro:media:group:4421139",
+          "type" : "SERIES"
+        }, {
+          "midRef" : "immix_976792",
+          "urnRef" : "urn:vpro:media:program:18267802",
+          "type" : "BROADCAST"
+        } ],
+        "workflow" : "PUBLISHED",
+        "start" : 1158000,
+        "urnRef" : "urn:vpro:media:program:18267802",
+        "midRef" : "immix_976792",
+        "type" : "SEGMENT",
+        "avType" : "VIDEO"
+      }, {
+        "objectType" : "segment",
+        "mid" : "POMS_NCRV_086008",
+        "creationDate" : 1359374407641,
+        "lastModified" : 1359374407721,
+        "sortDate" : 978458400000,
+        "urn" : "urn:vpro:media:segment:18267852",
+        "embeddable" : true,
+        "crids" : [ "crid://tmp.segment.omroep.nl/23620" ],
+        "broadcasters" : [ {
+          "id" : "NCRV",
+          "value" : "NCRV"
+        } ],
+        "titles" : [ {
+          "value" : "Familie Opvoed: Nieuwjaarsborrel",
+          "owner" : "NEBO",
+          "type" : "MAIN"
+        } ],
+        "genres" : [ ],
+        "tags" : [ "2001", "borrel", "gezin", "kaarsjes", "kinderen", "kus", "leuk", "liefde", "nieuwjaarsborrel", "ouders", "samen", "vooruit", "wijn" ],
+        "countries" : [ ],
+        "languages" : [ ],
+        "avAttributes" : {
+          "bitrate" : 0,
+          "avFileFormat" : "WM",
+          "videoAttributes" : {
+            "videoCoding" : "WM",
+            "aspectRatio" : "16:9"
+          }
+        },
+        "duration" : 53000,
+        "descendantOf" : [ {
+          "midRef" : "IMMIX_MANBIJTHOND",
+          "urnRef" : "urn:vpro:media:group:18249581",
+          "type" : "SEASON"
+        }, {
+          "midRef" : "POMS_S_NCRV_059865",
+          "urnRef" : "urn:vpro:media:group:4421139",
+          "type" : "SERIES"
+        }, {
+          "midRef" : "immix_976792",
+          "urnRef" : "urn:vpro:media:program:18267802",
+          "type" : "BROADCAST"
+        } ],
+        "workflow" : "PUBLISHED",
+        "start" : 1349000,
+        "urnRef" : "urn:vpro:media:program:18267802",
+        "midRef" : "immix_976792",
+        "type" : "SEGMENT",
+        "avType" : "VIDEO"
+      } ],
+      "type" : "BROADCAST",
+      "avType" : "VIDEO"
+    }
+  } ]
+}

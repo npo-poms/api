@@ -3,7 +3,7 @@
     "relations" : [ {
       "name" : "labels",
       "facet" : [ {
-        "count" : 35,
+        "count" : 37,
         "id" : "Eigen Beheer",
         "value" : "Eigen Beheer"
       }, {
@@ -11,7 +11,7 @@
         "id" : "Rush Hour/Clone/Delsin",
         "value" : "Rush Hour/Clone/Delsin"
       }, {
-        "count" : 20,
+        "count" : 22,
         "id" : "PIAS",
         "value" : "PIAS"
       }, {
@@ -23,30 +23,86 @@
         "id" : "Eigen beheer/ Winston Kingdom",
         "value" : "Eigen beheer/ Winston Kingdom"
       }, {
+        "count" : 8,
+        "id" : "Mute/PIAS",
+        "value" : "Mute/PIAS"
+      }, {
         "count" : 7,
         "id" : "Chemikal Underground/Konkurrent",
         "value" : "Chemikal Underground/Konkurrent"
       }, {
+        "count" : 7,
+        "id" : "Suburban",
+        "value" : "Suburban"
+      }, {
+        "count" : 7,
+        "id" : "V2 Records",
+        "value" : "V2 Records"
+      }, {
         "count" : 6,
-        "id" : "Mute/PIAS",
-        "value" : "Mute/PIAS"
+        "id" : "CoOp/V2",
+        "value" : "CoOp/V2"
+      }, {
+        "count" : 6,
+        "id" : "Cooperative Music",
+        "value" : "Cooperative Music"
+      }, {
+        "count" : 6,
+        "id" : "Sub Pop/Konkurrent",
+        "value" : "Sub Pop/Konkurrent"
+      }, {
+        "count" : 5,
+        "id" : "4AD/V2",
+        "value" : "4AD/V2"
       }, {
         "count" : 5,
         "id" : "Excelsior Recordings",
         "value" : "Excelsior Recordings"
       }, {
         "count" : 5,
-        "id" : "V2 Records",
-        "value" : "V2 Records"
+        "id" : "Thrill Jockey/Konkurrent",
+        "value" : "Thrill Jockey/Konkurrent"
       }, {
         "count" : 4,
-        "id" : "4AD/V2",
-        "value" : "4AD/V2"
+        "id" : "Bertus",
+        "value" : "Bertus"
+      }, {
+        "count" : 4,
+        "id" : "Dead Oceans/Konkurrent",
+        "value" : "Dead Oceans/Konkurrent"
+      }, {
+        "count" : 4,
+        "id" : "Fat Cat/Konkurrent",
+        "value" : "Fat Cat/Konkurrent"
+      }, {
+        "count" : 4,
+        "id" : "Jagjaguwar/Konkurrent",
+        "value" : "Jagjaguwar/Konkurrent"
+      }, {
+        "count" : 4,
+        "id" : "Kobalt",
+        "value" : "Kobalt"
+      }, {
+        "count" : 4,
+        "id" : "Ninja Tune/PIAS",
+        "value" : "Ninja Tune/PIAS"
+      }, {
+        "count" : 4,
+        "id" : "PRSPCT",
+        "value" : "PRSPCT"
+      }, {
+        "count" : 3,
+        "id" : "3voor12/Diverse Labels",
+        "value" : "3voor12/Diverse Labels"
+      }, {
+        "count" : 3,
+        "id" : "ATP/Konkurrent",
+        "value" : "ATP/Konkurrent"
       } ]
     } ]
   },
   "selectedFacets" : { },
-  "total" : 623411,
+  "total" : 637912,
   "offset" : 0,
   "max" : 2,
   "items" : [ {
@@ -85,10 +141,10 @@
         "avAttributes" : {
           "avFileFormat" : "MP3"
         },
+        "owner" : "BROADCASTER",
         "creationDate" : 1352295543460,
         "lastModified" : 1352295543578,
         "workflow" : "PUBLISHED",
-        "owner" : "BROADCASTER",
         "urn" : "urn:vpro:media:location:16055798"
       } ],
       "workflow" : "PUBLISHED",
@@ -169,10 +225,10 @@
           "bitrate" : 1000000,
           "avFileFormat" : "WM"
         },
+        "owner" : "BROADCASTER",
         "creationDate" : 1391676858971,
         "lastModified" : 1391676859133,
         "workflow" : "PUBLISHED",
-        "owner" : "BROADCASTER",
         "urn" : "urn:vpro:media:location:36686887"
       } ],
       "images" : [ {
@@ -181,12 +237,12 @@
         "imageUri" : "urn:vpro:image:367113",
         "height" : 1525,
         "width" : 2287,
-        "creationDate" : 1390558544610,
-        "lastModified" : 1390558544679,
-        "workflow" : "PUBLISHED",
         "owner" : "BROADCASTER",
         "type" : "PICTURE",
         "highlighted" : false,
+        "creationDate" : 1390558544610,
+        "lastModified" : 1390558544679,
+        "workflow" : "PUBLISHED",
         "urn" : "urn:vpro:media:image:35995269"
       }, {
         "title" : "Dokter Corrie 2",
@@ -194,12 +250,12 @@
         "imageUri" : "urn:vpro:image:396081",
         "height" : 140,
         "width" : 240,
-        "creationDate" : 1391443689030,
-        "lastModified" : 1391443691069,
-        "workflow" : "PUBLISHED",
         "owner" : "BROADCASTER",
         "type" : "PICTURE",
         "highlighted" : false,
+        "creationDate" : 1391443689030,
+        "lastModified" : 1391443691069,
+        "workflow" : "PUBLISHED",
         "urn" : "urn:vpro:media:image:36505735"
       }, {
         "title" : "Dokter Corrie",
@@ -207,12 +263,12 @@
         "imageUri" : "urn:vpro:image:398472",
         "height" : 140,
         "width" : 240,
-        "creationDate" : 1391507789813,
-        "lastModified" : 1391507789923,
-        "workflow" : "PUBLISHED",
         "owner" : "BROADCASTER",
         "type" : "PICTURE",
         "highlighted" : false,
+        "creationDate" : 1391507789813,
+        "lastModified" : 1391507789923,
+        "workflow" : "PUBLISHED",
         "urn" : "urn:vpro:media:image:36566104"
       }, {
         "title" : "dokter corrie",
@@ -220,12 +276,12 @@
         "imageUri" : "urn:vpro:image:358612",
         "height" : 3150,
         "width" : 4724,
-        "creationDate" : 1390298345952,
-        "lastModified" : 1390298346010,
-        "workflow" : "PUBLISHED",
         "owner" : "BROADCASTER",
         "type" : "PICTURE",
         "highlighted" : false,
+        "creationDate" : 1390298345952,
+        "lastModified" : 1390298346010,
+        "workflow" : "PUBLISHED",
         "urn" : "urn:vpro:media:image:35806459"
       } ],
       "workflow" : "PUBLISHED",

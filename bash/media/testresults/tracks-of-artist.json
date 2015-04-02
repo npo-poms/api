@@ -1,45 +1,9 @@
 {
-  "facets" : {
-    "relations" : [ {
-      "name" : "labels",
-      "facet" : [ {
-        "count" : 13,
-        "id" : "V2",
-        "value" : "V2"
-      }, {
-        "count" : 12,
-        "id" : "V2 Records",
-        "value" : "V2 Records"
-      } ]
-    }, {
-      "name" : "artiesten",
-      "facet" : [ {
-        "count" : 33,
-        "selected" : true,
-        "id" : "Blaudzun",
-        "value" : "Blaudzun"
-      } ]
-    } ]
-  },
-  "selectedFacets" : {
-    "relations" : [ {
-      "name" : "labels",
-      "facet" : [ ]
-    }, {
-      "name" : "artiesten",
-      "facet" : [ {
-        "count" : 33,
-        "selected" : true,
-        "id" : "Blaudzun",
-        "value" : "Blaudzun"
-      } ]
-    } ]
-  },
-  "total" : 33,
+  "total" : 25,
   "offset" : 0,
   "max" : 2,
   "items" : [ {
-    "score" : 25.162653,
+    "score" : 27.943392,
     "highlights" : [ ],
     "result" : {
       "objectType" : "program",
@@ -110,79 +74,76 @@
       "avType" : "AUDIO"
     }
   }, {
-    "score" : 24.753952,
+    "score" : 26.124561,
     "highlights" : [ ],
     "result" : {
       "objectType" : "program",
-      "mid" : "WO_VPRO_031867",
-      "creationDate" : 1334760888741,
-      "lastModified" : 1344869437784,
-      "sortDate" : 1334760888741,
-      "urn" : "urn:vpro:media:program:13685957",
+      "mid" : "POMS_VPRO_194437",
+      "creationDate" : 1325589509971,
+      "lastModified" : 1325589510258,
+      "sortDate" : 1325589509971,
+      "urn" : "urn:vpro:media:program:12219920",
       "embeddable" : true,
       "broadcasters" : [ {
         "id" : "VPRO",
         "value" : "VPRO"
       } ],
       "titles" : [ {
-        "value" : "Blaudzun - Flame On My Head live op Paaspop 2012",
+        "value" : "Who Took The Wheel",
         "owner" : "BROADCASTER",
         "type" : "MAIN"
       } ],
       "genres" : [ ],
       "countries" : [ ],
       "languages" : [ ],
-      "descendantOf" : [ {
-        "midRef" : "POMS_S_VPRO_219057",
-        "urnRef" : "urn:vpro:media:group:13525117",
-        "type" : "PLAYLIST"
-      } ],
-      "memberOf" : [ {
-        "midRef" : "POMS_S_VPRO_219057",
-        "urnRef" : "urn:vpro:media:group:13525117",
-        "type" : "PLAYLIST",
-        "index" : 1,
-        "highlighted" : false,
-        "added" : 1334760918440
-      } ],
+      "duration" : 234000,
       "predictions" : [ {
         "state" : "REALIZED",
         "platform" : "INTERNETVOD"
       } ],
       "locations" : [ {
-        "programUrl" : "odis+http://content.omroep.nl/vpro/protected/luisterpaal/video/2012/04/18/BlauzunFlameonmyhead.mp4",
+        "programUrl" : "odis+http://content.omroep.nl/vpro/protected/luisterpaal/albums/world/urn:vpro:media:group:12219867/track07.mp3",
         "avAttributes" : {
-          "avFileFormat" : "MP4"
+          "bitrate" : 112,
+          "avFileFormat" : "MP3",
+          "audioAttributes" : {
+            "numberOfChannels" : 2,
+            "audioCoding" : "MP3"
+          }
         },
+        "duration" : 234000,
         "owner" : "BROADCASTER",
-        "creationDate" : 1334760888867,
-        "lastModified" : 1334760888902,
+        "creationDate" : 1325589509929,
+        "lastModified" : 1325589510035,
         "workflow" : "PUBLISHED",
-        "urn" : "urn:vpro:media:location:13685960"
+        "urn" : "urn:vpro:media:location:12219924"
       } ],
       "relations" : [ {
         "value" : "Blaudzun",
-        "urn" : "urn:vpro:media:relation:13685961",
+        "urn" : "urn:vpro:media:relation:12219925",
         "broadcaster" : "VPRO",
         "type" : "ARTIST"
+      }, {
+        "value" : "V2 Records",
+        "urn" : "urn:vpro:media:relation:12219926",
+        "broadcaster" : "VPRO",
+        "type" : "LABEL"
       } ],
       "images" : [ {
-        "title" : "Blaudzun",
-        "description" : "Blaudzun",
-        "imageUri" : "urn:vpro:image:64078",
-        "height" : 394,
-        "width" : 433,
+        "title" : "Heavy Flowers",
+        "description" : "",
+        "imageUri" : "urn:vpro.image:36153",
         "owner" : "BROADCASTER",
         "type" : "PICTURE",
         "highlighted" : false,
-        "creationDate" : 1334823964931,
-        "lastModified" : 1334823964949,
+        "creationDate" : 1325589447147,
+        "lastModified" : 1325589510217,
         "workflow" : "PUBLISHED",
-        "urn" : "urn:vpro:media:image:13698009"
+        "urn" : "urn:vpro:media:image:12219928"
       } ],
       "workflow" : "PUBLISHED",
-      "type" : "CLIP",
-      "avType" : "VIDEO"
+      "type" : "TRACK",
+      "avType" : "AUDIO"
     }
   } ]
 }

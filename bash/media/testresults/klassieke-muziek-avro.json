@@ -1,9 +1,9 @@
 {
-  "total" : 44,
+  "total" : 45,
   "offset" : 0,
   "max" : 2,
   "items" : [ {
-    "score" : 38.73804,
+    "score" : 38.79028,
     "highlights" : [ ],
     "result" : {
       "objectType" : "program",
@@ -70,10 +70,10 @@
           "avFileFormat" : "MP3"
         },
         "duration" : 3600000,
+        "owner" : "RADIOBOX",
         "creationDate" : 1394968120574,
         "lastModified" : 1394968145336,
         "workflow" : "PUBLISHED",
-        "owner" : "RADIOBOX",
         "urn" : "urn:vpro:media:location:38727422"
       } ],
       "scheduleEvents" : [ {
@@ -88,12 +88,12 @@
         "title" : "Hans-van-den-Boom.jpg",
         "description" : "Het Zondagochtend Concert",
         "imageUri" : "urn:vpro:image:146910",
-        "creationDate" : 1369751742024,
-        "lastModified" : 1369751743608,
-        "workflow" : "PUBLISHED",
         "owner" : "RADIOBOX",
         "type" : "PICTURE",
         "highlighted" : false,
+        "creationDate" : 1369751742024,
+        "lastModified" : 1369751743608,
+        "workflow" : "PUBLISHED",
         "urn" : "urn:vpro:media:image:26077976"
       } ],
       "workflow" : "PUBLISHED",
@@ -101,7 +101,7 @@
       "avType" : "AUDIO"
     }
   }, {
-    "score" : 38.730515,
+    "score" : 38.676952,
     "highlights" : [ ],
     "result" : {
       "objectType" : "program",
@@ -230,10 +230,10 @@
         "avAttributes" : {
           "avFileFormat" : "HASP"
         },
+        "owner" : "CERES",
         "creationDate" : 1392504368475,
         "lastModified" : 1392504368724,
         "workflow" : "PUBLISHED",
-        "owner" : "CERES",
         "platform" : "INTERNETVOD",
         "urn" : "urn:vpro:media:location:37118326"
       }, {
@@ -242,10 +242,10 @@
           "bitrate" : 200000,
           "avFileFormat" : "H264"
         },
+        "owner" : "CERES",
         "creationDate" : 1392504068678,
         "lastModified" : 1392504068956,
         "workflow" : "PUBLISHED",
-        "owner" : "CERES",
         "platform" : "INTERNETVOD",
         "urn" : "urn:vpro:media:location:37118321"
       }, {
@@ -254,10 +254,10 @@
           "bitrate" : 500000,
           "avFileFormat" : "H264"
         },
+        "owner" : "CERES",
         "creationDate" : 1392504068158,
         "lastModified" : 1392504068412,
         "workflow" : "PUBLISHED",
-        "owner" : "CERES",
         "platform" : "INTERNETVOD",
         "urn" : "urn:vpro:media:location:37118319"
       }, {
@@ -266,10 +266,10 @@
           "bitrate" : 1000000,
           "avFileFormat" : "H264"
         },
+        "owner" : "CERES",
         "creationDate" : 1392503767831,
         "lastModified" : 1392503768131,
         "workflow" : "PUBLISHED",
-        "owner" : "CERES",
         "platform" : "INTERNETVOD",
         "urn" : "urn:vpro:media:location:37118317"
       }, {
@@ -278,10 +278,10 @@
           "bitrate" : 3500000,
           "avFileFormat" : "MPEG2"
         },
+        "owner" : "CERES",
         "creationDate" : 1392503467786,
         "lastModified" : 1392503468191,
         "workflow" : "PUBLISHED",
-        "owner" : "CERES",
         "platform" : "PLUSVOD",
         "urn" : "urn:vpro:media:location:37118310"
       } ],
@@ -304,34 +304,34 @@
         "title" : "Opium",
         "description" : "Zaterdag 15 februari in Opium: de 3JS, acteurs Carine Crutzen, Marie-Louise Stheins, Renée Fokker en Tim Teunissen, journalist Wouke van Scherrenburg en violiste Lisa Jacobs!",
         "imageUri" : "urn:vpro:image:407638",
-        "creationDate" : 1392504315945,
-        "lastModified" : 1392504346836,
-        "workflow" : "PUBLISHED",
         "owner" : "NEBO",
         "type" : "STILL",
         "highlighted" : false,
+        "creationDate" : 1392504315945,
+        "lastModified" : 1392504346836,
+        "workflow" : "PUBLISHED",
         "urn" : "urn:vpro:media:image:37118322"
       }, {
         "title" : "Opium",
         "description" : "Zaterdag 15 februari in Opium: de 3JS, acteurs Carine Crutzen, Marie-Louise Stheins, Renée Fokker en Tim Teunissen, journalist Wouke van Scherrenburg en violiste Lisa Jacobs!",
         "imageUri" : "urn:vpro:image:407639",
-        "creationDate" : 1392504331195,
-        "lastModified" : 1392504346837,
-        "workflow" : "PUBLISHED",
         "owner" : "NEBO",
         "type" : "STILL",
         "highlighted" : false,
+        "creationDate" : 1392504331195,
+        "lastModified" : 1392504346837,
+        "workflow" : "PUBLISHED",
         "urn" : "urn:vpro:media:image:37118323"
       }, {
         "title" : "Opium",
         "description" : "Zaterdag 15 februari in Opium: de 3JS, acteurs Carine Crutzen, Marie-Louise Stheins, Renée Fokker en Tim Teunissen, journalist Wouke van Scherrenburg en violiste Lisa Jacobs!",
         "imageUri" : "urn:vpro:image:407640",
-        "creationDate" : 1392504346603,
-        "lastModified" : 1392504346837,
-        "workflow" : "PUBLISHED",
         "owner" : "NEBO",
         "type" : "STILL",
         "highlighted" : false,
+        "creationDate" : 1392504346603,
+        "lastModified" : 1392504346837,
+        "workflow" : "PUBLISHED",
         "urn" : "urn:vpro:media:image:37118324"
       } ],
       "workflow" : "PUBLISHED",

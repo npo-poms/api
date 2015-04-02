@@ -1,0 +1,252 @@
+{
+  "total" : 637912,
+  "offset" : 0,
+  "max" : 2,
+  "items" : [ {
+    "score" : 1.5030634,
+    "highlights" : [ ],
+    "result" : {
+      "objectType" : "program",
+      "mid" : "POMS_VPRO_1242544",
+      "creationDate" : 1404490912485,
+      "lastModified" : 1406685301787,
+      "publishStart" : 1309460408000,
+      "sortDate" : 1309460408000,
+      "urn" : "urn:vpro:media:program:42952594",
+      "embeddable" : true,
+      "crids" : [ "crid://metropolistv.nl/program/1010" ],
+      "broadcasters" : [ {
+        "id" : "VPRO",
+        "value" : "VPRO"
+      } ],
+      "titles" : [ {
+        "value" : "Metropolis",
+        "owner" : "BROADCASTER",
+        "type" : "MAIN"
+      }, {
+        "value" : "���Grote dingen��� in Australie",
+        "owner" : "BROADCASTER",
+        "type" : "SUB"
+      } ],
+      "descriptions" : [ {
+        "value" : "Sommige Australiers hebben de hobby om ���grote dingen��� langs de snelweg of in hun achtertuin te bouwen, simpelweg om toeristen te trekken. Enthousiastelingen Jen en Niall bezoeken al bijna dertig jaar deze vaak absurde bouwwerken. Vandaag strepen ze ���de worm��� en ���de koala��� van hun lijst.",
+        "owner" : "BROADCASTER",
+        "type" : "MAIN"
+      }, {
+        "value" : "NULL",
+        "owner" : "BROADCASTER",
+        "type" : "SHORT"
+      } ],
+      "genres" : [ ],
+      "countries" : [ ],
+      "languages" : [ ],
+      "descendantOf" : [ {
+        "midRef" : "POMS_VPRO_1241439",
+        "urnRef" : "urn:vpro:media:group:42940426",
+        "type" : "COLLECTION"
+      }, {
+        "midRef" : "POMS_VPRO_1241440",
+        "urnRef" : "urn:vpro:media:group:42940428",
+        "type" : "COLLECTION"
+      }, {
+        "midRef" : "POMS_VPRO_1241457",
+        "urnRef" : "urn:vpro:media:group:42940476",
+        "type" : "PLAYLIST"
+      }, {
+        "midRef" : "POMS_VPRO_1241534",
+        "urnRef" : "urn:vpro:media:group:42940676",
+        "type" : "PLAYLIST"
+      }, {
+        "midRef" : "POMS_VPRO_1241739",
+        "urnRef" : "urn:vpro:media:group:42941238",
+        "type" : "PLAYLIST"
+      }, {
+        "midRef" : "POMS_VPRO_1244481",
+        "urnRef" : "urn:vpro:media:group:43016890",
+        "type" : "COLLECTION"
+      } ],
+      "memberOf" : [ {
+        "midRef" : "POMS_VPRO_1241457",
+        "urnRef" : "urn:vpro:media:group:42940476",
+        "type" : "PLAYLIST",
+        "index" : 271,
+        "highlighted" : false,
+        "added" : 1404924481776
+      }, {
+        "midRef" : "POMS_VPRO_1241534",
+        "urnRef" : "urn:vpro:media:group:42940676",
+        "type" : "PLAYLIST",
+        "index" : 271,
+        "highlighted" : false,
+        "added" : 1404931169670
+      }, {
+        "midRef" : "POMS_VPRO_1241739",
+        "urnRef" : "urn:vpro:media:group:42941238",
+        "type" : "PLAYLIST",
+        "index" : 270,
+        "highlighted" : false,
+        "added" : 1404490912544
+      } ],
+      "locations" : [ {
+        "programUrl" : "http://download.omroep.nl/vpro/flash/metropolistv/timeoff-australia.flv",
+        "avAttributes" : {
+          "avFileFormat" : "FLV"
+        },
+        "owner" : "BROADCASTER",
+        "creationDate" : 1404490899740,
+        "lastModified" : 1404490912491,
+        "workflow" : "PUBLISHED",
+        "urn" : "urn:vpro:media:location:42952598"
+      } ],
+      "relations" : [ {
+        "value" : "-37.826122S 144.960140E",
+        "urn" : "urn:vpro:media:relation:43107231",
+        "broadcaster" : "VPRO",
+        "type" : "COORDINATES"
+      }, {
+        "value" : "Melbourne",
+        "urn" : "urn:vpro:media:relation:43107232",
+        "broadcaster" : "VPRO",
+        "type" : "LOCATION"
+      } ],
+      "images" : [ {
+        "title" : "���Grote dingen��� in Australie",
+        "description" : "",
+        "imageUri" : "urn:vpro:image:476699",
+        "owner" : "BROADCASTER",
+        "type" : "PICTURE",
+        "highlighted" : false,
+        "creationDate" : 1404490912473,
+        "lastModified" : 1406659337764,
+        "workflow" : "PUBLISHED",
+        "urn" : "urn:vpro:media:image:42952596"
+      } ],
+      "workflow" : "PUBLISHED",
+      "type" : "CLIP",
+      "avType" : "VIDEO"
+    }
+  }, {
+    "score" : 1.5160718,
+    "highlights" : [ ],
+    "result" : {
+      "objectType" : "program",
+      "mid" : "POMS_VPRO_1242067",
+      "creationDate" : 1404482093541,
+      "lastModified" : 1406685637582,
+      "publishStart" : 1311252604000,
+      "sortDate" : 1311252604000,
+      "urn" : "urn:vpro:media:program:42943907",
+      "embeddable" : true,
+      "crids" : [ "crid://metropolistv.nl/program/1045" ],
+      "broadcasters" : [ {
+        "id" : "VPRO",
+        "value" : "VPRO"
+      } ],
+      "titles" : [ {
+        "value" : "Metropolis",
+        "owner" : "BROADCASTER",
+        "type" : "MAIN"
+      }, {
+        "value" : "���Chambres de passe��� in Burkina Faso",
+        "owner" : "BROADCASTER",
+        "type" : "SUB"
+      } ],
+      "descriptions" : [ {
+        "value" : "De Burkinab�� verdienen over het algemeen niet zoveel en kunnen daarom geen hotel betalen als ze even met hun minnaar of minnares willen ���babbelen���. De zogenaamde ���chambres de passe��� doen daarom goede zaken. De kamertjes worden per uur verhuurd aan behoeftige stelletjes. - Geproduceerd door Gideon Vink & Koffi Ametepe",
+        "owner" : "BROADCASTER",
+        "type" : "MAIN"
+      }, {
+        "value" : "NULL",
+        "owner" : "BROADCASTER",
+        "type" : "SHORT"
+      } ],
+      "genres" : [ ],
+      "countries" : [ ],
+      "languages" : [ ],
+      "descendantOf" : [ {
+        "midRef" : "POMS_VPRO_1241439",
+        "urnRef" : "urn:vpro:media:group:42940426",
+        "type" : "COLLECTION"
+      }, {
+        "midRef" : "POMS_VPRO_1241440",
+        "urnRef" : "urn:vpro:media:group:42940428",
+        "type" : "COLLECTION"
+      }, {
+        "midRef" : "POMS_VPRO_1241485",
+        "urnRef" : "urn:vpro:media:group:42940548",
+        "type" : "PLAYLIST"
+      }, {
+        "midRef" : "POMS_VPRO_1241542",
+        "urnRef" : "urn:vpro:media:group:42940696",
+        "type" : "PLAYLIST"
+      }, {
+        "midRef" : "POMS_VPRO_1241708",
+        "urnRef" : "urn:vpro:media:group:42941153",
+        "type" : "PLAYLIST"
+      }, {
+        "midRef" : "POMS_VPRO_1244481",
+        "urnRef" : "urn:vpro:media:group:43016890",
+        "type" : "COLLECTION"
+      } ],
+      "memberOf" : [ {
+        "midRef" : "POMS_VPRO_1241485",
+        "urnRef" : "urn:vpro:media:group:42940548",
+        "type" : "PLAYLIST",
+        "index" : 62,
+        "highlighted" : false,
+        "added" : 1404830243320
+      }, {
+        "midRef" : "POMS_VPRO_1241542",
+        "urnRef" : "urn:vpro:media:group:42940696",
+        "type" : "PLAYLIST",
+        "index" : 61,
+        "highlighted" : false,
+        "added" : 1404482093644
+      }, {
+        "midRef" : "POMS_VPRO_1241708",
+        "urnRef" : "urn:vpro:media:group:42941153",
+        "type" : "PLAYLIST",
+        "index" : 62,
+        "highlighted" : false,
+        "added" : 1404934632565
+      } ],
+      "locations" : [ {
+        "programUrl" : "http://download.omroep.nl/vpro/flash/metropolistv/adultery-burkinafaso.flv",
+        "avAttributes" : {
+          "avFileFormat" : "FLV"
+        },
+        "owner" : "BROADCASTER",
+        "creationDate" : 1404482077374,
+        "lastModified" : 1404482093546,
+        "workflow" : "PUBLISHED",
+        "urn" : "urn:vpro:media:location:42943911"
+      } ],
+      "relations" : [ {
+        "value" : "12.347518N -1.515386W",
+        "urn" : "urn:vpro:media:relation:43107272",
+        "broadcaster" : "VPRO",
+        "type" : "COORDINATES"
+      }, {
+        "value" : "Ouagadougou",
+        "urn" : "urn:vpro:media:relation:43107273",
+        "broadcaster" : "VPRO",
+        "type" : "LOCATION"
+      } ],
+      "images" : [ {
+        "title" : "���Chambres de passe��� in Burkina Faso",
+        "description" : "",
+        "imageUri" : "urn:vpro:image:476336",
+        "owner" : "BROADCASTER",
+        "type" : "PICTURE",
+        "highlighted" : false,
+        "creationDate" : 1404482093525,
+        "lastModified" : 1406639335758,
+        "workflow" : "PUBLISHED",
+        "urn" : "urn:vpro:media:image:42943909"
+      } ],
+      "workflow" : "PUBLISHED",
+      "type" : "CLIP",
+      "avType" : "VIDEO"
+    }
+  } ]
+}

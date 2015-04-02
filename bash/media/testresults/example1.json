@@ -1,9 +1,9 @@
 {
-  "total" : 827,
+  "total" : 837,
   "offset" : 0,
   "max" : 2,
   "items" : [ {
-    "score" : 7.1055202,
+    "score" : 6.941471,
     "highlights" : [ ],
     "result" : {
       "objectType" : "program",
@@ -91,11 +91,11 @@
           "avFileFormat" : "WM"
         },
         "duration" : 2700000,
+        "owner" : "NEBO",
         "creationDate" : 1335551305436,
         "lastModified" : 1335551306101,
         "publishStart" : 1335613500000,
         "workflow" : "PUBLISHED",
-        "owner" : "NEBO",
         "urn" : "urn:vpro:media:location:13914897"
       }, {
         "programUrl" : "http://player.omroep.nl/?aflID=14135648",
@@ -103,11 +103,11 @@
           "avFileFormat" : "HTML"
         },
         "duration" : 2700000,
+        "owner" : "NEBO",
         "creationDate" : 1335551305436,
         "lastModified" : 1335551306102,
         "publishStart" : 1335613500000,
         "workflow" : "PUBLISHED",
-        "owner" : "NEBO",
         "urn" : "urn:vpro:media:location:13914899"
       } ],
       "scheduleEvents" : [ {
@@ -123,12 +123,12 @@
         "title" : "Argos",
         "description" : "Argos",
         "imageUri" : "urn:vpro:image:120779",
-        "creationDate" : 1363466187966,
-        "lastModified" : 1363466189489,
-        "workflow" : "PUBLISHED",
         "owner" : "RADIOBOX",
         "type" : "PICTURE",
         "highlighted" : false,
+        "creationDate" : 1363466187966,
+        "lastModified" : 1363466189489,
+        "workflow" : "PUBLISHED",
         "urn" : "urn:vpro:media:image:23133991"
       } ],
       "workflow" : "PUBLISHED",
@@ -178,22 +178,22 @@
             "avFileFormat" : "MP3"
           },
           "duration" : 2567000,
+          "owner" : "RADIOBOX",
           "creationDate" : 1363466185397,
           "lastModified" : 1363466189492,
           "workflow" : "PUBLISHED",
-          "owner" : "RADIOBOX",
           "urn" : "urn:vpro:media:location:23133996"
         } ],
         "images" : [ {
           "title" : "euro_papier_geld.jpg",
           "description" : "Argos: weinig controle op subsidie-aanvrager",
           "imageUri" : "urn:vpro:image:277705",
-          "creationDate" : 1400833381443,
-          "lastModified" : 1400833383993,
-          "workflow" : "PUBLISHED",
           "owner" : "RADIOBOX",
           "type" : "PICTURE",
           "highlighted" : false,
+          "creationDate" : 1400833381443,
+          "lastModified" : 1400833383993,
+          "workflow" : "PUBLISHED",
           "urn" : "urn:vpro:media:image:41764533"
         } ],
         "workflow" : "PUBLISHED",
@@ -207,7 +207,7 @@
       "avType" : "AUDIO"
     }
   }, {
-    "score" : 6.5697265,
+    "score" : 6.5393777,
     "highlights" : [ ],
     "result" : {
       "objectType" : "program",
@@ -248,10 +248,10 @@
         "avAttributes" : {
           "avFileFormat" : "MP3"
         },
+        "owner" : "BROADCASTER",
         "creationDate" : 1374051891489,
         "lastModified" : 1374051891527,
         "workflow" : "PUBLISHED",
-        "owner" : "BROADCASTER",
         "urn" : "urn:vpro:media:location:27748578"
       } ],
       "images" : [ {
@@ -260,12 +260,12 @@
         "imageUri" : "urn:vpro:image:202161",
         "height" : 452,
         "width" : 657,
-        "creationDate" : 1374051693487,
-        "lastModified" : 1374051693521,
-        "workflow" : "PUBLISHED",
         "owner" : "BROADCASTER",
         "type" : "PICTURE",
         "highlighted" : false,
+        "creationDate" : 1374051693487,
+        "lastModified" : 1374051693521,
+        "workflow" : "PUBLISHED",
         "urn" : "urn:vpro:media:image:27748565"
       } ],
       "workflow" : "PUBLISHED",

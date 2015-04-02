@@ -23,25 +23,81 @@
         "id" : "V2 Records",
         "value" : "V2 Records"
       }, {
+        "count" : 134,
+        "id" : "Mute/PIAS",
+        "value" : "Mute/PIAS"
+      }, {
         "count" : 121,
         "id" : "Eigen beheer",
         "value" : "Eigen beheer"
       }, {
-        "count" : 114,
-        "id" : "Mute/PIAS",
-        "value" : "Mute/PIAS"
-      }, {
-        "count" : 92,
+        "count" : 110,
         "id" : "Suburban",
         "value" : "Suburban"
       }, {
-        "count" : 71,
+        "count" : 104,
         "id" : "Columbia/Sony",
         "value" : "Columbia/Sony"
       }, {
-        "count" : 64,
+        "count" : 100,
         "id" : "Excelsior Recordings",
         "value" : "Excelsior Recordings"
+      }, {
+        "count" : 97,
+        "id" : "3voor12/Eigen Beheer",
+        "value" : "3voor12/Eigen Beheer"
+      }, {
+        "count" : 95,
+        "id" : "Diverse labels",
+        "value" : "Diverse labels"
+      }, {
+        "count" : 92,
+        "id" : "Ninja Tune/PIAS",
+        "value" : "Ninja Tune/PIAS"
+      }, {
+        "count" : 85,
+        "id" : "Sub Pop/Konkurrent",
+        "value" : "Sub Pop/Konkurrent"
+      }, {
+        "count" : 75,
+        "id" : "Dead Oceans/Konkurrent",
+        "value" : "Dead Oceans/Konkurrent"
+      }, {
+        "count" : 75,
+        "id" : "Fire/Konkurrent",
+        "value" : "Fire/Konkurrent"
+      }, {
+        "count" : 59,
+        "id" : "EMI",
+        "value" : "EMI"
+      }, {
+        "count" : 54,
+        "id" : "Domino/Munich",
+        "value" : "Domino/Munich"
+      }, {
+        "count" : 52,
+        "id" : "Rough Trade/Konkurrent",
+        "value" : "Rough Trade/Konkurrent"
+      }, {
+        "count" : 43,
+        "id" : "4AD/V2",
+        "value" : "4AD/V2"
+      }, {
+        "count" : 43,
+        "id" : "City Slang/Konkurrent",
+        "value" : "City Slang/Konkurrent"
+      }, {
+        "count" : 42,
+        "id" : "Thrill Jockey/Konkurrent",
+        "value" : "Thrill Jockey/Konkurrent"
+      }, {
+        "count" : 41,
+        "id" : "Atlantic/Warner",
+        "value" : "Atlantic/Warner"
+      }, {
+        "count" : 39,
+        "id" : "Bella Union",
+        "value" : "Bella Union"
       } ]
     }, {
       "name" : "artiesten",
@@ -70,26 +126,82 @@
         "id" : "Steve Mason",
         "value" : "Steve Mason"
       }, {
-        "count" : 35,
-        "id" : "Melon",
-        "value" : "Melon"
-      }, {
-        "count" : 28,
-        "id" : "Guided By Voices",
-        "value" : "Guided By Voices"
-      }, {
-        "count" : 20,
+        "count" : 46,
         "id" : "Makkie ",
         "value" : "Makkie "
       }, {
-        "count" : 19,
+        "count" : 43,
         "id" : "Chromatics",
         "value" : "Chromatics"
+      }, {
+        "count" : 43,
+        "id" : "Guided By Voices",
+        "value" : "Guided By Voices"
+      }, {
+        "count" : 43,
+        "id" : "Melon",
+        "value" : "Melon"
+      }, {
+        "count" : 34,
+        "id" : "Nuno Dos Santos",
+        "value" : "Nuno Dos Santos"
+      }, {
+        "count" : 34,
+        "id" : "Patrick Watson",
+        "value" : "Patrick Watson"
+      }, {
+        "count" : 33,
+        "id" : "Poliça",
+        "value" : "Poliça"
+      }, {
+        "count" : 32,
+        "id" : "Promo",
+        "value" : "Promo"
+      }, {
+        "count" : 25,
+        "id" : "Blaudzun",
+        "value" : "Blaudzun"
+      }, {
+        "count" : 23,
+        "id" : "Ane Brun",
+        "value" : "Ane Brun"
+      }, {
+        "count" : 23,
+        "id" : "Biffy Clyro",
+        "value" : "Biffy Clyro"
+      }, {
+        "count" : 23,
+        "id" : "Trent Reznor/Atticus Ross",
+        "value" : "Trent Reznor/Atticus Ross"
+      }, {
+        "count" : 19,
+        "id" : "Bart Skils",
+        "value" : "Bart Skils"
+      }, {
+        "count" : 19,
+        "id" : "Darko Esser",
+        "value" : "Darko Esser"
+      }, {
+        "count" : 18,
+        "id" : "Kaiser Chiefs",
+        "value" : "Kaiser Chiefs"
+      }, {
+        "count" : 18,
+        "id" : "Steve Rachmad",
+        "value" : "Steve Rachmad"
+      }, {
+        "count" : 18,
+        "id" : "The Gaslamp Killer",
+        "value" : "The Gaslamp Killer"
+      }, {
+        "count" : 17,
+        "id" : "Dick Brave & The Backbeats",
+        "value" : "Dick Brave & The Backbeats"
       } ]
     } ]
   },
   "selectedFacets" : { },
-  "total" : 623411,
+  "total" : 637912,
   "offset" : 0,
   "max" : 2,
   "items" : [ {
@@ -128,10 +240,10 @@
         "avAttributes" : {
           "avFileFormat" : "MP3"
         },
+        "owner" : "BROADCASTER",
         "creationDate" : 1352295543460,
         "lastModified" : 1352295543578,
         "workflow" : "PUBLISHED",
-        "owner" : "BROADCASTER",
         "urn" : "urn:vpro:media:location:16055798"
       } ],
       "workflow" : "PUBLISHED",
@@ -212,10 +324,10 @@
           "bitrate" : 1000000,
           "avFileFormat" : "WM"
         },
+        "owner" : "BROADCASTER",
         "creationDate" : 1391676858971,
         "lastModified" : 1391676859133,
         "workflow" : "PUBLISHED",
-        "owner" : "BROADCASTER",
         "urn" : "urn:vpro:media:location:36686887"
       } ],
       "images" : [ {
@@ -224,12 +336,12 @@
         "imageUri" : "urn:vpro:image:367113",
         "height" : 1525,
         "width" : 2287,
-        "creationDate" : 1390558544610,
-        "lastModified" : 1390558544679,
-        "workflow" : "PUBLISHED",
         "owner" : "BROADCASTER",
         "type" : "PICTURE",
         "highlighted" : false,
+        "creationDate" : 1390558544610,
+        "lastModified" : 1390558544679,
+        "workflow" : "PUBLISHED",
         "urn" : "urn:vpro:media:image:35995269"
       }, {
         "title" : "Dokter Corrie 2",
@@ -237,12 +349,12 @@
         "imageUri" : "urn:vpro:image:396081",
         "height" : 140,
         "width" : 240,
-        "creationDate" : 1391443689030,
-        "lastModified" : 1391443691069,
-        "workflow" : "PUBLISHED",
         "owner" : "BROADCASTER",
         "type" : "PICTURE",
         "highlighted" : false,
+        "creationDate" : 1391443689030,
+        "lastModified" : 1391443691069,
+        "workflow" : "PUBLISHED",
         "urn" : "urn:vpro:media:image:36505735"
       }, {
         "title" : "Dokter Corrie",
@@ -250,12 +362,12 @@
         "imageUri" : "urn:vpro:image:398472",
         "height" : 140,
         "width" : 240,
-        "creationDate" : 1391507789813,
-        "lastModified" : 1391507789923,
-        "workflow" : "PUBLISHED",
         "owner" : "BROADCASTER",
         "type" : "PICTURE",
         "highlighted" : false,
+        "creationDate" : 1391507789813,
+        "lastModified" : 1391507789923,
+        "workflow" : "PUBLISHED",
         "urn" : "urn:vpro:media:image:36566104"
       }, {
         "title" : "dokter corrie",
@@ -263,12 +375,12 @@
         "imageUri" : "urn:vpro:image:358612",
         "height" : 3150,
         "width" : 4724,
-        "creationDate" : 1390298345952,
-        "lastModified" : 1390298346010,
-        "workflow" : "PUBLISHED",
         "owner" : "BROADCASTER",
         "type" : "PICTURE",
         "highlighted" : false,
+        "creationDate" : 1390298345952,
+        "lastModified" : 1390298346010,
+        "workflow" : "PUBLISHED",
         "urn" : "urn:vpro:media:image:35806459"
       } ],
       "workflow" : "PUBLISHED",

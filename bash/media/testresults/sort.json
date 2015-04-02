@@ -1,339 +1,172 @@
 {
-  "total" : 56921,
+  "total" : 637912,
   "offset" : 0,
   "max" : 2,
   "items" : [ {
-    "score" : 2.0875485,
+    "score" : 2.9583755,
     "highlights" : [ ],
     "result" : {
       "objectType" : "program",
-      "mid" : "POW_00751621",
-      "creationDate" : 1390715212208,
-      "lastModified" : 1398758186231,
-      "hasSubtitles" : true,
-      "sortDate" : 1392853084000,
-      "urn" : "urn:vpro:media:program:36070295",
+      "mid" : "RBX_KRO_546077",
+      "creationDate" : 1387477441140,
+      "lastModified" : 1407159545553,
+      "sortDate" : 1401292800000,
+      "urn" : "urn:vpro:media:program:34337502",
       "embeddable" : true,
       "episodeOf" : [ {
-        "midRef" : "POW_00751576",
-        "urnRef" : "urn:vpro:media:group:33713915",
-        "type" : "SEASON",
-        "index" : 41,
+        "midRef" : "POMS_S_KRO_066265",
+        "urnRef" : "urn:vpro:media:group:17424545",
+        "type" : "SERIES",
+        "index" : 1,
         "highlighted" : false,
-        "added" : 1390715212287
-      }, {
-        "midRef" : "POMS_S_IKON_461332",
-        "urnRef" : "urn:vpro:media:group:34807370",
-        "type" : "SEASON",
-        "index" : 41,
-        "highlighted" : false,
-        "added" : 1390914530263
+        "added" : 1387477443248
       } ],
+      "crids" : [ "crid://broadcast.radiobox2/267878" ],
       "broadcasters" : [ {
-        "id" : "IKON",
-        "value" : "IKON"
+        "id" : "KRO",
+        "value" : "KRO"
       } ],
       "titles" : [ {
-        "value" : "De Nachtzoen",
-        "owner" : "MIS",
+        "value" : " ",
+        "owner" : "RADIOBOX",
         "type" : "MAIN"
-      }, {
-        "value" : "De Nachtzoen : Jeroen Snel",
-        "owner" : "WHATS_ON",
-        "type" : "MAIN"
-      }, {
-        "value" : "Jeroen Snel",
-        "owner" : "MIS",
-        "type" : "SUB"
       } ],
-      "descriptions" : [ {
-        "value" : "In deze aflevering Jeroen Snel. We kennen hem nu als de man van Blauw Bloed, maar jarenlang stond deze journalist voor Twee Vandaag met zijn laarzen in het bluswater. Als het aan hem ligt, gaat hij ooit nog eens een heel ander programma maken.\n\nEen charismatisch, gloedvol persoon deelt die zo onontbeerlijke nachtzoen uit aan het Nederlandse volk. Troost in roerige tijden.",
-        "owner" : "BROADCASTER",
-        "type" : "MAIN"
-      }, {
-        "value" : "Een charismatisch, gloedvol persoon deelt die zo onontbeerlijke nachtzoen uit aan het Nederlandse volk. Troost in roerige tijden.",
-        "owner" : "MIS",
-        "type" : "MAIN"
-      }, {
-        "value" : "De Nachtzoen. We kennen hem nu als de man van Blauw Bloed, maar jarenlang stond deze journalist voor Twee Vandaag met zijn laarzen in het bluswater. Als het aan hem ligt, gaat hij ooit nog eens een heel ander programma maken. Deze Nachtzoen krijgen we van Jeroen Snel.",
-        "owner" : "WHATS_ON",
-        "type" : "MAIN"
-      }, {
-        "value" : "In deze aflevering Jeroen Snel. We kennen hem nu als de man van Blauw Bloed, maar jarenlang stond deze journalist voor Twee Vandaag met zijn laarzen in het bluswater. Als het aan hem ligt, gaat hij ooit nog eens een heel ander programma maken.",
-        "owner" : "BROADCASTER",
-        "type" : "SHORT"
-      }, {
-        "value" : "We kennen hem nu als de man van Blauw Bloed, maar jarenlang stond deze journalist voor Twee Vandaag met zijn laarzen in het bluswater. Als het aan hem ligt, gaat hij ooit nog eens een heel ander programma maken.",
-        "owner" : "MIS",
-        "type" : "SHORT"
-      }, {
-        "value" : "De Nachtzoen. We kennen hem nu als de man van Blauw Bloed, maar jarenlang stond deze journalist voor Twee Vandaag met zijn laarzen in het bluswater. Als het aan hem ligt, gaat hij ooit nog eens een heel ander programma maken. Deze Nachtzoen krijgen we van Jeroen Snel.",
-        "owner" : "WHATS_ON",
-        "type" : "SHORT"
-      }, {
-        "value" : "In deze aflevering Jeroen Snel. We kennen hem nu als de man van Blauw Bloed, maar jarenlang stond deze journalist voor Twee Vandaag met zijn laarzen in het bluswater. Als het aan hem ligt, gaat hij ooit nog eens een heel ander programma maken.",
-        "owner" : "BROADCASTER",
-        "type" : "EPISODE"
-      }, {
-        "value" : "We kennen hem nu als de man van Blauw Bloed, maar jarenlang stond deze journalist voor Twee Vandaag met zijn laarzen in het bluswater. Als het aan hem ligt, gaat hij ooit nog eens een heel ander programma maken.",
-        "owner" : "MIS",
-        "type" : "EPISODE"
-      } ],
-      "genres" : [ {
-        "id" : "3.0.1.6",
-        "terms" : [ "Amusement" ]
-      } ],
-      "tags" : [ "Annemiek Schrijver", "Blauw Bloed", "Jeroen Snel", "Journalist", "religie", "Twee vandaag" ],
+      "genres" : [ ],
       "countries" : [ ],
       "languages" : [ ],
-      "avAttributes" : {
-        "videoAttributes" : { },
-        "audioAttributes" : { }
-      },
-      "duration" : 900000,
+      "duration" : 7200000,
+      "credits" : [ {
+        "givenName" : "Bert",
+        "familyName" : "Haandrikman",
+        "role" : "PRESENTER"
+      } ],
       "descendantOf" : [ {
-        "midRef" : "POMS_S_NCRV_218745",
-        "urnRef" : "urn:vpro:media:group:13712207",
-        "type" : "ARCHIVE"
-      }, {
-        "midRef" : "POMS_S_NCRV_171924",
-        "urnRef" : "urn:vpro:media:group:14665646",
-        "type" : "ARCHIVE"
-      }, {
-        "midRef" : "POMS_S_IKON_420297",
-        "urnRef" : "urn:vpro:media:group:31100153",
-        "type" : "SERIES"
-      }, {
-        "midRef" : "POW_00751576",
-        "urnRef" : "urn:vpro:media:group:33713915",
-        "type" : "SEASON"
-      }, {
-        "midRef" : "POMS_S_IKON_461332",
-        "urnRef" : "urn:vpro:media:group:34807370",
-        "type" : "SEASON"
-      }, {
-        "midRef" : "POMS_S_IKON_465786",
-        "urnRef" : "urn:vpro:media:group:35408656",
-        "type" : "PLAYLIST"
-      }, {
-        "midRef" : "POMS_S_IKON_508606",
-        "urnRef" : "urn:vpro:media:group:39091340",
-        "type" : "COLLECTION"
-      }, {
-        "midRef" : "POMS_S_IKON_508649",
-        "urnRef" : "urn:vpro:media:group:39091403",
+        "midRef" : "POMS_S_KRO_066265",
+        "urnRef" : "urn:vpro:media:group:17424545",
         "type" : "SERIES"
       } ],
-      "memberOf" : [ {
-        "midRef" : "POMS_S_IKON_465786",
-        "urnRef" : "urn:vpro:media:group:35408656",
-        "type" : "PLAYLIST",
-        "index" : 58,
-        "highlighted" : false,
-        "added" : 1392973369442
-      } ],
-      "predictions" : [ {
-        "state" : "REALIZED",
-        "platform" : "INTERNETVOD"
-      }, {
-        "state" : "REALIZED",
-        "publishStart" : 1392853478000,
-        "publishStop" : 1424475878000,
-        "platform" : "PLUSVOD"
+      "email" : [ "haandrikman@kro-ncrv.nl" ],
+      "websites" : [ {
+        "value" : "http://helemaalhaandrikman.kro.nl/"
       } ],
       "locations" : [ {
-        "programUrl" : "odip+http://odi.omroep.nl/video/adaptive/POW_00751621",
+        "programUrl" : "http://download.omroep.nl/audiologging/r2/2014/05/28/1800_2000_helemaal_haandrikman_20140528.mp3",
         "avAttributes" : {
-          "avFileFormat" : "HASP"
+          "avFileFormat" : "MP3"
         },
-        "creationDate" : 1392854169722,
-        "lastModified" : 1392854169945,
+        "duration" : 7200000,
+        "owner" : "RADIOBOX",
+        "creationDate" : 1407159527960,
+        "lastModified" : 1407159545550,
         "workflow" : "PUBLISHED",
-        "owner" : "CERES",
-        "platform" : "INTERNETVOD",
-        "urn" : "urn:vpro:media:location:37352805"
-      }, {
-        "programUrl" : "odi+http://odi.omroep.nl/video/h264_sb/POW_00751621",
-        "avAttributes" : {
-          "bitrate" : 200000,
-          "avFileFormat" : "H264"
-        },
-        "creationDate" : 1392853869327,
-        "lastModified" : 1392853869510,
-        "workflow" : "PUBLISHED",
-        "owner" : "CERES",
-        "platform" : "INTERNETVOD",
-        "urn" : "urn:vpro:media:location:37352799"
-      }, {
-        "programUrl" : "odi+http://odi.omroep.nl/video/h264_bb/POW_00751621",
-        "avAttributes" : {
-          "bitrate" : 500000,
-          "avFileFormat" : "H264"
-        },
-        "creationDate" : 1392853870820,
-        "lastModified" : 1392853871133,
-        "workflow" : "PUBLISHED",
-        "owner" : "CERES",
-        "platform" : "INTERNETVOD",
-        "urn" : "urn:vpro:media:location:37352803"
-      }, {
-        "programUrl" : "odi+http://odi.omroep.nl/video/h264_std/POW_00751621",
-        "avAttributes" : {
-          "bitrate" : 1000000,
-          "avFileFormat" : "H264"
-        },
-        "creationDate" : 1392853869852,
-        "lastModified" : 1392853870254,
-        "workflow" : "PUBLISHED",
-        "owner" : "CERES",
-        "platform" : "INTERNETVOD",
-        "urn" : "urn:vpro:media:location:37352801"
-      }, {
-        "programUrl" : "sub+http//npoplus.nl/video/mpeg2_hr/POW_00751621",
-        "avAttributes" : {
-          "bitrate" : 3500000,
-          "avFileFormat" : "MPEG2"
-        },
-        "creationDate" : 1392853868808,
-        "lastModified" : 1392853869066,
-        "publishStart" : 1392853478000,
-        "publishStop" : 1424475878000,
-        "workflow" : "PUBLISHED",
-        "owner" : "CERES",
-        "platform" : "PLUSVOD",
-        "urn" : "urn:vpro:media:location:37352796"
+        "urn" : "urn:vpro:media:location:43187495"
       } ],
       "scheduleEvents" : [ {
-        "start" : 1392853084000,
-        "duration" : 312000,
-        "poProgID" : "POW_00751621",
-        "channel" : "NED2",
-        "urnRef" : "urn:vpro:media:program:36070295",
-        "midRef" : "POW_00751621"
+        "start" : 1401292800000,
+        "duration" : 7200000,
+        "poProgID" : "RBX_KRO_546077",
+        "channel" : "RAD2",
+        "urnRef" : "urn:vpro:media:program:34337502",
+        "midRef" : "RBX_KRO_546077"
       } ],
       "images" : [ {
-        "title" : "De Nachtzoen",
-        "description" : "We kennen hem nu als de man van Blauw Bloed, maar jarenlang stond deze journalist voor Twee Vandaag met zijn laarzen in het bluswater. Als het aan hem ligt, gaat hij ooit nog eens een heel ander programma maken.",
-        "imageUri" : "urn:vpro:image:410440",
-        "creationDate" : 1392854417490,
-        "lastModified" : 1392973120118,
-        "workflow" : "PUBLISHED",
-        "owner" : "BROADCASTER",
-        "type" : "STILL",
-        "highlighted" : true,
-        "urn" : "urn:vpro:media:image:37352806"
-      }, {
-        "title" : "De Nachtzoen",
-        "description" : "We kennen hem nu als de man van Blauw Bloed, maar jarenlang stond deze journalist voor Twee Vandaag met zijn laarzen in het bluswater. Als het aan hem ligt, gaat hij ooit nog eens een heel ander programma maken.",
-        "imageUri" : "urn:vpro:image:410441",
-        "creationDate" : 1392854433938,
-        "lastModified" : 1392854449005,
-        "workflow" : "PUBLISHED",
-        "owner" : "NEBO",
-        "type" : "STILL",
+        "title" : " ",
+        "description" : "",
+        "imageUri" : "urn:vpro:image:230462",
+        "owner" : "RADIOBOX",
+        "type" : "PICTURE",
         "highlighted" : false,
-        "urn" : "urn:vpro:media:image:37352807"
-      }, {
-        "title" : "De Nachtzoen",
-        "description" : "We kennen hem nu als de man van Blauw Bloed, maar jarenlang stond deze journalist voor Twee Vandaag met zijn laarzen in het bluswater. Als het aan hem ligt, gaat hij ooit nog eens een heel ander programma maken.",
-        "imageUri" : "urn:vpro:image:410442",
-        "creationDate" : 1392854448884,
-        "lastModified" : 1392854449005,
+        "creationDate" : 1387477439270,
+        "lastModified" : 1407159545553,
         "workflow" : "PUBLISHED",
-        "owner" : "NEBO",
-        "type" : "STILL",
-        "highlighted" : false,
-        "urn" : "urn:vpro:media:image:37352808"
+        "urn" : "urn:vpro:media:image:34337504"
       } ],
       "workflow" : "PUBLISHED",
       "type" : "BROADCAST",
-      "avType" : "VIDEO"
+      "avType" : "AUDIO"
     }
   }, {
-    "score" : 1.1786569,
+    "score" : 2.9583526,
     "highlights" : [ ],
     "result" : {
       "objectType" : "program",
-      "mid" : "WO_AVRO_008622",
-      "creationDate" : 1368574021017,
-      "lastModified" : 1383728630064,
-      "sortDate" : 1368574021017,
-      "urn" : "urn:vpro:media:program:25478830",
+      "mid" : "RBX_NCRV_544444",
+      "creationDate" : 1384297391700,
+      "lastModified" : 1407159431395,
+      "sortDate" : 1401285600000,
+      "urn" : "urn:vpro:media:program:32374302",
       "embeddable" : true,
-      "crids" : [ "crid://tmp.program.omroep.nl/8031024" ],
+      "episodeOf" : [ {
+        "midRef" : "POMS_S_NCRV_223738",
+        "urnRef" : "urn:vpro:media:group:22805686",
+        "type" : "SERIES",
+        "index" : 1,
+        "highlighted" : false,
+        "added" : 1384297393884
+      } ],
+      "crids" : [ "crid://broadcast.radiobox2/256813" ],
       "broadcasters" : [ {
-        "id" : "AVRO",
-        "value" : "AVRO"
+        "id" : "NCRV",
+        "value" : "NCRV"
       } ],
       "titles" : [ {
-        "value" : "Twee Vandaag",
-        "owner" : "BROADCASTER",
+        "value" : " ",
+        "owner" : "RADIOBOX",
         "type" : "MAIN"
-      }, {
-        "value" : "Twee Vandaag",
-        "owner" : "BROADCASTER",
-        "type" : "SUB"
       } ],
-      "descriptions" : [ {
-        "value" : "In deze aflevering van Twee Vandaag vragen gezondheidsorganisaties aandacht voor depressie.",
-        "owner" : "BROADCASTER",
-        "type" : "MAIN"
-      }, {
-        "value" : "Een fragment over depressie.",
-        "owner" : "BROADCASTER",
-        "type" : "SHORT"
-      } ],
-      "genres" : [ {
-        "id" : "3.0.1.7.22",
-        "terms" : [ "Informatief", "Gezondheid/opvoeding" ]
-      } ],
+      "genres" : [ ],
       "countries" : [ ],
       "languages" : [ ],
-      "predictions" : [ {
-        "state" : "REALIZED",
-        "publishStart" : 1129047780000,
-        "platform" : "INTERNETVOD"
+      "duration" : 7200000,
+      "credits" : [ {
+        "givenName" : "Bert",
+        "familyName" : "Kranenbarg",
+        "role" : "PRESENTER"
+      } ],
+      "descendantOf" : [ {
+        "midRef" : "POMS_S_NCRV_223738",
+        "urnRef" : "urn:vpro:media:group:22805686",
+        "type" : "SERIES"
+      } ],
+      "email" : [ "kk@ncrv.nl" ],
+      "websites" : [ {
+        "value" : "http://knooppuntkranenbarg.ncrv.nl/"
       } ],
       "locations" : [ {
-        "programUrl" : "http://cgi.omroep.nl/cgi-bin/streams?/tv/tros/2vandaag/sb.20051011-1.asf",
+        "programUrl" : "http://download.omroep.nl/audiologging/r2/2014/05/28/1600_1800_knooppunt_kranenbarg_20140528.mp3",
         "avAttributes" : {
-          "bitrate" : 200000,
-          "avFileFormat" : "WMP"
+          "avFileFormat" : "MP3"
         },
-        "creationDate" : 1368574019682,
-        "lastModified" : 1368574021022,
-        "publishStart" : 1129047780000,
+        "duration" : 7200000,
+        "owner" : "RADIOBOX",
+        "creationDate" : 1407159391553,
+        "lastModified" : 1407159431385,
         "workflow" : "PUBLISHED",
-        "owner" : "BROADCASTER",
-        "urn" : "urn:vpro:media:location:25478835"
-      }, {
-        "programUrl" : "http://cgi.omroep.nl/cgi-bin/streams?/tv/tros/2vandaag/bb.20051011-1.asf",
-        "avAttributes" : {
-          "bitrate" : 500000,
-          "avFileFormat" : "WMP"
-        },
-        "creationDate" : 1368574019682,
-        "lastModified" : 1368574021023,
-        "publishStart" : 1129047780000,
-        "workflow" : "PUBLISHED",
-        "owner" : "BROADCASTER",
-        "urn" : "urn:vpro:media:location:25478837"
+        "urn" : "urn:vpro:media:location:43187479"
+      } ],
+      "scheduleEvents" : [ {
+        "start" : 1401285600000,
+        "duration" : 7200000,
+        "poProgID" : "RBX_NCRV_544444",
+        "channel" : "RAD2",
+        "urnRef" : "urn:vpro:media:program:32374302",
+        "midRef" : "RBX_NCRV_544444"
       } ],
       "images" : [ {
-        "title" : "Depressieve Nederlanders",
-        "description" : "Depressieve Nederlanders",
-        "imageUri" : "urn:vpro:image:181038",
-        "creationDate" : 1368574019683,
-        "lastModified" : 1368574021021,
-        "workflow" : "PUBLISHED",
-        "owner" : "BROADCASTER",
-        "type" : "ICON",
+        "title" : " ",
+        "description" : "",
+        "imageUri" : "urn:vpro:image:230465",
+        "owner" : "RADIOBOX",
+        "type" : "PICTURE",
         "highlighted" : false,
-        "urn" : "urn:vpro:media:image:25478833"
+        "creationDate" : 1384297389825,
+        "lastModified" : 1407159431395,
+        "workflow" : "PUBLISHED",
+        "urn" : "urn:vpro:media:image:32374304"
       } ],
       "workflow" : "PUBLISHED",
-      "type" : "CLIP",
-      "avType" : "VIDEO"
+      "type" : "BROADCAST",
+      "avType" : "AUDIO"
     }
   } ]
 }

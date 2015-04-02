@@ -1,51 +1,51 @@
 {
   "facets" : {
     "broadcasters" : [ {
-      "count" : 86989,
+      "count" : 91024,
       "id" : "NOS",
       "value" : "NOS"
     }, {
-      "count" : 84562,
+      "count" : 85310,
       "id" : "VPRO",
       "value" : "VPRO"
     }, {
-      "count" : 59973,
+      "count" : 61351,
       "id" : "NCRV",
       "value" : "NCRV"
     }, {
-      "count" : 55722,
+      "count" : 57123,
       "id" : "NTR",
       "value" : "NTR"
     }, {
-      "count" : 45859,
+      "count" : 47065,
       "id" : "KRO",
       "value" : "KRO"
     }, {
-      "count" : 42995,
+      "count" : 44221,
       "id" : "EO",
       "value" : "EO"
     }, {
-      "count" : 37947,
+      "count" : 39100,
       "id" : "MAX",
       "value" : "MAX"
     }, {
-      "count" : 35012,
+      "count" : 36223,
       "id" : "VARA",
       "value" : "VARA"
     }, {
-      "count" : 32150,
+      "count" : 32620,
       "id" : "AVRO",
       "value" : "AVRO"
     }, {
-      "count" : 23398,
+      "count" : 23374,
       "id" : "TROS",
       "value" : "TROS"
     }, {
-      "count" : 22413,
+      "count" : 23205,
       "id" : "BNN",
       "value" : "BNN"
     }, {
-      "count" : 19358,
+      "count" : 19361,
       "id" : "NPS",
       "value" : "NPS"
     }, {
@@ -53,53 +53,53 @@
       "id" : "TELE",
       "value" : "Teleac"
     }, {
-      "count" : 10110,
+      "count" : 10416,
       "id" : "WNL",
       "value" : "WNL"
     }, {
-      "count" : 10066,
-      "id" : "RTUT",
-      "value" : "RTV Utrecht"
+      "count" : 9174,
+      "id" : "AVTR",
+      "value" : "AVROTROS"
     }, {
-      "count" : 8129,
+      "count" : 8473,
       "id" : "POWN",
       "value" : "PowNed"
     }, {
-      "count" : 7565,
-      "id" : "AVTR",
-      "value" : "AVROTROS"
+      "count" : 7802,
+      "id" : "RTUT",
+      "value" : "RTV Utrecht"
     }, {
       "count" : 6705,
       "id" : "ZAPP",
       "value" : "NPO Zapp"
     }, {
-      "count" : 5804,
+      "count" : 5957,
       "id" : "IKON",
       "value" : "IKON"
     }, {
-      "count" : 4978,
+      "count" : 5933,
       "id" : "ROFR",
       "value" : "Omrop Fryslân"
     }, {
-      "count" : 4832,
+      "count" : 4527,
       "id" : "L1",
       "value" : "L1"
     }, {
-      "count" : 4783,
+      "count" : 4490,
       "id" : "RTOO",
       "value" : "RTV Oost"
     }, {
-      "count" : 4219,
+      "count" : 4313,
       "id" : "RKK",
       "value" : "RKK"
     }, {
-      "count" : 3896,
+      "count" : 3944,
       "id" : "OBBT",
       "value" : "Omroep Brabant"
     } ]
   },
   "selectedFacets" : { },
-  "total" : 623411,
+  "total" : 637912,
   "offset" : 0,
   "max" : 2,
   "items" : [ {
@@ -138,10 +138,10 @@
         "avAttributes" : {
           "avFileFormat" : "MP3"
         },
+        "owner" : "BROADCASTER",
         "creationDate" : 1352295543460,
         "lastModified" : 1352295543578,
         "workflow" : "PUBLISHED",
-        "owner" : "BROADCASTER",
         "urn" : "urn:vpro:media:location:16055798"
       } ],
       "workflow" : "PUBLISHED",
@@ -222,10 +222,10 @@
           "bitrate" : 1000000,
           "avFileFormat" : "WM"
         },
+        "owner" : "BROADCASTER",
         "creationDate" : 1391676858971,
         "lastModified" : 1391676859133,
         "workflow" : "PUBLISHED",
-        "owner" : "BROADCASTER",
         "urn" : "urn:vpro:media:location:36686887"
       } ],
       "images" : [ {
@@ -234,12 +234,12 @@
         "imageUri" : "urn:vpro:image:367113",
         "height" : 1525,
         "width" : 2287,
-        "creationDate" : 1390558544610,
-        "lastModified" : 1390558544679,
-        "workflow" : "PUBLISHED",
         "owner" : "BROADCASTER",
         "type" : "PICTURE",
         "highlighted" : false,
+        "creationDate" : 1390558544610,
+        "lastModified" : 1390558544679,
+        "workflow" : "PUBLISHED",
         "urn" : "urn:vpro:media:image:35995269"
       }, {
         "title" : "Dokter Corrie 2",
@@ -247,12 +247,12 @@
         "imageUri" : "urn:vpro:image:396081",
         "height" : 140,
         "width" : 240,
-        "creationDate" : 1391443689030,
-        "lastModified" : 1391443691069,
-        "workflow" : "PUBLISHED",
         "owner" : "BROADCASTER",
         "type" : "PICTURE",
         "highlighted" : false,
+        "creationDate" : 1391443689030,
+        "lastModified" : 1391443691069,
+        "workflow" : "PUBLISHED",
         "urn" : "urn:vpro:media:image:36505735"
       }, {
         "title" : "Dokter Corrie",
@@ -260,12 +260,12 @@
         "imageUri" : "urn:vpro:image:398472",
         "height" : 140,
         "width" : 240,
-        "creationDate" : 1391507789813,
-        "lastModified" : 1391507789923,
-        "workflow" : "PUBLISHED",
         "owner" : "BROADCASTER",
         "type" : "PICTURE",
         "highlighted" : false,
+        "creationDate" : 1391507789813,
+        "lastModified" : 1391507789923,
+        "workflow" : "PUBLISHED",
         "urn" : "urn:vpro:media:image:36566104"
       }, {
         "title" : "dokter corrie",
@@ -273,12 +273,12 @@
         "imageUri" : "urn:vpro:image:358612",
         "height" : 3150,
         "width" : 4724,
-        "creationDate" : 1390298345952,
-        "lastModified" : 1390298346010,
-        "workflow" : "PUBLISHED",
         "owner" : "BROADCASTER",
         "type" : "PICTURE",
         "highlighted" : false,
+        "creationDate" : 1390298345952,
+        "lastModified" : 1390298346010,
+        "workflow" : "PUBLISHED",
         "urn" : "urn:vpro:media:image:35806459"
       } ],
       "workflow" : "PUBLISHED",

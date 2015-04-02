@@ -1,59 +1,7 @@
 {
-  "facets" : {
-    "descendantOf" : [ {
-      "count" : 15,
-      "id" : "044411213",
-      "value" : "Keuringsdienst van Waarde",
-      "type" : "SEASON"
-    }, {
-      "count" : 75,
-      "id" : "10Jeugd0845",
-      "value" : "NOS Jeugdjournaal (ochtenduitzending)",
-      "type" : "SEASON"
-    }, {
-      "count" : 75,
-      "id" : "10Jeugd0845gebaren",
-      "value" : "NOS Jeugdjournaal met gebarentolk (ochtenduitzending)",
-      "type" : "SEASON"
-    }, {
-      "count" : 129,
-      "id" : "10Jeugd1130",
-      "value" : "NOS Jeugdjournaal met gebarentolk",
-      "type" : "SEASON"
-    }, {
-      "count" : 88,
-      "id" : "10Jeugd1710",
-      "value" : "NOS Jeugdjournaal - middag",
-      "type" : "SEASON"
-    }, {
-      "count" : 307,
-      "id" : "10Jeugd1845",
-      "value" : "NOS Jeugdjournaal - avond",
-      "type" : "SEASON"
-    }, {
-      "count" : 43,
-      "id" : "10JeugdWeek",
-      "value" : "Jeugdjournaal Weekoverzicht",
-      "type" : "SEASON"
-    }, {
-      "count" : 219,
-      "id" : "10Jnl07n1",
-      "value" : "NOS Journaal",
-      "type" : "SEASON"
-    }, {
-      "count" : 217,
-      "id" : "10Jnl07n2geb",
-      "value" : "NOS Journaal met gebarentolk",
-      "type" : "SEASON"
-    }, {
-      "count" : 218,
-      "id" : "10Jnl08n1",
-      "value" : "NOS Journaal",
-      "type" : "SEASON"
-    } ]
-  },
+  "facets" : { },
   "selectedFacets" : { },
-  "total" : 623411,
+  "total" : 637912,
   "offset" : 0,
   "max" : 2,
   "items" : [ {
@@ -92,10 +40,10 @@
         "avAttributes" : {
           "avFileFormat" : "MP3"
         },
+        "owner" : "BROADCASTER",
         "creationDate" : 1352295543460,
         "lastModified" : 1352295543578,
         "workflow" : "PUBLISHED",
-        "owner" : "BROADCASTER",
         "urn" : "urn:vpro:media:location:16055798"
       } ],
       "workflow" : "PUBLISHED",
@@ -176,10 +124,10 @@
           "bitrate" : 1000000,
           "avFileFormat" : "WM"
         },
+        "owner" : "BROADCASTER",
         "creationDate" : 1391676858971,
         "lastModified" : 1391676859133,
         "workflow" : "PUBLISHED",
-        "owner" : "BROADCASTER",
         "urn" : "urn:vpro:media:location:36686887"
       } ],
       "images" : [ {
@@ -188,12 +136,12 @@
         "imageUri" : "urn:vpro:image:367113",
         "height" : 1525,
         "width" : 2287,
-        "creationDate" : 1390558544610,
-        "lastModified" : 1390558544679,
-        "workflow" : "PUBLISHED",
         "owner" : "BROADCASTER",
         "type" : "PICTURE",
         "highlighted" : false,
+        "creationDate" : 1390558544610,
+        "lastModified" : 1390558544679,
+        "workflow" : "PUBLISHED",
         "urn" : "urn:vpro:media:image:35995269"
       }, {
         "title" : "Dokter Corrie 2",
@@ -201,12 +149,12 @@
         "imageUri" : "urn:vpro:image:396081",
         "height" : 140,
         "width" : 240,
-        "creationDate" : 1391443689030,
-        "lastModified" : 1391443691069,
-        "workflow" : "PUBLISHED",
         "owner" : "BROADCASTER",
         "type" : "PICTURE",
         "highlighted" : false,
+        "creationDate" : 1391443689030,
+        "lastModified" : 1391443691069,
+        "workflow" : "PUBLISHED",
         "urn" : "urn:vpro:media:image:36505735"
       }, {
         "title" : "Dokter Corrie",
@@ -214,12 +162,12 @@
         "imageUri" : "urn:vpro:image:398472",
         "height" : 140,
         "width" : 240,
-        "creationDate" : 1391507789813,
-        "lastModified" : 1391507789923,
-        "workflow" : "PUBLISHED",
         "owner" : "BROADCASTER",
         "type" : "PICTURE",
         "highlighted" : false,
+        "creationDate" : 1391507789813,
+        "lastModified" : 1391507789923,
+        "workflow" : "PUBLISHED",
         "urn" : "urn:vpro:media:image:36566104"
       }, {
         "title" : "dokter corrie",
@@ -227,12 +175,12 @@
         "imageUri" : "urn:vpro:image:358612",
         "height" : 3150,
         "width" : 4724,
-        "creationDate" : 1390298345952,
-        "lastModified" : 1390298346010,
-        "workflow" : "PUBLISHED",
         "owner" : "BROADCASTER",
         "type" : "PICTURE",
         "highlighted" : false,
+        "creationDate" : 1390298345952,
+        "lastModified" : 1390298346010,
+        "workflow" : "PUBLISHED",
         "urn" : "urn:vpro:media:image:35806459"
       } ],
       "workflow" : "PUBLISHED",

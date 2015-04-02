@@ -50,10 +50,80 @@
       "id" : "AUTO_BEELDBANK_TEST",
       "value" : "SchoolTV-beeldbank",
       "type" : "PLAYLIST"
+    }, {
+      "count" : 6,
+      "id" : "AUTO_BETERSLAPEN_WEBONLY",
+      "value" : "Beter Slapen? Doe-het-zelf! webonly streams",
+      "type" : "PLAYLIST"
+    }, {
+      "count" : 2,
+      "id" : "AUTO_BRIEFVANMIJNKIND",
+      "value" : "Brief van mijn kind",
+      "type" : "PLAYLIST"
+    }, {
+      "count" : 4,
+      "id" : "AUTO_Bio-bits_OUD",
+      "value" : "Bio-Bits vmbo: Afval en milieu",
+      "type" : "PLAYLIST"
+    }, {
+      "count" : 4,
+      "id" : "AUTO_Bio-bits_OUD_10_12",
+      "value" : "Bio-Bits vmbo: Erfelijkheid",
+      "type" : "PLAYLIST"
+    }, {
+      "count" : 25,
+      "id" : "AUTO_CAPIBARA",
+      "value" : "Capibara",
+      "type" : "PLAYLIST"
+    }, {
+      "count" : 12,
+      "id" : "AUTO_CENTRALEHUISARTSENPOST",
+      "value" : "Huisartsenpost",
+      "type" : "PLAYLIST"
+    }, {
+      "count" : 1,
+      "id" : "AUTO_CULTURANL",
+      "value" : "Cultura24",
+      "type" : "PLAYLIST"
+    }, {
+      "count" : 3,
+      "id" : "AUTO_DAGJEMET",
+      "value" : "Een dagje met",
+      "type" : "PLAYLIST"
+    }, {
+      "count" : 7,
+      "id" : "AUTO_DATISTOCHNIETNORMAAL",
+      "value" : "Dat is toch niet normaal!?",
+      "type" : "PLAYLIST"
+    }, {
+      "count" : 1,
+      "id" : "AUTO_DEKROEGBAZEN",
+      "value" : "De Kroegbazen",
+      "type" : "PLAYLIST"
+    }, {
+      "count" : 42,
+      "id" : "AUTO_DEVLOEROPWEBONLY",
+      "value" : "De Vloer Op",
+      "type" : "PLAYLIST"
+    }, {
+      "count" : 2,
+      "id" : "AUTO_DEZOMERVAN",
+      "value" : "De zomer van 6",
+      "type" : "PLAYLIST"
+    }, {
+      "count" : 1,
+      "id" : "AUTO_DNAONBEKEND",
+      "value" : "DNA Onbekend",
+      "type" : "PLAYLIST"
+    }, {
+      "count" : 1,
+      "id" : "AUTO_DOKUMENTOPGAVEVOLGT",
+      "value" : "NCRV Dokument",
+      "type" : "PLAYLIST"
     } ]
   },
   "selectedFacets" : { },
-  "total" : 623411,
+  "total" : 637912,
   "offset" : 0,
   "max" : 2,
   "items" : [ {
@@ -92,10 +162,10 @@
         "avAttributes" : {
           "avFileFormat" : "MP3"
         },
+        "owner" : "BROADCASTER",
         "creationDate" : 1352295543460,
         "lastModified" : 1352295543578,
         "workflow" : "PUBLISHED",
-        "owner" : "BROADCASTER",
         "urn" : "urn:vpro:media:location:16055798"
       } ],
       "workflow" : "PUBLISHED",
@@ -176,10 +246,10 @@
           "bitrate" : 1000000,
           "avFileFormat" : "WM"
         },
+        "owner" : "BROADCASTER",
         "creationDate" : 1391676858971,
         "lastModified" : 1391676859133,
         "workflow" : "PUBLISHED",
-        "owner" : "BROADCASTER",
         "urn" : "urn:vpro:media:location:36686887"
       } ],
       "images" : [ {
@@ -188,12 +258,12 @@
         "imageUri" : "urn:vpro:image:367113",
         "height" : 1525,
         "width" : 2287,
-        "creationDate" : 1390558544610,
-        "lastModified" : 1390558544679,
-        "workflow" : "PUBLISHED",
         "owner" : "BROADCASTER",
         "type" : "PICTURE",
         "highlighted" : false,
+        "creationDate" : 1390558544610,
+        "lastModified" : 1390558544679,
+        "workflow" : "PUBLISHED",
         "urn" : "urn:vpro:media:image:35995269"
       }, {
         "title" : "Dokter Corrie 2",
@@ -201,12 +271,12 @@
         "imageUri" : "urn:vpro:image:396081",
         "height" : 140,
         "width" : 240,
-        "creationDate" : 1391443689030,
-        "lastModified" : 1391443691069,
-        "workflow" : "PUBLISHED",
         "owner" : "BROADCASTER",
         "type" : "PICTURE",
         "highlighted" : false,
+        "creationDate" : 1391443689030,
+        "lastModified" : 1391443691069,
+        "workflow" : "PUBLISHED",
         "urn" : "urn:vpro:media:image:36505735"
       }, {
         "title" : "Dokter Corrie",
@@ -214,12 +284,12 @@
         "imageUri" : "urn:vpro:image:398472",
         "height" : 140,
         "width" : 240,
-        "creationDate" : 1391507789813,
-        "lastModified" : 1391507789923,
-        "workflow" : "PUBLISHED",
         "owner" : "BROADCASTER",
         "type" : "PICTURE",
         "highlighted" : false,
+        "creationDate" : 1391507789813,
+        "lastModified" : 1391507789923,
+        "workflow" : "PUBLISHED",
         "urn" : "urn:vpro:media:image:36566104"
       }, {
         "title" : "dokter corrie",
@@ -227,12 +297,12 @@
         "imageUri" : "urn:vpro:image:358612",
         "height" : 3150,
         "width" : 4724,
-        "creationDate" : 1390298345952,
-        "lastModified" : 1390298346010,
-        "workflow" : "PUBLISHED",
         "owner" : "BROADCASTER",
         "type" : "PICTURE",
         "highlighted" : false,
+        "creationDate" : 1390298345952,
+        "lastModified" : 1390298346010,
+        "workflow" : "PUBLISHED",
         "urn" : "urn:vpro:media:image:35806459"
       } ],
       "workflow" : "PUBLISHED",

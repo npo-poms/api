@@ -1,0 +1,449 @@
+{
+  "facets" : {
+    "genres" : [ {
+      "count" : 42118,
+      "id" : "3.0.1.7",
+      "value" : "Informatief",
+      "terms" : [ "Informatief" ]
+    }, {
+      "count" : 35749,
+      "id" : "3.0.1.1",
+      "value" : "Jeugd",
+      "terms" : [ "Jeugd" ]
+    }, {
+      "count" : 25637,
+      "id" : "3.0.1.6",
+      "value" : "Amusement",
+      "terms" : [ "Amusement" ]
+    }, {
+      "count" : 10830,
+      "id" : "3.0.1.7.24",
+      "value" : "Informatief - Kunst/cultuur",
+      "terms" : [ "Informatief", "Kunst/cultuur" ]
+    }, {
+      "count" : 10473,
+      "id" : "3.0.1.7.26",
+      "value" : "Informatief - Religieus",
+      "terms" : [ "Informatief", "Religieus" ]
+    }, {
+      "count" : 9906,
+      "id" : "3.0.1.5",
+      "value" : "Muziek",
+      "terms" : [ "Muziek" ]
+    }, {
+      "count" : 9154,
+      "id" : "3.0.1.8",
+      "value" : "Documentaire",
+      "terms" : [ "Documentaire" ]
+    }, {
+      "count" : 7575,
+      "id" : "3.0.1.4",
+      "value" : "Sport",
+      "terms" : [ "Sport" ]
+    }, {
+      "count" : 6877,
+      "id" : "3.0.1.3",
+      "value" : "Serie",
+      "terms" : [ "Serie" ]
+    }, {
+      "count" : 5511,
+      "id" : "3.0.1.1.11",
+      "value" : "Jeugd - Animatie",
+      "terms" : [ "Jeugd", "Animatie" ]
+    }, {
+      "count" : 3303,
+      "id" : "3.0.1.6.9",
+      "value" : "Amusement - Komisch",
+      "terms" : [ "Amusement", "Komisch" ]
+    }, {
+      "count" : 2957,
+      "id" : "3.0.1.2",
+      "value" : "Film",
+      "terms" : [ "Film" ]
+    }, {
+      "count" : 2177,
+      "id" : "3.0.1.3.10",
+      "value" : "Serie - Spanning",
+      "terms" : [ "Serie", "Spanning" ]
+    }, {
+      "count" : 2143,
+      "id" : "3.0.1.1.3",
+      "value" : "Jeugd - Serie",
+      "terms" : [ "Jeugd", "Serie" ]
+    }, {
+      "count" : 1610,
+      "id" : "3.0.1.1.7",
+      "value" : "Jeugd - Informatief",
+      "terms" : [ "Jeugd", "Informatief" ]
+    }, {
+      "count" : 1523,
+      "id" : "3.0.1.7.25",
+      "value" : "Informatief - Natuur",
+      "terms" : [ "Informatief", "Natuur" ]
+    }, {
+      "count" : 1258,
+      "id" : "3.0.1.7.27",
+      "value" : "Informatief - Wetenschap",
+      "terms" : [ "Informatief", "Wetenschap" ]
+    }, {
+      "count" : 1171,
+      "id" : "3.0.1.5.16",
+      "value" : "Muziek - Muziek klassiek",
+      "terms" : [ "Muziek", "Muziek klassiek" ]
+    }, {
+      "count" : 1119,
+      "id" : "3.0.1.7.22",
+      "value" : "Informatief - Gezondheid/opvoeding",
+      "terms" : [ "Informatief", "Gezondheid/opvoeding" ]
+    }, {
+      "count" : 1110,
+      "id" : "3.0.1.3.12",
+      "value" : "Serie - Drama",
+      "terms" : [ "Serie", "Drama" ]
+    }, {
+      "count" : 921,
+      "id" : "3.0.1.4.14",
+      "value" : "Sport - Sport - informatie",
+      "terms" : [ "Sport", "Sport - informatie" ]
+    }, {
+      "count" : 607,
+      "id" : "3.0.1.6.19",
+      "value" : "Amusement - Spel/quiz",
+      "terms" : [ "Amusement", "Spel/quiz" ]
+    }, {
+      "count" : 528,
+      "id" : "3.0.1.5.17",
+      "value" : "Muziek - Muziek populair",
+      "terms" : [ "Muziek", "Muziek populair" ]
+    }, {
+      "count" : 414,
+      "id" : "3.0.1.1.19",
+      "value" : "Jeugd - Spel/quiz",
+      "terms" : [ "Jeugd", "Spel/quiz" ]
+    }, {
+      "count" : 412,
+      "id" : "3.0.1.1.25",
+      "value" : "Jeugd - Natuur",
+      "terms" : [ "Jeugd", "Natuur" ]
+    }, {
+      "count" : 358,
+      "id" : "3.0.1.1.6",
+      "value" : "Jeugd - Amusement",
+      "terms" : [ "Jeugd", "Amusement" ]
+    }, {
+      "count" : 289,
+      "id" : "3.0.1.3.9",
+      "value" : "Serie - Komisch",
+      "terms" : [ "Serie", "Komisch" ]
+    }, {
+      "count" : 280,
+      "id" : "3.0.1.2.11",
+      "value" : "Film - Animatie",
+      "terms" : [ "Film", "Animatie" ]
+    }, {
+      "count" : 268,
+      "id" : "3.0.1.8.24",
+      "value" : "Documentaire - Kunst/cultuur",
+      "terms" : [ "Documentaire", "Kunst/cultuur" ]
+    }, {
+      "count" : 258,
+      "id" : "3.0.1.1.2",
+      "value" : "Jeugd - Film",
+      "terms" : [ "Jeugd", "Film" ]
+    }, {
+      "count" : 256,
+      "id" : "3.0.1.7.19",
+      "value" : "Informatief - Spel/quiz",
+      "terms" : [ "Informatief", "Spel/quiz" ]
+    }, {
+      "count" : 229,
+      "id" : "3.0.1.7.28",
+      "value" : "Informatief - Consumenten informatie",
+      "terms" : [ "Informatief", "Consumenten informatie" ]
+    }, {
+      "count" : 207,
+      "id" : "3.0.1.1.4",
+      "value" : "Jeugd - Sport",
+      "terms" : [ "Jeugd", "Sport" ]
+    }, {
+      "count" : 198,
+      "id" : "3.0.1.7.29",
+      "value" : "Informatief - Reizen",
+      "terms" : [ "Informatief", "Reizen" ]
+    }, {
+      "count" : 190,
+      "id" : "3.0.1.1.5",
+      "value" : "Jeugd - Muziek",
+      "terms" : [ "Jeugd", "Muziek" ]
+    }, {
+      "count" : 174,
+      "id" : "3.0.1.4.15",
+      "value" : "Sport - Sport wedstrijd",
+      "terms" : [ "Sport", "Sport wedstrijd" ]
+    }, {
+      "count" : 154,
+      "id" : "3.0.1.6.20",
+      "value" : "Amusement - Cabaret",
+      "terms" : [ "Amusement", "Cabaret" ]
+    }, {
+      "count" : 122,
+      "id" : "3.0.1.7.31",
+      "value" : "Informatief - Wonen/Tuin",
+      "terms" : [ "Informatief", "Wonen/Tuin" ]
+    }, {
+      "count" : 121,
+      "id" : "3.0.1.3.13",
+      "value" : "Serie - Soap serie",
+      "terms" : [ "Serie", "Soap serie" ]
+    }, {
+      "count" : 113,
+      "id" : "3.0.1.2.12",
+      "value" : "Film - Drama",
+      "terms" : [ "Film", "Drama" ]
+    }, {
+      "count" : 92,
+      "id" : "3.0.1.8.30",
+      "value" : "Documentaire - Geschiedenis",
+      "terms" : [ "Documentaire", "Geschiedenis" ]
+    }, {
+      "count" : 90,
+      "id" : "3.0.1.7.23",
+      "value" : "Informatief - Koken/eten",
+      "terms" : [ "Informatief", "Koken/eten" ]
+    }, {
+      "count" : 81,
+      "id" : "3.0.1.7.30",
+      "value" : "Informatief - Geschiedenis",
+      "terms" : [ "Informatief", "Geschiedenis" ]
+    }, {
+      "count" : 76,
+      "id" : "3.0.1.8.25",
+      "value" : "Documentaire - Natuur",
+      "terms" : [ "Documentaire", "Natuur" ]
+    }, {
+      "count" : 43,
+      "id" : "3.0.1.8.27",
+      "value" : "Documentaire - Wetenschap",
+      "terms" : [ "Documentaire", "Wetenschap" ]
+    }, {
+      "count" : 39,
+      "id" : "3.0.1.8.26",
+      "value" : "Documentaire - Religieus",
+      "terms" : [ "Documentaire", "Religieus" ]
+    }, {
+      "count" : 38,
+      "id" : "3.0.1.8.29",
+      "value" : "Documentaire - Reizen",
+      "terms" : [ "Documentaire", "Reizen" ]
+    }, {
+      "count" : 37,
+      "id" : "3.0.1.1.8",
+      "value" : "Jeugd - Documentaire",
+      "terms" : [ "Jeugd", "Documentaire" ]
+    }, {
+      "count" : 23,
+      "id" : "3.0.1.2.10",
+      "value" : "Film - Spanning",
+      "terms" : [ "Film", "Spanning" ]
+    }, {
+      "count" : 22,
+      "id" : "3.0.1.2.9",
+      "value" : "Film - Komisch",
+      "terms" : [ "Film", "Komisch" ]
+    }, {
+      "count" : 8,
+      "id" : "3.0.1.8.22",
+      "value" : "Documentaire - Gezondheid/opvoeding",
+      "terms" : [ "Documentaire", "Gezondheid/opvoeding" ]
+    } ]
+  },
+  "selectedFacets" : { },
+  "total" : 637912,
+  "offset" : 0,
+  "max" : 2,
+  "items" : [ {
+    "score" : 5.0,
+    "highlights" : [ ],
+    "result" : {
+      "objectType" : "group",
+      "mid" : "POMS_S_VPRO_157807",
+      "creationDate" : 1352295543264,
+      "lastModified" : 1352295543579,
+      "urn" : "urn:vpro:media:group:16055794",
+      "embeddable" : true,
+      "broadcasters" : [ {
+        "id" : "VPRO",
+        "value" : "VPRO"
+      } ],
+      "titles" : [ {
+        "value" : "WOORD 27 oktober 2012: UUR 1",
+        "owner" : "BROADCASTER",
+        "type" : "MAIN"
+      } ],
+      "descriptions" : [ {
+        "value" : "Het Radiohistorisch Amsterdam",
+        "owner" : "BROADCASTER",
+        "type" : "MAIN"
+      } ],
+      "genres" : [ ],
+      "countries" : [ ],
+      "languages" : [ ],
+      "predictions" : [ {
+        "state" : "REALIZED",
+        "platform" : "INTERNETVOD"
+      } ],
+      "locations" : [ {
+        "programUrl" : "http://audio.omroep.nl/radio1/vpro/woord/20121027-02.mp3",
+        "avAttributes" : {
+          "avFileFormat" : "MP3"
+        },
+        "owner" : "BROADCASTER",
+        "creationDate" : 1352295543460,
+        "lastModified" : 1352295543578,
+        "workflow" : "PUBLISHED",
+        "urn" : "urn:vpro:media:location:16055798"
+      } ],
+      "workflow" : "PUBLISHED",
+      "type" : "SERIES",
+      "isOrdered" : true,
+      "avType" : "AUDIO"
+    }
+  }, {
+    "score" : 5.0,
+    "highlights" : [ ],
+    "result" : {
+      "objectType" : "group",
+      "mid" : "POMS_S_NTR_470249",
+      "creationDate" : 1390232343068,
+      "lastModified" : 1393580536315,
+      "urn" : "urn:vpro:media:group:35773765",
+      "embeddable" : true,
+      "broadcasters" : [ {
+        "id" : "NTR",
+        "value" : "NTR"
+      } ],
+      "titles" : [ {
+        "value" : "Dokter Corrie",
+        "owner" : "BROADCASTER",
+        "type" : "MAIN"
+      }, {
+        "value" : "Dokter Corrie ",
+        "owner" : "BROADCASTER",
+        "type" : "LEXICO"
+      } ],
+      "descriptions" : [ {
+        "value" : "Dokter Corrie, hilarisch vertolkt door Martine Sandifort, praat met allerlei bekende Nederlanders over hoe zij de puberteit hebben ervaren. Elke vrijdag in het Schooltv-weekjournaal om 11:00 uur bij Zapp.",
+        "owner" : "BROADCASTER",
+        "type" : "MAIN"
+      }, {
+        "value" : "Dokter Corrie, hilarisch vertolkt door Martine Sandifort, praat met allerlei bekende Nederlanders over hoe zij de puberteit hebben ervaren. Elke vrijdag in het Schooltv-weekjournaal om 11:00 uur bij Zapp.",
+        "owner" : "BROADCASTER",
+        "type" : "SHORT"
+      } ],
+      "genres" : [ {
+        "id" : "3.0.1.1",
+        "terms" : [ "Jeugd" ]
+      } ],
+      "tags" : [ "dokter", "lichaam", "pubertijd", "SchoolTV" ],
+      "countries" : [ ],
+      "languages" : [ ],
+      "descendantOf" : [ {
+        "midRef" : "WO_NTR_479456",
+        "urnRef" : "urn:vpro:media:program:36696799",
+        "type" : "CLIP"
+      }, {
+        "midRef" : "WO_NTR_479458",
+        "urnRef" : "urn:vpro:media:program:36696873",
+        "type" : "CLIP"
+      } ],
+      "memberOf" : [ {
+        "midRef" : "WO_NTR_479456",
+        "urnRef" : "urn:vpro:media:program:36696799",
+        "type" : "CLIP",
+        "index" : 1,
+        "highlighted" : false,
+        "added" : 1392045882985
+      }, {
+        "midRef" : "WO_NTR_479458",
+        "urnRef" : "urn:vpro:media:program:36696873",
+        "type" : "CLIP",
+        "index" : 1,
+        "highlighted" : false,
+        "added" : 1392721302269
+      } ],
+      "ageRating" : "12",
+      "websites" : [ {
+        "value" : "http://www.schooltv.nl/weekjournaal/"
+      } ],
+      "locations" : [ {
+        "programUrl" : "http://cgi.omroep.nl/cgi-bin/streams?/ntr/schooltv/weekjournaal/video/WJCorrieGeraldine.wmv",
+        "avAttributes" : {
+          "bitrate" : 1000000,
+          "avFileFormat" : "WM"
+        },
+        "owner" : "BROADCASTER",
+        "creationDate" : 1391676858971,
+        "lastModified" : 1391676859133,
+        "workflow" : "PUBLISHED",
+        "urn" : "urn:vpro:media:location:36686887"
+      } ],
+      "images" : [ {
+        "title" : "dokter corrie schooltv",
+        "description" : "copyright_Lilian_van_Rooij",
+        "imageUri" : "urn:vpro:image:367113",
+        "height" : 1525,
+        "width" : 2287,
+        "owner" : "BROADCASTER",
+        "type" : "PICTURE",
+        "highlighted" : false,
+        "creationDate" : 1390558544610,
+        "lastModified" : 1390558544679,
+        "workflow" : "PUBLISHED",
+        "urn" : "urn:vpro:media:image:35995269"
+      }, {
+        "title" : "Dokter Corrie 2",
+        "description" : "Dokter Corrie 2",
+        "imageUri" : "urn:vpro:image:396081",
+        "height" : 140,
+        "width" : 240,
+        "owner" : "BROADCASTER",
+        "type" : "PICTURE",
+        "highlighted" : false,
+        "creationDate" : 1391443689030,
+        "lastModified" : 1391443691069,
+        "workflow" : "PUBLISHED",
+        "urn" : "urn:vpro:media:image:36505735"
+      }, {
+        "title" : "Dokter Corrie",
+        "description" : "Dokter Corrie",
+        "imageUri" : "urn:vpro:image:398472",
+        "height" : 140,
+        "width" : 240,
+        "owner" : "BROADCASTER",
+        "type" : "PICTURE",
+        "highlighted" : false,
+        "creationDate" : 1391507789813,
+        "lastModified" : 1391507789923,
+        "workflow" : "PUBLISHED",
+        "urn" : "urn:vpro:media:image:36566104"
+      }, {
+        "title" : "dokter corrie",
+        "description" : "dokter corrie schooltv",
+        "imageUri" : "urn:vpro:image:358612",
+        "height" : 3150,
+        "width" : 4724,
+        "owner" : "BROADCASTER",
+        "type" : "PICTURE",
+        "highlighted" : false,
+        "creationDate" : 1390298345952,
+        "lastModified" : 1390298346010,
+        "workflow" : "PUBLISHED",
+        "urn" : "urn:vpro:media:image:35806459"
+      } ],
+      "workflow" : "PUBLISHED",
+      "type" : "SERIES",
+      "isOrdered" : true,
+      "avType" : "VIDEO"
+    }
+  } ]
+}
