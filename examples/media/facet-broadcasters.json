@@ -1,8 +1,8 @@
 {
     "facets" : {
-        "descendantOf" : {
+        "broadcasters" : {
             "sort" : "COUNT_DESC",
-            "threshold": 1218,
+            "threshold": 1009,
             "max" : 100
         }
     }

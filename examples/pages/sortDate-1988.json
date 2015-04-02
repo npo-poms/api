@@ -1,6 +1,9 @@
 {
     "searches" : {
-
+        "sortDates" : [ {
+            "begin" : 567990000000,
+            "end" : 599612400000
+        } ]
     },
 
     "sort": {"sortDate": "ASC" },

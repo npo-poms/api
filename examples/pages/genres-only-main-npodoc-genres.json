@@ -3,7 +3,7 @@
         "genres" : {
             "sort" : "COUNT_DESC",
             "subSearch": {
-                "ids": ["3.0.1.1"]
+                "ids": [{"value": "3\\.0\\.6\\.[0-9]+", "matchType": "REGEX"}]
             }
         }
     }
