@@ -63,6 +63,17 @@ authenticateHeader() {
     echo "NPO $apiKey:$base64"
 }
 
+formatter() {
+    file=$1
+
+    if [[ "$file" == *.xml ]] ; then
+        echo "xmllint -format -"
+    elif [[ "$file" == *.json ]] ; then
+        echo "jsonformat"
+    else
+        echo "cat"
+    fi
+}
 
 post() {
     call=$1       # e.g. api/pages
@@ -107,15 +118,17 @@ post() {
         -X POST --data \@$datafile  \
         \
         "$url$call?${parameters}" \
-        )
+          )
+
     if [ "$status" != "200" ] ; then
         echo "ERROR: $status, $baseUrl$call?${parameters} @$3"  1>&2
         echo "See $output" 1>&2
-        kill -s TERM $TOP_PID
     fi
     $CAT $output
     if [ "$status" == "200" ] ; then
         rm $output
+    else
+        kill -s TERM $TOP_PID
     fi
 
 }
@@ -160,8 +173,11 @@ get() {
         -X GET  \
         \
         "$url$call?${parameters}" \
-        )
-    if [ "$status" != "200" ] ; then
+          )
+    if [ "$status" == "500" ] ; then
+        echo "ERROR: $status, $baseUrl$call?${parameters} @$3"  1>&2
+        cat $output 1>&2
+    elif [ "$status" != "200" ] ; then
         echo "ERROR: $status, $baseUrl$call?${parameters} @$3"  1>&2
         echo "See $output" 1>&2
     fi
