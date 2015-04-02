@@ -5,7 +5,6 @@
   "offset" : 0,
   "max" : 2,
   "items" : [ {
-    "score" : 0.6095656,
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",
@@ -109,7 +108,6 @@
       "refCount" : 0
     }
   }, {
-    "score" : 3.2521956E-4,
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",

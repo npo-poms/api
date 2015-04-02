@@ -23,162 +23,6 @@
   "offset" : 0,
   "max" : 2,
   "items" : [ {
-    "score" : 1.3075359,
-    "highlights" : [ ],
-    "result" : {
-      "objectType" : "page",
-      "type" : "AUDIO",
-      "url" : "http://woord-sample.localhost/luister.POMS_VPRO_118225.html",
-      "sortDate" : 484783200000,
-      "crids" : [ "crid://vpro/media/woord/POMS_VPRO_118225" ],
-      "broadcasters" : [ {
-        "id" : "VPRO",
-        "value" : "VPRO"
-      } ],
-      "portal" : {
-        "id" : "WOORD",
-        "url" : "http://woord-sample.localhost",
-        "value" : "Woord.nl"
-      },
-      "title" : "Het Spoor",
-      "genres" : [ {
-        "id" : "3.0.4.1",
-        "terms" : [ "Documentaire" ],
-        "displayName" : "Documentaire"
-      } ],
-      "embeds" : [ {
-        "title" : "Het Spoor",
-        "description" : "De Talkshows\t1 \n13-05-1985\nEerste aflevering van een driedelige serie over de huidige dertien praatprogramma's op de Nederlandse publieke televisie. \nTineke en Jan, Koos en Sonja, Ad en Adriaan, Hans en Henk, Karel, Wim, Ivo.\nIedere dag één of twee praatprogramma’s op televisie. Sommige zijn het gesprek van de dag en iedereen heeft er een mening over. Emanciperend en taboedoorbrekend of pretentieloos babbelamusement? En hoe lang duurt het nog totdat de ene helft van Nederland de andere zit te interviewen? \nSpoorverslaggevers kijken achter de schermen van de talkshows.\nMet aandacht voor \nInterviews met presentatrice Sonja Barend, programmamaakster Ellen Blazer, presentator Karel van de Graaf, presentator Han van der Meer, Carine Bellon (Vlaamse gast bij Sonja over ‘ratten’), mediadeskundige Jan Bierhoff,  en fragmenten uit praatprogramma's 'Sonja' (VARA) en 'Karel van de Graaf' (AVRO). \nBevat een overzicht van de resultaten van een Kijk- en Luisteronderzoek naar talkshows. \n\nSamenstelling: Kiki Amsberg, Cees Grimbergen, Ger Jochems, Jacqueline Maris, Lida Iburg en Kees Slager.\n\nDocumentatie in VPRO archief\n",
-        "media" : {
-          "objectType" : "program",
-          "mid" : "POMS_VPRO_118225",
-          "creationDate" : 1360595874296,
-          "lastModified" : 1363270433572,
-          "publishStart" : 484783200000,
-          "sortDate" : 484783200000,
-          "urn" : "urn:vpro:media:program:20396592",
-          "embeddable" : true,
-          "episodeOf" : [ {
-            "midRef" : "POMS_S_VPRO_130712",
-            "urnRef" : "urn:vpro:media:group:21741208",
-            "type" : "SEASON",
-            "index" : 18,
-            "highlighted" : false,
-            "added" : 1361199275348
-          } ],
-          "broadcasters" : [ {
-            "id" : "VPRO",
-            "value" : "VPRO"
-          } ],
-          "titles" : [ {
-            "value" : "Het Spoor",
-            "owner" : "BROADCASTER",
-            "type" : "MAIN"
-          }, {
-            "value" : "De Talkshows 1 ",
-            "owner" : "BROADCASTER",
-            "type" : "SUB"
-          } ],
-          "descriptions" : [ {
-            "value" : "De Talkshows\t1 \n13-05-1985\nEerste aflevering van een driedelige serie over de huidige dertien praatprogramma's op de Nederlandse publieke televisie. \nTineke en Jan, Koos en Sonja, Ad en Adriaan, Hans en Henk, Karel, Wim, Ivo.\nIedere dag één of twee praatprogramma’s op televisie. Sommige zijn het gesprek van de dag en iedereen heeft er een mening over. Emanciperend en taboedoorbrekend of pretentieloos babbelamusement? En hoe lang duurt het nog totdat de ene helft van Nederland de andere zit te interviewen? \nSpoorverslaggevers kijken achter de schermen van de talkshows.\nMet aandacht voor \nInterviews met presentatrice Sonja Barend, programmamaakster Ellen Blazer, presentator Karel van de Graaf, presentator Han van der Meer, Carine Bellon (Vlaamse gast bij Sonja over ‘ratten’), mediadeskundige Jan Bierhoff,  en fragmenten uit praatprogramma's 'Sonja' (VARA) en 'Karel van de Graaf' (AVRO). \nBevat een overzicht van de resultaten van een Kijk- en Luisteronderzoek naar talkshows. \n\nSamenstelling: Kiki Amsberg, Cees Grimbergen, Ger Jochems, Jacqueline Maris, Lida Iburg en Kees Slager.\n\nDocumentatie in VPRO archief\n",
-            "owner" : "BROADCASTER",
-            "type" : "MAIN"
-          } ],
-          "genres" : [ ],
-          "tags" : [ "Talkshows" ],
-          "countries" : [ ],
-          "languages" : [ ],
-          "releaseYear" : 1985,
-          "duration" : 7200000,
-          "credits" : [ {
-            "givenName" : "Kiki ",
-            "familyName" : "Amsberg",
-            "role" : "UNDEFINED"
-          }, {
-            "givenName" : "Cees",
-            "familyName" : "Grimbergen",
-            "role" : "UNDEFINED"
-          }, {
-            "givenName" : "Ger",
-            "familyName" : "Jochems",
-            "role" : "UNDEFINED"
-          }, {
-            "givenName" : "Jacqueline",
-            "familyName" : "Maris",
-            "role" : "UNDEFINED"
-          }, {
-            "givenName" : "Lida",
-            "familyName" : "Iburg",
-            "role" : "UNDEFINED"
-          }, {
-            "givenName" : "Kees",
-            "familyName" : "Slager",
-            "role" : "UNDEFINED"
-          } ],
-          "descendantOf" : [ {
-            "midRef" : "POMS_S_VPRO_195283",
-            "urnRef" : "urn:vpro:media:group:11887617",
-            "type" : "ARCHIVE"
-          }, {
-            "midRef" : "POMS_S_VPRO_098728",
-            "urnRef" : "urn:vpro:media:group:18800908",
-            "type" : "SERIES"
-          }, {
-            "midRef" : "POMS_S_VPRO_130712",
-            "urnRef" : "urn:vpro:media:group:21741208",
-            "type" : "SEASON"
-          }, {
-            "midRef" : "POMS_S_VPRO_417553",
-            "urnRef" : "urn:vpro:media:group:30800911",
-            "type" : "COLLECTION"
-          } ],
-          "predictions" : [ {
-            "state" : "REALIZED",
-            "platform" : "INTERNETVOD"
-          } ],
-          "locations" : [ {
-            "programUrl" : "http://download.omroep.nl/vpro/algemeen/woord/het_spoor_terug/1985/Spoor_1985_05_13_Talkshows_1_band.mp3",
-            "avAttributes" : {
-              "avFileFormat" : "MP3"
-            },
-            "owner" : "BROADCASTER",
-            "creationDate" : 1363270431511,
-            "lastModified" : 1363270432382,
-            "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:location:22962891"
-          } ],
-          "images" : [ {
-            "title" : "Gidstekst Talkshows 1",
-            "description" : "Gidstekst Talkshows 1",
-            "imageUri" : "urn:vpro:image:140243",
-            "height" : 1157,
-            "width" : 1112,
-            "owner" : "BROADCASTER",
-            "type" : "PICTURE",
-            "highlighted" : false,
-            "creationDate" : 1361183968431,
-            "lastModified" : 1361183968571,
-            "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:image:21668542"
-          } ],
-          "workflow" : "PUBLISHED",
-          "type" : "BROADCAST",
-          "avType" : "AUDIO"
-        }
-      } ],
-      "images" : [ {
-        "type" : "PICTURE",
-        "url" : "http://images.poms.omroep.nl/image/s360/140243.jpg",
-        "title" : "Gidstekst Talkshows 1",
-        "description" : "Gidstekst Talkshows 1"
-      } ],
-      "publishStart" : 484783200000,
-      "creationDate" : 1421941817572,
-      "lastModified" : 1425950895024,
-      "refCount" : 0
-    }
-  }, {
-    "score" : 1.3075359,
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",
@@ -310,6 +154,144 @@
       "publishStart" : 504590400000,
       "creationDate" : 1421915336907,
       "lastModified" : 1425950494983,
+      "refCount" : 0
+    }
+  }, {
+    "highlights" : [ ],
+    "result" : {
+      "objectType" : "page",
+      "type" : "AUDIO",
+      "url" : "http://woord-sample.localhost/luister.POMS_VPRO_221548.html",
+      "sortDate" : 499924800000,
+      "crids" : [ "crid://vpro/media/woord/POMS_VPRO_221548" ],
+      "broadcasters" : [ {
+        "id" : "VPRO",
+        "value" : "VPRO"
+      } ],
+      "portal" : {
+        "id" : "WOORD",
+        "url" : "http://woord-sample.localhost",
+        "value" : "Woord.nl"
+      },
+      "title" : "Het Spoor ",
+      "genres" : [ {
+        "id" : "3.0.4.1",
+        "terms" : [ "Documentaire" ],
+        "displayName" : "Documentaire"
+      } ],
+      "embeds" : [ {
+        "title" : "Het Spoor ",
+        "description" : "Eerste aflevering van vierdelige serie over DNA en genetische manipulatie. Wat is er mogelijk en wat niet. Wat verwacht men in de toekomst?\nDeze aflevering gaat over wat DNA is. Hoever is men met de genetische manipulatie van planten en dieren? Wat zijn de risico’s van de vergaarde kennis en van de toepassingen?\nInterviews met o.a.:\n- prof. dr. ir. A. Rörsch, moleculair geneticus TNO Delft;\n- directeur Albert Eenink van de Stichting voor Plantenveredeling Wageningen;\n- Dr. Th. Kruip van de Faculteit Diergeneeskunde Utrecht;\n- Dr. Aart Gisolf, arts;\n- Dr. Huub Schellekens, directeur primatencentrum en microbioloog TNO;\n- Dr. L. Reijnders, Stichting Natuur en Milieu.\n\nUitgebreidere documentatie aanwezig in VPRO archief\n\n",
+        "media" : {
+          "objectType" : "program",
+          "mid" : "POMS_VPRO_221548",
+          "creationDate" : 1362760709490,
+          "lastModified" : 1363271129924,
+          "publishStart" : 499924800000,
+          "sortDate" : 499924800000,
+          "urn" : "urn:vpro:media:program:22722901",
+          "embeddable" : true,
+          "episodeOf" : [ {
+            "midRef" : "POMS_S_VPRO_130712",
+            "urnRef" : "urn:vpro:media:group:21741208",
+            "type" : "SEASON",
+            "index" : 46,
+            "highlighted" : false,
+            "added" : 1362760880992
+          } ],
+          "broadcasters" : [ {
+            "id" : "VPRO",
+            "value" : "VPRO"
+          } ],
+          "titles" : [ {
+            "value" : "Het Spoor ",
+            "owner" : "BROADCASTER",
+            "type" : "MAIN"
+          }, {
+            "value" : "Van Stamboekvee naar Stamboekmens  1",
+            "owner" : "BROADCASTER",
+            "type" : "SUB"
+          } ],
+          "descriptions" : [ {
+            "value" : "Eerste aflevering van vierdelige serie over DNA en genetische manipulatie. Wat is er mogelijk en wat niet. Wat verwacht men in de toekomst?\nDeze aflevering gaat over wat DNA is. Hoever is men met de genetische manipulatie van planten en dieren? Wat zijn de risico’s van de vergaarde kennis en van de toepassingen?\nInterviews met o.a.:\n- prof. dr. ir. A. Rörsch, moleculair geneticus TNO Delft;\n- directeur Albert Eenink van de Stichting voor Plantenveredeling Wageningen;\n- Dr. Th. Kruip van de Faculteit Diergeneeskunde Utrecht;\n- Dr. Aart Gisolf, arts;\n- Dr. Huub Schellekens, directeur primatencentrum en microbioloog TNO;\n- Dr. L. Reijnders, Stichting Natuur en Milieu.\n\nUitgebreidere documentatie aanwezig in VPRO archief\n\n",
+            "owner" : "BROADCASTER",
+            "type" : "MAIN"
+          } ],
+          "genres" : [ ],
+          "tags" : [ "genetische manipulatie" ],
+          "countries" : [ ],
+          "languages" : [ ],
+          "releaseYear" : 1985,
+          "duration" : 3600000,
+          "credits" : [ {
+            "givenName" : "Lida ",
+            "familyName" : "Iburg",
+            "role" : "UNDEFINED"
+          }, {
+            "givenName" : "Michal ",
+            "familyName" : "Citroen",
+            "role" : "UNDEFINED"
+          } ],
+          "descendantOf" : [ {
+            "midRef" : "POMS_S_VPRO_195283",
+            "urnRef" : "urn:vpro:media:group:11887617",
+            "type" : "ARCHIVE"
+          }, {
+            "midRef" : "POMS_S_VPRO_098728",
+            "urnRef" : "urn:vpro:media:group:18800908",
+            "type" : "SERIES"
+          }, {
+            "midRef" : "POMS_S_VPRO_130712",
+            "urnRef" : "urn:vpro:media:group:21741208",
+            "type" : "SEASON"
+          }, {
+            "midRef" : "POMS_S_VPRO_417553",
+            "urnRef" : "urn:vpro:media:group:30800911",
+            "type" : "COLLECTION"
+          } ],
+          "predictions" : [ {
+            "state" : "REALIZED",
+            "platform" : "INTERNETVOD"
+          } ],
+          "locations" : [ {
+            "programUrl" : "http://download.omroep.nl/vpro/algemeen/woord/het_spoor_terug/1985/Spoor_1985_11_04_DNA1_Immix.mp3",
+            "avAttributes" : {
+              "avFileFormat" : "MP3"
+            },
+            "owner" : "BROADCASTER",
+            "creationDate" : 1363271126234,
+            "lastModified" : 1363271126493,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:22962991"
+          } ],
+          "images" : [ {
+            "title" : "DNA dubbele helix",
+            "description" : "DNA dubbele helix",
+            "imageUri" : "urn:vpro:image:146070",
+            "height" : 598,
+            "width" : 239,
+            "owner" : "BROADCASTER",
+            "type" : "PICTURE",
+            "highlighted" : false,
+            "creationDate" : 1362760880351,
+            "lastModified" : 1362760882611,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:22722922"
+          } ],
+          "workflow" : "PUBLISHED",
+          "type" : "BROADCAST",
+          "avType" : "AUDIO"
+        }
+      } ],
+      "images" : [ {
+        "type" : "PICTURE",
+        "url" : "http://images.poms.omroep.nl/image/s360/146070.jpg",
+        "title" : "DNA dubbele helix",
+        "description" : "DNA dubbele helix"
+      } ],
+      "publishStart" : 499924800000,
+      "creationDate" : 1421915703459,
+      "lastModified" : 1425950501328,
       "refCount" : 0
     }
   } ]

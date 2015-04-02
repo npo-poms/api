@@ -21,7 +21,6 @@
   "offset" : 0,
   "max" : 2,
   "items" : [ {
-    "score" : 0.5,
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",
@@ -171,7 +170,6 @@
       "refCount" : 0
     }
   }, {
-    "score" : 0.5,
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",

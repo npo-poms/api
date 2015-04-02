@@ -13,7 +13,7 @@ mkdir -p testresults
 for form in `ls ../../examples/pages` ; do
     target=testresults/$form
     echo "$form -> $target"
-    post "api/pages" $parameters ../../examples/pages/$form | $(formatter $target) > $target
+    post "api/pages" $parameters ../../examples/pages/$form | $(formatter $target) | grep -v "score" > $target
 done
 
 #also embed entire media forms
@@ -28,6 +28,6 @@ for mediaForm in `ls ../../examples/media` ; do
         cat ../../examples/media/$mediaForm >> $pageForm
         echo "}" >> $pageForm
         echo "Using $pageForm";
-        post "api/pages" $parameters $pageForm | $(formatter $target)  > $target
+        post "api/pages" $parameters $pageForm | $(formatter $target) | grep -v "score"  > $target
     fi
 done

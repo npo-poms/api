@@ -113,7 +113,6 @@
   "offset" : 0,
   "max" : 2,
   "items" : [ {
-    "score" : 5.9048204,
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",
@@ -256,122 +255,141 @@
       "refCount" : 0
     }
   }, {
-    "score" : 5.884236,
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",
       "type" : "AUDIO",
-      "url" : "http://woord-sample.localhost/luister.POMS_NOS_478799.html",
-      "sortDate" : -60310800000,
-      "crids" : [ "crid://vpro/media/woord/POMS_NOS_478799" ],
+      "url" : "http://woord-sample.localhost/luister.POMS_VPRO_358363.html",
+      "sortDate" : 526946400000,
+      "crids" : [ "crid://vpro/media/woord/POMS_VPRO_358363" ],
       "broadcasters" : [ {
-        "id" : "NOS",
-        "value" : "NOS"
+        "id" : "VPRO",
+        "value" : "VPRO"
       } ],
       "portal" : {
         "id" : "WOORD",
         "url" : "http://woord-sample.localhost",
         "value" : "Woord.nl"
       },
-      "title" : "Een nacht van zes tot nul",
+      "title" : "Het Spoor",
       "genres" : [ {
         "id" : "3.0.4.1",
         "terms" : [ "Documentaire" ],
         "displayName" : "Documentaire"
-      }, {
-        "id" : "3.0.4.4",
-        "terms" : [ "Reportage" ],
-        "displayName" : "Reportage"
       } ],
       "embeds" : [ {
-        "title" : "Een nacht van zes tot nul",
-        "description" : "Eerste klankbeeld in een tiendelige serie over 'mensen die werken terwijl u slaapt'. In deze aflevering een nachtelijke impressie van de werkzaamhden van de Amsterdamse politie. Bezoek aan de centrale meldkamer; gesprekken met mobilofonisten en agenten over de nachtdienst en opnamen van o.a. een interventie door agenten na een schietpartij. Bevat aan het slot opnamen van een uitbraakpoging in de jeugdgevangenis 'Lloydhotel' met geschreeuw door gevangenen, glasgerinkel, politiesirenes en reacties op het incident door de gevangenisdirecteur, een bewaker en een agent.",
+        "title" : "Het Spoor",
+        "description" : "Serie over Zigeuners, over romantiek en religie, over vooroordelen en vernietiging.\nIn de nacht van 15 op 16 mei 1944 werden op de Veenkade in Den Haag tientallen zigeuners opgepakt, met behulp van de Nederlandse politie. Het Spoor op zoek naar de overlevenden van die zwarte nacht. Een reconstructie van dat drama en gesprekken met overlevenden en andere betrokkenen (buurtbewoners e.a.):\n-auteur Ben Huizing van ‘De zwarte politie 40-45’;\n-zigeuner Nello;\n-Zigeunervrouw Páápá;\n-Bloemenkoopman Kaffa;\n-neef Willem Vlak van politieman Arie Vlak, die zigeuners zou hebben verraden;\n-overlevende Magdalena Berger en andere overlevenden.\n\nUitgebreidere documentatie aanwezig in VPRO archief\n",
         "media" : {
           "objectType" : "program",
-          "mid" : "POMS_NOS_478799",
-          "creationDate" : 1391598324937,
-          "lastModified" : 1391601620689,
-          "publishStart" : -60310800000,
-          "sortDate" : -60310800000,
-          "urn" : "urn:vpro:media:program:36635444",
+          "mid" : "POMS_VPRO_358363",
+          "creationDate" : 1368805856877,
+          "lastModified" : 1374136344608,
+          "publishStart" : 526946400000,
+          "sortDate" : 526946400000,
+          "urn" : "urn:vpro:media:program:25765002",
           "embeddable" : true,
           "episodeOf" : [ {
-            "midRef" : "POMS_S_NOS_478950",
-            "urnRef" : "urn:vpro:media:group:36635427",
-            "type" : "SERIES",
-            "index" : 1,
+            "midRef" : "POMS_S_VPRO_099786",
+            "urnRef" : "urn:vpro:media:group:18930278",
+            "type" : "SEASON",
+            "index" : 65,
             "highlighted" : false,
-            "added" : 1391598325764
+            "added" : 1368806889246
           } ],
           "broadcasters" : [ {
-            "id" : "NOS",
-            "value" : "NOS"
+            "id" : "VPRO",
+            "value" : "VPRO"
           } ],
           "titles" : [ {
-            "value" : "Een nacht van zes tot nul",
+            "value" : "Het Spoor",
             "owner" : "BROADCASTER",
             "type" : "MAIN"
           }, {
-            "value" : "Deel 1: De mannen van 6 x 2",
+            "value" : "De mythe van het zigeunerdom,  2 : Den Haag in de oorlog",
             "owner" : "BROADCASTER",
             "type" : "SUB"
           } ],
           "descriptions" : [ {
-            "value" : "Eerste klankbeeld in een tiendelige serie over 'mensen die werken terwijl u slaapt'. In deze aflevering een nachtelijke impressie van de werkzaamhden van de Amsterdamse politie. Bezoek aan de centrale meldkamer; gesprekken met mobilofonisten en agenten over de nachtdienst en opnamen van o.a. een interventie door agenten na een schietpartij. Bevat aan het slot opnamen van een uitbraakpoging in de jeugdgevangenis 'Lloydhotel' met geschreeuw door gevangenen, glasgerinkel, politiesirenes en reacties op het incident door de gevangenisdirecteur, een bewaker en een agent.",
+            "value" : "Serie over Zigeuners, over romantiek en religie, over vooroordelen en vernietiging.\nIn de nacht van 15 op 16 mei 1944 werden op de Veenkade in Den Haag tientallen zigeuners opgepakt, met behulp van de Nederlandse politie. Het Spoor op zoek naar de overlevenden van die zwarte nacht. Een reconstructie van dat drama en gesprekken met overlevenden en andere betrokkenen (buurtbewoners e.a.):\n-auteur Ben Huizing van ‘De zwarte politie 40-45’;\n-zigeuner Nello;\n-Zigeunervrouw Páápá;\n-Bloemenkoopman Kaffa;\n-neef Willem Vlak van politieman Arie Vlak, die zigeuners zou hebben verraden;\n-overlevende Magdalena Berger en andere overlevenden.\n\nUitgebreidere documentatie aanwezig in VPRO archief\n",
             "owner" : "BROADCASTER",
             "type" : "MAIN"
-          }, {
-            "value" : "Eerste klankbeeld in een tiendelige serie over 'mensen die werken terwijl u slaapt'. In deze aflevering een nachtelijke impressie van de werkzaamhden van de Amsterdamse politie. Bezoek aan de centrale meldkamer; gesprekken met mobilofonisten en agenten over de nachtdienst en opnamen van o.a. een interventie door agenten na een schietpartij.",
-            "owner" : "BROADCASTER",
-            "type" : "SHORT"
           } ],
           "genres" : [ ],
-          "tags" : [ "agent", "Amsterdam", "gevangenisdirecteur", "jeugdgevangines", "Lloydhotel", "meldkamer", "mobilifonist", "politie", "schietpartij" ],
+          "tags" : [ "deportatie", "politie", "razzia", "Tweede Wereldoorlog", "vervolgingen", "Zigeuners" ],
           "countries" : [ ],
           "languages" : [ ],
-          "releaseYear" : 1969,
-          "duration" : 1776000,
+          "releaseYear" : 1986,
+          "duration" : 3600000,
           "credits" : [ {
-            "givenName" : "Hans",
-            "familyName" : "Gobes",
-            "role" : "REPORTER"
+            "givenName" : "Jacqueline ",
+            "familyName" : "Maris",
+            "role" : "UNDEFINED"
+          }, {
+            "givenName" : "Jan ",
+            "familyName" : "Beckers",
+            "role" : "UNDEFINED"
           } ],
           "descendantOf" : [ {
             "midRef" : "POMS_S_VPRO_195283",
             "urnRef" : "urn:vpro:media:group:11887617",
             "type" : "ARCHIVE"
           }, {
+            "midRef" : "POMS_S_VPRO_098728",
+            "urnRef" : "urn:vpro:media:group:18800908",
+            "type" : "SERIES"
+          }, {
+            "midRef" : "POMS_S_VPRO_099786",
+            "urnRef" : "urn:vpro:media:group:18930278",
+            "type" : "SEASON"
+          }, {
             "midRef" : "POMS_S_VPRO_417553",
             "urnRef" : "urn:vpro:media:group:30800911",
             "type" : "COLLECTION"
-          }, {
-            "midRef" : "POMS_S_VPRO_417559",
-            "urnRef" : "urn:vpro:media:group:30800944",
-            "type" : "COLLECTION"
-          }, {
-            "midRef" : "POMS_S_NOS_478950",
-            "urnRef" : "urn:vpro:media:group:36635427",
-            "type" : "SERIES"
+          } ],
+          "predictions" : [ {
+            "state" : "REALIZED",
+            "platform" : "INTERNETVOD"
           } ],
           "locations" : [ {
-            "programUrl" : "http://download.omroep.nl/vpro/algemeen/woord/woord_radio/Een_nacht_tot_zes_uur_nul_AEN56301068.mp3",
+            "programUrl" : "http://download.omroep.nl/vpro/algemeen/woord/het_spoor_terug/1986/Spoor_1986_09_13_Mythe_Zigeunerdom_2_Den-Haag_in_de_oorlog_.mp3",
             "avAttributes" : {
               "avFileFormat" : "MP3"
             },
             "owner" : "BROADCASTER",
-            "creationDate" : 1391598400283,
-            "lastModified" : 1391598400375,
+            "creationDate" : 1373361509314,
+            "lastModified" : 1374134605489,
             "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:location:36635454"
+            "urn" : "urn:vpro:media:location:27507598"
+          } ],
+          "images" : [ {
+            "title" : "Settela",
+            "description" : "Settela",
+            "imageUri" : "urn:vpro:image:184131",
+            "height" : 460,
+            "width" : 465,
+            "owner" : "BROADCASTER",
+            "type" : "PICTURE",
+            "highlighted" : false,
+            "creationDate" : 1368806889206,
+            "lastModified" : 1368806889303,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:25765130"
           } ],
           "workflow" : "PUBLISHED",
           "type" : "BROADCAST",
           "avType" : "AUDIO"
         }
       } ],
-      "publishStart" : -60310800000,
-      "creationDate" : 1421877905197,
-      "lastModified" : 1425947590252,
+      "images" : [ {
+        "type" : "PICTURE",
+        "url" : "http://images.poms.omroep.nl/image/s360/184131.jpg",
+        "title" : "Settela",
+        "description" : "Settela"
+      } ],
+      "publishStart" : 526946400000,
+      "creationDate" : 1421880464797,
+      "lastModified" : 1425950057843,
       "refCount" : 0
     }
   } ]
