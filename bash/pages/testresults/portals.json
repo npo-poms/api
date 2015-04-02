@@ -1,11 +1,41 @@
 {
-  "facets" : { },
+  "facets" : {
+    "portals" : [ {
+      "count" : 21118,
+      "id" : "HUMANNL",
+      "value" : "Human.nl"
+    }, {
+      "count" : 8302,
+      "id" : "VPRONL",
+      "value" : "VPRO.nl"
+    }, {
+      "count" : 4281,
+      "id" : "GESCHIEDENIS24",
+      "value" : "NPO Geschiedenis"
+    }, {
+      "count" : 4111,
+      "id" : "WOORD",
+      "value" : "Woord.nl"
+    }, {
+      "count" : 2304,
+      "id" : "CULTURA24",
+      "value" : "NPO Cultura"
+    }, {
+      "count" : 1107,
+      "id" : "HOLLANDDOC24",
+      "value" : "NPO Doc"
+    }, {
+      "count" : 386,
+      "id" : "WETENSCHAP24",
+      "value" : "NPO Wetenschap"
+    } ]
+  },
   "selectedFacets" : { },
   "total" : 41612,
   "offset" : 0,
   "max" : 2,
   "items" : [ {
-    "score" : 1.7542124,
+    "score" : 1.7542104,
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",
@@ -80,7 +110,7 @@
       "refCount" : 0
     }
   }, {
-    "score" : 1.6442077,
+    "score" : 1.6442055,
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",

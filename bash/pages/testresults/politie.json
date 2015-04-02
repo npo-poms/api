@@ -113,21 +113,21 @@
   "offset" : 0,
   "max" : 2,
   "items" : [ {
-    "score" : 6.667225,
+    "score" : 5.9048204,
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",
-      "type" : "PLAYER",
-      "url" : "http://www-test.woord.nl/luister.POMS_VPRO_344392.html",
-      "sortDate" : 511289220000,
-      "crids" : [ "crid://vpro/media/woord/POMS_VPRO_344392" ],
+      "type" : "AUDIO",
+      "url" : "http://woord-sample.localhost/luister.POMS_VPRO_344690.html",
+      "sortDate" : 512498820000,
+      "crids" : [ "crid://vpro/media/woord/POMS_VPRO_344690" ],
       "broadcasters" : [ {
         "id" : "VPRO",
         "value" : "VPRO"
       } ],
       "portal" : {
         "id" : "WOORD",
-        "url" : "http://www-test.woord.nl",
+        "url" : "http://woord-sample.localhost",
         "value" : "Woord.nl"
       },
       "title" : "Het Spoor",
@@ -138,23 +138,23 @@
       } ],
       "embeds" : [ {
         "title" : "Het Spoor",
-        "description" : "Afl. 3 van vijfdelige documentaire serie over de politie: van agogisch ingestelde wijkagent tot oncontroleerbare undercover smeris.\nDe rechercheur als infiltrant of undercoveragent. Heiligt het doel de middelen of stevent de politie met dit soort nieuwe methodes zelf af op de grenzen van de rechtsstaat. Journalistieke speurtocht in dit weinig toegankelijke hoofdstuk van de politiepraktijk.\nProgramma over de nieuwe methode om de zware criminaliteit aan te pakken: infiltratie door rechercheurs. Heiligt het doel de middelen? Aan deze methode kleven nogal wat gevaren en bezwaren.\nMet interviews met o.a.\n-Cees van Ek, opgepakt door een Duitse undercover\n-commissaris Sietsma, chef van de Ondersteunende recherche.\n-commissaris Blaauw, chef van de Rotterdamse recherche\n-de Haagse Hoofdofficier van Justitie van Randwijk\n-Ex-undercover Jaap Groot van de Amsterdamse politie\n- mw. De Kerf,  hoofd Bijzondere Opleidingen van de Rechercheschool.\n-de Utrechtse advocaat  J Doedens\n\n\nSamenstelling Hans Simonse, Vincent Roef en Gerard Legebeke.\nUitgebreidere documentatie aanwezig in VPRO archief\n\n",
+        "description" : "Afl. 5 van vijfdelige documentaire serie over de politie: van agogisch ingestelde wijkagent tot oncontroleerbare undercover smeris.\nHet politieapparaat is een wereldje op zich met een eigen gesloten cultuur. Zijn politici en burgers nog wel in staat daar controle op uit te oefenen? Klachten over politieoptreden lopen meestal op niets uit. De politiek gebruikt het politiebeleid als issue bij het dingen naar kiezersgunst en als puinruimers bij falend beleid. In deze laatste uitzending van de serie ‘De Politie’ wordt de balans opgemaakt.\nMet interviews met o.a.\n-commissaris Sietsma, chef van de Ondersteunende recherche;\n-Ex-agent Jaap Groot van de Amsterdamse politie;\n-de Utrechtse advocaat  J Doedens;\n-Cyrille Fijnout van het WODC;\n-Hoofdcommissaris van Straaten van de CRI;\n-een woordvoerder van het Dierenbevrijdingsfront.\n\nUitgebreidere documentatie aanwezig in VPRO archief\n",
         "media" : {
           "objectType" : "program",
-          "mid" : "POMS_VPRO_344392",
-          "creationDate" : 1366277253752,
-          "lastModified" : 1366287349034,
-          "publishStart" : 511289220000,
-          "sortDate" : 511289220000,
-          "urn" : "urn:vpro:media:program:24551625",
+          "mid" : "POMS_VPRO_344690",
+          "creationDate" : 1366280348788,
+          "lastModified" : 1369908427966,
+          "publishStart" : 512498820000,
+          "sortDate" : 512498820000,
+          "urn" : "urn:vpro:media:program:24554308",
           "embeddable" : true,
           "episodeOf" : [ {
             "midRef" : "POMS_S_VPRO_099786",
             "urnRef" : "urn:vpro:media:group:18930278",
             "type" : "SEASON",
-            "index" : 22,
+            "index" : 26,
             "highlighted" : false,
-            "added" : 1366277722010
+            "added" : 1366280502805
           } ],
           "broadcasters" : [ {
             "id" : "VPRO",
@@ -165,17 +165,17 @@
             "owner" : "BROADCASTER",
             "type" : "MAIN"
           }, {
-            "value" : "De Politie 3: undercover agent X",
+            "value" : "De Politie 5: De Controle",
             "owner" : "BROADCASTER",
             "type" : "SUB"
           } ],
           "descriptions" : [ {
-            "value" : "Afl. 3 van vijfdelige documentaire serie over de politie: van agogisch ingestelde wijkagent tot oncontroleerbare undercover smeris.\nDe rechercheur als infiltrant of undercoveragent. Heiligt het doel de middelen of stevent de politie met dit soort nieuwe methodes zelf af op de grenzen van de rechtsstaat. Journalistieke speurtocht in dit weinig toegankelijke hoofdstuk van de politiepraktijk.\nProgramma over de nieuwe methode om de zware criminaliteit aan te pakken: infiltratie door rechercheurs. Heiligt het doel de middelen? Aan deze methode kleven nogal wat gevaren en bezwaren.\nMet interviews met o.a.\n-Cees van Ek, opgepakt door een Duitse undercover\n-commissaris Sietsma, chef van de Ondersteunende recherche.\n-commissaris Blaauw, chef van de Rotterdamse recherche\n-de Haagse Hoofdofficier van Justitie van Randwijk\n-Ex-undercover Jaap Groot van de Amsterdamse politie\n- mw. De Kerf,  hoofd Bijzondere Opleidingen van de Rechercheschool.\n-de Utrechtse advocaat  J Doedens\n\n\nSamenstelling Hans Simonse, Vincent Roef en Gerard Legebeke.\nUitgebreidere documentatie aanwezig in VPRO archief\n\n",
+            "value" : "Afl. 5 van vijfdelige documentaire serie over de politie: van agogisch ingestelde wijkagent tot oncontroleerbare undercover smeris.\nHet politieapparaat is een wereldje op zich met een eigen gesloten cultuur. Zijn politici en burgers nog wel in staat daar controle op uit te oefenen? Klachten over politieoptreden lopen meestal op niets uit. De politiek gebruikt het politiebeleid als issue bij het dingen naar kiezersgunst en als puinruimers bij falend beleid. In deze laatste uitzending van de serie ‘De Politie’ wordt de balans opgemaakt.\nMet interviews met o.a.\n-commissaris Sietsma, chef van de Ondersteunende recherche;\n-Ex-agent Jaap Groot van de Amsterdamse politie;\n-de Utrechtse advocaat  J Doedens;\n-Cyrille Fijnout van het WODC;\n-Hoofdcommissaris van Straaten van de CRI;\n-een woordvoerder van het Dierenbevrijdingsfront.\n\nUitgebreidere documentatie aanwezig in VPRO archief\n",
             "owner" : "BROADCASTER",
             "type" : "MAIN"
           } ],
           "genres" : [ ],
-          "tags" : [ "criminaliteit", "infiltrant", "opsporingsmethoden", "politie", "Politie-infiltranten", "politieagent", "rechercheur", "undercover", "undercoveragent" ],
+          "tags" : [ "politie", "politieapparaat" ],
           "countries" : [ ],
           "languages" : [ ],
           "releaseYear" : 1986,
@@ -186,7 +186,7 @@
             "role" : "UNDEFINED"
           }, {
             "givenName" : "Vincent ",
-            "familyName" : "Roef",
+            "familyName" : "Roef ",
             "role" : "UNDEFINED"
           }, {
             "givenName" : "Gerard ",
@@ -215,29 +215,29 @@
             "platform" : "INTERNETVOD"
           } ],
           "locations" : [ {
-            "programUrl" : "http://download.omroep.nl/vpro/algemeen/woord/het_spoor_terug/1986/Spoor_1986_03_15_Undercover_agenten_Immix.mp3",
+            "programUrl" : "http://download.omroep.nl/vpro/algemeen/woord/het_spoor_terug/1986/Spoor_1986_03_29_Politie_Controle_Immix.mp3",
             "avAttributes" : {
               "avFileFormat" : "MP3"
             },
             "owner" : "BROADCASTER",
-            "creationDate" : 1366287348721,
-            "lastModified" : 1366287348904,
+            "creationDate" : 1369908427685,
+            "lastModified" : 1369908427814,
             "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:location:24555080"
+            "urn" : "urn:vpro:media:location:26152644"
           } ],
           "images" : [ {
             "title" : "politie-logo",
             "description" : "politie-logo",
-            "imageUri" : "urn:vpro:image:172286",
+            "imageUri" : "urn:vpro:image:172290",
             "height" : 391,
             "width" : 522,
             "owner" : "BROADCASTER",
             "type" : "PICTURE",
             "highlighted" : false,
-            "creationDate" : 1366280054028,
-            "lastModified" : 1366280054208,
+            "creationDate" : 1366280492554,
+            "lastModified" : 1366280492643,
             "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:image:24554278"
+            "urn" : "urn:vpro:media:image:24554341"
           } ],
           "workflow" : "PUBLISHED",
           "type" : "BROADCAST",
@@ -246,165 +246,132 @@
       } ],
       "images" : [ {
         "type" : "PICTURE",
-        "url" : "http://images.poms.omroep.nl/image/s360/172286.jpg",
+        "url" : "http://images.poms.omroep.nl/image/s360/172290.jpg",
         "title" : "politie-logo",
         "description" : "politie-logo"
       } ],
-      "publishStart" : 511289220000,
-      "creationDate" : 1415271880854,
-      "lastModified" : 1415954495885,
+      "publishStart" : 512498820000,
+      "creationDate" : 1421887905358,
+      "lastModified" : 1425950263983,
       "refCount" : 0
     }
   }, {
-    "score" : 6.235294,
+    "score" : 5.884236,
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",
-      "type" : "PLAYER",
-      "url" : "http://www-test.woord.nl/luister.POMS_VPRO_380090.html",
-      "sortDate" : 537836400000,
-      "crids" : [ "crid://vpro/media/woord/POMS_VPRO_380090" ],
+      "type" : "AUDIO",
+      "url" : "http://woord-sample.localhost/luister.POMS_NOS_478799.html",
+      "sortDate" : -60310800000,
+      "crids" : [ "crid://vpro/media/woord/POMS_NOS_478799" ],
       "broadcasters" : [ {
-        "id" : "VPRO",
-        "value" : "VPRO"
+        "id" : "NOS",
+        "value" : "NOS"
       } ],
       "portal" : {
         "id" : "WOORD",
-        "url" : "http://www-test.woord.nl",
+        "url" : "http://woord-sample.localhost",
         "value" : "Woord.nl"
       },
-      "title" : "Het Spoor",
+      "title" : "Een nacht van zes tot nul",
       "genres" : [ {
         "id" : "3.0.4.1",
         "terms" : [ "Documentaire" ],
         "displayName" : "Documentaire"
+      }, {
+        "id" : "3.0.4.4",
+        "terms" : [ "Reportage" ],
+        "displayName" : "Reportage"
       } ],
       "embeds" : [ {
-        "title" : "Het Spoor",
-        "description" : "Tweedelige serie over het 'functioneren' van het politieapparaat bij onze zuiderburen \nAfl 1. Hoe staat het ervoor met de terreurbestrijding door de Belgische politie, nu ruim een jaar na de laatste bloedige aanslag van de Bende van Nijvel en de arrestatie van enkele leden van de CCC? Wat is de invloed geweest van het terrorisme op het Belgische politieapparaat geweest? Met o.a. de substituut-procureur van het parket in Nijvel over hoe de top van het openbaar ministerie een onderzoek in de richting van extreemrechts tegenwerkt. En een verkenningstocht op militair terrein bij de particuliere schietclub ‘Target 121’, waar extreemrechts en Rijkswacht elkaar ontmoeten.\n\n",
+        "title" : "Een nacht van zes tot nul",
+        "description" : "Eerste klankbeeld in een tiendelige serie over 'mensen die werken terwijl u slaapt'. In deze aflevering een nachtelijke impressie van de werkzaamhden van de Amsterdamse politie. Bezoek aan de centrale meldkamer; gesprekken met mobilofonisten en agenten over de nachtdienst en opnamen van o.a. een interventie door agenten na een schietpartij. Bevat aan het slot opnamen van een uitbraakpoging in de jeugdgevangenis 'Lloydhotel' met geschreeuw door gevangenen, glasgerinkel, politiesirenes en reacties op het incident door de gevangenisdirecteur, een bewaker en een agent.",
         "media" : {
           "objectType" : "program",
-          "mid" : "POMS_VPRO_380090",
-          "creationDate" : 1373882659238,
-          "lastModified" : 1374163528818,
-          "publishStart" : 537836400000,
-          "sortDate" : 537836400000,
-          "urn" : "urn:vpro:media:program:27675778",
+          "mid" : "POMS_NOS_478799",
+          "creationDate" : 1391598324937,
+          "lastModified" : 1391601620689,
+          "publishStart" : -60310800000,
+          "sortDate" : -60310800000,
+          "urn" : "urn:vpro:media:program:36635444",
           "embeddable" : true,
           "episodeOf" : [ {
-            "midRef" : "POMS_S_VPRO_119441",
-            "urnRef" : "urn:vpro:media:group:20478882",
-            "type" : "SEASON",
-            "index" : 7,
+            "midRef" : "POMS_S_NOS_478950",
+            "urnRef" : "urn:vpro:media:group:36635427",
+            "type" : "SERIES",
+            "index" : 1,
             "highlighted" : false,
-            "added" : 1373882659925
+            "added" : 1391598325764
           } ],
           "broadcasters" : [ {
-            "id" : "VPRO",
-            "value" : "VPRO"
+            "id" : "NOS",
+            "value" : "NOS"
           } ],
           "titles" : [ {
-            "value" : "Het Spoor",
+            "value" : "Een nacht van zes tot nul",
             "owner" : "BROADCASTER",
             "type" : "MAIN"
           }, {
-            "value" : "De Belgische politie 1",
+            "value" : "Deel 1: De mannen van 6 x 2",
             "owner" : "BROADCASTER",
             "type" : "SUB"
           } ],
           "descriptions" : [ {
-            "value" : "Tweedelige serie over het 'functioneren' van het politieapparaat bij onze zuiderburen \nAfl 1. Hoe staat het ervoor met de terreurbestrijding door de Belgische politie, nu ruim een jaar na de laatste bloedige aanslag van de Bende van Nijvel en de arrestatie van enkele leden van de CCC? Wat is de invloed geweest van het terrorisme op het Belgische politieapparaat geweest? Met o.a. de substituut-procureur van het parket in Nijvel over hoe de top van het openbaar ministerie een onderzoek in de richting van extreemrechts tegenwerkt. En een verkenningstocht op militair terrein bij de particuliere schietclub ‘Target 121’, waar extreemrechts en Rijkswacht elkaar ontmoeten.\n\n",
+            "value" : "Eerste klankbeeld in een tiendelige serie over 'mensen die werken terwijl u slaapt'. In deze aflevering een nachtelijke impressie van de werkzaamhden van de Amsterdamse politie. Bezoek aan de centrale meldkamer; gesprekken met mobilofonisten en agenten over de nachtdienst en opnamen van o.a. een interventie door agenten na een schietpartij. Bevat aan het slot opnamen van een uitbraakpoging in de jeugdgevangenis 'Lloydhotel' met geschreeuw door gevangenen, glasgerinkel, politiesirenes en reacties op het incident door de gevangenisdirecteur, een bewaker en een agent.",
             "owner" : "BROADCASTER",
             "type" : "MAIN"
+          }, {
+            "value" : "Eerste klankbeeld in een tiendelige serie over 'mensen die werken terwijl u slaapt'. In deze aflevering een nachtelijke impressie van de werkzaamhden van de Amsterdamse politie. Bezoek aan de centrale meldkamer; gesprekken met mobilofonisten en agenten over de nachtdienst en opnamen van o.a. een interventie door agenten na een schietpartij.",
+            "owner" : "BROADCASTER",
+            "type" : "SHORT"
           } ],
           "genres" : [ ],
-          "tags" : [ "aanslagen", "Bende van Nijvel", "CCC", "politie" ],
+          "tags" : [ "agent", "Amsterdam", "gevangenisdirecteur", "jeugdgevangines", "Lloydhotel", "meldkamer", "mobilifonist", "politie", "schietpartij" ],
           "countries" : [ ],
           "languages" : [ ],
-          "releaseYear" : 1987,
-          "duration" : 3600000,
+          "releaseYear" : 1969,
+          "duration" : 1776000,
           "credits" : [ {
-            "givenName" : "Gerard ",
-            "familyName" : "Legebeke",
-            "role" : "UNDEFINED"
-          }, {
-            "givenName" : "Hans ",
-            "familyName" : "Simonse",
-            "role" : "UNDEFINED"
+            "givenName" : "Hans",
+            "familyName" : "Gobes",
+            "role" : "REPORTER"
           } ],
           "descendantOf" : [ {
             "midRef" : "POMS_S_VPRO_195283",
             "urnRef" : "urn:vpro:media:group:11887617",
             "type" : "ARCHIVE"
           }, {
-            "midRef" : "POMS_S_VPRO_098728",
-            "urnRef" : "urn:vpro:media:group:18800908",
-            "type" : "SERIES"
-          }, {
-            "midRef" : "POMS_S_VPRO_119441",
-            "urnRef" : "urn:vpro:media:group:20478882",
-            "type" : "SEASON"
-          }, {
             "midRef" : "POMS_S_VPRO_417553",
             "urnRef" : "urn:vpro:media:group:30800911",
             "type" : "COLLECTION"
-          } ],
-          "predictions" : [ {
-            "state" : "REALIZED",
-            "platform" : "INTERNETVOD"
+          }, {
+            "midRef" : "POMS_S_VPRO_417559",
+            "urnRef" : "urn:vpro:media:group:30800944",
+            "type" : "COLLECTION"
+          }, {
+            "midRef" : "POMS_S_NOS_478950",
+            "urnRef" : "urn:vpro:media:group:36635427",
+            "type" : "SERIES"
           } ],
           "locations" : [ {
-            "programUrl" : "http://download.omroep.nl/vpro/algemeen/woord/het_spoor_terug/1987/Spoor_1987_01_17_Belgische_politie_1_Immix_.mp3",
+            "programUrl" : "http://download.omroep.nl/vpro/algemeen/woord/woord_radio/Een_nacht_tot_zes_uur_nul_AEN56301068.mp3",
             "avAttributes" : {
               "avFileFormat" : "MP3"
             },
             "owner" : "BROADCASTER",
-            "creationDate" : 1373882659910,
-            "lastModified" : 1374136817194,
+            "creationDate" : 1391598400283,
+            "lastModified" : 1391598400375,
             "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:location:27675786"
-          } ],
-          "images" : [ {
-            "title" : "Gids Belgische politie 1",
-            "description" : "Gids Belgische politie 1",
-            "imageUri" : "urn:vpro:image:201611",
-            "height" : 1337,
-            "width" : 1083,
-            "owner" : "BROADCASTER",
-            "type" : "PICTURE",
-            "highlighted" : false,
-            "creationDate" : 1373882737047,
-            "lastModified" : 1373882737167,
-            "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:image:27675793"
-          }, {
-            "title" : "Gids Belgische politie 1-vervolg",
-            "description" : "Gids Belgische politie 1-vervolg",
-            "imageUri" : "urn:vpro:image:201612",
-            "height" : 1115,
-            "width" : 1009,
-            "owner" : "BROADCASTER",
-            "type" : "PICTURE",
-            "highlighted" : false,
-            "creationDate" : 1373882737168,
-            "lastModified" : 1373882737170,
-            "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:image:27675794"
+            "urn" : "urn:vpro:media:location:36635454"
           } ],
           "workflow" : "PUBLISHED",
           "type" : "BROADCAST",
           "avType" : "AUDIO"
         }
       } ],
-      "images" : [ {
-        "type" : "PICTURE",
-        "url" : "http://images.poms.omroep.nl/image/s360/201611.jpg",
-        "title" : "Gids Belgische politie 1",
-        "description" : "Gids Belgische politie 1"
-      } ],
-      "publishStart" : 537836400000,
-      "creationDate" : 1415271703918,
-      "lastModified" : 1415954175166,
+      "publishStart" : -60310800000,
+      "creationDate" : 1421877905197,
+      "lastModified" : 1425947590252,
       "refCount" : 0
     }
   } ]

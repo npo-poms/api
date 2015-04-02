@@ -1,0 +1,14 @@
+{
+    "searches" : {
+        "genres" : [ {
+            "value" : "3.0.1.8.30",
+            "match" : "MUST"
+        } ]
+    },
+    "facets" : {
+        "genres" : {
+            "sort" : "COUNT_DESC",
+            "max" : 100
+        }
+    }
+}

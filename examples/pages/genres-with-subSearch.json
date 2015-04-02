@@ -1,0 +1,14 @@
+{
+    "searches": {
+
+    },
+    "facets" : {
+        "genres" : {
+            "sort" : "COUNT_DESC",
+            "threshold": 0,
+            "subSearch": {
+                "ids": ["3.0.1.1"]
+            }
+        }
+    }
+}

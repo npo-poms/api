@@ -1,6 +1,145 @@
 {
   "facets" : { },
   "selectedFacets" : { },
+  "mediaFacets" : {
+    "genres" : [ {
+      "count" : 633,
+      "id" : "3.0.1.8",
+      "value" : "Documentaire",
+      "terms" : [ "Documentaire" ]
+    }, {
+      "count" : 551,
+      "id" : "3.0.1.7",
+      "value" : "Informatief",
+      "terms" : [ "Informatief" ]
+    }, {
+      "count" : 160,
+      "id" : "3.0.1.6",
+      "value" : "Amusement",
+      "terms" : [ "Amusement" ]
+    }, {
+      "count" : 141,
+      "id" : "3.0.1.7.24",
+      "value" : "Informatief - Kunst/cultuur",
+      "terms" : [ "Informatief", "Kunst/cultuur" ]
+    }, {
+      "count" : 106,
+      "id" : "3.0.1.1.11",
+      "value" : "Jeugd - Animatie",
+      "terms" : [ "Jeugd", "Animatie" ]
+    }, {
+      "count" : 47,
+      "id" : "3.0.1.2",
+      "value" : "Film",
+      "terms" : [ "Film" ]
+    }, {
+      "count" : 43,
+      "id" : "3.0.1.1",
+      "value" : "Jeugd",
+      "terms" : [ "Jeugd" ]
+    }, {
+      "count" : 24,
+      "id" : "3.0.1.5",
+      "value" : "Muziek",
+      "terms" : [ "Muziek" ]
+    }, {
+      "count" : 23,
+      "id" : "3.0.1.3",
+      "value" : "Serie",
+      "terms" : [ "Serie" ]
+    }, {
+      "count" : 15,
+      "id" : "3.0.1.7.25",
+      "value" : "Informatief - Natuur",
+      "terms" : [ "Informatief", "Natuur" ]
+    }, {
+      "count" : 14,
+      "id" : "3.0.1.7.26",
+      "value" : "Informatief - Religieus",
+      "terms" : [ "Informatief", "Religieus" ]
+    }, {
+      "count" : 11,
+      "id" : "3.0.1.4",
+      "value" : "Sport",
+      "terms" : [ "Sport" ]
+    }, {
+      "count" : 10,
+      "id" : "3.0.1.7.22",
+      "value" : "Informatief - Gezondheid/opvoeding",
+      "terms" : [ "Informatief", "Gezondheid/opvoeding" ]
+    }, {
+      "count" : 10,
+      "id" : "3.0.1.7.27",
+      "value" : "Informatief - Wetenschap",
+      "terms" : [ "Informatief", "Wetenschap" ]
+    }, {
+      "count" : 8,
+      "id" : "3.0.1.6.20",
+      "value" : "Amusement - Cabaret",
+      "terms" : [ "Amusement", "Cabaret" ]
+    }, {
+      "count" : 8,
+      "id" : "3.0.1.6.9",
+      "value" : "Amusement - Komisch",
+      "terms" : [ "Amusement", "Komisch" ]
+    }, {
+      "count" : 7,
+      "id" : "3.0.1.3.12",
+      "value" : "Serie - Drama",
+      "terms" : [ "Serie", "Drama" ]
+    }, {
+      "count" : 3,
+      "id" : "3.0.1.3.10",
+      "value" : "Serie - Spanning",
+      "terms" : [ "Serie", "Spanning" ]
+    }, {
+      "count" : 3,
+      "id" : "3.0.1.7.30",
+      "value" : "Informatief - Geschiedenis",
+      "terms" : [ "Informatief", "Geschiedenis" ]
+    }, {
+      "count" : 2,
+      "id" : "3.0.1.1.7",
+      "value" : "Jeugd - Informatief",
+      "terms" : [ "Jeugd", "Informatief" ]
+    }, {
+      "count" : 2,
+      "id" : "3.0.1.7.29",
+      "value" : "Informatief - Reizen",
+      "terms" : [ "Informatief", "Reizen" ]
+    }, {
+      "count" : 1,
+      "id" : "3.0.1.1.4",
+      "value" : "Jeugd - Sport",
+      "terms" : [ "Jeugd", "Sport" ]
+    }, {
+      "count" : 1,
+      "id" : "3.0.1.1.6",
+      "value" : "Jeugd - Amusement",
+      "terms" : [ "Jeugd", "Amusement" ]
+    }, {
+      "count" : 1,
+      "id" : "3.0.1.2.10",
+      "value" : "Film - Spanning",
+      "terms" : [ "Film", "Spanning" ]
+    }, {
+      "count" : 1,
+      "id" : "3.0.1.2.12",
+      "value" : "Film - Drama",
+      "terms" : [ "Film", "Drama" ]
+    }, {
+      "count" : 1,
+      "id" : "3.0.1.3.9",
+      "value" : "Serie - Komisch",
+      "terms" : [ "Serie", "Komisch" ]
+    }, {
+      "count" : 1,
+      "id" : "3.0.1.8.24",
+      "value" : "Documentaire - Kunst/cultuur",
+      "terms" : [ "Documentaire", "Kunst/cultuur" ]
+    } ]
+  },
+  "mediaSelectedFacets" : { },
   "total" : 41612,
   "offset" : 0,
   "max" : 2,

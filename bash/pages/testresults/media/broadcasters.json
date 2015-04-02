@@ -1,91 +1,108 @@
 {
   "facets" : { },
   "selectedFacets" : { },
-  "total" : 64,
+  "total" : 16,
   "offset" : 0,
   "max" : 2,
   "items" : [ {
-    "score" : 8.577692,
+    "score" : 5.2768283,
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",
       "type" : "PLAYER",
-      "url" : "http://www-test.cultura.nl/speel.BNN_101353910.html",
-      "sortDate" : 1397331000000,
-      "crids" : [ "crid://vpro/media/cultura/BNN_101353910" ],
+      "url" : "http://www-test.vpro.nl/speel.EO_101198502.html",
+      "sortDate" : 1362608700000,
+      "crids" : [ "crid://vpro/media/vpro/EO_101198502" ],
       "broadcasters" : [ {
+        "id" : "EO",
+        "value" : "EO"
+      }, {
+        "id" : "KRO",
+        "value" : "KRO"
+      }, {
+        "id" : "VPRO",
+        "value" : "VPRO"
+      }, {
         "id" : "BNN",
         "value" : "BNN"
       } ],
       "portal" : {
-        "id" : "CULTURA24",
-        "url" : "http://www-test.cultura.nl",
-        "value" : "NPO Cultura"
+        "id" : "VPRONL",
+        "url" : "http://www-test.vpro.nl",
+        "value" : "VPRO.nl"
       },
-      "title" : "3Doc: Rihanna 777",
-      "genres" : [ {
-        "id" : "3.0.3.4",
-        "terms" : [ "Pop/jazz/world" ],
-        "displayName" : "Pop/jazz/world"
-      } ],
+      "title" : "Thomas Dekker",
       "embeds" : [ {
-        "title" : "3Doc: Rihanna 777",
-        "description" : "Een kijkje voor en achter de schermen van Rihanna's tour waarmee ze haar zevende album 'Unapologetic' promootte. In 7 dagen doet ze 7 steden aan waar ze met haar eigen Boeing 777 vol crew, journalisten en fans naartoe vloog. Van Berlijn tot New York, in elke stad horen we een ander nummer van het nieuwe album en volgen we haar entourage tijdens de gekte van deze tour.",
+        "title" : "Thomas Dekker",
+        "description" : "Thomas Dekker (26) gold jarenlang als Nederlands grootste wielerbelofte. De jonge profrenner uit Noord-Holland wordt vanaf zijn jeugd al overladen met succes, geld en aandacht. Wielerliefhebbend Nederland speculeert met hem openlijk over een nieuwe Tourwinst. Eind 2007 komt er een kink in de kabel: een blessure, frictie met de ploegleiding van Rabobank en tegenvallende prestaties voorspellen niet veel goeds. In 2008 klinken de eerste verdachtmakingen, maar pas in 2009 test Dekker op basis van een controle uit 2007 positief op het gebruik van EPO. De UCI schorst hem voor twee jaar. Voorjaar 2010 besluiten hij en zijn nieuwe management zich terug te vechten in de wielerwereld.",
         "media" : {
           "objectType" : "program",
-          "mid" : "BNN_101353910",
-          "creationDate" : 1395294657116,
-          "lastModified" : 1397658567953,
-          "sortDate" : 1397331000000,
-          "urn" : "urn:vpro:media:program:38925813",
+          "mid" : "EO_101198502",
+          "creationDate" : 1360885857221,
+          "lastModified" : 1426916044936,
+          "hasSubtitles" : true,
+          "sortDate" : 1362608700000,
+          "urn" : "urn:vpro:media:program:20489748",
           "embeddable" : true,
+          "crids" : [ "crid://tmp.program.omroep.nl/15444690" ],
           "broadcasters" : [ {
+            "id" : "EO",
+            "value" : "EO"
+          }, {
+            "id" : "KRO",
+            "value" : "KRO"
+          }, {
+            "id" : "VPRO",
+            "value" : "VPRO"
+          }, {
             "id" : "BNN",
             "value" : "BNN"
           } ],
-          "regions" : [ "NL" ],
           "titles" : [ {
-            "value" : "3Doc: Rihanna 777",
+            "value" : "Thomas Dekker",
+            "owner" : "NEBO",
+            "type" : "MAIN"
+          }, {
+            "value" : "Thomas Dekker",
             "owner" : "MIS",
             "type" : "MAIN"
           }, {
-            "value" : "3Doc Rihanna 777",
+            "value" : "Thomas Dekker",
+            "owner" : "CERES",
+            "type" : "MAIN"
+          }, {
+            "value" : "Thomas Dekker",
             "owner" : "WHATS_ON",
             "type" : "MAIN"
           }, {
-            "value" : "3Doc Rihanna 777",
+            "value" : "Thomas Dekker",
             "owner" : "WHATS_ON",
             "type" : "ORIGINAL"
           } ],
           "descriptions" : [ {
-            "value" : "Een kijkje voor en achter de schermen van Rihanna's tour waarmee ze haar zevende album 'Unapologetic' promootte. In 7 dagen doet ze 7 steden aan waar ze met haar eigen Boeing 777 vol crew, journalisten en fans naartoe vloog. Van Berlijn tot New York, in elke stad horen we een ander nummer van het nieuwe album en volgen we haar entourage tijdens de gekte van deze tour.",
+            "value" : "Thomas Dekker (26) gold jarenlang als Nederlands grootste wielerbelofte. De jonge profrenner uit Noord-Holland wordt vanaf zijn jeugd al overladen met succes, geld en aandacht. Wielerliefhebbend Nederland speculeert met hem openlijk over een nieuwe Tourwinst. Eind 2007 komt er een kink in de kabel: een blessure, frictie met de ploegleiding van Rabobank en tegenvallende prestaties voorspellen niet veel goeds. In 2008 klinken de eerste verdachtmakingen, maar pas in 2009 test Dekker op basis van een controle uit 2007 positief op het gebruik van EPO. De UCI schorst hem voor twee jaar. Voorjaar 2010 besluiten hij en zijn nieuwe management zich terug te vechten in de wielerwereld.",
             "owner" : "MIS",
             "type" : "MAIN"
           }, {
-            "value" : "Deze documentaire geeft je een kijkje voor en achter de schermen van Rihanna's tour waarmee ze haar zevende album 'Unapologetic' promootte. In 7 dagen doet ze 7 steden aan waar ze met haar eigen Boeing 777 vol crew, journalisten en fans naartoe vloog. Van Berlijn tot New York, in elke stad horen we een ander nummer van het nieuwe album en volgen we haar entourage tijdens de gekte van deze tour.",
+            "value" : "Thomas Dekker (26) gold jarenlang als Nederlands grootste wielerbelofte. De jonge profrenner uit Noord-Holland wordt vanaf zijn jeugd al overladen met succes, geld en aandacht. Wielerliefhebbend Nederland speculeert met hem openlijk over een nieuwe Tourwinst. Eind 2007 komt er een kink in de kabel: een blessure, frictie met de ploegleiding van Rabobank en tegenvallende prestaties voorspellen niet veel goeds. In 2008 klinken de eerste verdachtmakingen, maar pas in 2009 test Dekker op basis van een controle uit 2007 positief op het gebruik van EPO. De UCI schorst hem voor twee jaar. Voorjaar 2010 besluiten hij en zijn nieuwe management zich terug te vechten in de wielerwereld.",
+            "owner" : "CERES",
+            "type" : "MAIN"
+          }, {
+            "value" : "Thomas Dekker (26) gold jarenlang als Nederlands grootste wielerbelofte. De jonge profrenner uit Noord-Holland wordt vanaf zijn jeugd al overladen met succes, geld en aandacht. Wielerliefhebbend Nederland speculeert met hem openlijk over een nieuwe Tourwinst. Eind 2007 komt er een kink in de kabel: een blessure, frictie met de ploegleiding van Rabobank en tegenvallende prestaties voorspellen niet veel goeds. In 2008 klinken de eerste verdachtmakingen, maar pas in 2009 test Dekker op basis van een controle uit 2007 positief op het gebruik van EPO. De UCI schorst hem voor twee jaar. Voorjaar 2010 besluiten hij en zijn nieuwe management zich terug te vechten in de wielerwereld.",
             "owner" : "WHATS_ON",
             "type" : "MAIN"
           }, {
-            "value" : "Een kijkje voor en achter de schermen van Rihanna's tour waarmee ze haar zevende album 'Unapologetic' promootte. In 7 dagen deed ze 7 steden aan waar ze met haar eigen Boeing 777 naartoe vloog.",
+            "value" : "Thomas Dekker (26) gold jarenlang als Nederlands grootste wielerbelofte. De jonge profrenner uit Noord-Holland wordt vanaf zijn jeugd al overladen met succes, geld en aandacht.",
             "owner" : "MIS",
             "type" : "SHORT"
           }, {
-            "value" : "Deze documentaire geeft je een kijkje voor en achter de schermen van Rihanna's tour waarmee ze haar zevende album 'Unapo",
-            "owner" : "WHATS_ON",
+            "value" : "Thomas Dekker (26) gold jarenlang als Nederlands grootste wielerbelofte. De jonge profrenner uit Noord-Holland wordt vanaf zijn jeugd al overladen met succes, geld en aandacht.",
+            "owner" : "CERES",
             "type" : "SHORT"
           } ],
-          "genres" : [ {
-            "id" : "3.0.1.5",
-            "terms" : [ "Muziek" ]
-          }, {
-            "id" : "3.0.1.8",
-            "terms" : [ "Documentaire" ]
-          } ],
+          "genres" : [ ],
           "countries" : [ ],
-          "languages" : [ {
-            "code" : "nl",
-            "value" : "Nederlands"
-          } ],
+          "languages" : [ ],
           "avAttributes" : {
             "videoAttributes" : {
               "color" : "BLACK_AND_WHITE_AND_COLOR"
@@ -94,154 +111,182 @@
               "numberOfChannels" : 2
             }
           },
-          "duration" : 3000000,
-          "descendantOf" : [ {
-            "midRef" : "POMS_S_VPRO_171668",
-            "urnRef" : "urn:vpro:media:group:14683553",
-            "type" : "ARCHIVE"
-          }, {
-            "midRef" : "POMS_S_VPRO_218686",
-            "urnRef" : "urn:vpro:media:group:14921825",
-            "type" : "ARCHIVE"
-          }, {
-            "midRef" : "POMS_S_VPRO_117474",
-            "urnRef" : "urn:vpro:media:group:20347947",
-            "type" : "PLAYLIST"
-          }, {
-            "midRef" : "AUTO_DOCRIHANNA",
-            "urnRef" : "urn:vpro:media:group:26984725",
-            "type" : "SEASON"
-          }, {
-            "midRef" : "POMS_S_BNN_373606",
-            "urnRef" : "urn:vpro:media:group:26984730",
-            "type" : "SERIES"
-          } ],
-          "memberOf" : [ {
-            "midRef" : "POMS_S_VPRO_218686",
-            "urnRef" : "urn:vpro:media:group:14921825",
-            "type" : "ARCHIVE",
-            "index" : 551,
-            "highlighted" : false,
-            "added" : 1396948566726
-          }, {
-            "midRef" : "AUTO_DOCRIHANNA",
-            "urnRef" : "urn:vpro:media:group:26984725",
-            "type" : "SEASON",
-            "index" : 1,
-            "highlighted" : false,
-            "added" : 1397208771664
-          } ],
+          "duration" : 4800000,
           "predictions" : [ {
             "state" : "REALIZED",
-            "publishStart" : 1397333400000,
-            "publishStop" : 1399839000000,
+            "publishStart" : 1362613425000,
             "platform" : "INTERNETVOD"
-          }, {
-            "state" : "REALIZED",
-            "publishStart" : 1397330880000,
-            "publishStop" : 1428866940000,
-            "platform" : "PLUSVOD"
           } ],
           "locations" : [ {
-            "programUrl" : "sub+http//npoplus.nl/video/mpeg2_hr/BNN_101353910",
+            "programUrl" : "odip+http://odi.omroep.nl/video/adaptive/EO_101198502",
             "avAttributes" : {
-              "bitrate" : 3500000,
-              "avFileFormat" : "MPEG2"
+              "avFileFormat" : "HASP"
             },
-            "creationDate" : 1397334069301,
-            "lastModified" : 1397334069502,
-            "publishStart" : 1397330880000,
-            "publishStop" : 1428866940000,
-            "workflow" : "PUBLISHED",
             "owner" : "CERES",
-            "platform" : "PLUSVOD",
-            "urn" : "urn:vpro:media:location:40059050"
+            "creationDate" : 1362616571165,
+            "lastModified" : 1362616571338,
+            "publishStart" : 1362613425000,
+            "workflow" : "PUBLISHED",
+            "platform" : "INTERNETVOD",
+            "urn" : "urn:vpro:media:location:22661262"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_sb/EO_101198502",
+            "avAttributes" : {
+              "bitrate" : 204800,
+              "avFileFormat" : "MP4",
+              "videoAttributes" : {
+                "videoCoding" : "MP4",
+                "aspectRatio" : "16:9"
+              }
+            },
+            "owner" : "NEBO",
+            "creationDate" : 1363085020103,
+            "lastModified" : 1363085020304,
+            "publishStart" : 1362613425000,
+            "workflow" : "PUBLISHED",
+            "platform" : "INTERNETVOD",
+            "urn" : "urn:vpro:media:location:22859981"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_bb/EO_101198502",
+            "avAttributes" : {
+              "bitrate" : 512000,
+              "avFileFormat" : "MP4",
+              "videoAttributes" : {
+                "videoCoding" : "MP4",
+                "aspectRatio" : "16:9"
+              }
+            },
+            "owner" : "NEBO",
+            "creationDate" : 1363085020104,
+            "lastModified" : 1363085020305,
+            "publishStart" : 1362613425000,
+            "workflow" : "PUBLISHED",
+            "platform" : "INTERNETVOD",
+            "urn" : "urn:vpro:media:location:22859984"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_std/EO_101198502",
+            "avAttributes" : {
+              "bitrate" : 1024000,
+              "avFileFormat" : "MP4",
+              "videoAttributes" : {
+                "videoCoding" : "MP4",
+                "aspectRatio" : "16:9"
+              }
+            },
+            "owner" : "NEBO",
+            "creationDate" : 1363085020104,
+            "lastModified" : 1363085020309,
+            "publishStart" : 1362613425000,
+            "workflow" : "PUBLISHED",
+            "platform" : "INTERNETVOD",
+            "urn" : "urn:vpro:media:location:22859987"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/wvc1_std/EO_101198502",
+            "avAttributes" : {
+              "bitrate" : 1024000,
+              "avFileFormat" : "WVC1",
+              "videoAttributes" : {
+                "videoCoding" : "MP4",
+                "aspectRatio" : "16:9"
+              }
+            },
+            "owner" : "NEBO",
+            "creationDate" : 1363085020104,
+            "lastModified" : 1363085020311,
+            "publishStart" : 1362613425000,
+            "workflow" : "PUBLISHED",
+            "platform" : "INTERNETVOD",
+            "urn" : "urn:vpro:media:location:22859990"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/wmv_sb/EO_101198502",
+            "avAttributes" : {
+              "bitrate" : 204800,
+              "avFileFormat" : "WM",
+              "videoAttributes" : {
+                "videoCoding" : "MP4",
+                "aspectRatio" : "16:9"
+              }
+            },
+            "owner" : "NEBO",
+            "creationDate" : 1363085020103,
+            "lastModified" : 1363085020312,
+            "publishStart" : 1362613425000,
+            "workflow" : "PUBLISHED",
+            "platform" : "INTERNETVOD",
+            "urn" : "urn:vpro:media:location:22859993"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/wmv_bb/EO_101198502",
+            "avAttributes" : {
+              "bitrate" : 512000,
+              "avFileFormat" : "WM",
+              "videoAttributes" : {
+                "videoCoding" : "MP4",
+                "aspectRatio" : "16:9"
+              }
+            },
+            "owner" : "NEBO",
+            "creationDate" : 1363085020104,
+            "lastModified" : 1363085020314,
+            "publishStart" : 1362613425000,
+            "workflow" : "PUBLISHED",
+            "platform" : "INTERNETVOD",
+            "urn" : "urn:vpro:media:location:22859996"
           } ],
           "scheduleEvents" : [ {
             "repeat" : {
-              "value" : "22-3-2013",
+              "value" : "30-6-2012",
               "isRerun" : true
             },
             "memberOf" : "crid://bds.tv/17400359",
             "avAttributes" : {
               "videoAttributes" : { }
             },
-            "start" : 1397331000000,
-            "offset" : 10000,
-            "duration" : 3000000,
-            "poProgID" : "BNN_101353910",
+            "textSubtitles" : "Teletekst ondertitels",
+            "guideDay" : 1362524400000,
+            "start" : 1362608700000,
+            "offset" : -49000,
+            "duration" : 4800000,
+            "poProgID" : "EO_101198502",
             "channel" : "NED3",
-            "imi" : "imi:1085",
-            "urnRef" : "urn:vpro:media:program:38925813",
-            "midRef" : "BNN_101353910"
+            "imi" : "imi:21564",
+            "urnRef" : "urn:vpro:media:program:20489748",
+            "midRef" : "EO_101198502"
           } ],
           "images" : [ {
-            "title" : "3Doc: Rihanna 777",
-            "description" : "Een kijkje voor en achter de schermen van Rihanna's tour waarmee ze haar zevende album 'Unapologetic' promootte. In 7 dagen deed ze 7 steden aan waar ze met haar eigen Boeing 777 naartoe vloog.",
-            "imageUri" : "urn:vpro:image:450470",
-            "creationDate" : 1397334614832,
-            "lastModified" : 1397334642626,
-            "workflow" : "PUBLISHED",
+            "title" : "Thomas Dekker",
+            "description" : "Thomas Dekker (26) gold jarenlang als Nederlands grootste wielerbelofte. De jonge profrenner uit Noord-Holland wordt vanaf zijn jeugd al overladen met succes, geld en aandacht.",
+            "imageUri" : "urn:vpro:image:145518",
             "owner" : "NEBO",
             "type" : "STILL",
             "highlighted" : false,
-            "urn" : "urn:vpro:media:image:40059054"
+            "creationDate" : 1362616211921,
+            "lastModified" : 1362616217203,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:22661258"
           }, {
-            "title" : "3Doc: Rihanna 777",
-            "description" : "Een kijkje voor en achter de schermen van Rihanna's tour waarmee ze haar zevende album 'Unapologetic' promootte. In 7 dagen deed ze 7 steden aan waar ze met haar eigen Boeing 777 naartoe vloog.",
-            "imageUri" : "urn:vpro:image:450471",
-            "creationDate" : 1397334628778,
-            "lastModified" : 1397334642626,
-            "workflow" : "PUBLISHED",
+            "title" : "Thomas Dekker",
+            "description" : "Thomas Dekker (26) gold jarenlang als Nederlands grootste wielerbelofte. De jonge profrenner uit Noord-Holland wordt vanaf zijn jeugd al overladen met succes, geld en aandacht.",
+            "imageUri" : "urn:vpro:image:145519",
             "owner" : "NEBO",
             "type" : "STILL",
             "highlighted" : false,
-            "urn" : "urn:vpro:media:image:40059055"
+            "creationDate" : 1362616214590,
+            "lastModified" : 1362616217204,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:22661259"
           }, {
-            "title" : "3Doc: Rihanna 777",
-            "description" : "Een kijkje voor en achter de schermen van Rihanna's tour waarmee ze haar zevende album 'Unapologetic' promootte. In 7 dagen deed ze 7 steden aan waar ze met haar eigen Boeing 777 naartoe vloog.",
-            "imageUri" : "urn:vpro:image:450472",
-            "creationDate" : 1397334642267,
-            "lastModified" : 1397334642627,
-            "workflow" : "PUBLISHED",
+            "title" : "Thomas Dekker",
+            "description" : "Thomas Dekker (26) gold jarenlang als Nederlands grootste wielerbelofte. De jonge profrenner uit Noord-Holland wordt vanaf zijn jeugd al overladen met succes, geld en aandacht.",
+            "imageUri" : "urn:vpro:image:145520",
             "owner" : "NEBO",
             "type" : "STILL",
             "highlighted" : false,
-            "urn" : "urn:vpro:media:image:40059056"
-          }, {
-            "title" : "3Doc: Rihanna 777",
-            "description" : "Een kijkje voor en achter de schermen van Rihanna's tour waarmee ze haar zevende album 'Unapologetic' promootte. In 7 dagen deed ze 7 steden aan waar ze met haar eigen Boeing 777 naartoe vloog.",
-            "imageUri" : "urn:vpro:image:451087",
-            "creationDate" : 1397477714572,
-            "lastModified" : 1397477747178,
+            "creationDate" : 1362616217033,
+            "lastModified" : 1362616217204,
             "workflow" : "PUBLISHED",
-            "owner" : "NEBO",
-            "type" : "STILL",
-            "highlighted" : false,
-            "urn" : "urn:vpro:media:image:40133032"
-          }, {
-            "title" : "3Doc: Rihanna 777",
-            "description" : "Een kijkje voor en achter de schermen van Rihanna's tour waarmee ze haar zevende album 'Unapologetic' promootte. In 7 dagen deed ze 7 steden aan waar ze met haar eigen Boeing 777 naartoe vloog.",
-            "imageUri" : "urn:vpro:image:451088",
-            "creationDate" : 1397477731935,
-            "lastModified" : 1397477747179,
-            "workflow" : "PUBLISHED",
-            "owner" : "NEBO",
-            "type" : "STILL",
-            "highlighted" : false,
-            "urn" : "urn:vpro:media:image:40133033"
-          }, {
-            "title" : "3Doc: Rihanna 777",
-            "description" : "Een kijkje voor en achter de schermen van Rihanna's tour waarmee ze haar zevende album 'Unapologetic' promootte. In 7 dagen deed ze 7 steden aan waar ze met haar eigen Boeing 777 naartoe vloog.",
-            "imageUri" : "urn:vpro:image:451089",
-            "creationDate" : 1397477746943,
-            "lastModified" : 1397477747179,
-            "workflow" : "PUBLISHED",
-            "owner" : "NEBO",
-            "type" : "STILL",
-            "highlighted" : false,
-            "urn" : "urn:vpro:media:image:40133034"
+            "urn" : "urn:vpro:media:image:22661260"
           } ],
+          "publishDate" : 1426916444619,
           "workflow" : "PUBLISHED",
           "type" : "BROADCAST",
           "avType" : "VIDEO"
@@ -249,261 +294,303 @@
       } ],
       "images" : [ {
         "type" : "PICTURE",
-        "url" : "http://images.poms.omroep.nl/image/s360/450470.jpg",
-        "title" : "3Doc: Rihanna 777",
-        "description" : "Een kijkje voor en achter de schermen van Rihanna's tour waarmee ze haar zevende album 'Unapologetic' promootte. In 7 dagen deed ze 7 steden aan waar ze met haar eigen Boeing 777 naartoe vloog."
+        "url" : "http://images.poms.omroep.nl/image/s360/145518.jpg",
+        "title" : "Thomas Dekker",
+        "description" : "Thomas Dekker (26) gold jarenlang als Nederlands grootste wielerbelofte. De jonge profrenner uit Noord-Holland wordt vanaf zijn jeugd al overladen met succes, geld en aandacht."
       } ],
-      "publishStart" : 1397331000000,
-      "creationDate" : 1411389884858,
-      "lastModified" : 1411391702599,
+      "publishStart" : 1362608700000,
+      "creationDate" : 1427201882038,
+      "lastModified" : 1427201882064,
       "refCount" : 0
     }
   }, {
-    "score" : 8.564262,
+    "score" : 4.994789,
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",
-      "type" : "PLAYER",
-      "url" : "http://www-test.cultura.nl/speel.POW_00633964.html",
-      "sortDate" : 1390764600000,
-      "crids" : [ "crid://vpro/media/cultura/POW_00633964" ],
+      "type" : "VIDEO",
+      "url" : "http://npodoc.localhost/speel.VPWON_1173267.html",
+      "sortDate" : 1343681100000,
+      "crids" : [ "crid://vpro/media/npodoc/VPWON_1173267" ],
       "broadcasters" : [ {
+        "id" : "VPRO",
+        "value" : "VPRO"
+      }, {
+        "id" : "KRO",
+        "value" : "KRO"
+      }, {
+        "id" : "EO",
+        "value" : "EO"
+      }, {
         "id" : "BNN",
         "value" : "BNN"
       } ],
       "portal" : {
-        "id" : "CULTURA24",
-        "url" : "http://www-test.cultura.nl",
-        "value" : "NPO Cultura"
+        "id" : "HOLLANDDOC24",
+        "url" : "http://npodoc.localhost",
+        "value" : "NPO Doc"
       },
-      "title" : "Homeland",
-      "genres" : [ {
-        "id" : "3.0.3.2",
-        "terms" : [ "Film/Drama" ],
-        "displayName" : "Film/Drama"
-      } ],
+      "title" : "3Doc",
       "embeds" : [ {
-        "title" : "Homeland",
-        "description" : "Nadat er nieuwe informatie is vrijgekomen over de bomaanslag op Langley, hebben Quinn en Carrie een nieuwe verdachte op het oog. Fara ontdekt dat werken voor de inlichtingendienst zijn tol eist. De Brody familie krijgt geweldig nieuws.",
+        "title" : "3Doc",
+        "description" : "Vanaf zijn tweede jaar bracht Otto Wichers al zijn zomers door op Vlieland. Eerst met zijn ouders op vakantie, later als medewerker van camping Stortemelk. Daar trad hij enige jaren geleden, na lang zeuren, voor het eerst op onder zijn artiestennaam Lucky Fonz III. Al die jaren is hij zich verbonden blijven voelen met het eiland, waar hij zeker de helft van zijn repertoire schreef. Vele prijzen en een Top 5-hit, 'Ik heb een meisje', later keert hij terug naar Vlieland om op te treden tijdens het popfestival Into The Great Wide Open. Een muzikaal portret van een hedendaagse troubadour.",
         "media" : {
           "objectType" : "program",
-          "mid" : "POW_00633964",
-          "creationDate" : 1388641596045,
-          "lastModified" : 1419422244949,
-          "sortDate" : 1390764600000,
-          "urn" : "urn:vpro:media:program:34883840",
+          "mid" : "VPWON_1173267",
+          "creationDate" : 1334362397811,
+          "lastModified" : 1389948796684,
+          "sortDate" : 1343681100000,
+          "urn" : "urn:vpro:media:program:13627861",
           "embeddable" : true,
           "episodeOf" : [ {
-            "midRef" : "POW_00633952",
-            "urnRef" : "urn:vpro:media:group:32470230",
+            "midRef" : "AUTO_DOCDEBALLADEVANLUCKYFONZIII",
+            "urnRef" : "urn:vpro:media:group:14944048",
             "type" : "SEASON",
-            "index" : 8,
+            "index" : 1,
             "highlighted" : false,
-            "added" : 1388641596157
+            "added" : 1389948796638
           } ],
+          "crids" : [ "crid://tmp.program.omroep.nl/14590477" ],
           "broadcasters" : [ {
+            "id" : "VPRO",
+            "value" : "VPRO"
+          }, {
+            "id" : "KRO",
+            "value" : "KRO"
+          }, {
+            "id" : "EO",
+            "value" : "EO"
+          }, {
             "id" : "BNN",
             "value" : "BNN"
           } ],
           "titles" : [ {
-            "value" : "Homeland",
+            "value" : "3Doc",
+            "owner" : "BROADCASTER",
+            "type" : "MAIN"
+          }, {
+            "value" : "3DOC: De Ballade van Lucky Fonz III",
+            "owner" : "NEBO",
+            "type" : "MAIN"
+          }, {
+            "value" : "3DOC: De Ballade van Lucky Fonz III",
             "owner" : "MIS",
             "type" : "MAIN"
           }, {
-            "value" : "A Red Wheelbarrow",
-            "owner" : "WHATS_ON",
-            "type" : "MAIN"
-          }, {
-            "value" : "A Red Wheelbarrow",
-            "owner" : "MIS",
+            "value" : "3Doc: De Ballade van Lucky Fonz III",
+            "owner" : "BROADCASTER",
             "type" : "SUB"
-          }, {
-            "value" : "A Red Wheelbarrow",
-            "owner" : "WHATS_ON",
-            "type" : "ORIGINAL"
           } ],
           "descriptions" : [ {
-            "value" : "Nadat er nieuwe informatie is vrijgekomen over de bomaanslag op Langley, hebben Quinn en Carrie een nieuwe verdachte op het oog. Fara ontdekt dat werken voor de inlichtingendienst zijn tol eist. De Brody familie krijgt geweldig nieuws.",
-            "owner" : "WHATS_ON",
+            "value" : "Vanaf zijn tweede jaar bracht Otto Wichers al zijn zomers door op Vlieland. Eerst met zijn ouders op vakantie, later als medewerker van camping Stortemelk. Daar trad hij enige jaren geleden, na lang zeuren, voor het eerst op onder zijn artiestennaam Lucky Fonz III. Al die jaren is hij zich verbonden blijven voelen met het eiland, waar hij zeker de helft van zijn repertoire schreef. Vele prijzen en een Top 5-hit, 'Ik heb een meisje', later keert hij terug naar Vlieland om op te treden tijdens het popfestival Into The Great Wide Open. Een muzikaal portret van een hedendaagse troubadour.",
+            "owner" : "BROADCASTER",
             "type" : "MAIN"
           }, {
-            "value" : "Nadat er nieuwe informatie is vrijgekomen over de bomaanslag op Langley, hebben Quinn en Carrie een nieuwe verdachte op het oog.",
+            "value" : "Vanaf zijn tweede jaar bracht Otto Wichers al zijn zomers door op Vlieland. Eerst met zijn ouders op vakantie, later als medewerker van camping Stortemelk. Daar trad hij enige jaren geleden, na lang zeuren, voor het eerst op onder zijn artiestennaam Lucky Fonz III. Al die jaren is hij zich verbonden blijven voelen met het eiland, waar hij zeker de helft van zijn repertoire schreef. Vele prijzen en een Top 5-hit, 'Ik heb een meisje', later keert hij terug naar Vlieland om op te treden tijdens het popfestival Into The Great Wide Open. Een muzikaal portret van een hedendaagse troubadour.",
+            "owner" : "NEBO",
+            "type" : "MAIN"
+          }, {
+            "value" : "Vanaf zijn tweede jaar bracht Otto Wichers al zijn zomers door op Vlieland. Eerst met zijn ouders op vakantie, later als medewerker van camping Stortemelk. Daar trad hij enige jaren geleden, na lang zeuren, voor het eerst op onder zijn artiestennaam Lucky Fonz III. Al die jaren is hij zich verbonden blijven voelen met het eiland, waar hij zeker de helft van zijn repertoire schreef. Vele prijzen en een Top 5-hit, 'Ik heb een meisje', later keert hij terug naar Vlieland om op te treden tijdens het popfestival Into The Great Wide Open. Een muzikaal portret van een hedendaagse troubadour.",
+            "owner" : "MIS",
+            "type" : "MAIN"
+          }, {
+            "value" : "Vanaf zijn 2e bracht Otto Wichers al zijn zomers door op Vlieland. Al die jaren is 'Lucky Fonz III' zich verbonden blijven voelen met het eiland. Nu treedt hij er op tijdens Into The Great Wide Open.",
+            "owner" : "BROADCASTER",
+            "type" : "SHORT"
+          }, {
+            "value" : "Vanaf zijn 2e bracht Otto Wichers al zijn zomers door op Vlieland. Al die jaren is 'Lucky Fonz III' zich verbonden blijven voelen met het eiland. Nu treedt hij er op tijdens Into The Great Wide Open.",
+            "owner" : "NEBO",
+            "type" : "SHORT"
+          }, {
+            "value" : "Vanaf zijn 2e bracht Otto Wichers al zijn zomers door op Vlieland. Al die jaren is 'Lucky Fonz III' zich verbonden blijven voelen met het eiland. Nu treedt hij er op tijdens Into The Great Wide Open.",
             "owner" : "MIS",
             "type" : "SHORT"
           }, {
-            "value" : "Nadat er nieuwe informatie is vrijgekomen over de bomaanslag op Langley, hebben Quinn en Carrie een nieuwe verdachte op het oog.",
-            "owner" : "WHATS_ON",
-            "type" : "SHORT"
-          }, {
-            "value" : "Nadat er nieuwe informatie is vrijgekomen over de bomaanslag op Langley, hebben Quinn en Carrie een nieuwe verdachte op het oog.",
-            "owner" : "MIS",
-            "type" : "KICKER"
-          }, {
-            "value" : "Nadat er nieuwe informatie is vrijgekomen over de bomaanslag op Langley, hebben Quinn en Carrie een nieuwe verdachte op het oog. Fara ontdekt dat werken voor de inlichtingendienst zijn tol eist. De Brody-familie krijgt geweldig nieuws.",
-            "owner" : "MIS",
+            "value" : "Documentaire. Vanaf zijn tweede jaar bracht Otto Wichers al zijn zomers door op Vlieland. Eerst met zijn ouders op vakantie, later als medewerker van camping Stortemelk. Daar trad hij enige jaren geleden, na lang zeuren, voor het eerst op onder zijn artiestennaam Lucky Fonz III. Al die jaren is hij zich verbonden blijven voelen met het eiland, waar hij zeker de helft van zijn repertoire schreef. Vele prijzen en een Top 5-hit, 'Ik heb een meisje', later keert hij terug naar Vlieland om op te treden tijdens het popfestival Into The Great Wide Open. Een muzikaal portret van een hedendaagse troubadour.",
+            "owner" : "NEBO",
             "type" : "EPISODE"
           } ],
-          "genres" : [ {
-            "id" : "3.0.1.3.10",
-            "terms" : [ "Serie", "Spanning" ]
-          } ],
-          "countries" : [ {
-            "code" : "US",
-            "value" : "Verenigde Staten"
-          } ],
+          "genres" : [ ],
+          "countries" : [ ],
           "languages" : [ ],
-          "avAttributes" : {
-            "videoAttributes" : {
-              "color" : "BLACK_AND_WHITE_AND_COLOR"
-            },
-            "audioAttributes" : { }
-          },
-          "releaseYear" : 2013,
-          "duration" : 3000000,
           "descendantOf" : [ {
-            "midRef" : "POMS_S_VPRO_171668",
-            "urnRef" : "urn:vpro:media:group:14683553",
-            "type" : "ARCHIVE"
+            "midRef" : "AUTO_DOCDEBALLADEVANLUCKYFONZIII",
+            "urnRef" : "urn:vpro:media:group:14944048",
+            "type" : "SEASON"
           }, {
-            "midRef" : "POMS_S_VPRO_170116",
-            "urnRef" : "urn:vpro:media:group:14921818",
-            "type" : "ARCHIVE"
-          }, {
-            "midRef" : "POMS_S_BNN_123474",
-            "urnRef" : "urn:vpro:media:group:21239456",
+            "midRef" : "POMS_S_EO_098006",
+            "urnRef" : "urn:vpro:media:group:18643585",
             "type" : "SERIES"
           }, {
-            "midRef" : "POW_00633952",
-            "urnRef" : "urn:vpro:media:group:32470230",
-            "type" : "SEASON"
+            "midRef" : "POMS_S_VPRO_522139",
+            "urnRef" : "urn:vpro:media:group:40914217",
+            "type" : "COLLECTION"
+          }, {
+            "midRef" : "POMS_S_VPRO_522208",
+            "urnRef" : "urn:vpro:media:group:40917007",
+            "type" : "COLLECTION"
           } ],
-          "ageRating" : "12",
-          "contentRatings" : [ "GEWELD", "ANGST", "GROF_TAALGEBRUIK" ],
           "predictions" : [ {
             "state" : "REALIZED",
-            "publishStart" : 1390767105000,
-            "publishStop" : 1422389505000,
-            "platform" : "PLUSVOD"
+            "publishStart" : 1343683980000,
+            "platform" : "INTERNETVOD"
           } ],
           "locations" : [ {
-            "programUrl" : "odip+http://odi.omroep.nl/video/adaptive/POW_00633964",
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_sb/VPWON_1173267",
             "avAttributes" : {
-              "avFileFormat" : "HASP"
+              "bitrate" : 204800,
+              "avFileFormat" : "MP4",
+              "videoAttributes" : {
+                "videoCoding" : "WM",
+                "aspectRatio" : "16:9"
+              }
             },
-            "creationDate" : 1390768863704,
-            "lastModified" : 1390768863860,
+            "owner" : "NEBO",
+            "creationDate" : 1343684169497,
+            "lastModified" : 1360092718399,
+            "publishStart" : 1343683980000,
             "workflow" : "PUBLISHED",
-            "owner" : "CERES",
             "platform" : "INTERNETVOD",
-            "urn" : "urn:vpro:media:location:36072245"
+            "urn" : "urn:vpro:media:location:14944042"
           }, {
-            "programUrl" : "odi+http://odi.omroep.nl/video/h264_sb/POW_00633964",
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_bb/VPWON_1173267",
             "avAttributes" : {
-              "bitrate" : 200000,
-              "avFileFormat" : "H264"
+              "bitrate" : 512000,
+              "avFileFormat" : "MP4",
+              "videoAttributes" : {
+                "videoCoding" : "WM",
+                "aspectRatio" : "16:9"
+              }
             },
-            "creationDate" : 1390767370876,
-            "lastModified" : 1390767371040,
+            "owner" : "NEBO",
+            "creationDate" : 1343684169565,
+            "lastModified" : 1360092718398,
+            "publishStart" : 1343683980000,
             "workflow" : "PUBLISHED",
-            "owner" : "CERES",
             "platform" : "INTERNETVOD",
-            "urn" : "urn:vpro:media:location:36072206"
+            "urn" : "urn:vpro:media:location:14944044"
           }, {
-            "programUrl" : "odi+http://odi.omroep.nl/video/h264_bb/POW_00633964",
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_std/VPWON_1173267",
             "avAttributes" : {
-              "bitrate" : 500000,
-              "avFileFormat" : "H264"
+              "bitrate" : 1024000,
+              "avFileFormat" : "MP4",
+              "videoAttributes" : {
+                "videoCoding" : "WM",
+                "aspectRatio" : "16:9"
+              }
             },
-            "creationDate" : 1390767371372,
-            "lastModified" : 1390767371592,
+            "owner" : "NEBO",
+            "creationDate" : 1343684469911,
+            "lastModified" : 1360092718398,
+            "publishStart" : 1343683980000,
             "workflow" : "PUBLISHED",
-            "owner" : "CERES",
             "platform" : "INTERNETVOD",
-            "urn" : "urn:vpro:media:location:36072208"
+            "urn" : "urn:vpro:media:location:14944056"
           }, {
-            "programUrl" : "odi+http://odi.omroep.nl/video/h264_std/POW_00633964",
+            "programUrl" : "odi+http://odi.omroep.nl/video/wvc1_std/VPWON_1173267",
             "avAttributes" : {
-              "bitrate" : 1000000,
-              "avFileFormat" : "H264"
+              "bitrate" : 1024000,
+              "avFileFormat" : "WVC1",
+              "videoAttributes" : {
+                "videoCoding" : "WM",
+                "aspectRatio" : "16:9"
+              }
             },
-            "creationDate" : 1390767970474,
-            "lastModified" : 1390767970727,
+            "owner" : "NEBO",
+            "creationDate" : 1343684469812,
+            "lastModified" : 1360092718398,
+            "publishStart" : 1343683980000,
             "workflow" : "PUBLISHED",
-            "owner" : "CERES",
             "platform" : "INTERNETVOD",
-            "urn" : "urn:vpro:media:location:36072222"
+            "urn" : "urn:vpro:media:location:14944054"
           }, {
-            "programUrl" : "sub+http//npoplus.nl/video/mpeg2_hr/POW_00633964",
+            "programUrl" : "odi+http://odi.omroep.nl/video/wmv_sb/VPWON_1173267",
             "avAttributes" : {
-              "bitrate" : 3500000,
-              "avFileFormat" : "MPEG2"
+              "bitrate" : 204800,
+              "avFileFormat" : "WM",
+              "videoAttributes" : {
+                "videoCoding" : "WM",
+                "aspectRatio" : "16:9"
+              }
             },
-            "creationDate" : 1390767672155,
-            "lastModified" : 1390767672299,
-            "publishStart" : 1390767105000,
-            "publishStop" : 1422389505000,
+            "owner" : "NEBO",
+            "creationDate" : 1343684169433,
+            "lastModified" : 1360092718399,
+            "publishStart" : 1343683980000,
             "workflow" : "PUBLISHED",
-            "owner" : "CERES",
-            "platform" : "PLUSVOD",
-            "urn" : "urn:vpro:media:location:36072216"
+            "platform" : "INTERNETVOD",
+            "urn" : "urn:vpro:media:location:14944040"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/wmv_bb/VPWON_1173267",
+            "avAttributes" : {
+              "bitrate" : 512000,
+              "avFileFormat" : "WM",
+              "videoAttributes" : {
+                "videoCoding" : "WM",
+                "aspectRatio" : "16:9"
+              }
+            },
+            "owner" : "NEBO",
+            "creationDate" : 1343684169343,
+            "lastModified" : 1360092718399,
+            "publishStart" : 1343683980000,
+            "workflow" : "PUBLISHED",
+            "platform" : "INTERNETVOD",
+            "urn" : "urn:vpro:media:location:14944036"
           } ],
           "scheduleEvents" : [ {
-            "memberOf" : "crid://bds.tv/17400359",
-            "avAttributes" : {
-              "videoAttributes" : { }
+            "repeat" : {
+              "isRerun" : true
             },
-            "start" : 1390764600000,
-            "offset" : -156000,
-            "duration" : 3000000,
-            "poProgID" : "POW_00633964",
+            "avAttributes" : {
+              "bitrate" : 0,
+              "avFileFormat" : "WM",
+              "videoAttributes" : {
+                "videoCoding" : "WM",
+                "aspectRatio" : "16:9"
+              }
+            },
+            "textSubtitles" : "Teletekst ondertitels",
+            "start" : 1343681100000,
+            "duration" : 3300000,
+            "poProgID" : "VPWON_1173267",
             "channel" : "NED3",
-            "net" : "NED3",
-            "imi" : "imi:51075",
-            "urnRef" : "urn:vpro:media:program:34883840",
-            "midRef" : "POW_00633964"
-          }, {
-            "start" : 1420329000000,
-            "offset" : -245000,
-            "duration" : 2702000,
-            "poProgID" : "POW_00633964",
-            "channel" : "NED3",
-            "net" : "NED3",
-            "urnRef" : "urn:vpro:media:program:34883840",
-            "midRef" : "POW_00633964"
+            "urnRef" : "urn:vpro:media:program:13627861",
+            "midRef" : "VPWON_1173267"
           } ],
           "images" : [ {
-            "title" : "Homeland",
-            "description" : "Nadat er nieuwe informatie is vrijgekomen over de bomaanslag op Langley, hebben Quinn en Carrie een nieuwe verdachte op het oog. Fara ontdekt dat werken voor de inlichtingendienst zijn tol eist.",
-            "imageUri" : "urn:vpro:image:367950",
-            "creationDate" : 1390768215091,
-            "lastModified" : 1390768242548,
-            "workflow" : "PUBLISHED",
+            "title" : "3DOC: De Ballade van Lucky Fonz III",
+            "description" : "Vanaf zijn 2e bracht Otto Wichers al zijn zomers door op Vlieland. Al die jaren is 'Lucky Fonz III' zich verbonden blijven voelen met het eiland. Nu treedt hij er op tijdens Into The Great Wide Open.",
+            "imageUri" : "urn:vpro:image:90682",
             "owner" : "NEBO",
             "type" : "STILL",
             "highlighted" : false,
-            "urn" : "urn:vpro:media:image:36072236"
+            "creationDate" : 1343685604232,
+            "lastModified" : 1343685608108,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:14944076"
           }, {
-            "title" : "Homeland",
-            "description" : "Nadat er nieuwe informatie is vrijgekomen over de bomaanslag op Langley, hebben Quinn en Carrie een nieuwe verdachte op het oog. Fara ontdekt dat werken voor de inlichtingendienst zijn tol eist.",
-            "imageUri" : "urn:vpro:image:367951",
-            "creationDate" : 1390768228061,
-            "lastModified" : 1390768242548,
-            "workflow" : "PUBLISHED",
+            "title" : "3DOC: De Ballade van Lucky Fonz III",
+            "description" : "Vanaf zijn 2e bracht Otto Wichers al zijn zomers door op Vlieland. Al die jaren is 'Lucky Fonz III' zich verbonden blijven voelen met het eiland. Nu treedt hij er op tijdens Into The Great Wide Open.",
+            "imageUri" : "urn:vpro:image:90683",
             "owner" : "NEBO",
             "type" : "STILL",
             "highlighted" : false,
-            "urn" : "urn:vpro:media:image:36072237"
+            "creationDate" : 1343685606201,
+            "lastModified" : 1343685608110,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:14944077"
           }, {
-            "title" : "Homeland",
-            "description" : "Nadat er nieuwe informatie is vrijgekomen over de bomaanslag op Langley, hebben Quinn en Carrie een nieuwe verdachte op het oog. Fara ontdekt dat werken voor de inlichtingendienst zijn tol eist.",
-            "imageUri" : "urn:vpro:image:367952",
-            "creationDate" : 1390768242389,
-            "lastModified" : 1390768242549,
-            "workflow" : "PUBLISHED",
+            "title" : "3DOC: De Ballade van Lucky Fonz III",
+            "description" : "Vanaf zijn 2e bracht Otto Wichers al zijn zomers door op Vlieland. Al die jaren is 'Lucky Fonz III' zich verbonden blijven voelen met het eiland. Nu treedt hij er op tijdens Into The Great Wide Open.",
+            "imageUri" : "urn:vpro:image:90684",
             "owner" : "NEBO",
             "type" : "STILL",
             "highlighted" : false,
-            "urn" : "urn:vpro:media:image:36072238"
+            "creationDate" : 1343685608102,
+            "lastModified" : 1343685608119,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:14944078"
           } ],
           "workflow" : "PUBLISHED",
           "type" : "BROADCAST",
@@ -512,13 +599,13 @@
       } ],
       "images" : [ {
         "type" : "PICTURE",
-        "url" : "http://images.poms.omroep.nl/image/s360/367950.jpg",
-        "title" : "Homeland",
-        "description" : "Nadat er nieuwe informatie is vrijgekomen over de bomaanslag op Langley, hebben Quinn en Carrie een nieuwe verdachte op het oog. Fara ontdekt dat werken voor de inlichtingendienst zijn tol eist."
+        "url" : "http://images.poms.omroep.nl/image/s360/90682.jpg",
+        "title" : "3DOC: De Ballade van Lucky Fonz III",
+        "description" : "Vanaf zijn 2e bracht Otto Wichers al zijn zomers door op Vlieland. Al die jaren is 'Lucky Fonz III' zich verbonden blijven voelen met het eiland. Nu treedt hij er op tijdens Into The Great Wide Open."
       } ],
-      "publishStart" : 1390764600000,
-      "creationDate" : 1418919087087,
-      "lastModified" : 1419482685610,
+      "publishStart" : 1343681100000,
+      "creationDate" : 1425941471519,
+      "lastModified" : 1426026098187,
       "refCount" : 0
     }
   } ]

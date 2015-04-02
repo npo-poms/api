@@ -4,196 +4,104 @@
   "mediaFacets" : {
     "descendantOf" : [ {
       "count" : 1,
-      "id" : "AUTO_ALIBGEEFTANTWOORD",
-      "value" : "Ali B geeft antwoord",
-      "type" : "SEASON"
-    }, {
-      "count" : 1,
-      "id" : "AUTO_ANDRRIEUINDEARENA",
-      "value" : "André Rieu in de ArenA",
-      "type" : "SEASON"
-    }, {
-      "count" : 1,
-      "id" : "AUTO_ANDRRIEUINHEIDELBERGEENAVON",
-      "value" : "André Rieu in Heidelberg, een avond vol romantiek",
-      "type" : "SEASON"
-    }, {
-      "count" : 3,
-      "id" : "AUTO_ANDRRIEUOPHETVRIJTHOF",
-      "value" : "André Rieu op het Vrijthof",
-      "type" : "SEASON"
-    }, {
-      "count" : 3,
-      "id" : "AUTO_AVONDCONCERT",
-      "value" : "Avondconcert",
-      "type" : "SERIES"
-    }, {
-      "count" : 87,
-      "id" : "AUTO_DEBARBIERVANHILVERSUM",
-      "value" : "De Barbier van Hilversum",
-      "type" : "SERIES"
-    }, {
-      "count" : 1,
-      "id" : "AUTO_EENGOEDEMORGENM",
-      "value" : "Een goedemorgen met...",
-      "type" : "SERIES"
-    }, {
-      "count" : 106,
       "id" : "AUTO_EENGOEDEMORGENMET",
       "value" : "Een goedemorgen met...",
       "type" : "SERIES"
     }, {
-      "count" : 109,
+      "count" : 2,
       "id" : "AUTO_ERNSTDANIL",
       "value" : "Ernst Daniël",
       "type" : "SERIES"
     }, {
-      "count" : 12,
-      "id" : "AUTO_HETCONCERTHUISDEVRIJDAGVANV",
-      "value" : "De Vrijdag van Vredenburg",
+      "count" : 2,
+      "id" : "AUTO_HITTEHARARA",
+      "value" : "Telefilm",
+      "type" : "SEASON"
+    }, {
+      "count" : 4,
+      "id" : "AUTO_LOVERBOY",
+      "value" : "Telefilm",
+      "type" : "SEASON"
+    }, {
+      "count" : 6,
+      "id" : "POMS_S_NTR_103965",
+      "value" : "Telefilm",
       "type" : "SERIES"
+    }, {
+      "count" : 6,
+      "id" : "POMS_S_VPRO_170116",
+      "value" : "Cultura collectie film/drama",
+      "type" : "ARCHIVE"
+    }, {
+      "count" : 3,
+      "id" : "POMS_S_VPRO_170117",
+      "value" : "Cultura collectie klassiek",
+      "type" : "ARCHIVE"
+    }, {
+      "count" : 9,
+      "id" : "POMS_S_VPRO_171668",
+      "value" : "Cultura hoofdcollectie",
+      "type" : "ARCHIVE"
+    }, {
+      "count" : 3,
+      "id" : "POMS_S_VPRO_195283",
+      "value" : "Woord.nl",
+      "type" : "ARCHIVE"
+    }, {
+      "count" : 1,
+      "id" : "POMS_S_VPRO_405636",
+      "value" : "Tegenlicht",
+      "type" : "SERIES"
+    }, {
+      "count" : 1,
+      "id" : "POMS_S_VPRO_406593",
+      "value" : "Tegenlicht 2011-2012",
+      "type" : "SEASON"
+    }, {
+      "count" : 2,
+      "id" : "POMS_S_VPRO_417550",
+      "value" : "Hoorspel",
+      "type" : "COLLECTION"
+    }, {
+      "count" : 1,
+      "id" : "POMS_S_VPRO_417554",
+      "value" : "Interview",
+      "type" : "COLLECTION"
+    }, {
+      "count" : 1,
+      "id" : "POMS_S_VPRO_417559",
+      "value" : "Reportage",
+      "type" : "COLLECTION"
+    }, {
+      "count" : 1,
+      "id" : "POMS_S_VPRO_522139",
+      "value" : "NPO Doc Collecties",
+      "type" : "COLLECTION"
+    }, {
+      "count" : 1,
+      "id" : "POMS_S_VPRO_522208",
+      "value" : "NPO Doc Series",
+      "type" : "COLLECTION"
+    }, {
+      "count" : 2,
+      "id" : "RBX_TROS_726288",
+      "value" : "Ernst Daniël",
+      "type" : "BROADCAST"
     } ]
   },
   "mediaSelectedFacets" : { },
-  "total" : 648,
+  "total" : 816,
   "offset" : 0,
   "max" : 2,
   "items" : [ {
-    "score" : 11.463475,
+    "score" : 5.8585773,
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",
       "type" : "PLAYER",
-      "url" : "http://cultura-sample.localhost/speel.RBX_TROS_543907.html",
-      "sortDate" : 1417971600000,
-      "crids" : [ "crid://vpro/media/cultura/RBX_TROS_543907" ],
-      "broadcasters" : [ {
-        "id" : "TROS",
-        "value" : "TROS"
-      } ],
-      "portal" : {
-        "id" : "CULTURA24",
-        "url" : "http://cultura-sample.localhost",
-        "value" : "NPO Cultura"
-      },
-      "title" : "Ernst Daniël",
-      "genres" : [ {
-        "id" : "3.0.3.5",
-        "terms" : [ "Klassiek" ],
-        "displayName" : "Klassiek"
-      } ],
-      "embeds" : [ {
-        "title" : "Ernst Daniël",
-        "description" : "Ernst Daniël is een programma met passie voor opera en operazangers, gepresenteerd door Ernst Daniël Smid. Elke week staat een operazanger of -diva centraal en daarna hoort u hoogtepunten uit de beroemdste opera's.",
-        "media" : {
-          "objectType" : "program",
-          "mid" : "RBX_TROS_543907",
-          "creationDate" : 1401527817448,
-          "lastModified" : 1417980005255,
-          "sortDate" : 1417971600000,
-          "urn" : "urn:vpro:media:program:42106628",
-          "embeddable" : true,
-          "episodeOf" : [ {
-            "midRef" : "AUTO_ERNSTDANIL",
-            "urnRef" : "urn:vpro:media:group:13405644",
-            "type" : "SERIES",
-            "index" : 1,
-            "highlighted" : false,
-            "added" : 1401527817495
-          } ],
-          "crids" : [ "crid://broadcast.radiobox2/260658" ],
-          "broadcasters" : [ {
-            "id" : "TROS",
-            "value" : "TROS"
-          } ],
-          "titles" : [ {
-            "value" : "Ernst Daniël",
-            "owner" : "RADIOBOX",
-            "type" : "MAIN"
-          } ],
-          "descriptions" : [ {
-            "value" : "Ernst Daniël is een programma met passie voor opera en operazangers, gepresenteerd door Ernst Daniël Smid. Elke week staat een operazanger of -diva centraal en daarna hoort u hoogtepunten uit de beroemdste opera's.",
-            "owner" : "RADIOBOX",
-            "type" : "MAIN"
-          } ],
-          "genres" : [ ],
-          "countries" : [ ],
-          "languages" : [ ],
-          "duration" : 7200000,
-          "descendantOf" : [ {
-            "midRef" : "AUTO_ERNSTDANIL",
-            "urnRef" : "urn:vpro:media:group:13405644",
-            "type" : "SERIES"
-          }, {
-            "midRef" : "POMS_S_VPRO_171668",
-            "urnRef" : "urn:vpro:media:group:14683553",
-            "type" : "ARCHIVE"
-          }, {
-            "midRef" : "POMS_S_VPRO_170117",
-            "urnRef" : "urn:vpro:media:group:14921910",
-            "type" : "ARCHIVE"
-          } ],
-          "email" : [ "klassiek@avrotros.nl" ],
-          "websites" : [ {
-            "value" : "http://www.radio4.nl/ernstdaniel"
-          } ],
-          "locations" : [ {
-            "programUrl" : "http://download.omroep.nl/audiologging/r4/2014/12/07/1800_2000_ernst_daniel_20141207.mp3",
-            "avAttributes" : {
-              "avFileFormat" : "MP3"
-            },
-            "duration" : 7200000,
-            "owner" : "RADIOBOX",
-            "creationDate" : 1417979951063,
-            "lastModified" : 1417980005252,
-            "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:location:44958885"
-          } ],
-          "scheduleEvents" : [ {
-            "start" : 1417971600000,
-            "duration" : 7200000,
-            "poProgID" : "RBX_TROS_543907",
-            "channel" : "RAD4",
-            "urnRef" : "urn:vpro:media:program:42106628",
-            "midRef" : "RBX_TROS_543907"
-          } ],
-          "images" : [ {
-            "title" : "Ernst-Daniel-Smid.jpg",
-            "description" : "Ernst Daniël",
-            "imageUri" : "urn:vpro:image:120780",
-            "owner" : "RADIOBOX",
-            "type" : "PICTURE",
-            "highlighted" : false,
-            "creationDate" : 1401527817331,
-            "lastModified" : 1401527817453,
-            "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:image:42106630"
-          } ],
-          "workflow" : "PUBLISHED",
-          "type" : "BROADCAST",
-          "avType" : "AUDIO"
-        }
-      } ],
-      "images" : [ {
-        "type" : "PICTURE",
-        "url" : "http://images.poms.omroep.nl/image/s360/120780.jpg",
-        "title" : "Ernst-Daniel-Smid.jpg",
-        "description" : "Ernst Daniël"
-      } ],
-      "publishStart" : 1417971600000,
-      "creationDate" : 1418747657328,
-      "lastModified" : 1418747657335,
-      "refCount" : 0
-    }
-  }, {
-    "score" : 11.4448,
-    "highlights" : [ ],
-    "result" : {
-      "objectType" : "page",
-      "type" : "PLAYER",
-      "url" : "http://www-test.cultura.nl/speel.RBX_TROS_544049.html",
-      "sortDate" : 1416762000000,
-      "crids" : [ "crid://vpro/media/cultura/RBX_TROS_544049" ],
+      "url" : "http://www-test.cultura.nl/speel.RBX_TROS_813980.html",
+      "sortDate" : 1427644800000,
+      "crids" : [ "crid://vpro/media/cultura/RBX_TROS_813980" ],
       "broadcasters" : [ {
         "id" : "TROS",
         "value" : "TROS"
@@ -203,50 +111,42 @@
         "url" : "http://www-test.cultura.nl",
         "value" : "NPO Cultura"
       },
-      "title" : "Ernst Daniël",
+      "title" : "Portret van Carolyn Sampson",
       "genres" : [ {
         "id" : "3.0.3.5",
         "terms" : [ "Klassiek" ],
         "displayName" : "Klassiek"
       } ],
       "embeds" : [ {
-        "title" : "Ernst Daniël",
-        "description" : "Ernst Daniël is een programma met passie voor opera en operazangers, gepresenteerd door Ernst Daniël Smid. Elke week staat een operazanger of -diva centraal en daarna hoort u hoogtepunten uit de beroemdste opera's.",
+        "title" : "Portret van Carolyn Sampson",
+        "description" : "De Britse sopraan Carolyn Sampson met een bloemrijk programma dat vele eeuwen omvat. Purcell, Fauré, Schumann: ze delen een grote liefde voor de natuur. Van viooltje tot sneeuwklokje, bloemen inspireren componisten tot de lieflijkste liederen. Toutes les fleursVan oudsher heeft elke bloem zijn eigen betekenis. Een witte chrysant zou voor de waarheid staan, een paarse hyacint vraagt de ontvanger om vergiffenis. Hoe bloemen hun vertrouwelijke informatie overbrengen, bezingt Carolyn Samson in dit portret. Purcell & Schumann storten zich op de roos. En Chabrier? Die neemt meteen Toutes les fleurs.",
         "media" : {
-          "objectType" : "program",
-          "mid" : "RBX_TROS_544049",
-          "creationDate" : 1401529319234,
-          "lastModified" : 1417039620794,
-          "sortDate" : 1416762000000,
-          "urn" : "urn:vpro:media:program:42107289",
+          "objectType" : "segment",
+          "mid" : "RBX_TROS_813980",
+          "creationDate" : 1427517922907,
+          "lastModified" : 1427517942461,
+          "sortDate" : 1427644800000,
+          "urn" : "urn:vpro:media:segment:46776019",
           "embeddable" : true,
-          "episodeOf" : [ {
-            "midRef" : "AUTO_ERNSTDANIL",
-            "urnRef" : "urn:vpro:media:group:13405644",
-            "type" : "SERIES",
-            "index" : 1,
-            "highlighted" : false,
-            "added" : 1401529319255
-          } ],
-          "crids" : [ "crid://broadcast.radiobox2/260656" ],
+          "crids" : [ "crid://item.radiobox2/278762" ],
           "broadcasters" : [ {
             "id" : "TROS",
             "value" : "TROS"
           } ],
           "titles" : [ {
-            "value" : "Ernst Daniël",
+            "value" : "Portret van Carolyn Sampson",
             "owner" : "RADIOBOX",
             "type" : "MAIN"
           } ],
           "descriptions" : [ {
-            "value" : "Ernst Daniël is een programma met passie voor opera en operazangers, gepresenteerd door Ernst Daniël Smid. Elke week staat een operazanger of -diva centraal en daarna hoort u hoogtepunten uit de beroemdste opera's.",
+            "value" : "De Britse sopraan Carolyn Sampson met een bloemrijk programma dat vele eeuwen omvat. Purcell, Fauré, Schumann: ze delen een grote liefde voor de natuur. Van viooltje tot sneeuwklokje, bloemen inspireren componisten tot de lieflijkste liederen. Toutes les fleursVan oudsher heeft elke bloem zijn eigen betekenis. Een witte chrysant zou voor de waarheid staan, een paarse hyacint vraagt de ontvanger om vergiffenis. Hoe bloemen hun vertrouwelijke informatie overbrengen, bezingt Carolyn Samson in dit portret. Purcell & Schumann storten zich op de roos. En Chabrier? Die neemt meteen Toutes les fleurs.",
             "owner" : "RADIOBOX",
             "type" : "MAIN"
           } ],
           "genres" : [ ],
           "countries" : [ ],
           "languages" : [ ],
-          "duration" : 7200000,
+          "duration" : 180000,
           "descendantOf" : [ {
             "midRef" : "AUTO_ERNSTDANIL",
             "urnRef" : "urn:vpro:media:group:13405644",
@@ -259,57 +159,144 @@
             "midRef" : "POMS_S_VPRO_170117",
             "urnRef" : "urn:vpro:media:group:14921910",
             "type" : "ARCHIVE"
-          } ],
-          "email" : [ "klassiek@avrotros.nl" ],
-          "websites" : [ {
-            "value" : "http://www.radio4.nl/ernstdaniel"
-          } ],
-          "locations" : [ {
-            "programUrl" : "http://download.omroep.nl/audiologging/r4/2014/11/23/1800_2000_ernst_daniel_20141123.mp3",
-            "avAttributes" : {
-              "avFileFormat" : "MP3"
-            },
-            "duration" : 7200000,
-            "owner" : "RADIOBOX",
-            "creationDate" : 1417039619520,
-            "lastModified" : 1417039620022,
-            "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:location:44834647"
-          } ],
-          "scheduleEvents" : [ {
-            "start" : 1416762000000,
-            "duration" : 7200000,
-            "poProgID" : "RBX_TROS_544049",
-            "channel" : "RAD4",
-            "urnRef" : "urn:vpro:media:program:42107289",
-            "midRef" : "RBX_TROS_544049"
+          }, {
+            "midRef" : "RBX_TROS_726288",
+            "urnRef" : "urn:vpro:media:program:46120701",
+            "type" : "BROADCAST"
           } ],
           "images" : [ {
-            "title" : "Ernst-Daniel-Smid.jpg",
-            "description" : "Ernst Daniël",
-            "imageUri" : "urn:vpro:image:120780",
+            "title" : "Carolyn Sampson",
+            "imageUri" : "urn:vpro:image:399863",
+            "height" : 1063,
+            "width" : 1063,
             "owner" : "RADIOBOX",
             "type" : "PICTURE",
             "highlighted" : false,
-            "creationDate" : 1401529319059,
-            "lastModified" : 1401529319238,
+            "creationDate" : 1427517919401,
+            "lastModified" : 1427517942463,
             "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:image:42107291"
+            "urn" : "urn:vpro:media:image:46776021"
           } ],
+          "publishDate" : 1427518385429,
           "workflow" : "PUBLISHED",
-          "type" : "BROADCAST",
+          "start" : 0,
+          "urnRef" : "urn:vpro:media:program:46120701",
+          "midRef" : "RBX_TROS_726288",
+          "type" : "SEGMENT",
           "avType" : "AUDIO"
         }
       } ],
       "images" : [ {
         "type" : "PICTURE",
-        "url" : "http://images.poms.omroep.nl/image/s360/120780.jpg",
-        "title" : "Ernst-Daniel-Smid.jpg",
-        "description" : "Ernst Daniël"
+        "url" : "http://images.poms.omroep.nl/image/s360/399863.jpg",
+        "title" : "Carolyn Sampson"
       } ],
-      "publishStart" : 1416762000000,
-      "creationDate" : 1417244633221,
-      "lastModified" : 1417244633227,
+      "publishStart" : 1427644800000,
+      "creationDate" : 1427718085901,
+      "lastModified" : 1427718086430,
+      "refCount" : 0
+    }
+  }, {
+    "score" : 5.8059564,
+    "highlights" : [ ],
+    "result" : {
+      "objectType" : "page",
+      "type" : "PLAYER",
+      "url" : "http://www-test.cultura.nl/speel.RBX_TROS_813983.html",
+      "sortDate" : 1427644800000,
+      "crids" : [ "crid://vpro/media/cultura/RBX_TROS_813983" ],
+      "broadcasters" : [ {
+        "id" : "TROS",
+        "value" : "TROS"
+      } ],
+      "portal" : {
+        "id" : "CULTURA24",
+        "url" : "http://www-test.cultura.nl",
+        "value" : "NPO Cultura"
+      },
+      "title" : "Operathema: Lente",
+      "genres" : [ {
+        "id" : "3.0.3.5",
+        "terms" : [ "Klassiek" ],
+        "displayName" : "Klassiek"
+      } ],
+      "embeds" : [ {
+        "title" : "Operathema: Lente",
+        "description" : "Het thema van deze uitzending is de lente met prachtige muziek van o.a. Mendelssohn, Tsjaikovski & Wagner. En natuurlijk kan de lente uit de vier jaargetijden van Vivaldi niet ontbreken.",
+        "media" : {
+          "objectType" : "segment",
+          "mid" : "RBX_TROS_813983",
+          "creationDate" : 1427517922908,
+          "lastModified" : 1427517942464,
+          "sortDate" : 1427644800000,
+          "urn" : "urn:vpro:media:segment:46776023",
+          "embeddable" : true,
+          "crids" : [ "crid://item.radiobox2/278763" ],
+          "broadcasters" : [ {
+            "id" : "TROS",
+            "value" : "TROS"
+          } ],
+          "titles" : [ {
+            "value" : "Operathema: Lente",
+            "owner" : "RADIOBOX",
+            "type" : "MAIN"
+          } ],
+          "descriptions" : [ {
+            "value" : "Het thema van deze uitzending is de lente met prachtige muziek van o.a. Mendelssohn, Tsjaikovski & Wagner. En natuurlijk kan de lente uit de vier jaargetijden van Vivaldi niet ontbreken.",
+            "owner" : "RADIOBOX",
+            "type" : "MAIN"
+          } ],
+          "genres" : [ ],
+          "countries" : [ ],
+          "languages" : [ ],
+          "duration" : 180000,
+          "descendantOf" : [ {
+            "midRef" : "AUTO_ERNSTDANIL",
+            "urnRef" : "urn:vpro:media:group:13405644",
+            "type" : "SERIES"
+          }, {
+            "midRef" : "POMS_S_VPRO_171668",
+            "urnRef" : "urn:vpro:media:group:14683553",
+            "type" : "ARCHIVE"
+          }, {
+            "midRef" : "POMS_S_VPRO_170117",
+            "urnRef" : "urn:vpro:media:group:14921910",
+            "type" : "ARCHIVE"
+          }, {
+            "midRef" : "RBX_TROS_726288",
+            "urnRef" : "urn:vpro:media:program:46120701",
+            "type" : "BROADCAST"
+          } ],
+          "images" : [ {
+            "title" : "lente.jpg",
+            "imageUri" : "urn:vpro:image:136280",
+            "height" : 300,
+            "width" : 400,
+            "owner" : "RADIOBOX",
+            "type" : "PICTURE",
+            "highlighted" : false,
+            "creationDate" : 1427517920139,
+            "lastModified" : 1427517942465,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:46776025"
+          } ],
+          "publishDate" : 1427518385207,
+          "workflow" : "PUBLISHED",
+          "start" : 3600000,
+          "urnRef" : "urn:vpro:media:program:46120701",
+          "midRef" : "RBX_TROS_726288",
+          "type" : "SEGMENT",
+          "avType" : "AUDIO"
+        }
+      } ],
+      "images" : [ {
+        "type" : "PICTURE",
+        "url" : "http://images.poms.omroep.nl/image/s360/136280.jpg",
+        "title" : "lente.jpg"
+      } ],
+      "publishStart" : 1427644800000,
+      "creationDate" : 1427718085412,
+      "lastModified" : 1427718085525,
       "refCount" : 0
     }
   } ]

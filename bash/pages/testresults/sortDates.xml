@@ -1,0 +1,1105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<api:pageSearchResult xmlns="urn:vpro:media:2009" xmlns:shared="urn:vpro:shared:2009" xmlns:pages="urn:vpro:pages:2013" xmlns:api="urn:vpro:api:2013" xmlns:media="urn:vpro:media:2009" total="41612" offset="0" max="2">
+  <api:items>
+    <api:item xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="api:searchResultItem" score="0.0">
+      <api:result xsi:type="pages:pageType" url="http://www-acc.vpro.nl/speel.WO_VPRO_1244640.html" creationDate="2014-12-30T09:42:07.915+01:00" lastModified="2014-12-30T09:42:07.919+01:00" publishStart="0002-12-08T00:00:00+01:00" refCount="0" sortDate="0002-12-08T00:00:00+01:00" type="PLAYER">
+        <pages:crid>crid://vpro/media/vpro/WO_VPRO_1244640</pages:crid>
+        <pages:broadcaster id="VPRO">VPRO</pages:broadcaster>
+        <pages:portal id="VPRONL" url="http://www-acc.vpro.nl">
+          <pages:name>VPRO.nl</pages:name>
+        </pages:portal>
+        <pages:title>Metropolis</pages:title>
+        <pages:images>
+          <pages:image type="PICTURE" url="http://images.poms.omroep.nl/image/s360/478755.jpg">
+            <pages:title>Verzet</pages:title>
+            <pages:description/>
+          </pages:image>
+        </pages:images>
+      </api:result>
+    </api:item>
+    <api:item xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="api:searchResultItem" score="0.0">
+      <api:result xsi:type="pages:pageType" url="http://www-acc.vpro.nl/speel.POMS_VPRO_1243562.html" creationDate="2014-12-30T09:42:16.919+01:00" lastModified="2014-12-30T09:42:16.926+01:00" publishStart="0003-01-01T00:00:00+01:00" refCount="0" sortDate="0003-01-01T00:00:00+01:00" type="PLAYER">
+        <pages:crid>crid://vpro/media/vpro/POMS_VPRO_1243562</pages:crid>
+        <pages:broadcaster id="VPRO">VPRO</pages:broadcaster>
+        <pages:portal id="VPRONL" url="http://www-acc.vpro.nl">
+          <pages:name>VPRO.nl</pages:name>
+        </pages:portal>
+        <pages:title>Metropolis</pages:title>
+        <pages:images>
+          <pages:image type="PICTURE" url="http://images.poms.omroep.nl/image/s360/478007.jpg">
+            <pages:title>Dikke dames doen het goed in Bolivia</pages:title>
+            <pages:description/>
+          </pages:image>
+        </pages:images>
+      </api:result>
+    </api:item>
+  </api:items>
+  <api:facets>
+    <api:sortDates value="0002">
+      <api:count>2</api:count>
+      <api:begin>0002-01-03T01:00:00+01:00</api:begin>
+      <api:end>0003-01-03T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="0007">
+      <api:count>27</api:count>
+      <api:begin>0007-01-03T01:00:00+01:00</api:begin>
+      <api:end>0008-01-03T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="0015">
+      <api:count>4</api:count>
+      <api:begin>0015-01-03T01:00:00+01:00</api:begin>
+      <api:end>0016-01-03T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="0020">
+      <api:count>2</api:count>
+      <api:begin>0020-01-03T01:00:00+01:00</api:begin>
+      <api:end>0021-01-03T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="0021">
+      <api:count>4</api:count>
+      <api:begin>0021-01-03T01:00:00+01:00</api:begin>
+      <api:end>0022-01-03T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="0026">
+      <api:count>1</api:count>
+      <api:begin>0026-01-03T01:00:00+01:00</api:begin>
+      <api:end>0027-01-03T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="0028">
+      <api:count>3</api:count>
+      <api:begin>0028-01-03T01:00:00+01:00</api:begin>
+      <api:end>0029-01-03T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="0103">
+      <api:count>1</api:count>
+      <api:begin>0103-01-02T01:00:00+01:00</api:begin>
+      <api:end>0104-01-02T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="0304">
+      <api:count>1</api:count>
+      <api:begin>0303-12-31T01:00:00+01:00</api:begin>
+      <api:end>0304-12-31T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="0402">
+      <api:count>7</api:count>
+      <api:begin>0401-12-31T01:00:00+01:00</api:begin>
+      <api:end>0402-12-31T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="0604">
+      <api:count>3</api:count>
+      <api:begin>0603-12-29T01:00:00+01:00</api:begin>
+      <api:end>0604-12-29T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="0703">
+      <api:count>3</api:count>
+      <api:begin>0702-12-28T01:00:00+01:00</api:begin>
+      <api:end>0703-12-28T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="0737">
+      <api:count>13</api:count>
+      <api:begin>0736-12-28T01:00:00+01:00</api:begin>
+      <api:end>0737-12-28T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="0804">
+      <api:count>1</api:count>
+      <api:begin>0803-12-28T01:00:00+01:00</api:begin>
+      <api:end>0804-12-28T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="0903">
+      <api:count>1</api:count>
+      <api:begin>0902-12-27T01:00:00+01:00</api:begin>
+      <api:end>0903-12-27T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="0942">
+      <api:count>1</api:count>
+      <api:begin>0941-12-27T01:00:00+01:00</api:begin>
+      <api:end>0942-12-27T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="1004">
+      <api:count>1</api:count>
+      <api:begin>1003-12-26T01:00:00+01:00</api:begin>
+      <api:end>1004-12-26T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="1065">
+      <api:count>1</api:count>
+      <api:begin>1064-12-26T01:00:00+01:00</api:begin>
+      <api:end>1065-12-26T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="1096">
+      <api:count>1</api:count>
+      <api:begin>1095-12-26T01:00:00+01:00</api:begin>
+      <api:end>1096-12-26T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="1117">
+      <api:count>1</api:count>
+      <api:begin>1116-12-25T01:00:00+01:00</api:begin>
+      <api:end>1117-12-25T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="1123">
+      <api:count>1</api:count>
+      <api:begin>1122-12-25T01:00:00+01:00</api:begin>
+      <api:end>1123-12-25T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="1155">
+      <api:count>1</api:count>
+      <api:begin>1154-12-25T01:00:00+01:00</api:begin>
+      <api:end>1155-12-25T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="1204">
+      <api:count>1</api:count>
+      <api:begin>1203-12-25T01:00:00+01:00</api:begin>
+      <api:end>1204-12-25T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="1215">
+      <api:count>1</api:count>
+      <api:begin>1214-12-25T01:00:00+01:00</api:begin>
+      <api:end>1215-12-25T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="1241">
+      <api:count>1</api:count>
+      <api:begin>1240-12-25T01:00:00+01:00</api:begin>
+      <api:end>1241-12-25T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="1277">
+      <api:count>1</api:count>
+      <api:begin>1276-12-25T01:00:00+01:00</api:begin>
+      <api:end>1277-12-25T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="1302">
+      <api:count>1</api:count>
+      <api:begin>1301-12-24T01:00:00+01:00</api:begin>
+      <api:end>1302-12-24T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="1303">
+      <api:count>1</api:count>
+      <api:begin>1302-12-24T01:00:00+01:00</api:begin>
+      <api:end>1303-12-24T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="1403">
+      <api:count>1</api:count>
+      <api:begin>1402-12-23T01:00:00+01:00</api:begin>
+      <api:end>1403-12-23T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="1503">
+      <api:count>1</api:count>
+      <api:begin>1502-12-22T01:00:00+01:00</api:begin>
+      <api:end>1503-12-22T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="1703">
+      <api:count>1</api:count>
+      <api:begin>1703-01-01T01:00:00+01:00</api:begin>
+      <api:end>1704-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="1857">
+      <api:count>137</api:count>
+      <api:begin>1857-01-01T01:00:00+01:00</api:begin>
+      <api:end>1858-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="1903">
+      <api:count>2</api:count>
+      <api:begin>1903-01-01T00:19:32+00:19</api:begin>
+      <api:end>1904-01-01T00:19:32+00:19</api:end>
+    </api:sortDates>
+    <api:sortDates value="1904">
+      <api:count>1</api:count>
+      <api:begin>1904-01-01T00:19:32+00:19</api:begin>
+      <api:end>1905-01-01T00:19:32+00:19</api:end>
+    </api:sortDates>
+    <api:sortDates value="1945">
+      <api:count>1</api:count>
+      <api:begin>1945-01-01T01:00:00+01:00</api:begin>
+      <api:end>1946-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="1948">
+      <api:count>1</api:count>
+      <api:begin>1948-01-01T01:00:00+01:00</api:begin>
+      <api:end>1949-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="1950">
+      <api:count>2</api:count>
+      <api:begin>1950-01-01T01:00:00+01:00</api:begin>
+      <api:end>1951-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="1951">
+      <api:count>2</api:count>
+      <api:begin>1951-01-01T01:00:00+01:00</api:begin>
+      <api:end>1952-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="1953">
+      <api:count>1</api:count>
+      <api:begin>1953-01-01T01:00:00+01:00</api:begin>
+      <api:end>1954-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="1955">
+      <api:count>154</api:count>
+      <api:begin>1955-01-01T01:00:00+01:00</api:begin>
+      <api:end>1956-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="1956">
+      <api:count>2</api:count>
+      <api:begin>1956-01-01T01:00:00+01:00</api:begin>
+      <api:end>1957-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="1959">
+      <api:count>2</api:count>
+      <api:begin>1959-01-01T01:00:00+01:00</api:begin>
+      <api:end>1960-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="1960">
+      <api:count>9</api:count>
+      <api:begin>1960-01-01T01:00:00+01:00</api:begin>
+      <api:end>1961-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="1963">
+      <api:count>16</api:count>
+      <api:begin>1963-01-01T01:00:00+01:00</api:begin>
+      <api:end>1964-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="1965">
+      <api:count>7</api:count>
+      <api:begin>1965-01-01T01:00:00+01:00</api:begin>
+      <api:end>1966-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="1966">
+      <api:count>1</api:count>
+      <api:begin>1966-01-01T01:00:00+01:00</api:begin>
+      <api:end>1967-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="1967">
+      <api:count>3</api:count>
+      <api:begin>1967-01-01T01:00:00+01:00</api:begin>
+      <api:end>1968-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="1968">
+      <api:count>12</api:count>
+      <api:begin>1968-01-01T01:00:00+01:00</api:begin>
+      <api:end>1969-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="1969">
+      <api:count>16</api:count>
+      <api:begin>1969-01-01T01:00:00+01:00</api:begin>
+      <api:end>1970-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="1970">
+      <api:count>1</api:count>
+      <api:begin>1970-01-01T01:00:00+01:00</api:begin>
+      <api:end>1971-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="1972">
+      <api:count>8</api:count>
+      <api:begin>1972-01-01T01:00:00+01:00</api:begin>
+      <api:end>1973-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="1973">
+      <api:count>9</api:count>
+      <api:begin>1973-01-01T01:00:00+01:00</api:begin>
+      <api:end>1974-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="1974">
+      <api:count>25</api:count>
+      <api:begin>1974-01-01T01:00:00+01:00</api:begin>
+      <api:end>1975-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="1975">
+      <api:count>11</api:count>
+      <api:begin>1975-01-01T01:00:00+01:00</api:begin>
+      <api:end>1976-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="1976">
+      <api:count>13</api:count>
+      <api:begin>1976-01-01T01:00:00+01:00</api:begin>
+      <api:end>1977-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="1977">
+      <api:count>50</api:count>
+      <api:begin>1977-01-01T01:00:00+01:00</api:begin>
+      <api:end>1978-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="1978">
+      <api:count>31</api:count>
+      <api:begin>1978-01-01T01:00:00+01:00</api:begin>
+      <api:end>1979-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="1979">
+      <api:count>25</api:count>
+      <api:begin>1979-01-01T01:00:00+01:00</api:begin>
+      <api:end>1980-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="1980">
+      <api:count>19</api:count>
+      <api:begin>1980-01-01T01:00:00+01:00</api:begin>
+      <api:end>1981-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="1981">
+      <api:count>3</api:count>
+      <api:begin>1981-01-01T01:00:00+01:00</api:begin>
+      <api:end>1982-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="1982">
+      <api:count>5</api:count>
+      <api:begin>1982-01-01T01:00:00+01:00</api:begin>
+      <api:end>1983-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="1983">
+      <api:count>23</api:count>
+      <api:begin>1983-01-01T01:00:00+01:00</api:begin>
+      <api:end>1984-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="1984">
+      <api:count>87</api:count>
+      <api:begin>1984-01-01T01:00:00+01:00</api:begin>
+      <api:end>1985-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="1985">
+      <api:count>415</api:count>
+      <api:begin>1985-01-01T01:00:00+01:00</api:begin>
+      <api:end>1986-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="1986">
+      <api:count>222</api:count>
+      <api:begin>1986-01-01T01:00:00+01:00</api:begin>
+      <api:end>1987-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="1987">
+      <api:count>103</api:count>
+      <api:begin>1987-01-01T01:00:00+01:00</api:begin>
+      <api:end>1988-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="1988">
+      <api:count>93</api:count>
+      <api:begin>1988-01-01T01:00:00+01:00</api:begin>
+      <api:end>1989-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="1989">
+      <api:count>93</api:count>
+      <api:begin>1989-01-01T01:00:00+01:00</api:begin>
+      <api:end>1990-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="1990">
+      <api:count>115</api:count>
+      <api:begin>1990-01-01T01:00:00+01:00</api:begin>
+      <api:end>1991-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="1991">
+      <api:count>101</api:count>
+      <api:begin>1991-01-01T01:00:00+01:00</api:begin>
+      <api:end>1992-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="1992">
+      <api:count>95</api:count>
+      <api:begin>1992-01-01T01:00:00+01:00</api:begin>
+      <api:end>1993-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="1993">
+      <api:count>70</api:count>
+      <api:begin>1993-01-01T01:00:00+01:00</api:begin>
+      <api:end>1994-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="1994">
+      <api:count>66</api:count>
+      <api:begin>1994-01-01T01:00:00+01:00</api:begin>
+      <api:end>1995-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="1995">
+      <api:count>92</api:count>
+      <api:begin>1995-01-01T01:00:00+01:00</api:begin>
+      <api:end>1996-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="1996">
+      <api:count>139</api:count>
+      <api:begin>1996-01-01T01:00:00+01:00</api:begin>
+      <api:end>1997-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="1997">
+      <api:count>119</api:count>
+      <api:begin>1997-01-01T01:00:00+01:00</api:begin>
+      <api:end>1998-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="1998">
+      <api:count>126</api:count>
+      <api:begin>1998-01-01T01:00:00+01:00</api:begin>
+      <api:end>1999-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="1999">
+      <api:count>112</api:count>
+      <api:begin>1999-01-01T01:00:00+01:00</api:begin>
+      <api:end>2000-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="2000">
+      <api:count>119</api:count>
+      <api:begin>2000-01-01T01:00:00+01:00</api:begin>
+      <api:end>2001-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="2001">
+      <api:count>121</api:count>
+      <api:begin>2001-01-01T01:00:00+01:00</api:begin>
+      <api:end>2002-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="2002">
+      <api:count>276</api:count>
+      <api:begin>2002-01-01T01:00:00+01:00</api:begin>
+      <api:end>2003-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="2003">
+      <api:count>297</api:count>
+      <api:begin>2003-01-01T01:00:00+01:00</api:begin>
+      <api:end>2004-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="2004">
+      <api:count>309</api:count>
+      <api:begin>2004-01-01T01:00:00+01:00</api:begin>
+      <api:end>2005-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="2005">
+      <api:count>484</api:count>
+      <api:begin>2005-01-01T01:00:00+01:00</api:begin>
+      <api:end>2006-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="2006">
+      <api:count>581</api:count>
+      <api:begin>2006-01-01T01:00:00+01:00</api:begin>
+      <api:end>2007-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="2007">
+      <api:count>940</api:count>
+      <api:begin>2007-01-01T01:00:00+01:00</api:begin>
+      <api:end>2008-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="2008">
+      <api:count>1258</api:count>
+      <api:begin>2008-01-01T01:00:00+01:00</api:begin>
+      <api:end>2009-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="2009">
+      <api:count>1137</api:count>
+      <api:begin>2009-01-01T01:00:00+01:00</api:begin>
+      <api:end>2010-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="2010">
+      <api:count>4235</api:count>
+      <api:begin>2010-01-01T01:00:00+01:00</api:begin>
+      <api:end>2011-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="2011">
+      <api:count>2347</api:count>
+      <api:begin>2011-01-01T01:00:00+01:00</api:begin>
+      <api:end>2012-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="2012">
+      <api:count>2567</api:count>
+      <api:begin>2012-01-01T01:00:00+01:00</api:begin>
+      <api:end>2013-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="2013">
+      <api:count>2383</api:count>
+      <api:begin>2013-01-01T01:00:00+01:00</api:begin>
+      <api:end>2014-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="2014">
+      <api:count>19516</api:count>
+      <api:begin>2014-01-01T01:00:00+01:00</api:begin>
+      <api:end>2015-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="2015">
+      <api:count>2096</api:count>
+      <api:begin>2015-01-01T01:00:00+01:00</api:begin>
+      <api:end>2016-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="2031">
+      <api:count>15</api:count>
+      <api:begin>2031-01-01T01:00:00+01:00</api:begin>
+      <api:end>2032-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="2038">
+      <api:count>3</api:count>
+      <api:begin>2038-01-01T01:00:00+01:00</api:begin>
+      <api:end>2039-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="2040">
+      <api:count>1</api:count>
+      <api:begin>2040-01-01T01:00:00+01:00</api:begin>
+      <api:end>2041-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="2103">
+      <api:count>2</api:count>
+      <api:begin>2103-01-01T01:00:00+01:00</api:begin>
+      <api:end>2104-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="2151">
+      <api:count>1</api:count>
+      <api:begin>2151-01-01T01:00:00+01:00</api:begin>
+      <api:end>2152-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="2203">
+      <api:count>1</api:count>
+      <api:begin>2203-01-01T01:00:00+01:00</api:begin>
+      <api:end>2204-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="2295">
+      <api:count>1</api:count>
+      <api:begin>2295-01-01T01:00:00+01:00</api:begin>
+      <api:end>2296-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="2302">
+      <api:count>1</api:count>
+      <api:begin>2302-01-01T01:00:00+01:00</api:begin>
+      <api:end>2303-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="2358">
+      <api:count>1</api:count>
+      <api:begin>2358-01-01T01:00:00+01:00</api:begin>
+      <api:end>2359-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="2403">
+      <api:count>6</api:count>
+      <api:begin>2403-01-01T01:00:00+01:00</api:begin>
+      <api:end>2404-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="2405">
+      <api:count>1</api:count>
+      <api:begin>2405-01-01T01:00:00+01:00</api:begin>
+      <api:end>2406-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="2503">
+      <api:count>2</api:count>
+      <api:begin>2503-01-01T01:00:00+01:00</api:begin>
+      <api:end>2504-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="2603">
+      <api:count>2</api:count>
+      <api:begin>2603-01-01T01:00:00+01:00</api:begin>
+      <api:end>2604-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="2805">
+      <api:count>3</api:count>
+      <api:begin>2805-01-01T01:00:00+01:00</api:begin>
+      <api:end>2806-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="2820">
+      <api:count>1</api:count>
+      <api:begin>2820-01-01T01:00:00+01:00</api:begin>
+      <api:end>2821-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="2903">
+      <api:count>1</api:count>
+      <api:begin>2903-01-01T01:00:00+01:00</api:begin>
+      <api:end>2904-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="2904">
+      <api:count>1</api:count>
+      <api:begin>2904-01-01T01:00:00+01:00</api:begin>
+      <api:end>2905-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="2937">
+      <api:count>3</api:count>
+      <api:begin>2937-01-01T01:00:00+01:00</api:begin>
+      <api:end>2938-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="3002">
+      <api:count>1</api:count>
+      <api:begin>3002-01-01T01:00:00+01:00</api:begin>
+      <api:end>3003-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="3079">
+      <api:count>1</api:count>
+      <api:begin>3079-01-01T01:00:00+01:00</api:begin>
+      <api:end>3080-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="3103">
+      <api:count>2</api:count>
+      <api:begin>3103-01-01T01:00:00+01:00</api:begin>
+      <api:end>3104-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="3155">
+      <api:count>1</api:count>
+      <api:begin>3155-01-01T01:00:00+01:00</api:begin>
+      <api:end>3156-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="3193">
+      <api:count>1</api:count>
+      <api:begin>3193-01-01T01:00:00+01:00</api:begin>
+      <api:end>3194-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="3203">
+      <api:count>2</api:count>
+      <api:begin>3203-01-01T01:00:00+01:00</api:begin>
+      <api:end>3204-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="3204">
+      <api:count>1</api:count>
+      <api:begin>3204-01-01T01:00:00+01:00</api:begin>
+      <api:end>3205-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="3216">
+      <api:count>1</api:count>
+      <api:begin>3216-01-01T01:00:00+01:00</api:begin>
+      <api:end>3217-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="3286">
+      <api:count>1</api:count>
+      <api:begin>3286-01-01T01:00:00+01:00</api:begin>
+      <api:end>3287-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="3302">
+      <api:count>1</api:count>
+      <api:begin>3302-01-01T01:00:00+01:00</api:begin>
+      <api:end>3303-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="3303">
+      <api:count>1</api:count>
+      <api:begin>3303-01-01T01:00:00+01:00</api:begin>
+      <api:end>3304-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="3360">
+      <api:count>1</api:count>
+      <api:begin>3360-01-01T01:00:00+01:00</api:begin>
+      <api:end>3361-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="3373">
+      <api:count>1</api:count>
+      <api:begin>3373-01-01T01:00:00+01:00</api:begin>
+      <api:end>3374-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="3403">
+      <api:count>2</api:count>
+      <api:begin>3403-01-01T01:00:00+01:00</api:begin>
+      <api:end>3404-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="3405">
+      <api:count>1</api:count>
+      <api:begin>3405-01-01T01:00:00+01:00</api:begin>
+      <api:end>3406-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="3561">
+      <api:count>1</api:count>
+      <api:begin>3561-01-01T01:00:00+01:00</api:begin>
+      <api:end>3562-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="3703">
+      <api:count>1</api:count>
+      <api:begin>3703-01-01T01:00:00+01:00</api:begin>
+      <api:end>3704-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="3704">
+      <api:count>1</api:count>
+      <api:begin>3704-01-01T01:00:00+01:00</api:begin>
+      <api:end>3705-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="3804">
+      <api:count>4</api:count>
+      <api:begin>3804-01-01T01:00:00+01:00</api:begin>
+      <api:end>3805-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="3904">
+      <api:count>1</api:count>
+      <api:begin>3904-01-01T01:00:00+01:00</api:begin>
+      <api:end>3905-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="4103">
+      <api:count>2</api:count>
+      <api:begin>4103-01-01T01:00:00+01:00</api:begin>
+      <api:end>4104-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="4105">
+      <api:count>1</api:count>
+      <api:begin>4105-01-01T01:00:00+01:00</api:begin>
+      <api:end>4106-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="4204">
+      <api:count>1</api:count>
+      <api:begin>4204-01-01T01:00:00+01:00</api:begin>
+      <api:end>4205-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="4205">
+      <api:count>1</api:count>
+      <api:begin>4205-01-01T01:00:00+01:00</api:begin>
+      <api:end>4206-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="4304">
+      <api:count>1</api:count>
+      <api:begin>4304-01-01T01:00:00+01:00</api:begin>
+      <api:end>4305-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="4405">
+      <api:count>1</api:count>
+      <api:begin>4405-01-01T01:00:00+01:00</api:begin>
+      <api:end>4406-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="4604">
+      <api:count>2</api:count>
+      <api:begin>4604-01-01T01:00:00+01:00</api:begin>
+      <api:end>4605-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="4703">
+      <api:count>1</api:count>
+      <api:begin>4703-01-01T01:00:00+01:00</api:begin>
+      <api:end>4704-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="4803">
+      <api:count>6</api:count>
+      <api:begin>4803-01-01T01:00:00+01:00</api:begin>
+      <api:end>4804-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="4804">
+      <api:count>1</api:count>
+      <api:begin>4804-01-01T01:00:00+01:00</api:begin>
+      <api:end>4805-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="4903">
+      <api:count>2</api:count>
+      <api:begin>4903-01-01T01:00:00+01:00</api:begin>
+      <api:end>4904-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="5004">
+      <api:count>1</api:count>
+      <api:begin>5004-01-01T01:00:00+01:00</api:begin>
+      <api:end>5005-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="5103">
+      <api:count>3</api:count>
+      <api:begin>5103-01-01T01:00:00+01:00</api:begin>
+      <api:end>5104-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="5104">
+      <api:count>1</api:count>
+      <api:begin>5104-01-01T01:00:00+01:00</api:begin>
+      <api:end>5105-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="5209">
+      <api:count>5</api:count>
+      <api:begin>5209-01-01T01:00:00+01:00</api:begin>
+      <api:end>5210-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="5303">
+      <api:count>1</api:count>
+      <api:begin>5303-01-01T01:00:00+01:00</api:begin>
+      <api:end>5304-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="5504">
+      <api:count>2</api:count>
+      <api:begin>5504-01-01T01:00:00+01:00</api:begin>
+      <api:end>5505-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="5702">
+      <api:count>1</api:count>
+      <api:begin>5702-01-01T01:00:00+01:00</api:begin>
+      <api:end>5703-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="5703">
+      <api:count>2</api:count>
+      <api:begin>5703-01-01T01:00:00+01:00</api:begin>
+      <api:end>5704-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="5804">
+      <api:count>7</api:count>
+      <api:begin>5804-01-01T01:00:00+01:00</api:begin>
+      <api:end>5805-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="5837">
+      <api:count>1</api:count>
+      <api:begin>5837-01-01T01:00:00+01:00</api:begin>
+      <api:end>5838-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="5907">
+      <api:count>1</api:count>
+      <api:begin>5907-01-01T01:00:00+01:00</api:begin>
+      <api:end>5908-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="5943">
+      <api:count>1</api:count>
+      <api:begin>5943-01-01T01:00:00+01:00</api:begin>
+      <api:end>5944-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="5976">
+      <api:count>1</api:count>
+      <api:begin>5976-01-01T01:00:00+01:00</api:begin>
+      <api:end>5977-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="6004">
+      <api:count>2</api:count>
+      <api:begin>6004-01-01T01:00:00+01:00</api:begin>
+      <api:end>6005-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="6103">
+      <api:count>1</api:count>
+      <api:begin>6103-01-01T01:00:00+01:00</api:begin>
+      <api:end>6104-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="6404">
+      <api:count>1</api:count>
+      <api:begin>6404-01-01T01:00:00+01:00</api:begin>
+      <api:end>6405-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="6604">
+      <api:count>1</api:count>
+      <api:begin>6604-01-01T01:00:00+01:00</api:begin>
+      <api:end>6605-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="6704">
+      <api:count>13</api:count>
+      <api:begin>6704-01-01T01:00:00+01:00</api:begin>
+      <api:end>6705-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="6795">
+      <api:count>1</api:count>
+      <api:begin>6795-01-01T01:00:00+01:00</api:begin>
+      <api:end>6796-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="6803">
+      <api:count>1</api:count>
+      <api:begin>6803-01-01T01:00:00+01:00</api:begin>
+      <api:end>6804-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="7005">
+      <api:count>3</api:count>
+      <api:begin>7005-01-01T01:00:00+01:00</api:begin>
+      <api:end>7006-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="7045">
+      <api:count>1</api:count>
+      <api:begin>7045-01-01T01:00:00+01:00</api:begin>
+      <api:end>7046-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="7104">
+      <api:count>1</api:count>
+      <api:begin>7104-01-01T01:00:00+01:00</api:begin>
+      <api:end>7105-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="7203">
+      <api:count>1</api:count>
+      <api:begin>7203-01-01T01:00:00+01:00</api:begin>
+      <api:end>7204-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="7302">
+      <api:count>1</api:count>
+      <api:begin>7302-01-01T01:00:00+01:00</api:begin>
+      <api:end>7303-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="7304">
+      <api:count>1</api:count>
+      <api:begin>7304-01-01T01:00:00+01:00</api:begin>
+      <api:end>7305-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="7306">
+      <api:count>1</api:count>
+      <api:begin>7306-01-01T01:00:00+01:00</api:begin>
+      <api:end>7307-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="7404">
+      <api:count>2</api:count>
+      <api:begin>7404-01-01T01:00:00+01:00</api:begin>
+      <api:end>7405-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="7419">
+      <api:count>1</api:count>
+      <api:begin>7419-01-01T01:00:00+01:00</api:begin>
+      <api:end>7420-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="7482">
+      <api:count>1</api:count>
+      <api:begin>7482-01-01T01:00:00+01:00</api:begin>
+      <api:end>7483-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="7502">
+      <api:count>1</api:count>
+      <api:begin>7502-01-01T01:00:00+01:00</api:begin>
+      <api:end>7503-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="7542">
+      <api:count>1</api:count>
+      <api:begin>7542-01-01T01:00:00+01:00</api:begin>
+      <api:end>7543-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="7668">
+      <api:count>1</api:count>
+      <api:begin>7668-01-01T01:00:00+01:00</api:begin>
+      <api:end>7669-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="7703">
+      <api:count>3</api:count>
+      <api:begin>7703-01-01T01:00:00+01:00</api:begin>
+      <api:end>7704-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="7803">
+      <api:count>1</api:count>
+      <api:begin>7803-01-01T01:00:00+01:00</api:begin>
+      <api:end>7804-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="7804">
+      <api:count>9</api:count>
+      <api:begin>7804-01-01T01:00:00+01:00</api:begin>
+      <api:end>7805-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="7805">
+      <api:count>2</api:count>
+      <api:begin>7805-01-01T01:00:00+01:00</api:begin>
+      <api:end>7806-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="7964">
+      <api:count>1</api:count>
+      <api:begin>7964-01-01T01:00:00+01:00</api:begin>
+      <api:end>7965-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="8003">
+      <api:count>1</api:count>
+      <api:begin>8003-01-01T01:00:00+01:00</api:begin>
+      <api:end>8004-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="8004">
+      <api:count>2</api:count>
+      <api:begin>8004-01-01T01:00:00+01:00</api:begin>
+      <api:end>8005-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="8005">
+      <api:count>2</api:count>
+      <api:begin>8005-01-01T01:00:00+01:00</api:begin>
+      <api:end>8006-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="8103">
+      <api:count>1</api:count>
+      <api:begin>8103-01-01T01:00:00+01:00</api:begin>
+      <api:end>8104-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="8203">
+      <api:count>1</api:count>
+      <api:begin>8203-01-01T01:00:00+01:00</api:begin>
+      <api:end>8204-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="8204">
+      <api:count>1</api:count>
+      <api:begin>8204-01-01T01:00:00+01:00</api:begin>
+      <api:end>8205-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="8259">
+      <api:count>1</api:count>
+      <api:begin>8259-01-01T01:00:00+01:00</api:begin>
+      <api:end>8260-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="8303">
+      <api:count>1</api:count>
+      <api:begin>8303-01-01T01:00:00+01:00</api:begin>
+      <api:end>8304-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="8402">
+      <api:count>1</api:count>
+      <api:begin>8402-01-01T01:00:00+01:00</api:begin>
+      <api:end>8403-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="8403">
+      <api:count>2</api:count>
+      <api:begin>8403-01-01T01:00:00+01:00</api:begin>
+      <api:end>8404-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="8405">
+      <api:count>1</api:count>
+      <api:begin>8405-01-01T01:00:00+01:00</api:begin>
+      <api:end>8406-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="8427">
+      <api:count>1</api:count>
+      <api:begin>8427-01-01T01:00:00+01:00</api:begin>
+      <api:end>8428-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="8495">
+      <api:count>1</api:count>
+      <api:begin>8495-01-01T01:00:00+01:00</api:begin>
+      <api:end>8496-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="8503">
+      <api:count>1</api:count>
+      <api:begin>8503-01-01T01:00:00+01:00</api:begin>
+      <api:end>8504-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="8603">
+      <api:count>2</api:count>
+      <api:begin>8603-01-01T01:00:00+01:00</api:begin>
+      <api:end>8604-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="8615">
+      <api:count>1</api:count>
+      <api:begin>8615-01-01T01:00:00+01:00</api:begin>
+      <api:end>8616-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="8704">
+      <api:count>3</api:count>
+      <api:begin>8704-01-01T01:00:00+01:00</api:begin>
+      <api:end>8705-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="8904">
+      <api:count>4</api:count>
+      <api:begin>8904-01-01T01:00:00+01:00</api:begin>
+      <api:end>8905-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="9004">
+      <api:count>1</api:count>
+      <api:begin>9004-01-01T01:00:00+01:00</api:begin>
+      <api:end>9005-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="9103">
+      <api:count>1</api:count>
+      <api:begin>9103-01-01T01:00:00+01:00</api:begin>
+      <api:end>9104-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="9104">
+      <api:count>2</api:count>
+      <api:begin>9104-01-01T01:00:00+01:00</api:begin>
+      <api:end>9105-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="9203">
+      <api:count>2</api:count>
+      <api:begin>9203-01-01T01:00:00+01:00</api:begin>
+      <api:end>9204-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="9302">
+      <api:count>2</api:count>
+      <api:begin>9302-01-01T01:00:00+01:00</api:begin>
+      <api:end>9303-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="9304">
+      <api:count>1</api:count>
+      <api:begin>9304-01-01T01:00:00+01:00</api:begin>
+      <api:end>9305-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="9403">
+      <api:count>3</api:count>
+      <api:begin>9403-01-01T01:00:00+01:00</api:begin>
+      <api:end>9404-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="9404">
+      <api:count>1</api:count>
+      <api:begin>9404-01-01T01:00:00+01:00</api:begin>
+      <api:end>9405-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="9502">
+      <api:count>1</api:count>
+      <api:begin>9502-01-01T01:00:00+01:00</api:begin>
+      <api:end>9503-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="9704">
+      <api:count>2</api:count>
+      <api:begin>9704-01-01T01:00:00+01:00</api:begin>
+      <api:end>9705-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="9803">
+      <api:count>1</api:count>
+      <api:begin>9803-01-01T01:00:00+01:00</api:begin>
+      <api:end>9804-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="9902">
+      <api:count>1</api:count>
+      <api:begin>9902-01-01T01:00:00+01:00</api:begin>
+      <api:end>9903-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="9903">
+      <api:count>1</api:count>
+      <api:begin>9903-01-01T01:00:00+01:00</api:begin>
+      <api:end>9904-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+    <api:sortDates value="9904">
+      <api:count>1</api:count>
+      <api:begin>9904-01-01T01:00:00+01:00</api:begin>
+      <api:end>9905-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+  </api:facets>
+  <api:selectedFacets/>
+</api:pageSearchResult>

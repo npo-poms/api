@@ -1,0 +1,11 @@
+{
+    "searches" : {
+        "text" : "fotostudio de jong",
+        "types": { "match": "SHOULD", "value": [{"value": "HOME", "match": "MUST"}]}
+    },
+    "facets" : {
+        "types" : {
+            sort : "COUNT_DESC"
+        }
+    }
+}

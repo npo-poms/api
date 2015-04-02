@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<api:pageSearchResult xmlns="urn:vpro:media:2009" xmlns:shared="urn:vpro:shared:2009" xmlns:pages="urn:vpro:pages:2013" xmlns:api="urn:vpro:api:2013" xmlns:media="urn:vpro:media:2009" total="2383" offset="0" max="2">
+  <api:items>
+    <api:item xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="api:searchResultItem" score="0.03852243">
+      <api:result xsi:type="pages:pageType" url="http://human.localhost/speel.POMS_S_AVRO_578564.html" creationDate="2015-03-06T15:51:51.133+01:00" lastModified="2015-03-06T15:51:51.154+01:00" publishStart="2013-01-01T09:15:00+01:00" refCount="0" sortDate="2013-01-01T09:15:00+01:00" type="VIDEO">
+        <pages:crid>crid://vpro/media/human/POMS_S_AVRO_578564</pages:crid>
+        <pages:broadcaster id="AVRO">AVRO</pages:broadcaster>
+        <pages:portal id="HUMANNL" url="http://human.localhost">
+          <pages:name>Human.nl</pages:name>
+        </pages:portal>
+        <pages:title>Hoe heurt het eigenlijk? Seizoen 2</pages:title>
+      </api:result>
+    </api:item>
+    <api:item xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="api:searchResultItem" score="0.03857421">
+      <api:result xsi:type="pages:pageType" url="http://www-acc.cultura.nl/speel.NPS_1218755.html" creationDate="2014-12-30T09:39:44.346+01:00" lastModified="2014-12-30T09:39:44.349+01:00" publishStart="2013-01-01T13:10:00+01:00" refCount="0" sortDate="2013-01-01T13:10:00+01:00" type="PLAYER">
+        <pages:crid>crid://vpro/media/cultura/NPS_1218755</pages:crid>
+        <pages:broadcaster id="NPS">NPS</pages:broadcaster>
+        <pages:broadcaster id="NTR">NTR</pages:broadcaster>
+        <pages:broadcaster id="VPRO">VPRO</pages:broadcaster>
+        <pages:portal id="CULTURA24" url="http://www-acc.cultura.nl">
+          <pages:name>NPO Cultura</pages:name>
+        </pages:portal>
+        <pages:title>Het uur van de wolf: A.L. Snijders - een handige dromer</pages:title>
+        <pages:genre displayName="Literatuur" id="3.0.3.1">
+          <pages:term>Literatuur</pages:term>
+        </pages:genre>
+        <pages:genre displayName="Kunst" id="3.0.3.3">
+          <pages:term>Kunst</pages:term>
+        </pages:genre>
+        <pages:images>
+          <pages:image type="PICTURE" url="http://images.poms.omroep.nl/image/s360/125810.jpg">
+            <pages:title>Het uur van de wolf: A.L. Snijders - een handige dromer</pages:title>
+            <pages:description>Schrijven is ijsberen en dat doet A.L. Snijders rondom zijn huis in de Achterhoek. Hij heeft geen zitvlees en heeft van de nood een deugd gemaakt. Met veel succes schrijft hij Zeer Korte Verhalen.</pages:description>
+          </pages:image>
+        </pages:images>
+      </api:result>
+    </api:item>
+  </api:items>
+  <api:facets>
+    <api:sortDates value="2013">
+      <api:count>2383</api:count>
+      <api:begin>2013-01-01T01:00:00+01:00</api:begin>
+      <api:end>2014-01-01T01:00:00+01:00</api:end>
+    </api:sortDates>
+  </api:facets>
+  <api:selectedFacets/>
+</api:pageSearchResult>

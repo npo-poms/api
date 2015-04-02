@@ -1,78 +1,30 @@
 {
   "facets" : {
     "types" : [ {
-      "count" : 5671,
+      "count" : 90,
       "id" : "ARTICLE",
       "value" : "Artikel"
     }, {
-      "count" : 11,
+      "count" : 4,
+      "id" : "AUDIO",
+      "value" : "Audio"
+    }, {
+      "count" : 2,
       "id" : "SPECIAL",
       "value" : "Special"
     }, {
-      "count" : 1956,
-      "id" : "PLAYER",
-      "value" : "Speler"
-    }, {
-      "count" : 13,
+      "count" : 4,
       "id" : "HOME",
       "value" : "Thuis"
+    }, {
+      "count" : 286,
+      "id" : "VIDEO",
+      "value" : "Video"
     } ],
     "keywords" : [ {
       "count" : 1,
-      "id" : " Henk Brinkhuis",
-      "value" : " Henk Brinkhuis"
-    }, {
-      "count" : 4,
-      "id" : " radio",
-      "value" : " radio"
-    }, {
-      "count" : 2,
-      "id" : "'s Gravesande",
-      "value" : "'s Gravesande"
-    }, {
-      "count" : 1,
-      "id" : "1 maart 2010",
-      "value" : "1 maart 2010"
-    }, {
-      "count" : 1,
-      "id" : "100",
-      "value" : "100"
-    }, {
-      "count" : 1,
-      "id" : "113",
-      "value" : "113"
-    }, {
-      "count" : 1,
-      "id" : "123bakkiebakkiezoiets56",
-      "value" : "123bakkiebakkiezoiets56"
-    }, {
-      "count" : 1,
-      "id" : "1907",
-      "value" : "1907"
-    }, {
-      "count" : 1,
-      "id" : "19e eeuw",
-      "value" : "19e eeuw"
-    }, {
-      "count" : 1,
       "id" : "2033",
       "value" : "2033"
-    }, {
-      "count" : 1,
-      "id" : "22q11syndroom",
-      "value" : "22q11syndroom"
-    }, {
-      "count" : 1,
-      "id" : "24 januari 1597",
-      "value" : "24 januari 1597"
-    }, {
-      "count" : 1,
-      "id" : "24 oktober",
-      "value" : "24 oktober"
-    }, {
-      "count" : 1,
-      "id" : "270 graden onder nul",
-      "value" : "270 graden onder nul"
     }, {
       "count" : 1,
       "id" : "2doc",
@@ -82,19 +34,7 @@
       "id" : "3 seconden",
       "value" : "3 seconden"
     }, {
-      "count" : 1,
-      "id" : "3-d",
-      "value" : "3-d"
-    }, {
-      "count" : 1,
-      "id" : "3-d touchscreen",
-      "value" : "3-d touchscreen"
-    }, {
-      "count" : 1,
-      "id" : "350 jaar",
-      "value" : "350 jaar"
-    }, {
-      "count" : 14,
+      "count" : 4,
       "id" : "3D",
       "value" : "3D"
     }, {
@@ -103,112 +43,144 @@
       "value" : "3D printer"
     }, {
       "count" : 1,
-      "id" : "3D-model",
-      "value" : "3D-model"
-    }, {
-      "count" : 1,
-      "id" : "3Dgames",
-      "value" : "3Dgames"
-    }, {
-      "count" : 5,
       "id" : "3d",
       "value" : "3d"
+    }, {
+      "count" : 1,
+      "id" : "ABN-Amro",
+      "value" : "ABN-Amro"
+    }, {
+      "count" : 1,
+      "id" : "AGV",
+      "value" : "AGV"
+    }, {
+      "count" : 1,
+      "id" : "Academisch Ziekenhuis Maastricht",
+      "value" : "Academisch Ziekenhuis Maastricht"
+    }, {
+      "count" : 2,
+      "id" : "Ad de Jongh",
+      "value" : "Ad de Jongh"
+    }, {
+      "count" : 1,
+      "id" : "Afghanistan",
+      "value" : "Afghanistan"
+    }, {
+      "count" : 1,
+      "id" : "Alan Wallace",
+      "value" : "Alan Wallace"
+    }, {
+      "count" : 1,
+      "id" : "Alfred Nobel",
+      "value" : "Alfred Nobel"
+    }, {
+      "count" : 1,
+      "id" : "Amazone",
+      "value" : "Amazone"
+    }, {
+      "count" : 1,
+      "id" : "Andre Kuipers",
+      "value" : "Andre Kuipers"
+    }, {
+      "count" : 1,
+      "id" : "Andries Kamstra",
+      "value" : "Andries Kamstra"
+    }, {
+      "count" : 1,
+      "id" : "André",
+      "value" : "André"
+    }, {
+      "count" : 1,
+      "id" : "André Krouwel",
+      "value" : "André Krouwel"
+    }, {
+      "count" : 1,
+      "id" : "Andy van den Dobbelsteen",
+      "value" : "Andy van den Dobbelsteen"
+    }, {
+      "count" : 1,
+      "id" : "Anic van Damme",
+      "value" : "Anic van Damme"
+    }, {
+      "count" : 1,
+      "id" : "Antarctica",
+      "value" : "Antarctica"
+    }, {
+      "count" : 1,
+      "id" : "Antartica",
+      "value" : "Antartica"
+    }, {
+      "count" : 1,
+      "id" : "Anthony Verschoor",
+      "value" : "Anthony Verschoor"
+    }, {
+      "count" : 1,
+      "id" : "Ap Verheggen",
+      "value" : "Ap Verheggen"
     } ],
     "genres" : [ {
-      "count" : 132,
+      "count" : 17,
       "id" : "3.0.2.6",
-      "value" : "Aarde & Klimaat"
+      "value" : "Aarde & Klimaat",
+      "terms" : [ "Aarde & Klimaat" ]
     }, {
-      "count" : 399,
+      "count" : 75,
       "id" : "3.0.2.2",
-      "value" : "Beta & Tech"
+      "value" : "Beta & Tech",
+      "terms" : [ "Beta & Tech" ]
     }, {
-      "count" : 302,
+      "count" : 40,
       "id" : "3.0.2.4",
-      "value" : "Brein & Gedrag"
+      "value" : "Brein & Gedrag",
+      "terms" : [ "Brein & Gedrag" ]
     }, {
-      "count" : 369,
+      "count" : 74,
       "id" : "3.0.2.1",
-      "value" : "Flora & Fauna"
+      "value" : "Flora & Fauna",
+      "terms" : [ "Flora & Fauna" ]
     }, {
-      "count" : 177,
+      "count" : 34,
       "id" : "3.0.2.7",
-      "value" : "Geschiedenis & Archeologie"
+      "value" : "Geschiedenis & Archeologie",
+      "terms" : [ "Geschiedenis & Archeologie" ]
     }, {
-      "count" : 177,
+      "count" : 42,
       "id" : "3.0.2.3",
-      "value" : "Heelal & Ruimtevaart"
+      "value" : "Heelal & Ruimtevaart",
+      "terms" : [ "Heelal & Ruimtevaart" ]
     }, {
-      "count" : 332,
+      "count" : 52,
       "id" : "3.0.2.5",
-      "value" : "Lijf & Gezondheid"
+      "value" : "Lijf & Gezondheid",
+      "terms" : [ "Lijf & Gezondheid" ]
     }, {
-      "count" : 414,
+      "count" : 61,
       "id" : "3.0.2.8",
-      "value" : "Mens & Maatschappij"
+      "value" : "Mens & Maatschappij",
+      "terms" : [ "Mens & Maatschappij" ]
     } ],
     "sections" : [ {
-      "count" : 59,
-      "id" : "WETENSCHAP24./wetenschap/programmas/beagle",
-      "value" : "Beagle"
-    }, {
-      "count" : 8,
-      "id" : "WETENSCHAP24./wetenschap/programmas/grootnationaalonderzoek",
-      "value" : "Groot Nationaal Onderzoek"
-    }, {
-      "count" : 320,
-      "id" : "WETENSCHAP24./wetenschap/programmas/hoezo-radio",
-      "value" : "Hoe?Zo!"
-    }, {
-      "count" : 6,
+      "count" : 3,
       "id" : "WETENSCHAP24./wetenschap-sample/programmas/Labyrint",
       "value" : "Labyrint"
     }, {
-      "count" : 2,
-      "id" : "WETENSCHAP24./wetenschap/programmas/nwq",
-      "value" : "Nationale Wetenschapsquiz"
-    }, {
-      "count" : 5364,
-      "id" : "WETENSCHAP24./wetenschap/nieuws",
-      "value" : "Nieuws"
-    }, {
-      "count" : 93,
+      "count" : 92,
       "id" : "WETENSCHAP24./wetenschap-sample/nieuws",
       "value" : "Noorderlicht"
-    }, {
-      "count" : 30,
-      "id" : "WETENSCHAP24./wetenschap/programmas/Noorderlicht-TV",
-      "value" : "Noorderlicht TV"
     }, {
       "count" : 1,
       "id" : "WETENSCHAP24./wetenschap-sample/over-wetenschap24",
       "value" : "Over Wetenschap24"
     }, {
-      "count" : 52,
-      "id" : "WETENSCHAP24./wetenschap/programmas/pavlov",
-      "value" : "Pavlov"
-    }, {
-      "count" : 159,
+      "count" : 158,
       "id" : "WETENSCHAP24./wetenschap-sample/programmas/scienceflash",
       "value" : "ScienceFlash"
-    }, {
-      "count" : 405,
-      "id" : "WETENSCHAP24./wetenschap/programmas/scienceflash",
-      "value" : "ScienceFlash"
-    }, {
-      "count" : 217,
-      "id" : "WETENSCHAP24./wetenschap/programmas/wisebits",
-      "value" : "WiseBits"
-    }, {
-      "count" : 315,
-      "id" : "WETENSCHAP24./wetenschap/programmas/labyrint",
-      "value" : "labyrint"
     } ]
   },
   "selectedFacets" : { },
   "mediaFacets" : {
     "avTypes" : [ {
-      "count" : 322,
+      "count" : 5,
       "id" : "AUDIO",
       "value" : "Audio"
     }, {
@@ -216,21 +188,21 @@
       "id" : "MIXED",
       "value" : "Afwisselend"
     }, {
-      "count" : 1630,
+      "count" : 289,
       "id" : "VIDEO",
       "value" : "Video"
     } ]
   },
   "mediaSelectedFacets" : { },
-  "total" : 7651,
+  "total" : 386,
   "offset" : 0,
   "max" : 2,
   "items" : [ {
-    "score" : 6.145438,
+    "score" : 7.0497046,
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",
-      "type" : "PLAYER",
+      "type" : "VIDEO",
       "url" : "http://wetenschap-sample.localhost/videos/meer-video/2doc-particle-fever.html",
       "sortDate" : 1397658554000,
       "crids" : [ "crid://vpro/website/b4036861-9d18-4c80-a97c-17820d1849b7" ],
@@ -418,16 +390,16 @@
         "description" : "fever"
       } ],
       "publishStart" : 1397658554000,
-      "creationDate" : 1420710441249,
-      "lastModified" : 1420710441699,
+      "creationDate" : 1425915024603,
+      "lastModified" : 1425915024621,
       "refCount" : 0
     }
   }, {
-    "score" : 4.2661085,
+    "score" : 4.7993693,
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",
-      "type" : "PLAYER",
+      "type" : "VIDEO",
       "url" : "http://wetenschap-sample.localhost/videos/meer-video/NTR-College-Tour-Frans-de-Waal.html",
       "sortDate" : 1379686980000,
       "crids" : [ "crid://vpro/website/b701b7d0-abf7-4680-a96b-4ae0dc947451" ],
@@ -770,8 +742,8 @@
         "description" : "Twan Huys interviewt, samen met studenten, prominente gasten uit de politiek, media, cultuur en wetenschap."
       } ],
       "publishStart" : 1379686980000,
-      "creationDate" : 1420710437805,
-      "lastModified" : 1420710438047,
+      "creationDate" : 1425915024234,
+      "lastModified" : 1425915024254,
       "refCount" : 0
     }
   } ]

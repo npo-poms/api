@@ -1,0 +1,13 @@
+{
+    "searches" : {
+        "sortDates" : [ {
+            "begin" : 1356995700000,
+            "end" :   1388530800000
+        } ]
+    },
+
+    "sort": {"sortDate": "ASC" },
+    "facets" : {
+      "sortDates" : [ "YEAR" ]
+    }
+}

@@ -1,262 +1,259 @@
 {
   "facets" : {
     "types" : [ {
-      "count" : 2,
+      "count" : 1,
       "id" : "ARTICLE",
       "value" : "Artikel"
     }, {
-      "count" : 7,
-      "id" : "PLAYER",
-      "value" : "Speler"
+      "count" : 1,
+      "id" : "VIDEO",
+      "value" : "Video"
     } ],
     "broadcasters" : [ {
       "count" : 1,
-      "id" : "NPS",
-      "value" : "NPS"
+      "id" : "HUMA",
+      "value" : "HUMAN"
     }, {
       "count" : 1,
-      "id" : "NTR",
-      "value" : "NTR"
-    }, {
-      "count" : 8,
       "id" : "VPRO",
       "value" : "VPRO"
     } ],
     "portals" : [ {
       "count" : 1,
-      "id" : "CULTURA24",
-      "value" : "NPO Cultura"
+      "id" : "HUMANNL",
+      "value" : "Human.nl"
     }, {
       "count" : 1,
       "id" : "GESCHIEDENIS24",
       "value" : "NPO Geschiedenis"
-    }, {
-      "count" : 1,
-      "id" : "WETENSCHAP24",
-      "value" : "NPO Wetenschap"
-    }, {
-      "count" : 6,
-      "id" : "VPRONL",
-      "value" : "VPRO.nl"
     } ]
   },
   "selectedFacets" : { },
-  "total" : 9,
+  "total" : 2,
   "offset" : 0,
   "max" : 2,
   "items" : [ {
-    "score" : 0.1845119,
+    "score" : 0.0016495172,
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",
-      "type" : "PLAYER",
-      "url" : "http://www-test.vpro.nl/speel.WO_VPRO_221124.html",
-      "sortDate" : 1362655370218,
-      "crids" : [ "crid://vpro/media/vpro/WO_VPRO_221124" ],
+      "type" : "VIDEO",
+      "url" : "http://human.localhost/speel.WO_NCRV_050500.html",
+      "sortDate" : 1350658122488,
+      "crids" : [ "crid://vpro/media/human/WO_NCRV_050500" ],
       "broadcasters" : [ {
-        "id" : "VPRO",
-        "value" : "VPRO"
+        "id" : "HUMA",
+        "value" : "HUMAN"
       } ],
       "portal" : {
-        "id" : "VPRONL",
-        "url" : "http://www-test.vpro.nl",
-        "value" : "VPRO.nl"
+        "id" : "HUMANNL",
+        "url" : "http://human.localhost",
+        "value" : "Human.nl"
       },
-      "title" : "Kitchen Kongas",
+      "title" : "OBA Live  HUMAN 17 oktober",
       "embeds" : [ {
-        "title" : "Kitchen Kongas",
+        "title" : "OBA Live  HUMAN 17 oktober",
+        "description" : "OBA Live is een Radio-talkshow met gasten, discussie en commentaren over cultuur, politiek, wetenschap en moraal. Er is veel aandacht voor literatuur, film en theater. Elke werkdag tussen 19.00-20.00 uur rechtstreeks met publiek vanaf de 4e etage van de Openbare Bibliotheek (OBA) in Amsterdam.\nEen gezamenlijk project van HUMAN, met presentator Theodor Holman op maandag, woensdag en vrijdag, de NTR met presentatrice Naeeda Arangzeb op dinsdag en de IKON met presentator en Paul Rosenmöller op donderdag.\n\nOBA Live wordt met drie videocamera’s opgenomen.\n\nTe gast zijn twee chefs van 24 kitchen, culinair journalisten en schrijfsters van ARABIA: Nadia Zerouali en Merijn Tol. Een smakelijk gesprek met Naeeda Aurangzeb over de arabische keuken, de geuren en hoe belangrijk eten is in het leven. Behalve het koken en de betekenis van eten gaan het gesprek ook over de dood. Een groot deel van de Marokkaanse en Turkse Nederlanders worden nog altijd in het land van herkomst begraven, zelfs als ze hier geboren zijn en Marokko en Turkije alleen van vakanties kennen. Zerouli vertelt over haar persoonlijke ervaring met dit onderwerp. ",
         "media" : {
           "objectType" : "program",
-          "mid" : "WO_VPRO_221124",
-          "creationDate" : 1362655370218,
-          "lastModified" : 1362655370852,
-          "sortDate" : 1362655370218,
-          "urn" : "urn:vpro:media:program:22686437",
+          "mid" : "WO_NCRV_050500",
+          "creationDate" : 1350658122488,
+          "lastModified" : 1360580487024,
+          "sortDate" : 1350658122488,
+          "urn" : "urn:vpro:media:program:15656895",
           "embeddable" : true,
           "broadcasters" : [ {
-            "id" : "VPRO",
-            "value" : "VPRO"
+            "id" : "HUMA",
+            "value" : "HUMAN"
           } ],
           "titles" : [ {
-            "value" : "Kitchen Kongas",
+            "value" : "OBA Live  HUMAN 17 oktober",
             "owner" : "BROADCASTER",
             "type" : "MAIN"
+          }, {
+            "value" : "OBA Live",
+            "owner" : "BROADCASTER",
+            "type" : "SUB"
+          }, {
+            "value" : "OBA Live",
+            "owner" : "BROADCASTER",
+            "type" : "ORIGINAL"
+          }, {
+            "value" : "OBA Live",
+            "owner" : "BROADCASTER",
+            "type" : "WORK"
+          } ],
+          "descriptions" : [ {
+            "value" : "OBA Live is een Radio-talkshow met gasten, discussie en commentaren over cultuur, politiek, wetenschap en moraal. Er is veel aandacht voor literatuur, film en theater. Elke werkdag tussen 19.00-20.00 uur rechtstreeks met publiek vanaf de 4e etage van de Openbare Bibliotheek (OBA) in Amsterdam.\nEen gezamenlijk project van HUMAN, met presentator Theodor Holman op maandag, woensdag en vrijdag, de NTR met presentatrice Naeeda Arangzeb op dinsdag en de IKON met presentator en Paul Rosenmöller op donderdag.\n\nOBA Live wordt met drie videocamera’s opgenomen.\n\nTe gast zijn twee chefs van 24 kitchen, culinair journalisten en schrijfsters van ARABIA: Nadia Zerouali en Merijn Tol. Een smakelijk gesprek met Naeeda Aurangzeb over de arabische keuken, de geuren en hoe belangrijk eten is in het leven. Behalve het koken en de betekenis van eten gaan het gesprek ook over de dood. Een groot deel van de Marokkaanse en Turkse Nederlanders worden nog altijd in het land van herkomst begraven, zelfs als ze hier geboren zijn en Marokko en Turkije alleen van vakanties kennen. Zerouli vertelt over haar persoonlijke ervaring met dit onderwerp. ",
+            "owner" : "BROADCASTER",
+            "type" : "MAIN"
+          }, {
+            "value" : "Te gast zijn twee chefs van 24 kitchen, culinair journalisten en schrijfsters van ARABIA: Nadia Zerouali en Merijn Tol. Een smakelijk gesprek met Naeeda Aurangzeb over de arabische keuken, de geuren en hoe belangrijk eten is in het leven. Behalve het koken en de betekenis van eten gaan het gesprek ook over de dood. Een groot deel van de Marokkaanse en Turkse Nederlanders worden nog altijd in het land van herkomst begraven, zelfs als ze hier geboren zijn en Marokko en Turkije alleen van vakanties kennen. Zerouli vertelt over haar persoonlijke ervaring met dit onderwerp. ",
+            "owner" : "BROADCASTER",
+            "type" : "SHORT"
           } ],
           "genres" : [ ],
+          "tags" : [ "ARABIA", "journalist", "Marokkaans", "Merijn Tol", "Nadia Zerouali", "Naeeda Aurangzeb", "OBA live", "schrijfster", "Turks" ],
           "countries" : [ ],
           "languages" : [ ],
-          "duration" : 470000,
           "descendantOf" : [ {
-            "midRef" : "POMS_S_VPRO_221115",
-            "urnRef" : "urn:vpro:media:group:22685467",
-            "type" : "ALBUM"
+            "midRef" : "POMS_S_EO_179636",
+            "urnRef" : "urn:vpro:media:group:13712197",
+            "type" : "ARCHIVE"
+          }, {
+            "midRef" : "POMS_S_NCRV_171924",
+            "urnRef" : "urn:vpro:media:group:14665646",
+            "type" : "ARCHIVE"
+          }, {
+            "midRef" : "POMS_S_HUMAN_166064",
+            "urnRef" : "urn:vpro:media:group:15334434",
+            "type" : "PLAYLIST"
+          }, {
+            "midRef" : "POMS_S_NCRV_219172",
+            "urnRef" : "urn:vpro:media:group:15346235",
+            "type" : "PLAYLIST"
+          }, {
+            "midRef" : "POMS_S_NCRV_158917",
+            "urnRef" : "urn:vpro:media:group:16021111",
+            "type" : "ARCHIVE"
+          }, {
+            "midRef" : "POMS_S_NCRV_474887",
+            "urnRef" : "urn:vpro:media:group:36365229",
+            "type" : "COLLECTION"
+          }, {
+            "midRef" : "POMS_S_HUMAN_508073",
+            "urnRef" : "urn:vpro:media:group:38994897",
+            "type" : "COLLECTION"
+          }, {
+            "midRef" : "POMS_S_HUMAN_508096",
+            "urnRef" : "urn:vpro:media:group:38995143",
+            "type" : "SERIES"
           } ],
           "memberOf" : [ {
-            "midRef" : "POMS_S_VPRO_221115",
-            "urnRef" : "urn:vpro:media:group:22685467",
-            "type" : "ALBUM",
-            "index" : 3,
+            "midRef" : "POMS_S_HUMAN_166064",
+            "urnRef" : "urn:vpro:media:group:15334434",
+            "type" : "PLAYLIST",
+            "index" : 31,
             "highlighted" : false,
-            "added" : 1362655370284
+            "added" : 1350658371471
+          }, {
+            "midRef" : "POMS_S_NCRV_219172",
+            "urnRef" : "urn:vpro:media:group:15346235",
+            "type" : "PLAYLIST",
+            "index" : 32,
+            "highlighted" : false,
+            "added" : 1350658371286
           } ],
           "predictions" : [ {
             "state" : "REALIZED",
             "platform" : "INTERNETVOD"
           } ],
           "locations" : [ {
-            "programUrl" : "odis+http://content.omroep.nl/vpro/protected/luisterpaal/albums/world/urn:vpro:media:group:22685467/track03.mp3",
+            "programUrl" : "http://content.omroep.nl/ncrv/spirit24/17-10-12_HUMAN-1.m4v",
             "avAttributes" : {
-              "bitrate" : 112,
-              "avFileFormat" : "MP3",
-              "audioAttributes" : {
-                "numberOfChannels" : 2,
-                "audioCoding" : "MP3"
-              }
+              "bitrate" : 264000,
+              "avFileFormat" : "M4V"
             },
-            "duration" : 470000,
             "owner" : "BROADCASTER",
-            "creationDate" : 1362655370020,
-            "lastModified" : 1362655370274,
+            "creationDate" : 1350658253548,
+            "lastModified" : 1350658253551,
             "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:location:22686441"
-          } ],
-          "relations" : [ {
-            "value" : "VietNam",
-            "type" : "ARTIST",
-            "urn" : "urn:vpro:media:relation:22686442",
-            "broadcaster" : "VPRO"
+            "urn" : "urn:vpro:media:location:15656926"
           }, {
-            "value" : "Mexican Summer/Bertus",
-            "type" : "LABEL",
-            "urn" : "urn:vpro:media:relation:22686443",
-            "broadcaster" : "VPRO"
+            "programUrl" : "http://content.omroep.nl/ncrv/spirit24/17-10-12_HUMAN-2.m4v",
+            "avAttributes" : {
+              "bitrate" : 628000,
+              "avFileFormat" : "M4V"
+            },
+            "owner" : "BROADCASTER",
+            "creationDate" : 1350658253545,
+            "lastModified" : 1350658253548,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:15656924"
+          }, {
+            "programUrl" : "http://content.omroep.nl/ncrv/spirit24/17-10-12_HUMAN-3.m4v",
+            "avAttributes" : {
+              "bitrate" : 828000,
+              "avFileFormat" : "M4V"
+            },
+            "owner" : "BROADCASTER",
+            "creationDate" : 1350658253542,
+            "lastModified" : 1350658253545,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:15656922"
+          }, {
+            "programUrl" : "http://content.omroep.nl/ncrv/spirit24/17-10-12_HUMAN.m4v",
+            "avAttributes" : {
+              "bitrate" : 1028000,
+              "avFileFormat" : "M4V"
+            },
+            "owner" : "BROADCASTER",
+            "creationDate" : 1350658253425,
+            "lastModified" : 1350658253542,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:15656920"
           } ],
           "images" : [ {
-            "title" : "an American Dream",
-            "imageUri" : "urn:vpro:image:145628",
+            "title" : "fr",
+            "description" : "fds",
+            "imageUri" : "urn:vpro:image:108016",
+            "height" : 406,
+            "width" : 720,
             "owner" : "BROADCASTER",
-            "type" : "PICTURE",
+            "type" : "STILL",
             "highlighted" : false,
-            "creationDate" : 1362654142179,
-            "lastModified" : 1362655370852,
+            "creationDate" : 1350658136475,
+            "lastModified" : 1350658136592,
             "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:image:22686445"
+            "urn" : "urn:vpro:media:image:15656902"
           } ],
           "workflow" : "PUBLISHED",
-          "type" : "TRACK",
-          "avType" : "AUDIO"
+          "type" : "CLIP",
+          "avType" : "VIDEO"
         }
       } ],
       "images" : [ {
         "type" : "PICTURE",
-        "url" : "http://images.poms.omroep.nl/image/s360/145628.jpg",
-        "title" : "an American Dream"
+        "url" : "http://images.poms.omroep.nl/image/s360/108016.jpg",
+        "title" : "fr",
+        "description" : "fds"
       } ],
-      "publishStart" : 1362655370218,
-      "creationDate" : 1411393930413,
-      "lastModified" : 1414475283894,
+      "publishStart" : 1350658122488,
+      "creationDate" : 1421942398759,
+      "lastModified" : 1425956300669,
       "refCount" : 0
     }
   }, {
-    "score" : 0.13654533,
+    "score" : 1.06161665E-26,
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",
-      "type" : "PLAYER",
-      "url" : "http://www-test.vpro.nl/speel.POMS_VPRO_187555.html",
-      "sortDate" : 1330089120666,
-      "crids" : [ "crid://vpro/media/vpro/POMS_VPRO_187555" ],
+      "type" : "ARTICLE",
+      "url" : "http://www-test.npogeschiedenis.nl/nieuws/2006/mei/Schrijf-Pophistorie-de-lijstjes-van-1976-1985.html",
+      "sortDate" : 1147416935000,
+      "crids" : [ "crid://vpro/website/87c42e52-496a-4d65-80bf-e5253ad52be6" ],
       "broadcasters" : [ {
         "id" : "VPRO",
         "value" : "VPRO"
       } ],
       "portal" : {
-        "id" : "VPRONL",
-        "url" : "http://www-test.vpro.nl",
-        "value" : "VPRO.nl"
+        "id" : "GESCHIEDENIS24",
+        "url" : "http://www-test.npogeschiedenis.nl",
+        "value" : "NPO Geschiedenis"
       },
-      "title" : "Soul Kitchen",
-      "embeds" : [ {
-        "title" : "Soul Kitchen",
-        "media" : {
-          "objectType" : "program",
-          "mid" : "POMS_VPRO_187555",
-          "creationDate" : 1330089120666,
-          "lastModified" : 1330120705985,
-          "sortDate" : 1330089120666,
-          "urn" : "urn:vpro:media:program:12962160",
-          "embeddable" : true,
-          "broadcasters" : [ {
-            "id" : "VPRO",
-            "value" : "VPRO"
-          } ],
-          "titles" : [ {
-            "value" : "Soul Kitchen",
-            "owner" : "BROADCASTER",
-            "type" : "MAIN"
-          } ],
-          "genres" : [ ],
-          "countries" : [ ],
-          "languages" : [ ],
-          "duration" : 214000,
-          "predictions" : [ {
-            "state" : "REALIZED",
-            "platform" : "INTERNETVOD"
-          } ],
-          "locations" : [ {
-            "programUrl" : "odis+http://content.omroep.nl/vpro/protected/luisterpaal/albums/nl/urn:vpro:media:group:12962154/track02.mp3",
-            "avAttributes" : {
-              "bitrate" : 112,
-              "avFileFormat" : "MP3",
-              "audioAttributes" : {
-                "numberOfChannels" : 2,
-                "audioCoding" : "MP3"
-              }
-            },
-            "duration" : 4000,
-            "owner" : "BROADCASTER",
-            "creationDate" : 1330089120604,
-            "lastModified" : 1330089120738,
-            "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:location:12962164"
-          } ],
-          "relations" : [ {
-            "value" : "The Doors",
-            "type" : "ARTIST",
-            "urn" : "urn:vpro:media:relation:12962165",
-            "broadcaster" : "VPRO"
-          }, {
-            "value" : "Elektra/Warner",
-            "type" : "LABEL",
-            "urn" : "urn:vpro:media:relation:12962166",
-            "broadcaster" : "VPRO"
-          } ],
-          "images" : [ {
-            "title" : "The Doors",
-            "description" : "",
-            "imageUri" : "urn:vpro:image:50647",
-            "owner" : "BROADCASTER",
-            "type" : "PICTURE",
-            "highlighted" : false,
-            "creationDate" : 1330089120208,
-            "lastModified" : 1330089121015,
-            "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:image:12962168"
-          } ],
-          "workflow" : "PUBLISHED",
-          "type" : "TRACK",
-          "avType" : "AUDIO"
-        }
+      "title" : "Schrijf Pophistorie: de lijstjes van 1976 - 1985",
+      "summary" : "Elke lijst is discutabel. De enige acceptabele lijst is degene met alle muziek ooit uitgebracht erop. Maar dat kan niet. We hebben ons bij de samenstelling van de ultieme 50 jaar pophistorie-lijst laten leiden door de kenners. Dat waren voor de periode 1976-1985 Bart Chabot, Fons Dellen, Peter Weening, SwieTio, Fred Hermsen, Ann Bouwma, Gerard Walhof, Anton Corbijn, Alfred Bos en Peter Bruyn. Hier is hun keuze.",
+      "paragraphs" : [ {
+        "body" : "De top vijf van Bart Chabot (dichter, schrijver, Brood-biograaf):  1. Tom Waits - Swordfishtrombones (1983 / Island)  2. Joy Division - Unknown Pleasures (1979 / Factory)  3. Joy Division - Closer (1980 / Factory)  4. Sex Pistols - Never Mind the Bollocks (1977 / Virgin)  5. Clash - London Calling (1979 / CBS)  De top vijf van Fons Dellen (programmamaker VPRO radio/tv/internet):  1. Ramones - Ramones (1976 / Sire)  2. Sex Pistols - Never mind the bollocks (1977 / Virgin)  3. Gun Club - Miami (1982 / Animal Rec)  4. Jesus and Mary Chain, the - Psychocandy (1985 / Blanco Y Negro)  5. Suicide - Suicide (1977 / Red Star Records)  De top vijf van Peter Weening (boeker popclub VERA Groningen):  1. Thin Lizzy - Jailbreak (1976 / Vertigo)  2. Dead Boys - Young, Loud and Snotty (1977 / Sire)  3. Captain Beefheart - Shiny Beast (1979 / Virgin)  4. The Sound - Jeopardy (1980 / Korova)  5. Flipper - Generic Flipper (1982 / Def American)  De top vijf van Swie Tio (pojournalist, webmaster Lowlands-festival):  1. Ramones - Ramones (1976 / Sire)  2. Joy Division - Closer (1980 / Factory)  3. Buzzcocks - Another Music in a Different Kitchen (1978 / United Artists)  4. Undertones - The Undertones (1979 / Sire)  5. Pretenders - Pretenders (1980 / Real)  De top vijf van Fred Hermsen (programmaker VPRO-radio):  1. Smiths - The Smiths (1984 / Rough Trade)  2. Gang of Four - Entertainment (1979 / EMI)  3. Talking Heads - Fear of Music (1979 / Sire)  4. Bryan Ferry - In Your Mind (1977 / Polydor)  5. David Bowie - Low (1977 / RCA)  De top vijf van Ann Bouwma (popjournalist):  1. Van der Graaf Generator - World Record (1976 / Charisma )  2. Joy Division - Unknown Pleasures (1979 / Factory)  3. Feelies - Crazy Rhytms (1980 / A&M)  4. Grandmaster Flash & the Furious Five - The Message (1982 / Sugarhill)  5. R.E.M - Fables of the reconstruction (1985 / IRS)  De top vijf van Gerard Walhof (programmamaker VPRO-radio):  1. Scraping Foetus off the Wheel - Hole (1984 / Self Immolation)  2. Eunstürzende Neubauten - Kollaps (1981 / ZickZack)  3. Coil -The anal staircase (1987 / Some Bizarre)  4. Pere Ubu - The modern dance (1978 / Mercury)  5. Wire - 154 (1979 / Harvest)  De top vijf van Anton Corbijn (fotograaf):  1. Joy Division - Unknown Pleasures (1979 / Factory)  2. Kraftwerk - Man Machine (1978 / Capitol)  3. John Martyn - One world (1977 / Island)  4. Talking Heads -Fear of music (1979 / Sire)  5. Undertones -The Undertones (1979 / Sire)  De top vijf van Alfred Bos (hoofdredacteur DJ Broadcast Magazine):  1. Upsetters - Super Ape 9 (1976 / Mango)  2. Wire - Chairs Missing (1978 / EMI)  3. Simple Minds - Sons and Fascination/ Sister Feelings Call (1981 / Virgin)  4. Kraftwerk - Computer World (1982 / EMI)  5. Yello - You Gotta Say Yes To Another Excess (1983 / Vertigo)  De top vijf van Peter Bruyn (popjournalist GPD):  1. Birthday Party - Prayers on Fire (1981 / 4AD)  2. Clash - London Calling (1979 / CBS)  3. Peter Hammill - The Future Now (1978 / Charisma )  4. Green on Red - Gas Food Lodging (1985 / Enigma)  5. Sonic Youth - Bad Moon Rising (1985 / Blast First)"
       } ],
       "images" : [ {
         "type" : "PICTURE",
-        "url" : "http://images.poms.omroep.nl/image/s360/50647.jpg",
-        "title" : "The Doors",
-        "description" : ""
+        "url" : "http://www-test.npogeschiedenis.nl/.imaging/stk/geschiedenis/search/media/geschiedenis/nieuws/drie/2005/January/21050928/original/21050928.jpg",
+        "title" : " "
       } ],
-      "publishStart" : 1330089120666,
-      "creationDate" : 1411401691587,
-      "lastModified" : 1411401691789,
+      "publishStart" : 1147416935000,
+      "creationDate" : 1417523616687,
+      "lastModified" : 1422550784830,
       "refCount" : 0
     }
   } ]

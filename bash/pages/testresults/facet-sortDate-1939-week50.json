@@ -1,0 +1,16 @@
+{
+  "facets" : { },
+  "selectedFacets" : {
+    "sortDates" : [ {
+      "count" : 0,
+      "selected" : true,
+      "value" : "1939-W50",
+      "begin" : -948326400000,
+      "end" : -947116800000
+    } ]
+  },
+  "total" : 0,
+  "offset" : 0,
+  "max" : 2,
+  "items" : [ ]
+}

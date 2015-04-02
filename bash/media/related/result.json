@@ -1,0 +1,562 @@
+{
+  "total" : 2,
+  "offset" : 0,
+  "max" : 2,
+  "items" : [ {
+    "score" : 3.9077477,
+    "highlights" : [ ],
+    "result" : {
+      "objectType" : "program",
+      "mid" : "POMS_VPRO_211251",
+      "creationDate" : 1295837607828,
+      "lastModified" : 1297117005255,
+      "sortDate" : 1297108920000,
+      "urn" : "urn:vpro:media:program:7937525",
+      "embeddable" : true,
+      "crids" : [ "crid://bds.tv/27131960" ],
+      "broadcasters" : [ {
+        "id" : "VPRO",
+        "value" : "VPRO"
+      } ],
+      "titles" : [ {
+        "value" : "De Avonden",
+        "owner" : "MIS",
+        "type" : "MAIN"
+      } ],
+      "descriptions" : [ {
+        "value" : "21.05 Weekserie, een dagelijkse bijdrage van Maarten Westerveen. 21.10 Arnon Grunberg belt een kort verhaal door aan Wim Noordhoek. 21.25 Jeroen van Kan in gesprek met een schrijver over een pas uitgekomen boek. 22.05 Herm Pol bespreekt een boek dat onlangs in het Nederlands vertaald is. 22.15 Aandacht voor fictie of poëzie. Een bijdrage van Jeroen van Kan. 22.35 Botte Jellema interviewt theatermakers of muzikanten.",
+        "owner" : "MIS",
+        "type" : "MAIN"
+      }, {
+        "value" : "-Weekserie. -Arnon Grunberg met een kort verhaal. -Jeroen van Kan in gesprek met een schrijver. -Herm Pol bespreekt een boek dat in het Nederlands vertaald is. -Fictie of poëzie. -Botte Jellema.",
+        "owner" : "MIS",
+        "type" : "SHORT"
+      } ],
+      "genres" : [ {
+        "id" : "3.0.1.7.24",
+        "terms" : [ "Informatief", "Kunst/cultuur" ]
+      } ],
+      "countries" : [ ],
+      "languages" : [ {
+        "code" : "nl",
+        "value" : "Nederlands"
+      } ],
+      "duration" : 7200000,
+      "teletext" : 267,
+      "scheduleEvents" : [ {
+        "start" : 1297108920000,
+        "duration" : 7200000,
+        "poProgID" : "POMS_VPRO_211251",
+        "channel" : "RAD6",
+        "imi" : "imi:19913",
+        "urnRef" : "urn:vpro:media:program:7937525",
+        "midRef" : "POMS_VPRO_211251"
+      } ],
+      "workflow" : "PUBLISHED",
+      "segments" : [ {
+        "objectType" : "segment",
+        "mid" : "POMS_VPRO_211088",
+        "creationDate" : 1297112985201,
+        "lastModified" : 1297112985257,
+        "sortDate" : 1297108920000,
+        "urn" : "urn:vpro:media:segment:8170405",
+        "embeddable" : true,
+        "broadcasters" : [ {
+          "id" : "VPRO",
+          "value" : "VPRO"
+        } ],
+        "titles" : [ {
+          "value" : "avondenuur1",
+          "owner" : "NEBO",
+          "type" : "MAIN"
+        }, {
+          "value" : "avondenuur1",
+          "owner" : "NEBO",
+          "type" : "WORK"
+        } ],
+        "genres" : [ ],
+        "countries" : [ ],
+        "languages" : [ ],
+        "duration" : 3600000,
+        "descendantOf" : [ {
+          "midRef" : "POMS_VPRO_211251",
+          "urnRef" : "urn:vpro:media:program:7937525",
+          "type" : "BROADCAST"
+        } ],
+        "predictions" : [ {
+          "state" : "REALIZED",
+          "platform" : "INTERNETVOD"
+        } ],
+        "locations" : [ {
+          "programUrl" : "http://audio.omroep.nl/radio6/vpro/avondenuur1/20110207-21.mp3",
+          "avAttributes" : {
+            "avFileFormat" : "MP3"
+          },
+          "duration" : 3600000,
+          "owner" : "NEBO",
+          "creationDate" : 1297112985206,
+          "lastModified" : 1297112985257,
+          "workflow" : "PUBLISHED",
+          "urn" : "urn:vpro:media:location:8170407"
+        }, {
+          "programUrl" : "http://cgi.omroep.nl/cgi-bin/streams?/radio6/vpro/avondenuur1/20110207-21.wma",
+          "avAttributes" : {
+            "avFileFormat" : "WM"
+          },
+          "duration" : 3600000,
+          "owner" : "NEBO",
+          "creationDate" : 1297112985213,
+          "lastModified" : 1297112985258,
+          "workflow" : "PUBLISHED",
+          "urn" : "urn:vpro:media:location:8170409"
+        } ],
+        "workflow" : "PUBLISHED",
+        "start" : 0,
+        "urnRef" : "urn:vpro:media:program:7937525",
+        "midRef" : "POMS_VPRO_211251",
+        "type" : "SEGMENT",
+        "avType" : "AUDIO"
+      }, {
+        "objectType" : "segment",
+        "mid" : "POMS_VPRO_211089",
+        "creationDate" : 1297116945230,
+        "lastModified" : 1297116945300,
+        "sortDate" : 1297108920000,
+        "urn" : "urn:vpro:media:segment:8170417",
+        "embeddable" : true,
+        "broadcasters" : [ {
+          "id" : "VPRO",
+          "value" : "VPRO"
+        } ],
+        "titles" : [ {
+          "value" : "avondenuur2",
+          "owner" : "NEBO",
+          "type" : "MAIN"
+        }, {
+          "value" : "avondenuur2",
+          "owner" : "NEBO",
+          "type" : "WORK"
+        } ],
+        "genres" : [ ],
+        "countries" : [ ],
+        "languages" : [ ],
+        "duration" : 3600000,
+        "descendantOf" : [ {
+          "midRef" : "POMS_VPRO_211251",
+          "urnRef" : "urn:vpro:media:program:7937525",
+          "type" : "BROADCAST"
+        } ],
+        "predictions" : [ {
+          "state" : "REALIZED",
+          "platform" : "INTERNETVOD"
+        } ],
+        "locations" : [ {
+          "programUrl" : "http://audio.omroep.nl/radio6/vpro/avondenuur2/20110207-22.mp3",
+          "avAttributes" : {
+            "avFileFormat" : "MP3"
+          },
+          "duration" : 3600000,
+          "owner" : "NEBO",
+          "creationDate" : 1297116945235,
+          "lastModified" : 1297116945300,
+          "workflow" : "PUBLISHED",
+          "urn" : "urn:vpro:media:location:8170419"
+        }, {
+          "programUrl" : "http://cgi.omroep.nl/cgi-bin/streams?/radio6/vpro/avondenuur2/20110207-22.wma",
+          "avAttributes" : {
+            "avFileFormat" : "WM"
+          },
+          "duration" : 3600000,
+          "owner" : "NEBO",
+          "creationDate" : 1297116945240,
+          "lastModified" : 1297116945300,
+          "workflow" : "PUBLISHED",
+          "urn" : "urn:vpro:media:location:8170421"
+        } ],
+        "workflow" : "PUBLISHED",
+        "start" : 3480000,
+        "urnRef" : "urn:vpro:media:program:7937525",
+        "midRef" : "POMS_VPRO_211251",
+        "type" : "SEGMENT",
+        "avType" : "AUDIO"
+      }, {
+        "objectType" : "segment",
+        "mid" : "POMS_VPRO_211087",
+        "creationDate" : 1297117005199,
+        "lastModified" : 1297117005255,
+        "sortDate" : 1297108920000,
+        "urn" : "urn:vpro:media:segment:8170423",
+        "embeddable" : true,
+        "broadcasters" : [ {
+          "id" : "VPRO",
+          "value" : "VPRO"
+        } ],
+        "titles" : [ {
+          "value" : "avondenuur2",
+          "owner" : "NEBO",
+          "type" : "MAIN"
+        }, {
+          "value" : "avondenuur2",
+          "owner" : "NEBO",
+          "type" : "WORK"
+        } ],
+        "genres" : [ ],
+        "countries" : [ ],
+        "languages" : [ ],
+        "duration" : 3600000,
+        "descendantOf" : [ {
+          "midRef" : "POMS_VPRO_211251",
+          "urnRef" : "urn:vpro:media:program:7937525",
+          "type" : "BROADCAST"
+        } ],
+        "predictions" : [ {
+          "state" : "REALIZED",
+          "platform" : "INTERNETVOD"
+        } ],
+        "locations" : [ {
+          "programUrl" : "http://audio.omroep.nl/radio6/vpro/avondenuur2/20110207-22.mp3",
+          "avAttributes" : {
+            "avFileFormat" : "MP3"
+          },
+          "duration" : 3600000,
+          "owner" : "NEBO",
+          "creationDate" : 1297117005203,
+          "lastModified" : 1297117005255,
+          "workflow" : "PUBLISHED",
+          "urn" : "urn:vpro:media:location:8170425"
+        }, {
+          "programUrl" : "http://cgi.omroep.nl/cgi-bin/streams?/radio6/vpro/avondenuur2/20110207-22.wma",
+          "avAttributes" : {
+            "avFileFormat" : "WM"
+          },
+          "duration" : 3600000,
+          "owner" : "NEBO",
+          "creationDate" : 1297117005208,
+          "lastModified" : 1297117005255,
+          "workflow" : "PUBLISHED",
+          "urn" : "urn:vpro:media:location:8170427"
+        } ],
+        "workflow" : "PUBLISHED",
+        "start" : 3480000,
+        "urnRef" : "urn:vpro:media:program:7937525",
+        "midRef" : "POMS_VPRO_211251",
+        "type" : "SEGMENT",
+        "avType" : "AUDIO"
+      } ],
+      "type" : "BROADCAST",
+      "avType" : "AUDIO"
+    }
+  }, {
+    "score" : 3.5270684,
+    "highlights" : [ ],
+    "result" : {
+      "objectType" : "program",
+      "mid" : "POMS_VPRO_156138",
+      "creationDate" : 1299723885111,
+      "lastModified" : 1376656245304,
+      "sortDate" : 1300996920000,
+      "urn" : "urn:vpro:media:program:8764581",
+      "embeddable" : true,
+      "episodeOf" : [ {
+        "midRef" : "POMS_S_VPRO_389887",
+        "urnRef" : "urn:vpro:media:group:28613007",
+        "type" : "SEASON",
+        "index" : 11,
+        "highlighted" : false,
+        "added" : 1376656241647
+      } ],
+      "crids" : [ "crid://bds.tv/28188523" ],
+      "broadcasters" : [ {
+        "id" : "VPRO",
+        "value" : "VPRO"
+      } ],
+      "titles" : [ {
+        "value" : "De Avonden",
+        "owner" : "MIS",
+        "type" : "MAIN"
+      } ],
+      "descriptions" : [ {
+        "value" : "Met om ca. 21.05 Weekserie. Een nieuwe plaat van de Kift brengt altijd een paar zekerheden. Liederen vol mannen die drinken tegen de buitenwereld. Muziek gemaakt met de inhoud van een roestende gereedschapskist. Een zanger die het bestaat zelfs in het woord vla nog een paar rollende r's te vinden, dit alles uitgesproken alsof elk woord als een scheepsmoer moet worden aangedraaid, klaar voor de grote vaart. De Kift presenteert de nieuwe plaat Brik, die het verhaal vertelt over de ongelukkige woestijndoler Admiraal B. Een man die zich zuipend en wenend op zijn brik over de zandvlaktes jaagt. 21.15 Aandacht voor fictie of poëzie. Een bijdrage van Maarten Westerveen. 21.25 Maarten Westerveen interviewt een theatermaker of muzikant. 22.05 Milou van Rossum doet verslag van de nieuwe tentoonstelling: Ontrafel. Tricot in de mode. 22.15 Dichteres Patty Scholten schreef een autobiografie in bijna negentig sonnetten: De ziel is een pannenkoek. Gijsbert van der Wal spreekt erover met de schrijfster. 22.35 Floortje Smit in gesprek met regisseur Tom Tykwer over zijn film Drei. De Duitse regisseur van o.a. Das Parfum en Lola Rennt laat in deze film zien hoe een echtpaar in een eigentijdse, onconventionele driehoeksverhouding belandt.",
+        "owner" : "MIS",
+        "type" : "MAIN"
+      }, {
+        "value" : "-Weekserie: de Kift. -Bijdrage Maarten Westerveen en een interview. -Milou van Rossum over Ontrafel. Tricot in de mode. -Gesprek met dichteres Patty Scholten. -Gesprek met regisseur Tom Tykwer.",
+        "owner" : "MIS",
+        "type" : "SHORT"
+      } ],
+      "genres" : [ {
+        "id" : "3.0.1.7.24",
+        "terms" : [ "Informatief", "Kunst/cultuur" ]
+      } ],
+      "countries" : [ ],
+      "languages" : [ {
+        "code" : "nl",
+        "value" : "Nederlands"
+      } ],
+      "duration" : 7200000,
+      "descendantOf" : [ {
+        "midRef" : "POMS_S_VPRO_389887",
+        "urnRef" : "urn:vpro:media:group:28613007",
+        "type" : "SEASON"
+      }, {
+        "midRef" : "AUTO_DEAVONDEN",
+        "urnRef" : "urn:vpro:media:group:73277",
+        "type" : "SERIES"
+      } ],
+      "teletext" : 267,
+      "predictions" : [ {
+        "state" : "REALIZED",
+        "platform" : "INTERNETVOD"
+      } ],
+      "locations" : [ {
+        "programUrl" : "http://audio.omroep.nl/radio6/vpro/avondenheel/20110324-21.mp3",
+        "avAttributes" : {
+          "avFileFormat" : "MP3"
+        },
+        "duration" : 7200000,
+        "owner" : "NEBO",
+        "creationDate" : 1301005506507,
+        "lastModified" : 1301005506647,
+        "workflow" : "PUBLISHED",
+        "urn" : "urn:vpro:media:location:9000558"
+      }, {
+        "programUrl" : "http://cgi.omroep.nl/cgi-bin/streams?/radio6/vpro/avondenheel/20110324-21.wma",
+        "avAttributes" : {
+          "avFileFormat" : "WM"
+        },
+        "duration" : 7200000,
+        "owner" : "NEBO",
+        "creationDate" : 1301005506525,
+        "lastModified" : 1301005506647,
+        "workflow" : "PUBLISHED",
+        "urn" : "urn:vpro:media:location:9000560"
+      } ],
+      "scheduleEvents" : [ {
+        "start" : 1300996920000,
+        "duration" : 7200000,
+        "poProgID" : "POMS_VPRO_156138",
+        "channel" : "RAD6",
+        "imi" : "imi:20604",
+        "urnRef" : "urn:vpro:media:program:8764581",
+        "midRef" : "POMS_VPRO_156138"
+      } ],
+      "workflow" : "PUBLISHED",
+      "segments" : [ {
+        "objectType" : "segment",
+        "mid" : "POMS_VPRO_156139",
+        "creationDate" : 1301001066503,
+        "lastModified" : 1301001066564,
+        "sortDate" : 1300996920000,
+        "urn" : "urn:vpro:media:segment:9000531",
+        "embeddable" : true,
+        "broadcasters" : [ {
+          "id" : "VPRO",
+          "value" : "VPRO"
+        } ],
+        "titles" : [ {
+          "value" : "avondenuur1",
+          "owner" : "NEBO",
+          "type" : "MAIN"
+        }, {
+          "value" : "avondenuur1",
+          "owner" : "NEBO",
+          "type" : "WORK"
+        } ],
+        "genres" : [ ],
+        "countries" : [ ],
+        "languages" : [ ],
+        "duration" : 3600000,
+        "descendantOf" : [ {
+          "midRef" : "POMS_S_VPRO_389887",
+          "urnRef" : "urn:vpro:media:group:28613007",
+          "type" : "SEASON"
+        }, {
+          "midRef" : "AUTO_DEAVONDEN",
+          "urnRef" : "urn:vpro:media:group:73277",
+          "type" : "SERIES"
+        }, {
+          "midRef" : "POMS_VPRO_156138",
+          "urnRef" : "urn:vpro:media:program:8764581",
+          "type" : "BROADCAST"
+        } ],
+        "predictions" : [ {
+          "state" : "REALIZED",
+          "platform" : "INTERNETVOD"
+        } ],
+        "locations" : [ {
+          "programUrl" : "http://audio.omroep.nl/radio6/vpro/avondenuur1/20110324-21.mp3",
+          "avAttributes" : {
+            "avFileFormat" : "MP3"
+          },
+          "duration" : 3600000,
+          "owner" : "NEBO",
+          "creationDate" : 1301001066508,
+          "lastModified" : 1301001066564,
+          "workflow" : "PUBLISHED",
+          "urn" : "urn:vpro:media:location:9000533"
+        }, {
+          "programUrl" : "http://cgi.omroep.nl/cgi-bin/streams?/radio6/vpro/avondenuur1/20110324-21.wma",
+          "avAttributes" : {
+            "avFileFormat" : "WM"
+          },
+          "duration" : 3600000,
+          "owner" : "NEBO",
+          "creationDate" : 1301001066514,
+          "lastModified" : 1301001066564,
+          "workflow" : "PUBLISHED",
+          "urn" : "urn:vpro:media:location:9000535"
+        } ],
+        "workflow" : "PUBLISHED",
+        "start" : 0,
+        "urnRef" : "urn:vpro:media:program:8764581",
+        "midRef" : "POMS_VPRO_156138",
+        "type" : "SEGMENT",
+        "avType" : "AUDIO"
+      }, {
+        "objectType" : "segment",
+        "mid" : "POMS_VPRO_156140",
+        "creationDate" : 1301005086530,
+        "lastModified" : 1301005086614,
+        "sortDate" : 1300996920000,
+        "urn" : "urn:vpro:media:segment:9000539",
+        "embeddable" : true,
+        "broadcasters" : [ {
+          "id" : "VPRO",
+          "value" : "VPRO"
+        } ],
+        "titles" : [ {
+          "value" : "avondenuur2",
+          "owner" : "NEBO",
+          "type" : "MAIN"
+        }, {
+          "value" : "avondenuur2",
+          "owner" : "NEBO",
+          "type" : "WORK"
+        } ],
+        "genres" : [ ],
+        "countries" : [ ],
+        "languages" : [ ],
+        "duration" : 3600000,
+        "descendantOf" : [ {
+          "midRef" : "POMS_S_VPRO_389887",
+          "urnRef" : "urn:vpro:media:group:28613007",
+          "type" : "SEASON"
+        }, {
+          "midRef" : "AUTO_DEAVONDEN",
+          "urnRef" : "urn:vpro:media:group:73277",
+          "type" : "SERIES"
+        }, {
+          "midRef" : "POMS_VPRO_156138",
+          "urnRef" : "urn:vpro:media:program:8764581",
+          "type" : "BROADCAST"
+        } ],
+        "predictions" : [ {
+          "state" : "REALIZED",
+          "platform" : "INTERNETVOD"
+        } ],
+        "locations" : [ {
+          "programUrl" : "http://audio.omroep.nl/radio6/vpro/avondenuur2/20110324-22.mp3",
+          "avAttributes" : {
+            "avFileFormat" : "MP3"
+          },
+          "duration" : 3600000,
+          "owner" : "NEBO",
+          "creationDate" : 1301005086535,
+          "lastModified" : 1301005086614,
+          "workflow" : "PUBLISHED",
+          "urn" : "urn:vpro:media:location:9000541"
+        }, {
+          "programUrl" : "http://cgi.omroep.nl/cgi-bin/streams?/radio6/vpro/avondenuur2/20110324-22.wma",
+          "avAttributes" : {
+            "avFileFormat" : "WM"
+          },
+          "duration" : 3600000,
+          "owner" : "NEBO",
+          "creationDate" : 1301005086540,
+          "lastModified" : 1301005086614,
+          "workflow" : "PUBLISHED",
+          "urn" : "urn:vpro:media:location:9000543"
+        } ],
+        "workflow" : "PUBLISHED",
+        "start" : 3480000,
+        "urnRef" : "urn:vpro:media:program:8764581",
+        "midRef" : "POMS_VPRO_156138",
+        "type" : "SEGMENT",
+        "avType" : "AUDIO"
+      }, {
+        "objectType" : "segment",
+        "mid" : "POMS_VPRO_156141",
+        "creationDate" : 1301005146552,
+        "lastModified" : 1301005146653,
+        "sortDate" : 1300996920000,
+        "urn" : "urn:vpro:media:segment:9000551",
+        "embeddable" : true,
+        "broadcasters" : [ {
+          "id" : "VPRO",
+          "value" : "VPRO"
+        } ],
+        "titles" : [ {
+          "value" : "avondenuur2",
+          "owner" : "NEBO",
+          "type" : "MAIN"
+        }, {
+          "value" : "avondenuur2",
+          "owner" : "NEBO",
+          "type" : "WORK"
+        } ],
+        "genres" : [ ],
+        "countries" : [ ],
+        "languages" : [ ],
+        "duration" : 3600000,
+        "descendantOf" : [ {
+          "midRef" : "POMS_S_VPRO_389887",
+          "urnRef" : "urn:vpro:media:group:28613007",
+          "type" : "SEASON"
+        }, {
+          "midRef" : "AUTO_DEAVONDEN",
+          "urnRef" : "urn:vpro:media:group:73277",
+          "type" : "SERIES"
+        }, {
+          "midRef" : "POMS_VPRO_156138",
+          "urnRef" : "urn:vpro:media:program:8764581",
+          "type" : "BROADCAST"
+        } ],
+        "predictions" : [ {
+          "state" : "REALIZED",
+          "platform" : "INTERNETVOD"
+        } ],
+        "locations" : [ {
+          "programUrl" : "http://audio.omroep.nl/radio6/vpro/avondenuur2/20110324-22.mp3",
+          "avAttributes" : {
+            "avFileFormat" : "MP3"
+          },
+          "duration" : 3600000,
+          "owner" : "NEBO",
+          "creationDate" : 1301005146556,
+          "lastModified" : 1301005146653,
+          "workflow" : "PUBLISHED",
+          "urn" : "urn:vpro:media:location:9000553"
+        }, {
+          "programUrl" : "http://cgi.omroep.nl/cgi-bin/streams?/radio6/vpro/avondenuur2/20110324-22.wma",
+          "avAttributes" : {
+            "avFileFormat" : "WM"
+          },
+          "duration" : 3600000,
+          "owner" : "NEBO",
+          "creationDate" : 1301005146561,
+          "lastModified" : 1301005146653,
+          "workflow" : "PUBLISHED",
+          "urn" : "urn:vpro:media:location:9000555"
+        } ],
+        "workflow" : "PUBLISHED",
+        "start" : 3480000,
+        "urnRef" : "urn:vpro:media:program:8764581",
+        "midRef" : "POMS_VPRO_156138",
+        "type" : "SEGMENT",
+        "avType" : "AUDIO"
+      } ],
+      "type" : "BROADCAST",
+      "avType" : "AUDIO"
+    }
+  } ]
+}

@@ -1,11 +1,18 @@
 {
-  "facets" : { },
+  "facets" : {
+    "genres" : [ {
+      "count" : 393,
+      "id" : "3.0.1.1",
+      "value" : "Jeugd",
+      "terms" : [ "Jeugd" ]
+    } ]
+  },
   "selectedFacets" : { },
   "total" : 41612,
   "offset" : 0,
   "max" : 2,
   "items" : [ {
-    "score" : 1.7542124,
+    "score" : 1.7542104,
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",
@@ -80,7 +87,7 @@
       "refCount" : 0
     }
   }, {
-    "score" : 1.6442077,
+    "score" : 1.6442056,
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",

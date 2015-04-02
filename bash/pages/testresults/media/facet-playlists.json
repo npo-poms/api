@@ -3,139 +3,140 @@
   "selectedFacets" : { },
   "mediaFacets" : {
     "descendantOf" : [ {
-      "count" : 1,
-      "id" : "AUTO_CULTURANL",
-      "value" : "Cultura24",
-      "type" : "PLAYLIST"
-    }, {
-      "count" : 42,
+      "count" : 11,
       "id" : "AUTO_DEVLOEROPWEBONLY",
       "value" : "De Vloer Op",
       "type" : "PLAYLIST"
     }, {
-      "count" : 8,
+      "count" : 11,
       "id" : "AUTO_DUIVELSEDILEMMAS",
       "value" : "Duivelse dilemma's",
       "type" : "PLAYLIST"
     }, {
-      "count" : 5,
-      "id" : "AUTO_STERRENOPHETDOEK",
-      "value" : "Sterren op het doek",
+      "count" : 38,
+      "id" : "AUTO_PROFIELVDWEEKWEBONLY",
+      "value" : "Profiel van de Week",
       "type" : "PLAYLIST"
     }, {
-      "count" : 57,
-      "id" : "Cinema_trailers",
-      "value" : "Cinema.nl Trailers",
-      "type" : "PLAYLIST"
-    }, {
-      "count" : 3,
-      "id" : "NPO_IDFA2009",
-      "value" : "Holland Doc shorts",
-      "type" : "PLAYLIST"
-    }, {
-      "count" : 3,
+      "count" : 2,
       "id" : "POMS_S_BOS_169461",
       "value" : "BOS Documentaires",
       "type" : "PLAYLIST"
     }, {
-      "count" : 1,
-      "id" : "POMS_S_BOS_217012",
-      "value" : "BOS Jeugd documentaires ",
-      "type" : "PLAYLIST"
-    }, {
-      "count" : 2,
+      "count" : 3,
       "id" : "POMS_S_EO_1245324",
       "value" : "JVtest",
       "type" : "PLAYLIST"
     }, {
-      "count" : 2,
-      "id" : "POMS_S_EO_168107",
-      "value" : "De kist",
+      "count" : 12,
+      "id" : "POMS_S_EO_216476",
+      "value" : "Sport",
+      "type" : "PLAYLIST"
+    }, {
+      "count" : 10,
+      "id" : "POMS_S_HUMAN_157837",
+      "value" : "Profiel - selectie spirit 24",
+      "type" : "PLAYLIST"
+    }, {
+      "count" : 43,
+      "id" : "POMS_S_HUMAN_166064",
+      "value" : "OBA Live HUMAN",
+      "type" : "PLAYLIST"
+    }, {
+      "count" : 9,
+      "id" : "POMS_S_HUMAN_168154",
+      "value" : "Documentaires en Wereldhumanismedag",
+      "type" : "PLAYLIST"
+    }, {
+      "count" : 7,
+      "id" : "POMS_S_HUMAN_168754",
+      "value" : "De magie van de wetenschap",
+      "type" : "PLAYLIST"
+    }, {
+      "count" : 12,
+      "id" : "POMS_S_HUMAN_168780",
+      "value" : "Dus ik ben",
+      "type" : "PLAYLIST"
+    }, {
+      "count" : 3,
+      "id" : "POMS_S_HUMAN_168955",
+      "value" : "Liefde gaat door de maag",
+      "type" : "PLAYLIST"
+    }, {
+      "count" : 29,
+      "id" : "POMS_S_HUMAN_168996",
+      "value" : "Durf te denken",
+      "type" : "PLAYLIST"
+    }, {
+      "count" : 18,
+      "id" : "POMS_S_HUMAN_169120",
+      "value" : "Het filosofisch kwintet",
+      "type" : "PLAYLIST"
+    }, {
+      "count" : 19,
+      "id" : "POMS_S_HUMAN_203035",
+      "value" : "Ondertussen in Nederland",
+      "type" : "PLAYLIST"
+    }, {
+      "count" : 12,
+      "id" : "POMS_S_HUMAN_205593",
+      "value" : "Ondertussen in Nederland 2008",
+      "type" : "PLAYLIST"
+    }, {
+      "count" : 25,
+      "id" : "POMS_S_HUMAN_211079",
+      "value" : "Mensjesrechten (alles)",
+      "type" : "PLAYLIST"
+    }, {
+      "count" : 5,
+      "id" : "POMS_S_HUMAN_211390",
+      "value" : "Dus Ik Ben 2010",
+      "type" : "PLAYLIST"
+    }, {
+      "count" : 5,
+      "id" : "POMS_S_HUMAN_215678",
+      "value" : "De magie van wetenschap 2010",
+      "type" : "PLAYLIST"
+    }, {
+      "count" : 6,
+      "id" : "POMS_S_HUMAN_215845",
+      "value" : "Best bekeken Holland Docs 2008",
+      "type" : "PLAYLIST"
+    }, {
+      "count" : 23,
+      "id" : "POMS_S_HUMAN_216007",
+      "value" : "Marjoleine Boonstra",
+      "type" : "PLAYLIST"
+    }, {
+      "count" : 21,
+      "id" : "POMS_S_HUMAN_216456",
+      "value" : "Biografieën P - T",
+      "type" : "PLAYLIST"
+    }, {
+      "count" : 22,
+      "id" : "POMS_S_HUMAN_216471",
+      "value" : "Biografieën A - E",
+      "type" : "PLAYLIST"
+    }, {
+      "count" : 16,
+      "id" : "POMS_S_HUMAN_216759",
+      "value" : "Ziekte",
       "type" : "PLAYLIST"
     } ]
   },
   "mediaSelectedFacets" : { },
-  "total" : 91282,
+  "total" : 41612,
   "offset" : 0,
   "max" : 2,
   "items" : [ {
-    "score" : 7.495356,
+    "score" : 1.7542124,
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",
       "type" : "HOME",
-      "url" : "http://vpronl.localhost/boeken/programmas/boeken-op-reis.html",
-      "sortDate" : 1406294252571,
-      "crids" : [ "crid://vpro/website/5db2c424-9a47-43ad-95d0-c5eebdbba4ad" ],
-      "broadcasters" : [ {
-        "id" : "VPRO",
-        "value" : "VPRO"
-      } ],
-      "portal" : {
-        "id" : "VPRONL",
-        "url" : "http://vpronl.localhost",
-        "value" : "VPRO.nl",
-        "section" : {
-          "path" : "/vpronl-sample/boeken",
-          "id" : "VPRONL./vpronl-sample/boeken",
-          "value" : "boeken"
-        }
-      },
-      "title" : "Boeken op reis",
-      "summary" : "Wim Brands gaat op reis naar zes schrijvers die internationaal bekend zijn en praat met hen over het ontstaan van hun werk, hun werkwijze en hun omgeving.",
-      "embeds" : [ {
-        "media" : {
-          "objectType" : "group",
-          "mid" : "POMS_S_VPRO_397957",
-          "creationDate" : 1378061117749,
-          "lastModified" : 1378061117877,
-          "sortDate" : 1381404108000,
-          "urn" : "urn:vpro:media:group:29149997",
-          "embeddable" : true,
-          "crids" : [ "crid://nebo.masterserie.omroep.nl/9060" ],
-          "broadcasters" : [ {
-            "id" : "VPRO",
-            "value" : "VPRO"
-          } ],
-          "titles" : [ {
-            "value" : "Boeken op reis met Wim Brands",
-            "owner" : "NEBO",
-            "type" : "MAIN"
-          } ],
-          "descriptions" : [ {
-            "value" : "Wim Brands gaat op reis naar zes schrijvers die internationaal bekend zijn en praat met hen over het ontstaan van hun werk, hun werkwijze en hun omgeving.",
-            "owner" : "NEBO",
-            "type" : "MAIN"
-          } ],
-          "genres" : [ {
-            "id" : "3.0.1.6",
-            "terms" : [ "Amusement" ]
-          }, {
-            "id" : "3.0.1.7.24",
-            "terms" : [ "Informatief", "Kunst/cultuur" ]
-          } ],
-          "countries" : [ ],
-          "languages" : [ ],
-          "workflow" : "PUBLISHED",
-          "type" : "SERIES",
-          "isOrdered" : true,
-          "avType" : "VIDEO"
-        }
-      } ],
-      "publishStart" : 1406294252571,
-      "creationDate" : 1410783578587,
-      "lastModified" : 1411146829118,
-      "refCount" : 0
-    }
-  }, {
-    "score" : 7.495356,
-    "highlights" : [ ],
-    "result" : {
-      "objectType" : "page",
-      "type" : "HOME",
-      "url" : "http://www-test.vpro.nl/boeken/programmas/nooit-meer-slapen.html",
-      "sortDate" : 1406294285517,
-      "crids" : [ "crid://vpro/website/362cdec9-6c3d-4fab-9314-521737a97877" ],
+      "url" : "http://www-test.vpro.nl/jeugd/programmas/nwq-jr.html",
+      "sortDate" : 1417182685019,
+      "crids" : [ "crid://vpro/website/631544ec-4362-4652-9cb5-fe86c70f4cc7" ],
       "broadcasters" : [ {
         "id" : "VPRO",
         "value" : "VPRO"
@@ -145,62 +146,162 @@
         "url" : "http://www-test.vpro.nl",
         "value" : "VPRO.nl",
         "section" : {
-          "path" : "/vpronl/boeken",
-          "id" : "VPRONL./vpronl/boeken",
-          "value" : "boeken"
+          "path" : "/vpronl/jeugd",
+          "id" : "VPRONL./vpronl/jeugd"
         }
       },
-      "title" : "Nooit meer slapen",
-      "summary" : "Op 6 januari 2014 is de VPRO van start gegaan met een nieuw cultuurprogramma op Radio 1, getiteld Nooit Meer Slapen. Elke werkdag, direct na Met Het Oog Op Morgen, van middernacht tot 02.00 uur. In het eerste uur van Nooit Meer Slapen vindt telkens een lang studiogesprek plaats, waarin vaste presentator Pieter van der Wielen een gast uit de cultuur of de actualiteit ontvangt. In het tweede uur doen we - middels reportages - verslag van actuele gebeurtenissen op het gebied van film, theater, literatuur en beeldende kunst. Op vrijdagavond wijkt de programmering van het eerste uur af. Dan begint Nooit Meer Slapen vanwege het hoorspel rond 0.30 uur.",
+      "title" : "Nationale Wetenschapsquiz Junior",
+      "keywords" : [ "nationale wetenschapsquiz junior", "kandidaten", "freek vonk", "rob van hattum" ],
+      "summary" : "Kan je drinkwater maken van je plas? En waarom dondert het bij onweer? Bioloog Freek Vonk presenteert de 17de editie van de Nationale Wetenschapsquiz Junior. Hij wordt geassisteerd door Rob van Hattum die de proeven voor zijn rekening neemt. Uitzending: vrijdag 26 december om 17:00 uur op NPO Zapp",
+      "paragraphs" : [ {
+        "title" : "extra's"
+      } ],
+      "links" : [ {
+        "text" : "wie wordt de knapste kop van Nederland?.",
+        "pageRef" : "http://www-test.vpro.nl/jeugd/programmas/nwq-jr/kandidaten.html"
+      }, {
+        "text" : "nationale wetenschapsquiz junior 2014.",
+        "pageRef" : "http://www-test.vpro.nl/jeugd/nieuws/2014/nationale-wetenschapsquiz-junior.html"
+      }, {
+        "text" : "jeugd",
+        "pageRef" : "http://www-test.vpro.nl/jeugd.html"
+      } ],
       "embeds" : [ {
         "media" : {
           "objectType" : "group",
-          "mid" : "POMS_S_VPRO_449041",
-          "creationDate" : 1386326902278,
-          "lastModified" : 1395675429217,
-          "sortDate" : 1406584800000,
-          "urn" : "urn:vpro:media:group:33644950",
+          "mid" : "POMS_S_VPRO_460313",
+          "creationDate" : 1387814391312,
+          "lastModified" : 1387814557961,
+          "sortDate" : 1389503400000,
+          "urn" : "urn:vpro:media:group:34503919",
           "embeddable" : true,
-          "crids" : [ "crid://programme.radiobox2/2465" ],
           "broadcasters" : [ {
             "id" : "VPRO",
             "value" : "VPRO"
           } ],
           "titles" : [ {
-            "value" : "Nooit Meer Slapen",
-            "owner" : "RADIOBOX",
+            "value" : "De Nationale Wetenschapsquiz junior 2013",
+            "owner" : "BROADCASTER",
             "type" : "MAIN"
           } ],
           "descriptions" : [ {
-            "value" : "Nooit Meer Slapen",
-            "owner" : "RADIOBOX",
+            "value" : "Op donderdag 26 december is de Nationale Wetenschapsquiz Junior te zien, om 16.40 uur op Nederland 3. Wetenschapsjournalist Diederik Jekel presenteert de quiz. De Nationale Wetenschapsquiz Junior zit weer vol met vliegende, natte en bliksemgoede vragen die worden afgewisseld met pittige doordenkers. In de zinderende finale strijden zes kinderen om de titel de ‘Knapste kop van Nederland’ en een bijzondere prijs. Dj St. Paul verzorgt de muziek.",
+            "owner" : "BROADCASTER",
             "type" : "MAIN"
           } ],
           "genres" : [ ],
           "countries" : [ ],
           "languages" : [ ],
-          "images" : [ {
-            "title" : "nms_itunes_profiel.jpg",
-            "description" : "Nooit Meer Slapen",
-            "imageUri" : "urn:vpro:image:330221",
-            "creationDate" : 1389117507952,
-            "lastModified" : 1389445466649,
-            "workflow" : "PUBLISHED",
-            "owner" : "RADIOBOX",
-            "type" : "PICTURE",
-            "highlighted" : false,
-            "urn" : "urn:vpro:media:image:35114213"
-          } ],
           "workflow" : "PUBLISHED",
           "type" : "SERIES",
           "isOrdered" : true,
-          "avType" : "AUDIO"
+          "avType" : "VIDEO"
         }
       } ],
-      "publishStart" : 1406294285517,
-      "creationDate" : 1412266770595,
-      "lastModified" : 1412274148413,
+      "publishStart" : 1417182685019,
+      "creationDate" : 1420712016968,
+      "lastModified" : 1422552493528,
       "refCount" : 0
+    }
+  }, {
+    "score" : 1.6442077,
+    "highlights" : [ ],
+    "result" : {
+      "objectType" : "page",
+      "type" : "HOME",
+      "url" : "http://www-test.vpro.nl/jeugd.html",
+      "sortDate" : 1416307332859,
+      "crids" : [ "crid://vpro/website/da693cd8-89cc-4686-be0a-f83ba5d551d8" ],
+      "broadcasters" : [ {
+        "id" : "VPRO",
+        "value" : "VPRO"
+      } ],
+      "portal" : {
+        "id" : "VPRONL",
+        "url" : "http://www-test.vpro.nl",
+        "value" : "VPRO.nl",
+        "section" : {
+          "path" : "/vpronl/jeugd",
+          "id" : "VPRONL./vpronl/jeugd"
+        }
+      },
+      "title" : "jeugd",
+      "paragraphs" : [ {
+        "title" : "meer vpro jeugd"
+      }, {
+        "title" : "altijd online"
+      }, {
+        "title" : "extra's"
+      } ],
+      "referrals" : [ {
+        "referrer" : "http://www-test.vpro.nl/jeugd/programmas/pieter-in-de-prehistorie.html",
+        "title" : "jeugd"
+      }, {
+        "referrer" : "http://www-test.vpro.nl/jeugd/programmas/olliehartmoed.html",
+        "title" : "jeugd"
+      }, {
+        "referrer" : "http://www-test.vpro.nl/jeugd/programmas/bikkels.html",
+        "title" : "jeugd"
+      }, {
+        "referrer" : "http://www-test.vpro.nl/jeugd/programmas/taart.html",
+        "title" : "jeugd"
+      }, {
+        "referrer" : "http://www-test.vpro.nl/jeugd/programmas/tijd-van-je-leven-wij-zijn-14.html",
+        "title" : "jeugd"
+      }, {
+        "referrer" : "http://www-test.vpro.nl/jeugd/programmas/freek-in-het-wild.html",
+        "title" : "jeugd"
+      }, {
+        "referrer" : "http://www-test.vpro.nl/jeugd/programmas/roos-en-haar-mannen.html",
+        "title" : "jeugd"
+      }, {
+        "referrer" : "http://www-test.vpro.nl/jeugd/programmas/mooiboys.html",
+        "title" : "jeugd"
+      }, {
+        "referrer" : "http://www-test.vpro.nl/jeugd/programmas/freeks-wilde-wereld.html",
+        "title" : "jeugd"
+      }, {
+        "referrer" : "http://www-test.vpro.nl/jeugd/programmas/taarten-van-abel.html",
+        "title" : "jeugd"
+      }, {
+        "referrer" : "http://www-test.vpro.nl/jeugd/programmas/nwq-jr.html",
+        "title" : "jeugd"
+      }, {
+        "referrer" : "http://www-test.vpro.nl/jeugd/programmas/gek-op-jou.html",
+        "title" : "jeugd"
+      }, {
+        "referrer" : "http://www-test.vpro.nl/jeugd/programmas/beestieboys.html",
+        "title" : "jeugd"
+      }, {
+        "referrer" : "http://www-test.vpro.nl/jeugd/programmas/vrolijke-kerst.html",
+        "title" : "jeugd"
+      } ],
+      "links" : [ {
+        "text" : "gekke familie?. het gordijnpaleis van ollie hartmoed",
+        "pageRef" : "http://www-test.vpro.nl/jeugd/programmas/olliehartmoed/bonusmateriaal.html"
+      }, {
+        "text" : "liefde is...",
+        "pageRef" : "http://www-test.vpro.nl/jeugd/programmas/gek-op-jou.html"
+      }, {
+        "text" : "errol verzorgt oma",
+        "pageRef" : "http://www-test.vpro.nl/jeugd/programmas/bikkels/errol.html"
+      }, {
+        "text" : "kijk terug",
+        "pageRef" : "http://www-test.vpro.nl/jeugd/programmas/taart.html"
+      }, {
+        "text" : "filmpjes",
+        "pageRef" : "http://www-test.vpro.nl/jeugd/programmas.html"
+      }, {
+        "text" : "Zapp Echt Gebeurd",
+        "pageRef" : "http://www.zappechtgebeurd.nl/"
+      }, {
+        "text" : "shop",
+        "pageRef" : "http://winkel.vpro.nl/jeugd/"
+      } ],
+      "publishStart" : 1416307332859,
+      "creationDate" : 1420712010766,
+      "lastModified" : 1422552491715,
+      "refCount" : 14
     }
   } ]
 }

@@ -1,0 +1,435 @@
+{
+  "facets" : { },
+  "selectedFacets" : { },
+  "total" : 3747,
+  "offset" : 0,
+  "max" : 2,
+  "items" : [ {
+    "score" : 0.86632484,
+    "highlights" : [ ],
+    "result" : {
+      "objectType" : "page",
+      "type" : "PLAYER",
+      "url" : "http://www-test.woord.nl/luister.RBX_NTR_708014.html",
+      "sortDate" : 1427652000000,
+      "crids" : [ "crid://vpro/media/woord/RBX_NTR_708014" ],
+      "broadcasters" : [ {
+        "id" : "NTR",
+        "value" : "NTR"
+      } ],
+      "portal" : {
+        "id" : "WOORD",
+        "url" : "http://www-test.woord.nl",
+        "value" : "Woord.nl"
+      },
+      "title" : "De Kennis van Nu",
+      "genres" : [ {
+        "id" : "3.0.4.2",
+        "terms" : [ "Interview" ],
+        "displayName" : "Interview"
+      } ],
+      "embeds" : [ {
+        "title" : "De Kennis van Nu",
+        "description" : "Ze is geboren in Tsjecho-Slowakije en kwam op haar 14e naar Nederland. Haar beide ouders waren patholoog en inmiddels heeft ze zelf ook het mes in duizenden lijken gezet, op zoek naar ziekten en onnatuurlijke doodsoorzaken. Haar grote hobby's zijn werken en motorrijden. Coen Verbraak praat met Bela Kubat, forensisch patholoog bij het Nederlands Forensisch Instituut en sinds 1 januari 2015 bijzonder hoogleraar forensische pathologie aan de Universiteit Maastricht. Een gesprek over de zoektocht naar de waarheid, respect voor de doden en ontwikkelingen in de forensische pathologie.",
+        "media" : {
+          "objectType" : "program",
+          "mid" : "RBX_NTR_708014",
+          "creationDate" : 1416959163899,
+          "lastModified" : 1427722308056,
+          "sortDate" : 1427652000000,
+          "urn" : "urn:vpro:media:program:44764588",
+          "embeddable" : true,
+          "episodeOf" : [ {
+            "midRef" : "RBX_S_NTR_553911",
+            "urnRef" : "urn:vpro:media:group:33646332",
+            "type" : "SERIES",
+            "index" : 1,
+            "highlighted" : false,
+            "added" : 1416959164096
+          } ],
+          "crids" : [ "crid://broadcast.radiobox2/338050" ],
+          "broadcasters" : [ {
+            "id" : "NTR",
+            "value" : "NTR"
+          } ],
+          "titles" : [ {
+            "value" : "De Kennis van Nu",
+            "owner" : "RADIOBOX",
+            "type" : "MAIN"
+          } ],
+          "descriptions" : [ {
+            "value" : "Ze is geboren in Tsjecho-Slowakije en kwam op haar 14e naar Nederland. Haar beide ouders waren patholoog en inmiddels heeft ze zelf ook het mes in duizenden lijken gezet, op zoek naar ziekten en onnatuurlijke doodsoorzaken. Haar grote hobby's zijn werken en motorrijden. Coen Verbraak praat met Bela Kubat, forensisch patholoog bij het Nederlands Forensisch Instituut en sinds 1 januari 2015 bijzonder hoogleraar forensische pathologie aan de Universiteit Maastricht. Een gesprek over de zoektocht naar de waarheid, respect voor de doden en ontwikkelingen in de forensische pathologie.",
+            "owner" : "RADIOBOX",
+            "type" : "MAIN"
+          } ],
+          "genres" : [ ],
+          "countries" : [ ],
+          "languages" : [ ],
+          "credits" : [ {
+            "givenName" : "Coen",
+            "familyName" : "Verbraak",
+            "role" : "PRESENTER"
+          } ],
+          "descendantOf" : [ {
+            "midRef" : "POMS_S_VPRO_195283",
+            "urnRef" : "urn:vpro:media:group:11887617",
+            "type" : "ARCHIVE"
+          }, {
+            "midRef" : "POMS_S_NTR_160161",
+            "urnRef" : "urn:vpro:media:group:16357199",
+            "type" : "ARCHIVE"
+          }, {
+            "midRef" : "POMS_S_VPRO_417554",
+            "urnRef" : "urn:vpro:media:group:30800916",
+            "type" : "COLLECTION"
+          }, {
+            "midRef" : "RBX_S_NTR_553911",
+            "urnRef" : "urn:vpro:media:group:33646332",
+            "type" : "SERIES"
+          } ],
+          "locations" : [ {
+            "programUrl" : "http://radiobox2.omroep.nl/broadcaststream/file/430560.mp3",
+            "avAttributes" : {
+              "avFileFormat" : "MP3"
+            },
+            "owner" : "RADIOBOX",
+            "creationDate" : 1427722301063,
+            "lastModified" : 1427722308046,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:46791821"
+          } ],
+          "scheduleEvents" : [ {
+            "guideDay" : 1427583600000,
+            "start" : 1427652000000,
+            "duration" : 3600000,
+            "poProgID" : "RBX_NTR_708014",
+            "channel" : "RAD1",
+            "urnRef" : "urn:vpro:media:program:44764588",
+            "midRef" : "RBX_NTR_708014"
+          } ],
+          "images" : [ {
+            "title" : "Bela Kubat.jpg",
+            "imageUri" : "urn:vpro:image:399865",
+            "height" : 1624,
+            "width" : 2416,
+            "owner" : "RADIOBOX",
+            "type" : "PICTURE",
+            "highlighted" : false,
+            "creationDate" : 1427518152510,
+            "lastModified" : 1427722308056,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:46776045"
+          } ],
+          "publishDate" : 1427722582218,
+          "workflow" : "PUBLISHED",
+          "segments" : [ {
+            "objectType" : "segment",
+            "mid" : "RBX_NTR_823216",
+            "creationDate" : 1427722307804,
+            "lastModified" : 1427722308047,
+            "sortDate" : 1427652000000,
+            "urn" : "urn:vpro:media:segment:46791823",
+            "embeddable" : true,
+            "crids" : [ "crid://audiofragment.radiobox2/179902" ],
+            "broadcasters" : [ {
+              "id" : "NTR",
+              "value" : "NTR"
+            } ],
+            "titles" : [ {
+              "value" : "Forensisch patholoog & motorrijder",
+              "owner" : "RADIOBOX",
+              "type" : "MAIN"
+            } ],
+            "descriptions" : [ {
+              "value" : "Ze is geboren in Tsjecho-Slowakije en kwam op haar 14e naar Nederland. Haar beide ouders waren patholoog en inmiddels heeft ze zelf ook het mes in duizenden lijken gezet, op zoek naar ziekten en onnatuurlijke doodsoorzaken. Haar grote hobby's zijn werken en motorrijden. Coen Verbraak praat met Bela Kubat, forensisch patholoog bij het Nederlands Forensisch Instituut en sinds 1 januari 2015 bijzonder hoogleraar forensische pathologie aan de Universiteit Maastricht. Een gesprek over de zoektocht naar de waarheid, respect voor de doden en ontwikkelingen in de forensische pathologie.",
+              "owner" : "RADIOBOX",
+              "type" : "MAIN"
+            } ],
+            "genres" : [ ],
+            "tags" : [ "Bela Kubat" ],
+            "countries" : [ ],
+            "languages" : [ ],
+            "duration" : 3222000,
+            "descendantOf" : [ {
+              "midRef" : "POMS_S_VPRO_195283",
+              "urnRef" : "urn:vpro:media:group:11887617",
+              "type" : "ARCHIVE"
+            }, {
+              "midRef" : "POMS_S_NTR_160161",
+              "urnRef" : "urn:vpro:media:group:16357199",
+              "type" : "ARCHIVE"
+            }, {
+              "midRef" : "POMS_S_VPRO_417554",
+              "urnRef" : "urn:vpro:media:group:30800916",
+              "type" : "COLLECTION"
+            }, {
+              "midRef" : "RBX_S_NTR_553911",
+              "urnRef" : "urn:vpro:media:group:33646332",
+              "type" : "SERIES"
+            }, {
+              "midRef" : "RBX_NTR_708014",
+              "urnRef" : "urn:vpro:media:program:44764588",
+              "type" : "BROADCAST"
+            } ],
+            "locations" : [ {
+              "programUrl" : "http://radiobox2.omroep.nl/audiofragment/file/179902/fragment.mp3",
+              "avAttributes" : {
+                "avFileFormat" : "MP3"
+              },
+              "owner" : "RADIOBOX",
+              "creationDate" : 1427722301064,
+              "lastModified" : 1427722308050,
+              "workflow" : "PUBLISHED",
+              "urn" : "urn:vpro:media:location:46791827"
+            } ],
+            "images" : [ {
+              "title" : "Bela Kubat.jpg",
+              "imageUri" : "urn:vpro:image:399865",
+              "height" : 1624,
+              "width" : 2416,
+              "owner" : "RADIOBOX",
+              "type" : "PICTURE",
+              "highlighted" : false,
+              "creationDate" : 1427722303866,
+              "lastModified" : 1427722308049,
+              "workflow" : "PUBLISHED",
+              "urn" : "urn:vpro:media:image:46791825"
+            } ],
+            "publishDate" : 1427722509183,
+            "workflow" : "PUBLISHED",
+            "start" : 240000,
+            "urnRef" : "urn:vpro:media:program:44764588",
+            "midRef" : "RBX_NTR_708014",
+            "type" : "SEGMENT",
+            "avType" : "AUDIO"
+          } ],
+          "type" : "BROADCAST",
+          "avType" : "AUDIO"
+        }
+      } ],
+      "images" : [ {
+        "type" : "PICTURE",
+        "url" : "http://images.poms.omroep.nl/image/s360/399865.jpg",
+        "title" : "Bela Kubat.jpg"
+      } ],
+      "publishStart" : 1427652000000,
+      "creationDate" : 1427722582081,
+      "lastModified" : 1427722641472,
+      "refCount" : 0
+    }
+  }, {
+    "score" : 0.8655848,
+    "highlights" : [ ],
+    "result" : {
+      "objectType" : "page",
+      "type" : "AUDIO",
+      "url" : "http://woord-sample.localhost/luister.RBX_NTR_704275.html",
+      "sortDate" : 1424026800000,
+      "crids" : [ "crid://vpro/media/woord/RBX_NTR_704275" ],
+      "broadcasters" : [ {
+        "id" : "NTR",
+        "value" : "NTR"
+      } ],
+      "portal" : {
+        "id" : "WOORD",
+        "url" : "http://woord-sample.localhost",
+        "value" : "Woord.nl"
+      },
+      "title" : "De Kennis van Nu",
+      "genres" : [ {
+        "id" : "3.0.4.2",
+        "terms" : [ "Interview" ],
+        "displayName" : "Interview"
+      } ],
+      "embeds" : [ {
+        "title" : "De Kennis van Nu",
+        "description" : "Meer dan 10 jaar werkte ze in het Midden-Oosten. Ze was diplomaat op de Nederlandse ambassades in Caïro en Damascus. Vanaf het moment dat het begon te rommelen in de Arabische wereld is ze een veelgevraagd commentator in nieuwsprogramma's.\n\nAls achttienjarig meisje wist ze niet hoe snel ze Limburg achter zich moest laten, maar de laatste jaren komt ze graag terug in de Roermondse wijk waar ze is opgegroeid: de Donderberg. In haar onlangs verschenen boek 'Terug naar de Donderberg' beschrijft ze wat haar nu fascineert aan die wijk. Hoe gaan mensen daar om met verschillen in religie en afkomst? Waar liggen de kansen voor verbindingen? En welke parallellen zijn er tussen de Islamistische wereld en het katholieke Limburg? Daarover praat Coen Verbraak met arabiste Petra Stienen.\n\nFoto: Jeanette Schols",
+        "media" : {
+          "objectType" : "program",
+          "mid" : "RBX_NTR_704275",
+          "creationDate" : 1416939927875,
+          "lastModified" : 1424706227261,
+          "sortDate" : 1424026800000,
+          "urn" : "urn:vpro:media:program:44731529",
+          "embeddable" : true,
+          "episodeOf" : [ {
+            "midRef" : "RBX_S_NTR_553911",
+            "urnRef" : "urn:vpro:media:group:33646332",
+            "type" : "SERIES",
+            "index" : 1,
+            "highlighted" : false,
+            "added" : 1416939928210
+          } ],
+          "crids" : [ "crid://broadcast.radiobox2/309959" ],
+          "broadcasters" : [ {
+            "id" : "NTR",
+            "value" : "NTR"
+          } ],
+          "titles" : [ {
+            "value" : "De Kennis van Nu",
+            "owner" : "RADIOBOX",
+            "type" : "MAIN"
+          } ],
+          "descriptions" : [ {
+            "value" : "Meer dan 10 jaar werkte ze in het Midden-Oosten. Ze was diplomaat op de Nederlandse ambassades in Caïro en Damascus. Vanaf het moment dat het begon te rommelen in de Arabische wereld is ze een veelgevraagd commentator in nieuwsprogramma's. Als achttienjarig meisje wist ze niet hoe snel ze Limburg achter zich moest laten, maar de laatste jaren komt ze graag terug in de Roermondse wijk waar ze is opgegroeid: de Donderberg. In haar onlangs verschenen boek 'Terug naar de Donderberg' beschrijft ze wat haar nu fascineert aan die wijk. Hoe gaan mensen daar om met verschillen in religie en afkomst? Waar liggen de kansen voor verbindingen? En welke parallellen zijn er tussen de Islamistische wereld en het katholieke Limburg? Daarover praat Coen Verbraak met arabiste Petra Stienen. Foto: Jeanette Schols",
+            "owner" : "RADIOBOX",
+            "type" : "MAIN"
+          } ],
+          "genres" : [ ],
+          "countries" : [ ],
+          "languages" : [ ],
+          "credits" : [ {
+            "givenName" : "Coen",
+            "familyName" : "Verbraak",
+            "role" : "PRESENTER"
+          } ],
+          "descendantOf" : [ {
+            "midRef" : "POMS_S_VPRO_195283",
+            "urnRef" : "urn:vpro:media:group:11887617",
+            "type" : "ARCHIVE"
+          }, {
+            "midRef" : "POMS_S_NTR_160161",
+            "urnRef" : "urn:vpro:media:group:16357199",
+            "type" : "ARCHIVE"
+          }, {
+            "midRef" : "POMS_S_VPRO_417554",
+            "urnRef" : "urn:vpro:media:group:30800916",
+            "type" : "COLLECTION"
+          }, {
+            "midRef" : "RBX_S_NTR_553911",
+            "urnRef" : "urn:vpro:media:group:33646332",
+            "type" : "SERIES"
+          } ],
+          "locations" : [ {
+            "programUrl" : "http://radiobox2.omroep.nl/broadcaststream/file/427899.mp3",
+            "avAttributes" : {
+              "avFileFormat" : "MP3"
+            },
+            "owner" : "RADIOBOX",
+            "creationDate" : 1424706223653,
+            "lastModified" : 1424706227248,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:46009206"
+          } ],
+          "scheduleEvents" : [ {
+            "guideDay" : 1423954800000,
+            "start" : 1424026800000,
+            "duration" : 3600000,
+            "poProgID" : "RBX_NTR_704275",
+            "channel" : "RAD1",
+            "urnRef" : "urn:vpro:media:program:44731529",
+            "midRef" : "RBX_NTR_704275"
+          } ],
+          "images" : [ {
+            "title" : "Petra Stienen.jpg",
+            "imageUri" : "urn:vpro:image:390054",
+            "height" : 614,
+            "width" : 798,
+            "owner" : "RADIOBOX",
+            "type" : "PICTURE",
+            "highlighted" : false,
+            "creationDate" : 1423821538398,
+            "lastModified" : 1424706227261,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:45878085"
+          } ],
+          "publishDate" : 1424706239215,
+          "workflow" : "PUBLISHED",
+          "segments" : [ {
+            "objectType" : "segment",
+            "mid" : "RBX_NTR_794009",
+            "creationDate" : 1424345409842,
+            "lastModified" : 1424345409968,
+            "sortDate" : 1424026800000,
+            "urn" : "urn:vpro:media:segment:45969198",
+            "embeddable" : true,
+            "crids" : [ "crid://audiofragment.radiobox2/175630" ],
+            "broadcasters" : [ {
+              "id" : "NTR",
+              "value" : "NTR"
+            } ],
+            "titles" : [ {
+              "value" : "Arabiste, voormalig diplomate & publiciste",
+              "owner" : "RADIOBOX",
+              "type" : "MAIN"
+            } ],
+            "descriptions" : [ {
+              "value" : "Meer dan 10 jaar werkte ze in het Midden-Oosten. Ze was diplomaat op de Nederlandse ambassades in Caïro en Damascus. Vanaf het moment dat het begon te rommelen in de Arabische wereld is ze een veelgevraagd commentator in nieuwsprogramma's.Als achttienjarig meisje wist ze niet hoe snel ze Limburg achter zich moest laten, maar de laatste jaren komt ze graag terug in de Roermondse wijk waar ze is opgegroeid: de Donderberg. In haar onlangs verschenen boek 'Terug naar de Donderberg' beschrijft ze wat haar nu fascineert aan die wijk. Hoe gaan mensen daar om met verschillen in religie en afkomst? Waar liggen de kansen voor verbindingen? En welke parallellen zijn er tussen de Islamistische wereld en het katholieke Limburg? Daarover praat Coen Verbraak met arabiste Petra Stienen.Foto: Jeanette Schols",
+              "owner" : "RADIOBOX",
+              "type" : "MAIN"
+            } ],
+            "genres" : [ ],
+            "tags" : [ "Petra Stienen" ],
+            "countries" : [ ],
+            "languages" : [ ],
+            "duration" : 3255000,
+            "descendantOf" : [ {
+              "midRef" : "POMS_S_VPRO_195283",
+              "urnRef" : "urn:vpro:media:group:11887617",
+              "type" : "ARCHIVE"
+            }, {
+              "midRef" : "POMS_S_NTR_160161",
+              "urnRef" : "urn:vpro:media:group:16357199",
+              "type" : "ARCHIVE"
+            }, {
+              "midRef" : "POMS_S_VPRO_417554",
+              "urnRef" : "urn:vpro:media:group:30800916",
+              "type" : "COLLECTION"
+            }, {
+              "midRef" : "RBX_S_NTR_553911",
+              "urnRef" : "urn:vpro:media:group:33646332",
+              "type" : "SERIES"
+            }, {
+              "midRef" : "RBX_NTR_704275",
+              "urnRef" : "urn:vpro:media:program:44731529",
+              "type" : "BROADCAST"
+            } ],
+            "locations" : [ {
+              "programUrl" : "http://radiobox2.omroep.nl/audiofragment/file/175630/fragment.mp3",
+              "avAttributes" : {
+                "avFileFormat" : "MP3"
+              },
+              "owner" : "RADIOBOX",
+              "creationDate" : 1424345345417,
+              "lastModified" : 1424706227261,
+              "workflow" : "PUBLISHED",
+              "urn" : "urn:vpro:media:location:45969202"
+            } ],
+            "images" : [ {
+              "title" : "Petra Stienen.jpg",
+              "imageUri" : "urn:vpro:image:390054",
+              "height" : 614,
+              "width" : 798,
+              "owner" : "RADIOBOX",
+              "type" : "PICTURE",
+              "highlighted" : false,
+              "creationDate" : 1424345407342,
+              "lastModified" : 1424706227261,
+              "workflow" : "PUBLISHED",
+              "urn" : "urn:vpro:media:image:45969200"
+            } ],
+            "publishDate" : 1424345576047,
+            "workflow" : "PUBLISHED",
+            "start" : 234000,
+            "urnRef" : "urn:vpro:media:program:44731529",
+            "midRef" : "RBX_NTR_704275",
+            "type" : "SEGMENT",
+            "avType" : "AUDIO"
+          } ],
+          "type" : "BROADCAST",
+          "avType" : "AUDIO"
+        }
+      } ],
+      "images" : [ {
+        "type" : "PICTURE",
+        "url" : "http://images.poms.omroep.nl/image/s360/534053.jpg",
+        "title" : "Petra Stienen.jpg",
+        "description" : "De Kennis van Nu"
+      } ],
+      "publishStart" : 1424026800000,
+      "creationDate" : 1426014081039,
+      "lastModified" : 1426584637603,
+      "refCount" : 0
+    }
+  } ]
+}

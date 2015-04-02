@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<pagesForm xmlns="urn:vpro:api:2013" xmlns:media="urn:vpro:media:2009" highlight="false">
+  <searches>
+    <sortDates>
+      <matcher>
+        <begin>2013-01-01T00:46:00+01:00</begin>
+        <end>2014-01-01T00:00:00+01:00</end>
+      </matcher>
+    </sortDates>
+  </searches>
+  <sortFields>
+    <sort order="ASC">sortDate</sort>
+  </sortFields>
+  <facets>
+    <sortDates>
+      <interval>YEAR</interval>
+    </sortDates>
+  </facets>
+</pagesForm>

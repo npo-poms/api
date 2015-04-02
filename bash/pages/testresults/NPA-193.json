@@ -1,0 +1,78 @@
+{
+  "facets" : { },
+  "selectedFacets" : { },
+  "total" : 2,
+  "offset" : 0,
+  "max" : 2,
+  "items" : [ {
+    "score" : 0.0,
+    "highlights" : [ ],
+    "result" : {
+      "objectType" : "page",
+      "type" : "ARTICLE",
+      "url" : "http://www-test.npogeschiedenis.nl/nieuws/2002/oktober/Verslag-viering-10-jaar-OVT.html",
+      "sortDate" : 1034000803000,
+      "crids" : [ "crid://vpro/website/da305e74-da03-42e8-a072-49a26b9f107e" ],
+      "broadcasters" : [ {
+        "id" : "VPRO",
+        "value" : "VPRO"
+      } ],
+      "portal" : {
+        "id" : "GESCHIEDENIS24",
+        "url" : "http://www-test.npogeschiedenis.nl",
+        "value" : "NPO Geschiedenis"
+      },
+      "title" : "Verslag viering 10 jaar OVT",
+      "subTitle" : "De Grote Historische Thema’s en Oral History",
+      "summary" : "OVT vierde op 6 oktober 2002 het 10-jarige bestaan in Studio Desmet in Amsterdam. Er werd gesproken over onderwerpen als de Tweede Wereldoorlog, Voetbal, het Koningshuis en Oral History.",
+      "paragraphs" : [ {
+        "title" : "",
+        "body" : "Terwijl de genodigden vanaf half tien langzaam het café van Studio Desmet in Amsterdam binnen begonnen te druppelen, was het in het studiogedeelte al redelijk bedrijvig. Links op het podium was plaats gemaakt voor Groot Promotie Blaas Quintet, in het midden stond een lessenaar en rechts was een grote tafel waar de gasten aan konden schuiven. Het geluid werd getest, gasten en musici vonden hun plaats op het podium en tien uur naderde.  Na het nieuws en de reclame speelde het Groot Promotie Blaas Quintet de roemruchte OVT-tune. Beroemd, omdat zoveel luisteraars het prachtige muziek vinden, berucht bij de redactie omdat ze al jarenlang per brief en mail het verzoek krijgen om te zeggen waar deze muziek vandaan komt.  Van alle gasten had alleen historicus Maarten van Rossem af moeten zeggen. Enige citaten uit een met hem opgenomen gesprek vormden de leidraad voor een discussie, waarin over Koningshuis, Voetbal en de Tweede Wereldoorlog werd gedebatteerd. Onder leiding van Jos Palm en Paul van der Gaag discussieerden Hans Blom, Han van der Horst, Simon Kuper en Tomas Ross hierover.  Van Rossem noemde de Tweede Wereldoorlog de Himalaya van de Nederlandse geschiedenis. In de discussie werd dit snel erkend, hoewel de meningen sterk uiteenliepen hoe lang deze periode de vaderlandse geschiedschrijving nog zal domineren. De Tachtigjarige Oorlog is immers honderden jaren het ijkpunt van de vaderlandse geschiedenis gebleven.  De presentatie van het boek 'De bolhoed van Piet de Jong' van Kees Sorgdrager werd lichtelijk overschaduwd door zijn uitgever. Sorgdrager was ontstemd, omdat dat het boek met de columns, die hij afgelopen seizoen voor OVT had geschreven, nog niet in de winkel lag. Na een korte tirade over uitgevers las hij zijn column over de bolhoed van Piet de Jong voor. De column werd afgesloten met het tevoorschijn toveren van de echte bolhoed van Piet de Jong.  Het tweede uur was voornamelijk gewijd aan oral history. Het Spoor Terug, waar OVT uit is ontstaan, laat altijd mensen aan het woord over hun leven. Dit vaste programmaonderdeel werd voor één keer vervangen door een debat over oral history. Paul van der Gaag debatteerde hierover met oud-redacteur Kees Slager, de geestelijke vader van Het Spoor Terug en de historici Homme Wedman, Fridus Steijlen en Hans Blom.  Maar eerst legde OVT-redacteur Hans Olink uit, hoe de tune van OVT gevonden was. De muziek kwam van een cassette die hem in 1991 in Rusland was toegestopt. De muziek komt uit een Russische opera of musical met de titel 'Tverboul', van de componist Alexander Papernyi. Het is niet te koop in de winkel.  De discussie over oral-history werd een pleidooi voor het beter opslaan van dit soort historische informatie. Die ligt momenteel verspreid (afgezien van een paar grote projecten) over heel Nederland in de laden van onderzoekers.  Joris Smeets"
+      } ],
+      "images" : [ {
+        "type" : "PICTURE",
+        "url" : "http://www-test.npogeschiedenis.nl/.imaging/stk/geschiedenis/search/media/geschiedenis/nieuws/drie/2002/October/8807102/original/8807102.jpg",
+        "title" : "Kees Sorgdrager met de bolhoed van Piet de Jong"
+      } ],
+      "publishStart" : 1034000803000,
+      "creationDate" : 1417523679245,
+      "lastModified" : 1422550850696,
+      "refCount" : 0
+    }
+  }, {
+    "score" : 0.0,
+    "highlights" : [ ],
+    "result" : {
+      "objectType" : "page",
+      "type" : "ARTICLE",
+      "url" : "http://www-test.npogeschiedenis.nl/nieuws/2002/september/OVT-10-jaar.html",
+      "sortDate" : 1032956309000,
+      "crids" : [ "crid://vpro/website/2e296477-a568-4bcb-a90e-4a41f9565c2c" ],
+      "broadcasters" : [ {
+        "id" : "VPRO",
+        "value" : "VPRO"
+      } ],
+      "portal" : {
+        "id" : "GESCHIEDENIS24",
+        "url" : "http://www-test.npogeschiedenis.nl",
+        "value" : "NPO Geschiedenis"
+      },
+      "title" : "OVT 10 jaar",
+      "subTitle" : "Feestelijke uitzending in Desmet op 6 oktober",
+      "summary" : "Het historische VPRO-radioprogramma OVT bestaat tien jaar. Dat wordt gevierd met een jubileumuitzending op 6 oktober 2002.",
+      "paragraphs" : [ {
+        "title" : "",
+        "body" : "De eerste uitzending vond plaats op zondag 4 oktober 1992. Reden voor een feestje. De jubileumuitzending van OVT komt vanuit studio Desmet in Amsterdam.  OVT opent ook deze speciale uitzending met de column, die deze week van schrijver Jean-Paul Franssens afkomstig is. Daarnaast is er de presentatie van ‘De bolhoed van Piet de Jong’, de gebundelde OVT-columns van oud-parlementair verslaggever Kees Sorgdrager. Hij verzorgde in het seizoen 2001-2002 de wekelijkse column van OVT.  Andere gasten zijn Hans Blom, directeur van het NIOD, de historici Han van der Horst, Homme Wedman, Maarten van Rossem, de OVT-columnist en auteur van historische thrillers Tomas Ross en Kees Slager, oud-presentator en eindredacteur van OVT.  Dit alles wordt muzikaal omlijst door de muziek van het Groot Promotie Blaas Quintet. Zij spelen jazz en amusementsmuziek uit Duitsland en Nederland uit de periode 1920-1945.  Volgende week zal er op /Geschiedenis meer bekend worden gemaakt over de inhoud van het programma.  Ook het nabijgelegen Vakbondmuseum (Henri Polaklaan 9) en Verzetsmuseum (Plantage Kerklaan 61) doen mee aan de viering van 10 jaar OVT. Beide musea bieden op 6 oktober 50% korting op de toegangsprijs op vertoon van uw Backstagepas. Zie voor meer informatie de websites van beide musea."
+      } ],
+      "images" : [ {
+        "type" : "PICTURE",
+        "url" : "http://www-test.npogeschiedenis.nl/.imaging/stk/geschiedenis/search/media/geschiedenis/nieuws/drie/2002/February/5420006/original/5420006.jpg",
+        "title" : "OVT"
+      } ],
+      "publishStart" : 1032956309000,
+      "creationDate" : 1417523676129,
+      "lastModified" : 1422550847447,
+      "refCount" : 0
+    }
+  } ]
+}

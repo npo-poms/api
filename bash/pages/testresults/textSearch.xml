@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<api:pageSearchResult xmlns="urn:vpro:media:2009" xmlns:shared="urn:vpro:shared:2009" xmlns:pages="urn:vpro:pages:2013" xmlns:api="urn:vpro:api:2013" xmlns:media="urn:vpro:media:2009" total="4" offset="0" max="2">
+  <api:items>
+    <api:item xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="api:searchResultItem" score="0.6094554">
+      <api:result xsi:type="pages:pageType" url="http://www-test.vpro.nl/kijk/absolutely-fabulous.html" creationDate="2014-10-02T18:18:15.873+02:00" lastModified="2015-01-29T17:47:45.443+01:00" publishStart="2013-04-12T16:54:44.687+02:00" refCount="0" sortDate="2013-04-12T16:54:44.687+02:00" type="HOME">
+        <pages:crid>crid://vpro/website/b40d3431-4a11-41be-9f1d-f847cc410569</pages:crid>
+        <pages:broadcaster id="VPRO">VPRO</pages:broadcaster>
+        <pages:portal id="VPRONL" url="http://www-test.vpro.nl">
+          <pages:name>VPRO.nl</pages:name>
+        </pages:portal>
+        <pages:title>absolutely fabulous</pages:title>
+        <pages:summary>Doorlopend drugs- en alcoholmisbruik, wrede humor en ongebreideld egoïsme: het blijft leuk. De Britse comedyserie over de omgekeerde moeder-dochterrelatie tussen Eddy en Saffy is al jaren een culthit in vele landen. Mede dankzij de onvolprezen Joan Lumley als doorlopend benevelde Patsy.</pages:summary>
+        <pages:embed>
+          <media:group isOrdered="true" type="SEASON" avType="VIDEO" embeddable="true" mid="POW_00047000" sortDate="2013-04-15T23:10:00+02:00" creationDate="2013-01-11T06:50:51.057+01:00" lastModified="2013-04-03T23:09:00.838+02:00" urn="urn:vpro:media:group:17662479" workflow="PUBLISHED">
+            <media:broadcaster id="VPRO">VPRO</media:broadcaster>
+            <media:title owner="NEBO" type="MAIN">Absolutely Fabulous</media:title>
+            <media:title owner="CERES" type="MAIN">Absolutely Fabulous</media:title>
+            <media:title owner="WHATS_ON" type="MAIN">ABSOLUTELY FABULOUS</media:title>
+            <media:title owner="NEBO" type="LEXICO">Absolutely Fabulous</media:title>
+            <media:title owner="CERES" type="LEXICO">Absolutely Fabulous</media:title>
+            <media:description owner="NEBO" type="MAIN">Edina en Patsy hebben geheel in stijl gekleed een optreden van Marilyn Manson bijgewoond. De volgende ochtend staat er een vreemde man in de tuin. Het blijkt de nieuwe tuinman te zijn.</media:description>
+            <media:genre id="3.0.1.6">
+              <media:term>Amusement</media:term>
+            </media:genre>
+            <media:genre id="3.0.1.6.9">
+              <media:term>Amusement</media:term>
+              <media:term>Komisch</media:term>
+            </media:genre>
+            <media:credits/>
+            <media:descendantOf urnRef="urn:vpro:media:group:22549844" midRef="POMS_S_VPRO_168867" type="SERIES"/>
+            <media:memberOf added="2013-03-04T07:58:02.714+01:00" highlighted="false" midRef="POMS_S_VPRO_168867" index="1" type="SERIES" urnRef="urn:vpro:media:group:22549844"/>
+            <media:locations/>
+            <media:scheduleEvents/>
+            <media:images>
+              <shared:image owner="NEBO" type="PICTURE" highlighted="false" creationDate="2013-03-04T07:57:59.809+01:00" lastModified="2013-03-04T07:57:59.902+01:00" urn="urn:vpro:media:image:22549841" workflow="PUBLISHED">
+                <shared:title>Absolutely Fabulous</shared:title>
+                <shared:description>Absolutely Fabulous</shared:description>
+                <shared:imageUri>urn:vpro:image:144540</shared:imageUri>
+              </shared:image>
+            </media:images>
+          </media:group>
+        </pages:embed>
+      </api:result>
+    </api:item>
+    <api:item xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="api:searchResultItem" score="3.252209E-4">
+      <api:result xsi:type="pages:pageType" url="http://woord-sample.localhost/luister.POMS_NTR_423801.html" creationDate="2015-01-21T23:36:12.348+01:00" lastModified="2015-03-10T02:04:25.935+01:00" publishStart="2013-12-02T19:00:00+01:00" refCount="0" sortDate="2013-12-02T19:00:00+01:00" type="AUDIO">
+        <pages:crid>crid://vpro/media/woord/POMS_NTR_423801</pages:crid>
+        <pages:broadcaster id="NTR">NTR</pages:broadcaster>
+        <pages:portal id="WOORD" url="http://woord-sample.localhost">
+          <pages:name>Woord.nl</pages:name>
+        </pages:portal>
+        <pages:title>Kunststof</pages:title>
+        <pages:genre displayName="Interview" id="3.0.4.2">
+          <pages:term>Interview</pages:term>
+        </pages:genre>
+        <pages:embed>
+          <pages:title>Kunststof</pages:title>
+          <pages:description>Als hoofdredacteur van de glossy Fabulous Mama en moeder van vier kinderen werd Phaedra Werkhoven geconfronteerd met de gevolgen van het social media gebruik door  jongeren. Samen met Jan Dijkgraaf schreef ze de Social Media Bijbel, een handleiding en informatiebron voor ouders die de digitale draad even kwijt zijn.
+Presentatie: Jellie Brouwer </pages:description>
+          <media:program type="BROADCAST" avType="AUDIO" embeddable="true" mid="POMS_NTR_423801" sortDate="2013-12-02T19:00:00+01:00" creationDate="2013-11-05T03:57:03.100+01:00" lastModified="2014-01-02T15:36:34.806+01:00" urn="urn:vpro:media:program:31852080" workflow="PUBLISHED">
+            <media:crid>crid://broadcast.radiobox2/254045</media:crid>
+            <media:broadcaster id="NTR">NTR</media:broadcaster>
+            <media:title owner="RADIOBOX" type="MAIN">Kunststof</media:title>
+            <media:title owner="BROADCASTER" type="SUB">Phaedra Werkhoven - hoofdredacteur</media:title>
+            <media:description owner="BROADCASTER" type="MAIN">Als hoofdredacteur van de glossy Fabulous Mama en moeder van vier kinderen werd Phaedra Werkhoven geconfronteerd met de gevolgen van het social media gebruik door  jongeren. Samen met Jan Dijkgraaf schreef ze de Social Media Bijbel, een handleiding en informatiebron voor ouders die de digitale draad even kwijt zijn.
+Presentatie: Jellie Brouwer </media:description>
+            <media:description owner="RADIOBOX" type="MAIN">Phaedra Werkhoven - hoofdredacteur, auteur Als hoofdredacteur van de glossy Fabulous Mama en moeder van vier kinderen werd Phaedra Werkhoven geconfronteerd met de gevolgen van het social media gebruik door  jongeren. Samen met Jan Dijkgraaf schreef ze de Social Media Bijbel, een handleiding en informatiebron voor ouders die de digitale draad even kwijt zijn.
+Presentatie: Jellie Brouwer </media:description>
+            <media:tag>auteur</media:tag>
+            <media:tag>hoofdredacteur</media:tag>
+            <media:tag>internet</media:tag>
+            <media:tag>sociale media</media:tag>
+            <media:duration>P0DT1H0M0.000S</media:duration>
+            <media:credits>
+              <media:person role="GUEST">
+                <media:givenName>Phaedra</media:givenName>
+                <media:familyName>Werkhoven </media:familyName>
+              </media:person>
+              <media:person role="GUEST">
+                <media:givenName>Phaedra</media:givenName>
+                <media:familyName>Werkhoven </media:familyName>
+              </media:person>
+            </media:credits>
+            <media:descendantOf urnRef="urn:vpro:media:group:11887617" midRef="POMS_S_VPRO_195283" type="ARCHIVE"/>
+            <media:descendantOf urnRef="urn:vpro:media:group:14683553" midRef="POMS_S_VPRO_171668" type="ARCHIVE"/>
+            <media:descendantOf urnRef="urn:vpro:media:group:14921822" midRef="POMS_S_VPRO_170138" type="ARCHIVE"/>
+            <media:descendantOf urnRef="urn:vpro:media:group:22372311" midRef="POMS_S_VPRO_137918" type="SEASON"/>
+            <media:descendantOf urnRef="urn:vpro:media:group:3034792" midRef="AUTO_KUNSTSTOF" type="SERIES"/>
+            <media:descendantOf urnRef="urn:vpro:media:group:30800916" midRef="POMS_S_VPRO_417554" type="COLLECTION"/>
+            <media:email>kunststof@ntr.nl</media:email>
+            <media:website>http://www.ntr.nl/kunststof</media:website>
+            <media:prediction state="REALIZED">INTERNETVOD</media:prediction>
+            <media:locations>
+              <media:location owner="RADIOBOX" creationDate="2013-12-02T20:05:36.513+01:00" lastModified="2013-12-02T20:05:54.283+01:00" urn="urn:vpro:media:location:33426086" workflow="PUBLISHED">
+                <media:programUrl>http://download.omroep.nl/audiologging/r1/2013/12/02/1900_2000_kunststof_20131202.mp3</media:programUrl>
+                <media:avAttributes>
+                  <media:avFileFormat>MP3</media:avFileFormat>
+                </media:avAttributes>
+                <media:duration>P0DT1H0M0.000S</media:duration>
+              </media:location>
+            </media:locations>
+            <media:scheduleEvents>
+              <media:scheduleEvent channel="RAD1" midRef="POMS_NTR_423801" urnRef="urn:vpro:media:program:31852080">
+                <media:start>2013-12-02T19:00:00+01:00</media:start>
+                <media:duration>P0DT1H0M0.000S</media:duration>
+                <media:poProgID>POMS_NTR_423801</media:poProgID>
+              </media:scheduleEvent>
+            </media:scheduleEvents>
+            <media:images>
+              <shared:image owner="RADIOBOX" type="PICTURE" highlighted="false" creationDate="2013-11-05T03:57:01.127+01:00" lastModified="2013-11-05T03:57:03.219+01:00" urn="urn:vpro:media:image:31852081" workflow="PUBLISHED">
+                <shared:title>Kunststof</shared:title>
+                <shared:description>Kunststof</shared:description>
+                <shared:imageUri>urn:vpro:image:120700</shared:imageUri>
+              </shared:image>
+            </media:images>
+            <media:episodeOf added="2013-12-11T14:47:37.747+01:00" highlighted="false" midRef="POMS_S_VPRO_137918" index="221" type="SEASON" urnRef="urn:vpro:media:group:22372311"/>
+            <media:segments/>
+          </media:program>
+        </pages:embed>
+        <pages:images>
+          <pages:image type="PICTURE" url="http://images.poms.omroep.nl/image/s360/120700.jpg">
+            <pages:title>Kunststof</pages:title>
+            <pages:description>Kunststof</pages:description>
+          </pages:image>
+        </pages:images>
+      </api:result>
+    </api:item>
+  </api:items>
+  <api:facets/>
+  <api:selectedFacets/>
+</api:pageSearchResult>

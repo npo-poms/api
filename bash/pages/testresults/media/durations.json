@@ -1,6 +1,16 @@
 {
   "facets" : { },
   "selectedFacets" : { },
+  "mediaFacets" : {
+    "durations" : [ {
+      "count" : 6613,
+      "selected" : false,
+      "value" : "null",
+      "begin" : -9223372036854775808,
+      "end" : 9223372036854775807
+    } ]
+  },
+  "mediaSelectedFacets" : { },
   "total" : 41612,
   "offset" : 0,
   "max" : 2,

@@ -1,84 +1,100 @@
 {
   "facets" : { },
   "selectedFacets" : { },
-  "total" : 22,
+  "total" : 4,
   "offset" : 0,
   "max" : 2,
   "items" : [ {
-    "score" : 11.107168,
+    "score" : 4.426487,
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",
-      "type" : "PLAYER",
-      "url" : "http://www-test.cultura.nl/speel.AVRO_1656036.html",
-      "sortDate" : 1392500523000,
-      "crids" : [ "crid://vpro/media/cultura/AVRO_1656036" ],
+      "type" : "VIDEO",
+      "url" : "http://npodoc.localhost/speel.KN_1657739.html",
+      "sortDate" : 1397854800000,
+      "crids" : [ "crid://vpro/media/npodoc/KN_1657739" ],
       "broadcasters" : [ {
-        "id" : "AVRO",
-        "value" : "AVRO"
+        "id" : "NCRV",
+        "value" : "NCRV"
       } ],
       "portal" : {
-        "id" : "CULTURA24",
-        "url" : "http://www-test.cultura.nl",
-        "value" : "NPO Cultura"
+        "id" : "HOLLANDDOC24",
+        "url" : "http://npodoc.localhost",
+        "value" : "NPO Doc"
       },
-      "title" : "Opium",
+      "title" : "2Doc",
+      "genres" : [ {
+        "id" : "3.0.6.4.5",
+        "terms" : [ "Kunst en cultuur", "Muziek" ],
+        "displayName" : "Kunst en cultuur - Muziek"
+      } ],
       "embeds" : [ {
-        "title" : "Opium",
-        "description" : "Culturele live talkshow met commentaar op het actuele culturele nieuws en bijzondere gasten uit de wereld van theater, film en literatuur en aandacht voor beeldende kunst en live jazz.",
+        "title" : "2Doc",
+        "description" : "Documentaire over toewijding en passie voor klassieke muziek. De getalenteerde Nederlandse countertenor Oscar Verhaar wordt op zijn twaalfde ontdekt door dirigent Geert van den Dungen. Als Verhaar gaat studeren aan het Koninklijk Conservatorium in Den Haag moeten leraar en leerling elkaar loslaten.",
         "media" : {
           "objectType" : "program",
-          "mid" : "AVRO_1656036",
-          "creationDate" : 1390369756611,
-          "lastModified" : 1395923170565,
+          "mid" : "KN_1657739",
+          "creationDate" : 1395813132767,
+          "lastModified" : 1404480673646,
           "hasSubtitles" : true,
-          "sortDate" : 1392500523000,
-          "urn" : "urn:vpro:media:program:35846134",
+          "sortDate" : 1397854800000,
+          "urn" : "urn:vpro:media:program:39169953",
           "embeddable" : true,
           "episodeOf" : [ {
-            "midRef" : "AVRO_1655995",
-            "urnRef" : "urn:vpro:media:group:34582358",
+            "midRef" : "POMS_S_NCRV_487977",
+            "urnRef" : "urn:vpro:media:group:37408650",
             "type" : "SEASON",
-            "index" : 5,
+            "index" : 10,
             "highlighted" : false,
-            "added" : 1390369756748
+            "added" : 1398328208795
           } ],
           "broadcasters" : [ {
-            "id" : "AVRO",
-            "value" : "AVRO"
+            "id" : "NCRV",
+            "value" : "NCRV"
           } ],
-          "regions" : [ "NL" ],
           "titles" : [ {
-            "value" : "Opium",
+            "value" : "2Doc",
+            "owner" : "BROADCASTER",
+            "type" : "MAIN"
+          }, {
+            "value" : "2doc: De stem van de meester",
             "owner" : "MIS",
             "type" : "MAIN"
           }, {
-            "value" : "Opium",
+            "value" : "2doc: De stem van de meester",
             "owner" : "WHATS_ON",
             "type" : "MAIN"
+          }, {
+            "value" : "De stem van de meester",
+            "owner" : "BROADCASTER",
+            "type" : "SUB"
+          }, {
+            "value" : "NCRV DOKUMENT DE STEM VAN DE MEESTER",
+            "owner" : "WHATS_ON",
+            "type" : "ORIGINAL"
           } ],
           "descriptions" : [ {
-            "value" : "Culturele live talkshow met commentaar op het actuele culturele nieuws en bijzondere gasten uit de wereld van theater, film en literatuur en aandacht voor beeldende kunst en live jazz.",
+            "value" : "Documentaire over toewijding en passie voor klassieke muziek. De getalenteerde Nederlandse countertenor Oscar Verhaar wordt op zijn twaalfde ontdekt door dirigent Geert van den Dungen. Als Verhaar gaat studeren aan het Koninklijk Conservatorium in Den Haag moeten leraar en leerling elkaar loslaten.",
             "owner" : "MIS",
             "type" : "MAIN"
           }, {
-            "value" : "Culturele live talkshow met commentaar op het actuele culturele nieuws en bijzondere gasten uit de wereld van theater, film, literatuur, beeldende kunst en muziek. Presentatie Cornald Maas.",
+            "value" : "Meeslepende documentaire over toewijding en passie voor klassieke muziek. De getalenteerde Nederlandse countertenor Oscar Verhaar wordt op zijn twaalfde ontdekt door dirigent Geert van den Dungen. Als Verhaar gaat studeren aan het Koninklijk Conservatorium in Den Haag moeten leraar en leerling elkaar loslaten.",
             "owner" : "WHATS_ON",
             "type" : "MAIN"
           }, {
-            "value" : "Zaterdag 15 februari in Opium: de 3JS, acteurs Carine Crutzen, Marie-Louise Stheins, Renée Fokker en Tim Teunissen, journalist Wouke van Scherrenburg en violiste Lisa Jacobs!",
-            "owner" : "BROADCASTER",
-            "type" : "SHORT"
-          }, {
-            "value" : "Culturele live talkshow met commentaar op het actuele culturele nieuws en bijzondere gasten uit de wereld van theater, film en literatuur en aandacht voor beeldende kunst en live jazz.",
+            "value" : "Documentaire over toewijding en passie voor klassieke muziek. De getalenteerde Nederlandse countertenor Oscar Verhaar wordt op zijn twaalfde ontdekt door dirigent Geert van den Dungen.",
             "owner" : "MIS",
             "type" : "SHORT"
+          }, {
+            "value" : "Documentaire over toewijding en passie voor klassieke muziek. De getalenteerde Nederlandse countertenor Oscar Verhaar wordt op zijn twaalfde ontdekt door dirigent Geert van den Dungen.",
+            "owner" : "BROADCASTER",
+            "type" : "EPISODE"
           } ],
           "genres" : [ {
-            "id" : "3.0.1.7.24",
-            "terms" : [ "Informatief", "Kunst/cultuur" ]
+            "id" : "3.0.1.8",
+            "terms" : [ "Documentaire" ]
           } ],
-          "tags" : [ "DeLaMar Theater", "klassieke muziek", "Muziek", "Theater", "Volendam" ],
+          "tags" : [ "conservatorium", "dirigent", "klassieke muziek" ],
           "countries" : [ ],
           "languages" : [ ],
           "avAttributes" : {
@@ -90,295 +106,12 @@
               "numberOfChannels" : 2
             }
           },
-          "duration" : 3000000,
+          "duration" : 4872290,
           "descendantOf" : [ {
-            "midRef" : "POMS_S_VPRO_171668",
-            "urnRef" : "urn:vpro:media:group:14683553",
-            "type" : "ARCHIVE"
-          }, {
-            "midRef" : "POMS_S_VPRO_170116",
-            "urnRef" : "urn:vpro:media:group:14921818",
-            "type" : "ARCHIVE"
-          }, {
-            "midRef" : "POMS_S_VPRO_170138",
-            "urnRef" : "urn:vpro:media:group:14921822",
-            "type" : "ARCHIVE"
-          }, {
-            "midRef" : "POMS_S_VPRO_218686",
-            "urnRef" : "urn:vpro:media:group:14921825",
-            "type" : "ARCHIVE"
-          }, {
-            "midRef" : "POMS_S_VPRO_117474",
-            "urnRef" : "urn:vpro:media:group:20347947",
+            "midRef" : "POMS_S_VPRO_174707",
+            "urnRef" : "urn:vpro:media:group:14363857",
             "type" : "PLAYLIST"
           }, {
-            "midRef" : "AVRO_1655995",
-            "urnRef" : "urn:vpro:media:group:34582358",
-            "type" : "SEASON"
-          }, {
-            "midRef" : "POMS_S_AVRO_501459",
-            "urnRef" : "urn:vpro:media:group:38230019",
-            "type" : "COLLECTION"
-          }, {
-            "midRef" : "POMS_S_AVRO_096997",
-            "urnRef" : "urn:vpro:media:group:4446737",
-            "type" : "SERIES"
-          } ],
-          "memberOf" : [ {
-            "midRef" : "POMS_S_VPRO_170116",
-            "urnRef" : "urn:vpro:media:group:14921818",
-            "type" : "ARCHIVE",
-            "index" : 361,
-            "highlighted" : false,
-            "added" : 1392284016877
-          }, {
-            "midRef" : "POMS_S_VPRO_218686",
-            "urnRef" : "urn:vpro:media:group:14921825",
-            "type" : "ARCHIVE",
-            "index" : 518,
-            "highlighted" : false,
-            "added" : 1392284017078
-          } ],
-          "predictions" : [ {
-            "state" : "REALIZED",
-            "platform" : "INTERNETVOD"
-          }, {
-            "state" : "REALIZED",
-            "publishStart" : 1392502620000,
-            "publishStop" : 1395958620000,
-            "platform" : "PLUSVOD"
-          } ],
-          "locations" : [ {
-            "programUrl" : "odip+http://odi.omroep.nl/video/adaptive/AVRO_1656036",
-            "avAttributes" : {
-              "avFileFormat" : "HASP"
-            },
-            "creationDate" : 1392504368475,
-            "lastModified" : 1392504368724,
-            "workflow" : "PUBLISHED",
-            "owner" : "CERES",
-            "platform" : "INTERNETVOD",
-            "urn" : "urn:vpro:media:location:37118326"
-          }, {
-            "programUrl" : "odi+http://odi.omroep.nl/video/h264_sb/AVRO_1656036",
-            "avAttributes" : {
-              "bitrate" : 200000,
-              "avFileFormat" : "H264"
-            },
-            "creationDate" : 1392504068678,
-            "lastModified" : 1392504068956,
-            "workflow" : "PUBLISHED",
-            "owner" : "CERES",
-            "platform" : "INTERNETVOD",
-            "urn" : "urn:vpro:media:location:37118321"
-          }, {
-            "programUrl" : "odi+http://odi.omroep.nl/video/h264_bb/AVRO_1656036",
-            "avAttributes" : {
-              "bitrate" : 500000,
-              "avFileFormat" : "H264"
-            },
-            "creationDate" : 1392504068158,
-            "lastModified" : 1392504068412,
-            "workflow" : "PUBLISHED",
-            "owner" : "CERES",
-            "platform" : "INTERNETVOD",
-            "urn" : "urn:vpro:media:location:37118319"
-          }, {
-            "programUrl" : "odi+http://odi.omroep.nl/video/h264_std/AVRO_1656036",
-            "avAttributes" : {
-              "bitrate" : 1000000,
-              "avFileFormat" : "H264"
-            },
-            "creationDate" : 1392503767831,
-            "lastModified" : 1392503768131,
-            "workflow" : "PUBLISHED",
-            "owner" : "CERES",
-            "platform" : "INTERNETVOD",
-            "urn" : "urn:vpro:media:location:37118317"
-          }, {
-            "programUrl" : "sub+http//npoplus.nl/video/mpeg2_hr/AVRO_1656036",
-            "avAttributes" : {
-              "bitrate" : 3500000,
-              "avFileFormat" : "MPEG2"
-            },
-            "creationDate" : 1392503467786,
-            "lastModified" : 1392503468191,
-            "workflow" : "PUBLISHED",
-            "owner" : "CERES",
-            "platform" : "PLUSVOD",
-            "urn" : "urn:vpro:media:location:37118310"
-          } ],
-          "scheduleEvents" : [ {
-            "start" : 1392500523000,
-            "duration" : 2374000,
-            "poProgID" : "AVRO_1656036",
-            "channel" : "NED2",
-            "urnRef" : "urn:vpro:media:program:35846134",
-            "midRef" : "AVRO_1656036"
-          }, {
-            "start" : 1392850659000,
-            "duration" : 2375000,
-            "poProgID" : "AVRO_1656036",
-            "channel" : "NED2",
-            "urnRef" : "urn:vpro:media:program:35846134",
-            "midRef" : "AVRO_1656036"
-          } ],
-          "images" : [ {
-            "title" : "Opium",
-            "description" : "Zaterdag 15 februari in Opium: de 3JS, acteurs Carine Crutzen, Marie-Louise Stheins, Renée Fokker en Tim Teunissen, journalist Wouke van Scherrenburg en violiste Lisa Jacobs!",
-            "imageUri" : "urn:vpro:image:407638",
-            "creationDate" : 1392504315945,
-            "lastModified" : 1392504346836,
-            "workflow" : "PUBLISHED",
-            "owner" : "NEBO",
-            "type" : "STILL",
-            "highlighted" : false,
-            "urn" : "urn:vpro:media:image:37118322"
-          }, {
-            "title" : "Opium",
-            "description" : "Zaterdag 15 februari in Opium: de 3JS, acteurs Carine Crutzen, Marie-Louise Stheins, Renée Fokker en Tim Teunissen, journalist Wouke van Scherrenburg en violiste Lisa Jacobs!",
-            "imageUri" : "urn:vpro:image:407639",
-            "creationDate" : 1392504331195,
-            "lastModified" : 1392504346837,
-            "workflow" : "PUBLISHED",
-            "owner" : "NEBO",
-            "type" : "STILL",
-            "highlighted" : false,
-            "urn" : "urn:vpro:media:image:37118323"
-          }, {
-            "title" : "Opium",
-            "description" : "Zaterdag 15 februari in Opium: de 3JS, acteurs Carine Crutzen, Marie-Louise Stheins, Renée Fokker en Tim Teunissen, journalist Wouke van Scherrenburg en violiste Lisa Jacobs!",
-            "imageUri" : "urn:vpro:image:407640",
-            "creationDate" : 1392504346603,
-            "lastModified" : 1392504346837,
-            "workflow" : "PUBLISHED",
-            "owner" : "NEBO",
-            "type" : "STILL",
-            "highlighted" : false,
-            "urn" : "urn:vpro:media:image:37118324"
-          } ],
-          "workflow" : "PUBLISHED",
-          "type" : "BROADCAST",
-          "avType" : "VIDEO"
-        }
-      } ],
-      "images" : [ {
-        "type" : "PICTURE",
-        "url" : "http://images.poms.omroep.nl/image/s360/407638.jpg",
-        "title" : "Opium",
-        "description" : "Zaterdag 15 februari in Opium: de 3JS, acteurs Carine Crutzen, Marie-Louise Stheins, Renée Fokker en Tim Teunissen, journalist Wouke van Scherrenburg en violiste Lisa Jacobs!"
-      } ],
-      "publishStart" : 1392500523000,
-      "creationDate" : 1413965281071,
-      "lastModified" : 1414485709132,
-      "refCount" : 0
-    }
-  }, {
-    "score" : 4.410431,
-    "highlights" : [ ],
-    "result" : {
-      "objectType" : "page",
-      "type" : "PLAYER",
-      "url" : "http://www-test.cultura.nl/speel.VPWON_1188083.html",
-      "sortDate" : 1371371400000,
-      "crids" : [ "crid://vpro/media/cultura/VPWON_1188083" ],
-      "broadcasters" : [ {
-        "id" : "VPRO",
-        "value" : "VPRO"
-      } ],
-      "portal" : {
-        "id" : "CULTURA24",
-        "url" : "http://www-test.cultura.nl",
-        "value" : "NPO Cultura"
-      },
-      "title" : "Vrije geluiden",
-      "genres" : [ {
-        "id" : "3.0.3.5",
-        "terms" : [ "Klassiek" ],
-        "displayName" : "Klassiek"
-      } ],
-      "embeds" : [ {
-        "title" : "Vrije geluiden",
-        "description" : "Mexicaanse Mariachi muziek door de band Tierra Caliente. Sinds 1986 betovert de band het publiek met de warme klankkleur van trompetten, violen en gitaren. Ze zijn gekleed in imponerende zwarte, met zilverwerk versierde kostuums en het is al feest zonder dat er ook maar een noot geklonken heeft!  De muziek van Bach kent vele aanbidders en daaronder vele instrumentalisten die vinden dat zijn muziek ook goed gedijd op het instrument waar Bach het niet voor bedoelde of zelfs niet eens kende. Accordeoniste Marieke Grotenhuis speelt samen met violiste Rosanne Philippens en cellist Sietse Jan Weijnberg o.a. Bachs Contrapunctus no.8. Samen vormen zij het Floridus Trio.  Ngoni Ba met de Malinese ngoni-virtuoos Bassekou Kouyaté. Bassekou verheft op zijn nieuwste album Jama Ko zijn stem tegen de radicale islamieten. Hij en zijn bandleden bespelen o.a. vier ngonis, de traditionele harpluiten, die allen een andere stemming hebben, van bas tot hoog. De ngoni is de oudste versie van de huidige banjo. Ngoni Ba staat centraal op het 25e Afrikafestival Hertme. Een gesprek met oprichter en programmamaker Rob Lokin.  Presentatie: Melchior Huurdeman.",
-        "media" : {
-          "objectType" : "program",
-          "mid" : "VPWON_1188083",
-          "creationDate" : 1369284550249,
-          "lastModified" : 1374503826309,
-          "sortDate" : 1371371400000,
-          "urn" : "urn:vpro:media:program:25905587",
-          "embeddable" : true,
-          "episodeOf" : [ {
-            "midRef" : "VPWON_1188063",
-            "urnRef" : "urn:vpro:media:group:17331500",
-            "type" : "SEASON",
-            "index" : 20,
-            "highlighted" : false,
-            "added" : 1369284550418
-          }, {
-            "midRef" : "AUTO_VRIJEGELUIDEN",
-            "urnRef" : "urn:vpro:media:group:18190007",
-            "type" : "SEASON",
-            "index" : 213,
-            "highlighted" : false,
-            "added" : 1371407642171
-          } ],
-          "crids" : [ "crid://tmp.program.omroep.nl/15708503" ],
-          "broadcasters" : [ {
-            "id" : "VPRO",
-            "value" : "VPRO"
-          } ],
-          "titles" : [ {
-            "value" : "Vrije geluiden",
-            "owner" : "NEBO",
-            "type" : "MAIN"
-          }, {
-            "value" : "Vrije geluiden",
-            "owner" : "MIS",
-            "type" : "MAIN"
-          }, {
-            "value" : "Vrije Geluiden",
-            "owner" : "WHATS_ON",
-            "type" : "MAIN"
-          }, {
-            "value" : "Vrije Geluiden",
-            "owner" : "WHATS_ON",
-            "type" : "ORIGINAL"
-          } ],
-          "descriptions" : [ {
-            "value" : "Mexicaanse Mariachi muziek door de band Tierra Caliente. Sinds 1986 betovert de band het publiek met de warme klankkleur van trompetten, violen en gitaren. Ze zijn gekleed in imponerende zwarte, met zilverwerk versierde kostuums en het is al feest zonder dat er ook maar een noot geklonken heeft!  De muziek van Bach kent vele aanbidders en daaronder vele instrumentalisten die vinden dat zijn muziek ook goed gedijd op het instrument waar Bach het niet voor bedoelde of zelfs niet eens kende. Accordeoniste Marieke Grotenhuis speelt samen met violiste Rosanne Philippens en cellist Sietse Jan Weijnberg o.a. Bachs Contrapunctus no.8. Samen vormen zij het Floridus Trio.  Ngoni Ba met de Malinese ngoni-virtuoos Bassekou Kouyaté. Bassekou verheft op zijn nieuwste album Jama Ko zijn stem tegen de radicale islamieten. Hij en zijn bandleden bespelen o.a. vier ngonis, de traditionele harpluiten, die allen een andere stemming hebben, van bas tot hoog. De ngoni is de oudste versie van de huidige banjo. Ngoni Ba staat centraal op het 25e Afrikafestival Hertme. Een gesprek met oprichter en programmamaker Rob Lokin.  Presentatie: Melchior Huurdeman.",
-            "owner" : "WHATS_ON",
-            "type" : "MAIN"
-          }, {
-            "value" : "Mexicaanse Mariachi muziek door de band Tierra Caliente. Sinds 1986 betovert de band het publiek met de warme klankkleur van trompetten, violen en gitaren.",
-            "owner" : "MIS",
-            "type" : "SHORT"
-          }, {
-            "value" : "Mexicaanse Mariachi muziek door de band Tierra Caliente. Sinds 1986 betovert de band het publiek met de warme klankkleur van trompetten, violen en gitaren. Ze zijn gekleed in imponerende zwarte, met zilverwerk versierde kostuums en het is al feest zonder dat er ook maar een noot geklonken heeft! De muziek van Bach kent vele aanbidders en daaronder vele instrumentalisten die vinden dat zijn muziek ook goed gedijd op het instrument waar Bach het niet voor bedoelde of zelfs niet eens kende. Accordeoniste Marieke Grotenhuis speelt samen met violiste Rosanne Philippens en cellist Sietse Jan Weijnberg o.a. Bachs Contrapunctus nr. 8. Samen vormen zij het Floridus Trio. Ngoni Ba met de Malinese ngoni-virtuoos Bassekou Kouyaté. Bassekou verheft op zijn nieuwste album Jama Ko zijn stem tegen de radicale islamieten. Hij en zijn bandleden bespelen o.a. vier ngonis, de traditionele harpluiten, die allen een andere stemming hebben, van bas tot hoog. De ngoni is de oudste versie van de huidige banjo. Ngoni Ba staat centraal op het 25e Afrikafestival Hertme. Een gesprek met oprichter en programmamaker Rob Lokin.",
-            "owner" : "MIS",
-            "type" : "EPISODE"
-          } ],
-          "genres" : [ {
-            "id" : "3.0.1.5",
-            "terms" : [ "Muziek" ]
-          } ],
-          "tags" : [ "Afrika Festival Hertme", "Bassekou Kouyaté & Ngoni Ba", "Floridus Trio", "Johann Sebastian Bach", "klassieke muziek", "Mariachi", "Muziek", "Rob Lokin", "Tierra Caliente", "Vrije Geluiden" ],
-          "countries" : [ ],
-          "languages" : [ {
-            "code" : "nl",
-            "value" : "Nederlands"
-          } ],
-          "avAttributes" : {
-            "videoAttributes" : {
-              "color" : "BLACK_AND_WHITE_AND_COLOR",
-              "aspectRatio" : "16:9"
-            },
-            "audioAttributes" : {
-              "numberOfChannels" : 2
-            }
-          },
-          "duration" : 3000000,
-          "descendantOf" : [ {
             "midRef" : "POMS_S_VPRO_171668",
             "urnRef" : "urn:vpro:media:group:14683553",
             "type" : "ARCHIVE"
@@ -387,133 +120,137 @@
             "urnRef" : "urn:vpro:media:group:14921910",
             "type" : "ARCHIVE"
           }, {
-            "midRef" : "VPWON_1188063",
-            "urnRef" : "urn:vpro:media:group:17331500",
+            "midRef" : "POMS_S_VPRO_216767",
+            "urnRef" : "urn:vpro:media:group:2981744",
+            "type" : "PLAYLIST"
+          }, {
+            "midRef" : "POMS_S_VPRO_472240",
+            "urnRef" : "urn:vpro:media:group:36114396",
+            "type" : "SERIES"
+          }, {
+            "midRef" : "POMS_S_VPRO_478241",
+            "urnRef" : "urn:vpro:media:group:36564324",
+            "type" : "PLAYLIST"
+          }, {
+            "midRef" : "POMS_S_NCRV_487977",
+            "urnRef" : "urn:vpro:media:group:37408650",
             "type" : "SEASON"
           }, {
-            "midRef" : "AUTO_VRIJEGELUIDEN",
-            "urnRef" : "urn:vpro:media:group:18190007",
-            "type" : "SEASON"
+            "midRef" : "POMS_S_VPRO_522139",
+            "urnRef" : "urn:vpro:media:group:40914217",
+            "type" : "COLLECTION"
           }, {
-            "midRef" : "POMS_S_VPRO_083804",
-            "urnRef" : "urn:vpro:media:group:72628",
+            "midRef" : "POMS_S_VPRO_522208",
+            "urnRef" : "urn:vpro:media:group:40917007",
+            "type" : "COLLECTION"
+          }, {
+            "midRef" : "POMS_S_NCRV_059862",
+            "urnRef" : "urn:vpro:media:group:4446058",
             "type" : "SERIES"
           } ],
-          "websites" : [ {
-            "value" : "www.vrijegeluiden.nl"
+          "memberOf" : [ {
+            "midRef" : "POMS_S_VPRO_174707",
+            "urnRef" : "urn:vpro:media:group:14363857",
+            "type" : "PLAYLIST",
+            "highlighted" : false,
+            "added" : 1397889064334
+          }, {
+            "midRef" : "POMS_S_VPRO_170117",
+            "urnRef" : "urn:vpro:media:group:14921910",
+            "type" : "ARCHIVE",
+            "index" : 357,
+            "highlighted" : false,
+            "added" : 1396949275906
+          }, {
+            "midRef" : "POMS_S_VPRO_216767",
+            "urnRef" : "urn:vpro:media:group:2981744",
+            "type" : "PLAYLIST",
+            "highlighted" : false,
+            "added" : 1397889064606
+          }, {
+            "midRef" : "POMS_S_VPRO_472240",
+            "urnRef" : "urn:vpro:media:group:36114396",
+            "type" : "SERIES",
+            "index" : 35,
+            "highlighted" : false,
+            "added" : 1397745456657
+          }, {
+            "midRef" : "POMS_S_VPRO_478241",
+            "urnRef" : "urn:vpro:media:group:36564324",
+            "type" : "PLAYLIST",
+            "highlighted" : false,
+            "added" : 1397889064641
           } ],
           "predictions" : [ {
             "state" : "REALIZED",
-            "publishStart" : 1371374703000,
             "platform" : "INTERNETVOD"
+          }, {
+            "state" : "REALIZED",
+            "publishStart" : 1397859645000,
+            "publishStop" : 1429482045000,
+            "platform" : "PLUSVOD"
           } ],
           "locations" : [ {
-            "programUrl" : "odip+http://odi.omroep.nl/video/adaptive/VPWON_1188083",
+            "programUrl" : "odip+http://odi.omroep.nl/video/adaptive/KN_1657739",
             "avAttributes" : {
               "avFileFormat" : "HASP"
             },
-            "creationDate" : 1371376864592,
-            "lastModified" : 1371376864926,
-            "workflow" : "PUBLISHED",
             "owner" : "CERES",
-            "platform" : "INTERNETVOD",
-            "urn" : "urn:vpro:media:location:26732463"
-          }, {
-            "programUrl" : "odi+http://odi.omroep.nl/video/h264_sb/VPWON_1188083",
-            "avAttributes" : {
-              "bitrate" : 204800,
-              "avFileFormat" : "MP4",
-              "videoAttributes" : {
-                "videoCoding" : "WM",
-                "aspectRatio" : "16:9"
-              }
-            },
-            "creationDate" : 1371407638438,
-            "lastModified" : 1371407638591,
+            "creationDate" : 1397862371574,
+            "lastModified" : 1397862371732,
             "workflow" : "PUBLISHED",
-            "owner" : "NEBO",
             "platform" : "INTERNETVOD",
-            "urn" : "urn:vpro:media:location:26734337"
+            "urn" : "urn:vpro:media:location:40397051"
           }, {
-            "programUrl" : "odi+http://odi.omroep.nl/video/h264_bb/VPWON_1188083",
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_sb/KN_1657739",
             "avAttributes" : {
-              "bitrate" : 512000,
-              "avFileFormat" : "MP4",
-              "videoAttributes" : {
-                "videoCoding" : "WM",
-                "aspectRatio" : "16:9"
-              }
+              "bitrate" : 200000,
+              "avFileFormat" : "H264"
             },
-            "creationDate" : 1371407638438,
-            "lastModified" : 1371407638592,
+            "owner" : "CERES",
+            "creationDate" : 1397859971128,
+            "lastModified" : 1397859971282,
             "workflow" : "PUBLISHED",
-            "owner" : "NEBO",
             "platform" : "INTERNETVOD",
-            "urn" : "urn:vpro:media:location:26734340"
+            "urn" : "urn:vpro:media:location:40397028"
           }, {
-            "programUrl" : "odi+http://odi.omroep.nl/video/h264_std/VPWON_1188083",
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_bb/KN_1657739",
             "avAttributes" : {
-              "bitrate" : 1024000,
-              "avFileFormat" : "MP4",
-              "videoAttributes" : {
-                "videoCoding" : "WM",
-                "aspectRatio" : "16:9"
-              }
+              "bitrate" : 500000,
+              "avFileFormat" : "H264"
             },
-            "creationDate" : 1371407638438,
-            "lastModified" : 1371407638593,
+            "owner" : "CERES",
+            "creationDate" : 1397859971532,
+            "lastModified" : 1397859971733,
             "workflow" : "PUBLISHED",
-            "owner" : "NEBO",
             "platform" : "INTERNETVOD",
-            "urn" : "urn:vpro:media:location:26734343"
+            "urn" : "urn:vpro:media:location:40397030"
           }, {
-            "programUrl" : "odi+http://odi.omroep.nl/video/wvc1_std/VPWON_1188083",
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_std/KN_1657739",
             "avAttributes" : {
-              "bitrate" : 1024000,
-              "avFileFormat" : "WVC1",
-              "videoAttributes" : {
-                "videoCoding" : "WM",
-                "aspectRatio" : "16:9"
-              }
+              "bitrate" : 1000000,
+              "avFileFormat" : "H264"
             },
-            "creationDate" : 1371407638437,
-            "lastModified" : 1371407638595,
+            "owner" : "CERES",
+            "creationDate" : 1397860265784,
+            "lastModified" : 1397860266022,
             "workflow" : "PUBLISHED",
-            "owner" : "NEBO",
             "platform" : "INTERNETVOD",
-            "urn" : "urn:vpro:media:location:26734346"
+            "urn" : "urn:vpro:media:location:40397039"
           }, {
-            "programUrl" : "odi+http://odi.omroep.nl/video/wmv_sb/VPWON_1188083",
+            "programUrl" : "sub+http//npoplus.nl/video/mpeg2_hr/KN_1657739",
             "avAttributes" : {
-              "bitrate" : 204800,
-              "avFileFormat" : "WM",
-              "videoAttributes" : {
-                "videoCoding" : "WM",
-                "aspectRatio" : "16:9"
-              }
+              "bitrate" : 3500000,
+              "avFileFormat" : "MPEG2"
             },
-            "creationDate" : 1371407638438,
-            "lastModified" : 1371407638596,
+            "owner" : "CERES",
+            "creationDate" : 1397860565700,
+            "lastModified" : 1397860565980,
+            "publishStart" : 1397859645000,
+            "publishStop" : 1429482045000,
             "workflow" : "PUBLISHED",
-            "owner" : "NEBO",
-            "platform" : "INTERNETVOD",
-            "urn" : "urn:vpro:media:location:26734349"
-          }, {
-            "programUrl" : "odi+http://odi.omroep.nl/video/wmv_bb/VPWON_1188083",
-            "avAttributes" : {
-              "bitrate" : 512000,
-              "avFileFormat" : "WM",
-              "videoAttributes" : {
-                "videoCoding" : "WM",
-                "aspectRatio" : "16:9"
-              }
-            },
-            "creationDate" : 1371407638437,
-            "lastModified" : 1371407638597,
-            "workflow" : "PUBLISHED",
-            "owner" : "NEBO",
-            "platform" : "INTERNETVOD",
-            "urn" : "urn:vpro:media:location:26734352"
+            "platform" : "PLUSVOD",
+            "urn" : "urn:vpro:media:location:40397041"
           } ],
           "scheduleEvents" : [ {
             "avAttributes" : {
@@ -521,67 +258,28 @@
                 "aspectRatio" : "16:9"
               }
             },
-            "textSubtitles" : "Teletekst ondertitels",
-            "start" : 1371371400000,
-            "offset" : 113000,
-            "duration" : 3000000,
-            "poProgID" : "VPWON_1188083",
-            "channel" : "NED1",
-            "imi" : "imi:62511",
-            "urnRef" : "urn:vpro:media:program:25905587",
-            "midRef" : "VPWON_1188083"
-          }, {
-            "repeat" : {
-              "isRerun" : true
-            },
-            "avAttributes" : {
-              "videoAttributes" : {
-                "aspectRatio" : "16:9"
-              }
-            },
-            "textSubtitles" : "Teletekst ondertitels",
-            "start" : 1371884400000,
-            "offset" : 77000,
-            "duration" : 3000000,
-            "poProgID" : "VPWON_1188083",
-            "channel" : "NED1",
-            "imi" : "imi:62812",
-            "urnRef" : "urn:vpro:media:program:25905587",
-            "midRef" : "VPWON_1188083"
+            "start" : 1397854800000,
+            "offset" : -27000,
+            "duration" : 4800000,
+            "poProgID" : "KN_1657739",
+            "channel" : "NED2",
+            "imi" : "imi:18613",
+            "urnRef" : "urn:vpro:media:program:39169953",
+            "midRef" : "KN_1657739"
           } ],
           "images" : [ {
-            "title" : "Vrije geluiden",
-            "description" : "Mexicaanse Mariachi muziek door de Amsterdamse band Tierra Caliente; Floridus Trio met Bach op viool, cello en accordeon; Afrika Festival Hertme bestaat 25 jaar, Rob Lokin te gast en Bassekou Kouyaté & Ngoni Ba",
-            "imageUri" : "urn:vpro:image:191868",
-            "creationDate" : 1371376814209,
-            "lastModified" : 1371376821091,
-            "workflow" : "PUBLISHED",
-            "owner" : "NEBO",
-            "type" : "STILL",
+            "title" : "de stem van de meester",
+            "description" : "de stem van de meester",
+            "imageUri" : "urn:vpro:image:453302",
+            "height" : 1329,
+            "width" : 2362,
+            "owner" : "BROADCASTER",
+            "type" : "PICTURE",
             "highlighted" : false,
-            "urn" : "urn:vpro:media:image:26732459"
-          }, {
-            "title" : "Vrije geluiden",
-            "description" : "Mexicaanse Mariachi muziek door de Amsterdamse band Tierra Caliente; Floridus Trio met Bach op viool, cello en accordeon; Afrika Festival Hertme bestaat 25 jaar, Rob Lokin te gast en Bassekou Kouyaté & Ngoni Ba",
-            "imageUri" : "urn:vpro:image:191869",
-            "creationDate" : 1371376817546,
-            "lastModified" : 1371376821091,
+            "creationDate" : 1397889145420,
+            "lastModified" : 1397889145794,
             "workflow" : "PUBLISHED",
-            "owner" : "NEBO",
-            "type" : "STILL",
-            "highlighted" : false,
-            "urn" : "urn:vpro:media:image:26732460"
-          }, {
-            "title" : "Vrije geluiden",
-            "description" : "Mexicaanse Mariachi muziek door de Amsterdamse band Tierra Caliente; Floridus Trio met Bach op viool, cello en accordeon; Afrika Festival Hertme bestaat 25 jaar, Rob Lokin te gast en Bassekou Kouyaté & Ngoni Ba",
-            "imageUri" : "urn:vpro:image:191870",
-            "creationDate" : 1371376820918,
-            "lastModified" : 1371376821092,
-            "workflow" : "PUBLISHED",
-            "owner" : "NEBO",
-            "type" : "STILL",
-            "highlighted" : false,
-            "urn" : "urn:vpro:media:image:26732461"
+            "urn" : "urn:vpro:media:image:40427559"
           } ],
           "workflow" : "PUBLISHED",
           "type" : "BROADCAST",
@@ -590,13 +288,150 @@
       } ],
       "images" : [ {
         "type" : "PICTURE",
-        "url" : "http://images.poms.omroep.nl/image/s360/191868.jpg",
-        "title" : "Vrije geluiden",
-        "description" : "Mexicaanse Mariachi muziek door de Amsterdamse band Tierra Caliente; Floridus Trio met Bach op viool, cello en accordeon; Afrika Festival Hertme bestaat 25 jaar, Rob Lokin te gast en Bassekou Kouyaté & Ngoni Ba"
+        "url" : "http://images.poms.omroep.nl/image/s360/453302.jpg",
+        "title" : "de stem van de meester",
+        "description" : "de stem van de meester"
       } ],
-      "publishStart" : 1371371400000,
-      "creationDate" : 1411384763945,
-      "lastModified" : 1414463860852,
+      "publishStart" : 1397854800000,
+      "creationDate" : 1425989709437,
+      "lastModified" : 1426071529520,
+      "refCount" : 0
+    }
+  }, {
+    "score" : 2.0099432,
+    "highlights" : [ ],
+    "result" : {
+      "objectType" : "page",
+      "type" : "AUDIO",
+      "url" : "http://woord-sample.localhost/luister.POMS_VPRO_475859.html",
+      "sortDate" : 1296338580000,
+      "crids" : [ "crid://vpro/media/woord/POMS_VPRO_475859" ],
+      "broadcasters" : [ {
+        "id" : "NTR",
+        "value" : "NTR"
+      } ],
+      "portal" : {
+        "id" : "WOORD",
+        "url" : "http://woord-sample.localhost",
+        "value" : "Woord.nl"
+      },
+      "title" : "De Bedding",
+      "genres" : [ {
+        "id" : "3.0.4.1",
+        "terms" : [ "Documentaire" ],
+        "displayName" : "Documentaire"
+      } ],
+      "embeds" : [ {
+        "title" : "De Bedding",
+        "description" : "Wekelijks programma met muziekdocumentaires, klankbeelden, muziekessays, hoorspelen en verhalen van musici en muziekliefhebbers.\nPresentatie: Cees van Ede.\nDe documentaire ‘Prins, componist, moordenaar’ van regisseur Wouter Pleijsier. In 1590 vermoordde de componist Carlo Gesualdo, prins van Venosa, zijn overspelige vrouw Donna Maria en haar minaar. Het was een moord die tot in de puntjes was voorbereid en die koelbloedig werd voltrokken. De bloedige tragedie ging al snel een eigen leven leiden en werd het onderwerp van een eindeloze reeks populaire verhalen, vertellingen en gedichten. Onvermijdelijk dus, dat Carlo Gesualdo voor altijd het etiket ‘componist-moordenaar’ kreeg opgeplakt. Maar dat Gesualdo tot op de dag van vandaag blijft boeien, dankt hij in de eerste plaats aan zijn muziek.\nActeur Jérôme Reehuis leest het zogenoemde ‘Corona manuscript’ voor. In deze kleurrijke chronique scandaleuse uit de vroege 17de eeuw wordt de moord op Donna Maria en haar minnaar op gedetailleerde wijze uit de doeken gedaan.",
+        "media" : {
+          "objectType" : "program",
+          "mid" : "POMS_VPRO_475859",
+          "creationDate" : 1391436748085,
+          "lastModified" : 1391605521645,
+          "publishStart" : 1296338580000,
+          "sortDate" : 1296338580000,
+          "urn" : "urn:vpro:media:program:36501621",
+          "embeddable" : true,
+          "episodeOf" : [ {
+            "midRef" : "AUTO_DEBEDDING",
+            "urnRef" : "urn:vpro:media:group:15711402",
+            "type" : "SERIES",
+            "index" : 11,
+            "highlighted" : false,
+            "added" : 1391436901836
+          } ],
+          "broadcasters" : [ {
+            "id" : "NTR",
+            "value" : "NTR"
+          } ],
+          "titles" : [ {
+            "value" : "De Bedding",
+            "owner" : "BROADCASTER",
+            "type" : "MAIN"
+          }, {
+            "value" : "Prins, componist, moordenaar",
+            "owner" : "BROADCASTER",
+            "type" : "SUB"
+          } ],
+          "descriptions" : [ {
+            "value" : "Wekelijks programma met muziekdocumentaires, klankbeelden, muziekessays, hoorspelen en verhalen van musici en muziekliefhebbers.\nPresentatie: Cees van Ede.\nDe documentaire ‘Prins, componist, moordenaar’ van regisseur Wouter Pleijsier. In 1590 vermoordde de componist Carlo Gesualdo, prins van Venosa, zijn overspelige vrouw Donna Maria en haar minaar. Het was een moord die tot in de puntjes was voorbereid en die koelbloedig werd voltrokken. De bloedige tragedie ging al snel een eigen leven leiden en werd het onderwerp van een eindeloze reeks populaire verhalen, vertellingen en gedichten. Onvermijdelijk dus, dat Carlo Gesualdo voor altijd het etiket ‘componist-moordenaar’ kreeg opgeplakt. Maar dat Gesualdo tot op de dag van vandaag blijft boeien, dankt hij in de eerste plaats aan zijn muziek.\nActeur Jérôme Reehuis leest het zogenoemde ‘Corona manuscript’ voor. In deze kleurrijke chronique scandaleuse uit de vroege 17de eeuw wordt de moord op Donna Maria en haar minnaar op gedetailleerde wijze uit de doeken gedaan.",
+            "owner" : "BROADCASTER",
+            "type" : "MAIN"
+          }, {
+            "value" : "De documentaire ‘Prins, componist, moordenaar’ van regisseur Wouter Pleijsier. In 1590 vermoordde de componist Carlo Gesualdo, prins van Venosa, zijn overspelige vrouw Donna Maria en haar minaar. Het was een moord die tot in de puntjes was voorbereid en die koelbloedig werd voltrokken. De bloedige tragedie ging al snel een eigen leven leiden en werd het onderwerp van een eindeloze reeks populaire verhalen, vertellingen en gedichten. Onvermijdelijk dus, dat Carlo Gesualdo voor altijd het etiket ‘componist-moordenaar’ kreeg opgeplakt. Maar dat Gesualdo tot op de dag van vandaag blijft boeien, dankt hij in de eerste plaats aan zijn muziek. ",
+            "owner" : "BROADCASTER",
+            "type" : "SHORT"
+          } ],
+          "genres" : [ ],
+          "tags" : [ "componist", "klassieke muziek", "moord", "ontrouw" ],
+          "countries" : [ ],
+          "languages" : [ ],
+          "releaseYear" : 2011,
+          "duration" : 3599000,
+          "descendantOf" : [ {
+            "midRef" : "POMS_S_VPRO_195283",
+            "urnRef" : "urn:vpro:media:group:11887617",
+            "type" : "ARCHIVE"
+          }, {
+            "midRef" : "AUTO_NTRDEBEDDING",
+            "urnRef" : "urn:vpro:media:group:13405611",
+            "type" : "SERIES"
+          }, {
+            "midRef" : "POMS_S_VPRO_171668",
+            "urnRef" : "urn:vpro:media:group:14683553",
+            "type" : "ARCHIVE"
+          }, {
+            "midRef" : "POMS_S_VPRO_170117",
+            "urnRef" : "urn:vpro:media:group:14921910",
+            "type" : "ARCHIVE"
+          }, {
+            "midRef" : "AUTO_DEBEDDING",
+            "urnRef" : "urn:vpro:media:group:15711402",
+            "type" : "SERIES"
+          }, {
+            "midRef" : "POMS_S_VPRO_417553",
+            "urnRef" : "urn:vpro:media:group:30800911",
+            "type" : "COLLECTION"
+          }, {
+            "midRef" : "POMS_S_NTR_479013",
+            "urnRef" : "urn:vpro:media:group:36636806",
+            "type" : "SEASON"
+          } ],
+          "memberOf" : [ {
+            "midRef" : "POMS_S_VPRO_417553",
+            "urnRef" : "urn:vpro:media:group:30800911",
+            "type" : "COLLECTION",
+            "index" : 22,
+            "highlighted" : false,
+            "added" : 1391605423565
+          }, {
+            "midRef" : "POMS_S_NTR_479013",
+            "urnRef" : "urn:vpro:media:group:36636806",
+            "type" : "SEASON",
+            "index" : 1,
+            "highlighted" : false,
+            "added" : 1391605521479
+          } ],
+          "locations" : [ {
+            "programUrl" : "http://download.omroep.nl/vpro/algemeen/woord/woord_radio/NTR_De_Bedding_Gesualdo_2011012923.mp3",
+            "avAttributes" : {
+              "avFileFormat" : "MP3"
+            },
+            "owner" : "BROADCASTER",
+            "creationDate" : 1391436901665,
+            "lastModified" : 1391436901782,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:36501656"
+          } ],
+          "workflow" : "PUBLISHED",
+          "type" : "BROADCAST",
+          "avType" : "AUDIO"
+        }
+      } ],
+      "publishStart" : 1296338580000,
+      "creationDate" : 1421877969057,
+      "lastModified" : 1425947654071,
       "refCount" : 0
     }
   } ]
