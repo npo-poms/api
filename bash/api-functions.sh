@@ -75,6 +75,19 @@ formatter() {
     fi
 }
 
+
+scorefilter() {
+    file=$1
+
+    if [[ "$file" == *.xml ]] ; then
+        echo "cat" # TODO
+    elif [[ "$file" == *.json ]] ; then
+        echo "grep -v score"
+    else
+        echo "cat"
+    fi
+}
+
 post() {
     call=$1       # e.g. api/pages
     parameters=$2 # an <param>=<value>[&<param=value]
