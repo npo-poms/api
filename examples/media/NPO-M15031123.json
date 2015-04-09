@@ -1,11 +1,23 @@
 {
-    "searches":{
-        "broadcasters":{"match":"MUST","value":"MAX"},
-        "types":{"match":"MUST","value":"BROADCAST"},
-        "avTypes":{"match":"MUST","value":"VIDEO"},
-        "scheduleEvents":{"channel":"NED3","end":"2015-03-12T16:04:30.790Z"}
+  "searches" : {
+    "broadcasters" : {
+      "match" : "MUST",
+      "value" : "MAX"
     },
-    "sort":{
-        "sortDate":"DESC"
+    "types" : {
+      "match" : "MUST",
+      "value" : "BROADCAST"
+    },
+    "avTypes" : {
+      "match" : "MUST",
+      "value" : "VIDEO"
+    },
+    "scheduleEvents" : {
+      "channel" : "NED3",
+      "end" : "2015-03-12T16:04:30.790Z"
     }
+  },
+  "sort" : {
+    "sortDate" : "DESC"
+  }
 }
