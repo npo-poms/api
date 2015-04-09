@@ -1,0 +1,16 @@
+{
+    /* NPA-153 */
+    "searches": {
+        "sortDates": [
+            {
+                "begin": "-347158800000",
+                "end": "-315622800000"
+            }
+        ]
+    },
+    "facets": {
+        "sortDates" : [
+            "MONTH"
+        ]
+    }
+}
