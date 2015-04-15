@@ -9,11 +9,11 @@ while read line; do
     api=`ENV=dev ../get_restriction.sh $mid PLUSVOD`
     read -ra apiparts <<< "$api"
     apistarttijd=${apiparts[1]:0:19}
-    apilastmodified=${apiparts[5]:0:19}
+    apilastmodified=${apiparts[4]:0:19}
     if [ "$starttijd" != "$apistarttijd" ] ; then
-        echo "NOTOK" $mid $starttijd $apistarttijd $apilastmodified
+        echo "NOTOK $mid $starttijd != $apistarttijd $apilastmodified"
     else
-        echo "OK" $mid $starttijd $apistarttijd $apilastmodified
+        echo "OK" $mid $apistarttijd $apilastmodified
     fi
 
 done < $1
