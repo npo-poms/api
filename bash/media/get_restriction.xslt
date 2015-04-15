@@ -12,6 +12,8 @@
       <xsl:value-of select="@publishStart" />
       <xsl:text> - </xsl:text>
       <xsl:value-of select="@publishStop" />
+      <xsl:text> - </xsl:text>
+      <xsl:value-of select="../@lastModified" />
       <xsl:text>&#xa;</xsl:text>
     </xsl:for-each>
   </xsl:template>

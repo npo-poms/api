@@ -5,7 +5,8 @@ SOURCE=$(readlink  $BASH_SOURCE)
 if [[ -z "$SOURCE" ]] ; then
     SOURCE=$BASH_SOURCE
 fi
-source $(dirname ${SOURCE[0]})/../api-functions.sh
+dir=$(dirname ${SOURCE[0]})
+source $dir/../api-functions.sh
 
 if [[ "$1" == ""  ]] ; then
     echo Usage:
@@ -17,4 +18,4 @@ platform=PLUSVOD
 
 
 # find the implementation of the post function in ../api-functions.sh
-CONTENT_TYPE='application/xml' get "api/media/$1" | xsltproc --stringparam platform "${platform}" get_restriction.xslt -
+CONTENT_TYPE='application/xml' get "api/media/$1" | xsltproc --stringparam platform "${platform}" $dir/get_restriction.xslt -
