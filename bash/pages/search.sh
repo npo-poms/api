@@ -12,7 +12,7 @@ fi
 
 parameters="max=$MAX&profile=$2" # make sure they are ordered!
 
-if [[ "$1" != "" &&  ! -e $1 ]] ; then
+if [[ "$1" == "" ||  ! -e $1 ]] ; then
     echo Usage:
     echo " $0 [<json file with search form>] [<profile>]"
     echo "e.g.: "

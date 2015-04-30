@@ -9,9 +9,19 @@
     <xsl:for-each select="//media:*/media:prediction[text() = $platform]">
       <xsl:value-of select="text()" />
       <xsl:text> </xsl:text>
-      <xsl:value-of select="@publishStart" />
+      <xsl:choose>
+        <xsl:when test="@publishStart">
+          <xsl:value-of select="@publishStart" />
+        </xsl:when>
+        <xsl:otherwise><xsl:text>NULL</xsl:text></xsl:otherwise>
+      </xsl:choose>
       <xsl:text> - </xsl:text>
-      <xsl:value-of select="@publishStop" />
+      <xsl:choose>
+        <xsl:when test="@publishStop">
+          <xsl:value-of select="@publishStop" />
+        </xsl:when>
+        <xsl:otherwise><xsl:text>NULL</xsl:text></xsl:otherwise>
+      </xsl:choose>
       <xsl:text>  </xsl:text>
       <xsl:value-of select="../@lastModified" />
       <xsl:text>&#xa;</xsl:text>

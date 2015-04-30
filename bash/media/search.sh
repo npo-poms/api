@@ -16,7 +16,7 @@ fi
 
 
 
-if [[ "$1" != "" &&  ! -e $1 ]] ; then
+if [[ "$1" == "" ||  ! -e $1 ]] ; then
     echo Usage:
     echo "[ENV=<prod|test|dev>] $0 [<json file with search form>]"
     echo "e.g.: "

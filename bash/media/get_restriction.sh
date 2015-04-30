@@ -14,7 +14,12 @@ if [[ "$1" == ""  ]] ; then
     exit
 fi
 
-platform=PLUSVOD
+
+if [[ "$2" == "" ]] ; then
+    platform="PLUSVOD"
+else
+    platform=$2
+fi
 
 
 # find the implementation of the post function in ../api-functions.sh

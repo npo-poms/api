@@ -11,6 +11,7 @@ while read line; do
     apistarttijd=${apiparts[1]:0:19}
     apilastmodified=${apiparts[4]:0:19}
     if [ "$starttijd" != "$apistarttijd" ] ; then
+        echo $apistarttijd
         echo "NOTOK $mid $starttijd != $apistarttijd $apilastmodified"
     else
         echo "OK" $mid $apistarttijd $apilastmodified
