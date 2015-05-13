@@ -8,12 +8,14 @@ if [[ -z "$SOURCE" ]] ; then
 fi
 source $(dirname ${SOURCE[0]})/../api-functions.sh
 
-if [ -z "$2" ] ; then
-    parameters="max=240" # make sure they are ordered!
-else
-    parameters="max=2" # make sure they are ordered!
+
+
+if [ -z "$MAX" ] ; then
+    MAX=240
 fi
 
+
+parameters="max=$MAX" # make sure they are ordered!
 
 
 if [[ "$1" == "" ||  ! -e $1 ]] ; then
