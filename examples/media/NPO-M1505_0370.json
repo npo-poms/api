@@ -1,0 +1,30 @@
+{
+  "searches" : {
+    "broadcasters" : {
+      "match" : "MUST",
+      "value" : "MAX"
+    },
+    "types" : {
+      "match" : "MUST",
+      "value" : "BROADCAST"
+    },
+    "avTypes" : {
+      "match" : "MUST",
+      "value" : "VIDEO"
+    },
+    "descendantOf" : {
+      "match" : "MUST",
+      "value" : "POMS_S_MAX_147988"
+    },
+    "schedule" : {
+      "begin" : 1431682666436
+    },
+    "mediaIds" : {
+      "match" : "MUST",
+      "value" : [ ]
+    }
+  },
+  "sort" : {
+    "sortDate" : "DESC"
+  }
+}
