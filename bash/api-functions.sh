@@ -5,6 +5,12 @@ if [ -z `which gdate` ] ; then
 else
     GDATE=gdate
 fi
+${GDATE} --rfc-822 > /dev/null
+if [ "$?"  != "0" ] ; then
+    echo "${GDATE} does not support --rfc-822 option"
+    exit
+fi
+
 PYTHON=python
 CURL=curl
 CAT=cat
