@@ -1,6 +1,12 @@
 NPO frontend API scripts
 ========================
 
+Credentials
+===========
+In the 'bash' directory you find a file 'creds-example.sh'. Copy this file to
+'bash/creds.sh' (or '../creds.sh'), and edit it, it should contain your
+apiKey and secret.
+
 publish scripts
 ===============
 
@@ -30,7 +36,7 @@ michiel@baleno:~/github/npo-poms/api/bash$ ./media/search.sh ../../examples/medi
 ```
 
 Scripts can also be symlinked, and can be prefixed with the
-environment:
+environment. Here I symlinked 'media/get.sh' to ~/bin/apimedia-get.sh.
 ```bash
 michiel@baleno:~$ ENV=prod ~/bin/apimedia-get.sh POW_00722648 | jsonformat | head -5
 {
