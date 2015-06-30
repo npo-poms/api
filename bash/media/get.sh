@@ -16,3 +16,4 @@ fi
 
 # find the implementation of the post function in ../api-functions.sh
 get "api/media/$1"
+exit $exitcode

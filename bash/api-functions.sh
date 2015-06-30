@@ -34,6 +34,7 @@ fi
 
 trap "exit 1" TERM
 export TOP_PID=$$
+STATUS=1
 
 
 getUrl() {
@@ -203,6 +204,8 @@ get() {
     $CAT $output
     if [ "$status" == "200" ] ; then
         rm $output
+        exitcode=0
+    else
+        exitcode=$status
     fi
-
 }
