@@ -1,16 +1,5 @@
 
 # external program used, make sure they are in your path
-if hash gdate 2>/dev/null ; then
-    GDATE=gdate
-else
-    GDATE=date
-fi
-${GDATE} --rfc-822 > /dev/null
-if [ "$?"  != "0" ] ; then
-    echo "${GDATE} does not support --rfc-822 option"
-    exit
-fi
-
 PYTHON=python
 CURL=curl
 CAT=cat
@@ -100,7 +89,8 @@ post() {
     parameters=$2 # an <param>=<value>[&<param=value]
     datafile=$3   # a file containing the form to post (in json)
 
-    npodate=$($GDATE --rfc-822)
+    # RFC 822 date, but not all implementations of 'date' support the '--rfc-822' option.
+    npodate=$(LANG=C date "+%a, %d %b %Y %H:%M:%S %z")
 
     output=$tempdir/curloutput
     separator="&" # to join the parameters array correctly
@@ -159,7 +149,8 @@ get() {
     call=$1       # e.g. api/pages
     parameters=$2 # an array of <param>=<value>
 
-    npodate=$($GDATE --rfc-822)
+    # RFC 822 date, but not all implementations of 'date' support the '--rfc-822' option.
+    npodate=$(LANG=C date "+%a, %d %b %Y %H:%M:%S %z")
 
     output=$tempdir/curloutput
     separator="&" # to join the parameters array correctly
