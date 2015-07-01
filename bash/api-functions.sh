@@ -1,9 +1,9 @@
 
 # external program used, make sure they are in your path
-if [ -z `which gdate` ] ; then
-    GDATE=date
-else
+if hash gdate 2>/dev/null ; then
     GDATE=gdate
+else
+    GDATE=date
 fi
 ${GDATE} --rfc-822 > /dev/null
 if [ "$?"  != "0" ] ; then
