@@ -1,0 +1,29 @@
+{
+  "searches" : {
+    "broadcasters" : {
+      "match" : "MUST",
+      "value" : "MAX"
+    },
+    "types" : {
+      "match" : "MUST",
+      "value" : [ {
+        "value" : "BROADCAST",
+        "match" : "SHOULD"
+      }, {
+        "value" : "SEGMENT",
+        "match" : "SHOULD"
+      } ]
+    },
+    "avTypes" : {
+      "match" : "MUST",
+      "value" : "VIDEO"
+    },
+    "scheduleEvents" : {
+      "channel" : "NED1",
+      "begin" : 1435733201098
+    }
+  },
+  "sort" : {
+    "sortDate" : "ASC"
+  }
+}
