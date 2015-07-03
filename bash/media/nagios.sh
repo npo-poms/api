@@ -16,7 +16,7 @@ if [[ "$1" == ""  ]] ; then
 fi
 
 
-temp=$(mktemp -t "$0")
+temp=$(mktemp -t XXXXXXX)
 # find the implementation of the post function in ../api-functions.sh
 get "api/media/$1" > $temp
 bytes=$(cat $temp | wc -c)
