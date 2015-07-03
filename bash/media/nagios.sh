@@ -16,11 +16,11 @@ if [[ "$1" == ""  ]] ; then
 fi
 
 
-temp=$(mktemp -t XXXXXXX)
+temp=$tempdir/ngout
 # find the implementation of the post function in ../api-functions.sh
 get "api/media/$1" > $temp
 bytes=$(cat $temp | wc -c)
-rm $temp
+rm -r $tempdir
 if [ "$status" == "200" ] ; then
     end=$(date '+%s')
     diff=$(echo "$end - $start" | bc)
