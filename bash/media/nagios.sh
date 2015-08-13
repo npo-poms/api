@@ -23,7 +23,7 @@ bytes=$(cat $temp | wc -c)
 
 if ! head -c 100 $temp | grep -E -q '^{\"objectType\":\"program|segment|group\".*' ; then
     # See https://jira.vpro.nl/browse/NPA-225
-    echo "NOT OK: HTTP/1.1 $status -  $bytes bytes in $diff seconds response time. Object doesn't have a correct objectType $(head -c 100 $temp)"
+    echo "NOT OK: HTTP/1.1 $status -  $bytes bytes in $diff seconds response time. Object doesn't have a correct objectType $(head -c 100 $temp) ($ENV)"
     exit 2;
 fi
 
@@ -31,9 +31,9 @@ rm -r $tempdir
 if [ "$status" == "200" ] ; then
     end=$(date '+%s')
     diff=$(echo "$end - $start" | bc)
-    echo "OK: HTTP/1.1 $status OK -  $bytes bytes in $diff seconds response time"
+    echo "OK: HTTP/1.1 $status OK -  $bytes bytes in $diff seconds response time ($ENV)"
     exit 0;
 else
-    echo "NOT OK: HTTP/1.1 $status -  $bytes bytes in $diff seconds response time"
+    echo "NOT OK: HTTP/1.1 $status -  $bytes bytes in $diff seconds response time ($ENV)"
     exit 2;
 fi
