@@ -22,7 +22,7 @@ if [[ "$1" == "" ||  ! -e $1 ]] ; then
     echo Usage:
     echo "[ENV=<prod|test|dev>] $0 [<json file with search form>]"
     echo "e.g.: "
-    echo " $0 $(dirname ${SOURCE[0]})/../../schedule/media/example1.json | jsonformat"
+    echo " $0 $(dirname ${SOURCE[0]})/../../examples/media/example1.json | jsonformat"
     exit
 fi
 
