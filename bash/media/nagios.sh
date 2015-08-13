@@ -20,6 +20,13 @@ temp=$tempdir/ngout
 # find the implementation of the post function in ../api-functions.sh
 get "api/media/$1" > $temp
 bytes=$(cat $temp | wc -c)
+
+if ! head -c 100 $temp | grep -E -q '^{\"objectType\":\"program|segment|group\".*' ; then
+    # See https://jira.vpro.nl/browse/NPA-225
+    echo "NOT OK: HTTP/1.1 $status -  $bytes bytes in $diff seconds response time. Object doesn't have a correct objectType $(head -c 100 $temp)"
+    exit 2;
+fi
+
 rm -r $tempdir
 if [ "$status" == "200" ] ; then
     end=$(date '+%s')
