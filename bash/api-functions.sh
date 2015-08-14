@@ -92,7 +92,6 @@ post() {
     call=$1       # e.g. api/pages
     parameters=$2 # an <param>=<value>[&<param=value]
     datafile=$3   # a file containing the form to post (in json or xml)
-    echo $3
 
     # RFC 822 date, but not all implementations of 'date' support the '--rfc-822' option.
     npodate=$(LANG=C date "+%a, %d %b %Y %H:%M:%S %z")

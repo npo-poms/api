@@ -24,4 +24,4 @@ if [ ! -z "$3" ] ; then
 fi
 
 echo "Tempdir $tempdir" 1>&2
-post "api/media/iterate" $parameters $1
+post "api/media/iterate" $parameters ../../examples/media/empty.json
