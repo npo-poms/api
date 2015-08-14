@@ -4,9 +4,6 @@ PYTHON=python
 CURL=curl
 CAT=cat
 
-tempdir=$(mktemp -dt `basename $0.XXX`)
-tempfile=$tempdir/curloutput
-
 thislocation=$(dirname $BASH_SOURCE)
 if [ -e $thislocation/../../creds.sh ]; then
     source $thislocation/../../creds.sh
@@ -25,6 +22,7 @@ if [ "$DEBUG" = 'true' ]  ; then
     # Use DEBUG=true as prefix to toggle this
     set -x
 fi
+
 
 trap "exit 1" TERM
 export TOP_PID=$$
@@ -97,7 +95,6 @@ post() {
     # RFC 822 date, but not all implementations of 'date' support the '--rfc-822' option.
     npodate=$(LANG=C date "+%a, %d %b %Y %H:%M:%S %z")
 
-    output=$tempfile
     separator="&" # to join the parameters array correctly
     header=$(authenticateHeader "$npodate" $call $parameters)
     url=$(getUrl)
@@ -118,17 +115,18 @@ post() {
     #accept="application/xml"
 
 
+    exec 3>&1
     #echo "Writing to $output" 1>&2
     # now we call curl
-    # We let the http_code come on stdout and the output itself is stored to a tempory file (which is afterwards returned with cat).
+    # We let the http_code come on stdout and the output itself is redirected to another stdout (3)
     #
     # We set the headers as specified
-    # and post a file  in json
+    # and post a file  in json/xml
     status=$(\
         $CURL \
         `# these two option just take arrange curl's output as we want it`\
         -sw "%{http_code}"  \
-        --output $output \
+        --output >($CAT >&3) \
         `# authentication related headers` \
         -H "Authorization: $header" \
         -H "X-NPO-Date: $npodate" \
@@ -142,13 +140,12 @@ post() {
           )
 
     if [ "$status" != "200" ] ; then
-        echo "ERROR: $status, $baseUrl$call?${parameters} @$3"  1>&2
-        echo "See $output" 1>&2
+        echo -e "\nERROR: $status, $baseUrl$call?${parameters} @$3"  1>&2
     fi
-    $CAT $output
     if [ "$status" == "200" ] ; then
-        rm $output
+        exitcode=0
     else
+        exitcode=$status
         kill -s TERM $TOP_PID
     fi
 
@@ -163,7 +160,6 @@ get() {
     # RFC 822 date, but not all implementations of 'date' support the '--rfc-822' option.
     npodate=$(LANG=C date "+%a, %d %b %Y %H:%M:%S %z")
 
-    output=$tempfile
     separator="&" # to join the parameters array correctly
     header=$(authenticateHeader "$npodate" $call $parameters)
     url=$(getUrl)
@@ -174,6 +170,7 @@ get() {
     fi
 
 
+    exec 3>&1
     #echo "Writing to $output" 1>&2
     # now we call curl
     # We let the http_code come on stdout and the output itself is stored to a tempory file (which is afterwards returned with cat).
@@ -184,7 +181,7 @@ get() {
         $CURL \
         `# these two option just take arrange curl's output as we want it`\
         -sw "%{http_code}"  \
-        --output $output \
+        --output >($CAT >&3) \
         `# authentication related headers` \
         -H "Authorization: $header" \
         -H "X-NPO-Date: $npodate" \
@@ -197,15 +194,11 @@ get() {
         "$url$call?${parameters}" \
           )
     if [ "$status" == "500" ] ; then
-        echo "ERROR: $status, $baseUrl$call?${parameters} @$3"  1>&2
-        cat $output 1>&2
+        echo -e "\nERROR: $status, $baseUrl$call?${parameters} @$3"  1>&2
     elif [ "$status" != "200" ] ; then
-        echo "ERROR: $status, $baseUrl$call?${parameters} @$3"  1>&2
-        echo "See $output" 1>&2
+        echo -e "\nERROR: $status, $baseUrl$call?${parameters} @$3"  1>&2
     fi
-    $CAT $output
     if [ "$status" == "200" ] ; then
-        rm $output
         exitcode=0
     else
         exitcode=$status

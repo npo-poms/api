@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 #set -x
 
+# example useage:  ENV=prod ./iterate.sh 1000000 woord | tee woord5.json | jsongrep "mediaobjects.*.mid"
+
 SOURCE=$(readlink  $BASH_SOURCE)
 if [[ -z "$SOURCE" ]] ; then
     SOURCE=$BASH_SOURCE
@@ -23,5 +25,4 @@ if [ ! -z "$3" ] ; then
     parameters="max=$1&offset=$3&profile=$2"
 fi
 
-echo "Tempdir $tempdir" 1>&2
 post "api/media/iterate" $parameters ../../examples/media/empty.json
