@@ -28,3 +28,5 @@ if [[ "$2" == "" ]] ; then
 else
     post "api/media/$1/related" $parameters $2
 fi
+
+#dumpHeaders 1>&2

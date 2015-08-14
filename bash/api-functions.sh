@@ -27,6 +27,7 @@ fi
 trap "exit 1" TERM
 export TOP_PID=$$
 status=""
+headersandstatus=()
 
 
 getUrl() {
@@ -87,6 +88,12 @@ scorefilter() {
     fi
 }
 
+dumpHeaders() {
+    for head in "${headersandstatus[@]}" ; do
+        echo $head
+    done
+}
+
 post() {
     call=$1       # e.g. api/pages
     parameters=$2 # an <param>=<value>[&<param=value]
@@ -122,10 +129,12 @@ post() {
     #
     # We set the headers as specified
     # and post a file  in json/xml
-    status=$(\
-        $CURL \
+    IFS=$'\n'
+    headersandstatus=($(\
+        $CURL -s \
         `# these two option just take arrange curl's output as we want it`\
-        -sw "%{http_code}"  \
+        -w "%{http_code}"  \
+        --dump-header - \
         --output >($CAT >&3) \
         `# authentication related headers` \
         -H "Authorization: $header" \
@@ -137,10 +146,10 @@ post() {
         -X POST --data \@$datafile  \
         \
         "$url$call?${parameters}" \
-          )
-
+          ))
+    status=${headersandstatus[@]:(-1)}
     if [ "$status" != "200" ] ; then
-        echo -e "\nERROR: $status, $baseUrl$call?${parameters} @$3"  1>&2
+        echo -e "\nERROR: ${headersandstatus[@]}, $baseUrl$call?${parameters} @$3"  1>&2
     fi
     if [ "$status" == "200" ] ; then
         exitcode=0
@@ -177,11 +186,13 @@ get() {
     #
     # We set the headers as specified
     # and post a file  in json
-    status=$(\
-        $CURL \
-        `# these two option just take arrange curl's output as we want it`\
-        -sw "%{http_code}"  \
+    IFS=$'\n'
+    headersandstatus=($(\
+        $CURL -s \
+            `# these two option just take arrange curl's output as we want it`\
+        -w "%{http_code}"  \
         --output >($CAT >&3) \
+        --dump-header - \
         `# authentication related headers` \
         -H "Authorization: $header" \
         -H "X-NPO-Date: $npodate" \
@@ -192,11 +203,10 @@ get() {
         -X GET  \
         \
         "$url$call?${parameters}" \
-          )
-    if [ "$status" == "500" ] ; then
-        echo -e "\nERROR: $status, $baseUrl$call?${parameters} @$3"  1>&2
-    elif [ "$status" != "200" ] ; then
-        echo -e "\nERROR: $status, $baseUrl$call?${parameters} @$3"  1>&2
+                    ))
+    status=${headersandstatus[@]:(-1)}
+    if [ "$status" != "200" ] ; then
+        echo -e "\nERROR: ${headersandstatus[@]}, $baseUrl$call?${parameters} @$3"  1>&2
     fi
     if [ "$status" == "200" ] ; then
         exitcode=0
