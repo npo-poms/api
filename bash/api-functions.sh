@@ -5,6 +5,7 @@ CURL=curl
 CAT=cat
 
 tempdir=$(mktemp -dt `basename $0.XXX`)
+tempfile=$tempdir/curloutput
 
 thislocation=$(dirname $BASH_SOURCE)
 if [ -e $thislocation/../../creds.sh ]; then
@@ -96,7 +97,7 @@ post() {
     # RFC 822 date, but not all implementations of 'date' support the '--rfc-822' option.
     npodate=$(LANG=C date "+%a, %d %b %Y %H:%M:%S %z")
 
-    output=$tempdir/curloutput
+    output=$tempfile
     separator="&" # to join the parameters array correctly
     header=$(authenticateHeader "$npodate" $call $parameters)
     url=$(getUrl)
@@ -162,7 +163,7 @@ get() {
     # RFC 822 date, but not all implementations of 'date' support the '--rfc-822' option.
     npodate=$(LANG=C date "+%a, %d %b %Y %H:%M:%S %z")
 
-    output=$tempdir/curloutput
+    output=$tempfile
     separator="&" # to join the parameters array correctly
     header=$(authenticateHeader "$npodate" $call $parameters)
     url=$(getUrl)
