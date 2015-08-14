@@ -19,5 +19,9 @@ if [ ! -z "$2" ] ; then
     parameters="$parameters&profile=$2"
 fi
 
+if [ ! -z "$3" ] ; then
+    parameters="max=$1&offset=$3&profile=$2"
+fi
+
 echo "Tempdir $tempdir" 1>&2
 post "api/media/iterate" $parameters $1

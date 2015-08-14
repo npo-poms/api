@@ -13,8 +13,12 @@ else
     source $thislocation/creds.sh
 fi
 
+if [ -z "$localhost" ] ; then
+    localhost="http://localhost:8070/v1/"
+fi
 
-environments=("prod=http://rs.poms.omroep.nl/v1/" "test=http://rs-test.poms.omroep.nl/v1/" "dev=http://rs-dev.poms.omroep.nl/v1/" "localhost=http://localhost:8070/v1/")
+
+environments=("prod=http://rs.poms.omroep.nl/v1/" "test=http://rs-test.poms.omroep.nl/v1/" "dev=http://rs-dev.poms.omroep.nl/v1/" "localhost=$localhost")
 
 if [ "$DEBUG" = 'true' ]  ; then
     # Use DEBUG=true as prefix to toggle this
@@ -23,7 +27,7 @@ fi
 
 trap "exit 1" TERM
 export TOP_PID=$$
-STATUS=1
+status=""
 
 
 getUrl() {
@@ -87,7 +91,8 @@ scorefilter() {
 post() {
     call=$1       # e.g. api/pages
     parameters=$2 # an <param>=<value>[&<param=value]
-    datafile=$3   # a file containing the form to post (in json)
+    datafile=$3   # a file containing the form to post (in json or xml)
+    echo $3
 
     # RFC 822 date, but not all implementations of 'date' support the '--rfc-822' option.
     npodate=$(LANG=C date "+%a, %d %b %Y %H:%M:%S %z")
@@ -96,6 +101,12 @@ post() {
     separator="&" # to join the parameters array correctly
     header=$(authenticateHeader "$npodate" $call $parameters)
     url=$(getUrl)
+
+
+    if [[ ! -e $datafile ]] ; then
+        echo "The file $datafile does not exist"
+        exit 1
+    fi
 
     if [ ${datafile%.xml} != $datafile ] ; then
         accept="application/xml"
