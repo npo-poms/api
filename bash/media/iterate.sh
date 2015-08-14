@@ -26,3 +26,5 @@ if [ ! -z "$3" ] ; then
 fi
 
 post "api/media/iterate" $parameters ../../examples/media/empty.json
+
+dumpHeaders 1>&2
