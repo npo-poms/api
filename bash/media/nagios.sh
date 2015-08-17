@@ -15,7 +15,7 @@ if [[ "$1" == ""  ]] ; then
     exit
 fi
 
-
+tempdir=$(mktemp -dt `basename $0.XXX`)
 temp=$tempdir/ngout
 # find the implementation of the post function in ../api-functions.sh
 get "api/media/$1" > $temp
