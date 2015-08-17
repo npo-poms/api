@@ -3,7 +3,7 @@ SHELL := /bin/bash
 ITERATE=../../iterate.sh
 
 .PHONY: all
-.PRECIOUS: *.localhost.txt *.prod.txt
+.PRECIOUS: %.localhost.txt %.prod.txt
 
 all: vpro.diff npodoc.diff
 	wc -l vpro.* npodoc.*
@@ -22,4 +22,4 @@ all: vpro.diff npodoc.diff
 	grep -E  '^$$' -A 2 $<   | grep -v -E "^$$" | grep -v -E "^--$$" | grep -v -E "^(program|segment|group)$$" | sort -u > $@
 
 %.diff: %.prod.mids.txt %.localhost.mids.txt
-	diff --new-line-format="" --unchanged-line-format=""  $*.prod.mids.txt $*.localhost.mids.txt   > $@
+	diff --new-line-format="" --unchanged-line-format=""  $*.prod.mids.txt $*.localhost.mids.txt   2>/dev/null > $@
