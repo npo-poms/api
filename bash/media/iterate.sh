@@ -9,11 +9,23 @@ if [[ -z "$SOURCE" ]] ; then
 fi
 source $(dirname ${SOURCE[0]})/../api-functions.sh
 
+function useage() {
+    echo Usage:
+    echo "[ENV=<prod|test|dev>] $0 [<max number of results> [<profile>]"
+    echo "e.g.: "
+    echo " $0  100000000 vpro | jsongrep -output FULLVALUE -recordsep $'\n\n' -record items.*.result items.*.result.mid,items.*.result.objectType,items.*.result.locations.*.programUrl,items.*.result.locations.*.platform | tee /tmp/vpro.txt"
+    exit
+}
+
 
 if [ -z "$1" ] ; then
-    parameters=""
+    parameters="max=100"
 else
-    parameters="max=$1"
+    if [[ $1 =~ ^-?[0-9]+$ ]] ; then
+        parameters="max=$1"
+    else
+        useage
+    fi
 fi
 
 
