@@ -25,6 +25,6 @@ if [ ! -z "$3" ] ; then
     parameters="max=$1&offset=$3&profile=$2"
 fi
 
-post "api/media/iterate" $parameters ../../examples/media/empty.json
+post "api/media/iterate" $parameters $(dirname ${SOURCE[0]})/../../examples/media/empty.json
 
 dumpHeaders 1>&2
