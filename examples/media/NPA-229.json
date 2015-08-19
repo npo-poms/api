@@ -1,0 +1,14 @@
+{
+    "facets":{
+        "relations":[
+            {
+                "name":"Eerste componist",
+                "sort":"VALUE_ASC",
+                "subSearch": {
+                    "types":"NZ_PRIMARY_COMPOSER",
+                    "broadcasters":"EO"
+                }
+            }
+        ]
+    }
+}
