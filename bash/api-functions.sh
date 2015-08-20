@@ -3,7 +3,7 @@
 PYTHON=python
 CURL=curl
 CAT=cat
-
+tempdir=$(mktemp -dt `basename $0.XXX`)
 thislocation=$(dirname $BASH_SOURCE)
 if [ -e $thislocation/../../creds.sh ]; then
     source $thislocation/../../creds.sh
@@ -108,7 +108,7 @@ post() {
 
 
     if [[ ! -e $datafile ]] ; then
-        echo "The file $datafile does not exist"
+        echo "The data file '$datafile' does not exist"
         exit 1
     fi
 
@@ -120,6 +120,9 @@ post() {
         contentType="application/json"
     fi
     #accept="application/xml"
+    if [ ! -z "$CONTENT_TYPE" ] ; then
+        accept="$CONTENT_TYPE"
+    fi
 
 
     exec 3>&1
