@@ -7,7 +7,7 @@ source $(dirname ${SOURCE[0]})/../api-functions.sh
 
 
 if [ -z "$MAX" ] ; then
-    MAX=500
+    MAX=240
 fi
 
 parameters="max=$MAX&profile=$2" # make sure they are ordered!
@@ -23,11 +23,13 @@ if [[ "$1" == ""  ]] ; then
     exit
 fi
 
+file=$tempdir/searchtext.xml
 
-xsltproc  --stringparam text "$1" $(dirname ${SOURCE[0]})/set_text.xslt $(dirname ${SOURCE[0]})/../../examples/pages/textSearch.xml > /tmp/search.xml
+xsltproc  --stringparam text "$1" $(dirname ${SOURCE[0]})/set_text.xslt $(dirname ${SOURCE[0]})/../../examples/pages/textSearch.xml > $file
 
-cat /tmp/search.xml
+if [ -z "$CONTENT_TYPE" ] ; then
+    CONTENT_TYPE=application/json
+fi
 
-exit
 
-post "api/pages" $parameters /tmp/search.xml
+post "api/pages" $parameters $file

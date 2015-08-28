@@ -28,6 +28,8 @@ file=$tempdir/search-mid.xml
 
 xsltproc  --stringparam text "$1" $(dirname ${SOURCE[0]})/set_mid.xslt $(dirname ${SOURCE[0]})/../../examples/pages/mediaIdSearch.xml > $file
 
+if [ -z "$CONTENT_TYPE" ] ; then
+    CONTENT_TYPE=application/json
+fi
 
-
-CONTENT_TYPE=application/json post "api/pages" $parameters $file
+post "api/pages" $parameters $file
