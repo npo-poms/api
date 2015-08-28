@@ -23,4 +23,11 @@ fi
 
 
 echo $1 $field
-get "api/media/$1" | jsongrep -output VALUE $field  | $(dirname ${SOURCE[0]})/../../perl/ts
+value=$(get "api/media/$1" | jsongrep -output VALUE $field)
+
+if [[ -z $value ]] ; then
+    echo "Field '$field' not found. Known fields are"
+    get "api/media/$1" | jsongrep -output PATH '*'
+else
+    $(dirname ${SOURCE[0]})/../../perl/ts $value
+fi
