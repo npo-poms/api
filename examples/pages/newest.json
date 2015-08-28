@@ -1,0 +1,10 @@
+{
+    "sort" : {
+        "lastModified": "DESC"
+    },
+
+    "searches": {
+        /*"types": "VIDEO"*/
+    }
+
+}
