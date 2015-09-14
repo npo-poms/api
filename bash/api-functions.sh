@@ -16,7 +16,7 @@ if [ -z "$localhost" ] ; then
 fi
 
 
-environments=("prod=http://rs.poms.omroep.nl/v1/" "test=http://rs-test.poms.omroep.nl/v1/" "dev=http://rs-dev.poms.omroep.nl/v1/" "localhost=$localhost")
+environments=("prod=https://rs.poms.omroep.nl/v1/" "test=http://rs-test.poms.omroep.nl/v1/" "dev=http://rs-dev.poms.omroep.nl/v1/" "localhost=$localhost")
 
 if [ "$DEBUG" = 'true' ]  ; then
     # Use DEBUG=true as prefix to toggle this
