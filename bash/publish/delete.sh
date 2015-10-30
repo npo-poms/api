@@ -6,7 +6,7 @@ fi
 
 source $(dirname ${BASH_SOURCE[0]})/functions.sh
 
-target=$(getUrl)/pages/updates/$(rawurlencode "$1" )
+target=$(getUrl)/pages/updates?url=$(rawurlencode "$1" )
 
 echo $target >&2
 

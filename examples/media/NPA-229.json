@@ -1,4 +1,13 @@
 {
+    "searches": {
+        "relations":[
+            {
+                "broadcasters": "EO",
+                "types": "NZ_PRIMARY_COMPOSER",
+                "values": "C. Hubert"
+            }
+        ]
+    },
     "facets":{
         "relations":[
             {

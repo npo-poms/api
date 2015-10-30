@@ -4,6 +4,6 @@
         "types":{}
     },
     "searches": {
-
+        "types": "PLAYER"
     }
 }

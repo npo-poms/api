@@ -6,7 +6,7 @@ fi
 
 source $(dirname ${SOURCE[0]})/functions.sh
 
-
+#set -x
 
 deleteIfNotInCouchdb() {
     url=$(rawurlencode $1)
@@ -14,10 +14,10 @@ deleteIfNotInCouchdb() {
     targetes=$(getEsUrl)/apipages/page/$url
     status=`curl -s --insecure  -w %{http_code}   -X HEAD  ${targetcouchdb}`
     if [ "$status" = "404" ] ;then
-        echo "Need to delete $1 ($targetes)"
-        curl -i -s --insecure  -X DELETE   $targetes
+        echo;echo "Need to delete $1 ($targetes)"
+        curl -i  --insecure  -X DELETE   $targetes
     else
-        echo "$targetcouchdb is OK ($status)"
+        echo "$1 ($targetcouchdb) is OK ($status)"
     fi
 }
 

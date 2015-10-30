@@ -14,4 +14,4 @@ if [[ "$1" == "" ]] ; then
 fi
 
 # find the implementation of the get function in ../api-functions.sh
-get "api/multiple" "ids=$1"
+get "api/pages/multiple" "ids=$1"

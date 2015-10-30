@@ -7,7 +7,7 @@
             "sort" : "COUNT_DESC",
             "max" : 100,
             "filter": {
-                "durations": [{"value": "3.0.1.7.21", "match": "NOT"}]
+                "durations": []
             }
 
         }

@@ -1,0 +1,10 @@
+{
+  "searches" : {
+    "text" : "test"
+  },
+  "facets" : {
+    "genres" : {
+      "sort" : "COUNT"
+    }
+  }
+}

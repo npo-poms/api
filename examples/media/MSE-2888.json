@@ -1,0 +1,58 @@
+{
+  "searches" : {
+    "text" : {
+      "value" : ""
+    },
+    "relations" : [ {
+      "types" : "NZ_RECORDING_DATE"
+    } ]
+  },
+  "sort" : {
+     /*"sortDate" : "DESC"*/
+  },
+    "facets" : {
+    "relations" : [ {
+      "name" : "Bundel",
+      "sort" : "VALUE_ASC",
+      "subSearch" : {
+        "types" : "NZ_BUNDLE",
+        "broadcasters" : "EO"
+      }
+    }, {
+      "name" : "Taal",
+      "sort" : "VALUE_ASC",
+      "subSearch" : {
+        "types" : "NZ_LANGUAGE",
+        "broadcasters" : "EO"
+      }
+    }, {
+      "name" : "Eerste_componist",
+      "sort" : "VALUE_ASC",
+      "subSearch" : {
+        "types" : "NZ_PRIMARY_COMPOSER",
+        "broadcasters" : "EO"
+      }
+    }, {
+      "name" : "Dirigent",
+      "sort" : "VALUE_ASC",
+      "subSearch" : {
+        "types" : "NZ_CONDUCTOR",
+        "broadcasters" : "EO"
+      }
+    }, {
+      "name" : "Kerk",
+      "sort" : "VALUE_ASC",
+      "subSearch" : {
+        "types" : "NZ_CHURCH",
+        "broadcasters" : "EO"
+      }
+    }, {
+      "name" : "Plaats",
+      "sort" : "VALUE_ASC",
+      "subSearch" : {
+        "types" : "NZ_CITY",
+        "broadcasters" : "EO"
+      }
+    } ]
+  }
+}
