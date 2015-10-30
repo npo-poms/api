@@ -97,7 +97,7 @@ dumpHeaders() {
 post() {
     call=$1       # e.g. api/pages
     parameters=$2 # an <param>=<value>[&<param=value]
-    datafile=$3   # a file containing the form to post (in json or xml)
+    data=$3   # a file containing the form to post (in json or xml)
 
     # RFC 822 date, but not all implementations of 'date' support the '--rfc-822' option.
     npodate=$(LANG=C date "+%a, %d %b %Y %H:%M:%S %z")
@@ -107,23 +107,25 @@ post() {
     url=$(getUrl)
 
 
-    if [[ ! -e $datafile ]] ; then
-        echo "The data file '$datafile' does not exist"
-        exit 1
-    fi
-
-    if [ ${datafile%.xml} != $datafile ] ; then
-        accept="application/xml"
-        contentType="application/xml"
-    else
+    if [[ ! -e $data ]] ; then
+        echo -e "The data file does not exist, considering it a json string" 1>&2
+        datareference=$data
         accept="application/json"
         contentType="application/json"
+    else
+        datareference=\@$data
+        if [ ${data%.xml} != $data ] ; then
+            accept="application/xml"
+            contentType="application/xml"
+        else
+            accept="application/json"
+            contentType="application/json"
+        fi
     fi
     #accept="application/xml"
     if [ ! -z "$CONTENT_TYPE" ] ; then
         accept="$CONTENT_TYPE"
     fi
-
 
     exec 3>&1
     #echo "Writing to $output" 1>&2
@@ -146,7 +148,7 @@ post() {
         `# post file in json` \
         -H "Content-Type: $contentType" \
         -H "Accept: $accept" \
-        -X POST --data \@$datafile  \
+        -X POST --data "$datareference"  \
         \
         "$url$call?${parameters}" \
           ))
