@@ -65,7 +65,7 @@ class NpoApi:
         return self
 
     def authenticate(self, uri=None, now=utils.formatdate()):
-        message = "origin:" + self.origin + ",x-npo-date:" + now + ",uri:/v1" + uri
+        message = "origin:" + self.origin + ",x-npo-date:" + now + ",uri:/v1" + urllib.request.unquote(uri)
         logging.debug("message:" + message)
         encoded = base64.b64encode(
             hmac.new(self.secret.encode('utf-8'), msg=message.encode('utf-8'), digestmod=hashlib.sha256).digest())
@@ -121,7 +121,7 @@ class NpoApi:
 
 class Media(NpoApi):
     def get(self, mid):
-        return self.http_get("/api/media/" + mid)
+        return self.http_get("/api/media/" + urllib.request.quote(mid))
 
     def list(self):
         return self.http_get("/api/media")
@@ -160,6 +160,12 @@ class MediaTests(unittest.TestCase):
         client = Media().configured_login().env(ENV)
         result = json.JSONDecoder().decode(client.get("AVRO_1656037"))
         self.assertEqual(result["mid"], "AVRO_1656037")
+
+    def test_get_quote(self):
+        client = Media().configured_login().env(ENV)
+        result = json.JSONDecoder().decode(client.get(" Avro_1260864"))
+        self.assertEqual(result["mid"], " Avro_1260864")
+
 
     def test_list(self):
         client = Media().configured_login().env(ENV)
