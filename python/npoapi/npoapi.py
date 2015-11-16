@@ -25,7 +25,7 @@ class NpoApi:
         elif e == "test":
             self.url = "https://rs-test.poms.omroep.nl/v1"
         elif e == "dev":
-            self.url = "http://rs-dev.poms.omroep.nl/v1"
+            self.url = "https://rs-dev.poms.omroep.nl/v1"
         elif e == "localhost":
             self.url = "http://localhost:8070/v1"
         else:
@@ -183,9 +183,3 @@ class ScreenTests(unittest.TestCase):
         client = Screens().configured_login().env(ENV)
         result = json.JSONDecoder().decode(client.list(offset=3))
         self.assertEqual(result["offset"], 3)
-
-
-
-
-
-
