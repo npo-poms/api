@@ -18,7 +18,7 @@ fi
 if [ -z "$4" ] ; then
     order=ASC
 else
-    order=DESC
+    order=$4
 fi
 
 if [ -z "$3" ] ; then
