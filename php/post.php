@@ -10,7 +10,6 @@ $request = new Ntr\PomsBundle\Poms\Request(array(
 
 $file = $argv[1];
 $body = file_get_contents($file);
-echo $body;
 $result = $request->setOperation('media')->setBody($body, False)->addParameter("offset", 0)->addParameter("max", 10)->post();
 echo json_encode($result);
 ?>
