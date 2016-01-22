@@ -215,8 +215,9 @@ class Request {
 	 * @param array $body
 	 * @return \Ntr\PomsBundle\Poms\Request
 	 */
-	public function setBody($body) {
+	public function setBody($body, $needs_encoding = True) {
 		$this->body = $body;
+        $this->needs_encoding = $needs_encoding;
 		return $this;
 	}
 
@@ -324,7 +325,12 @@ class Request {
 		if ($post) {
 			$body = $this->getBody();
 			if ($body) {
-				curl_setopt($ch,CURLOPT_POSTFIELDS, json_encode($body));
+                if ($this->needs_encoding) {
+                    $encoded = json_encode($body);
+                } else {
+                    $encoded = $body;
+                }
+				curl_setopt($ch, CURLOPT_POSTFIELDS, $encoded);
 			}
 		}
 
