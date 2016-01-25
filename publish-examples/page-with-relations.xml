@@ -1,0 +1,6 @@
+<page type="AUDIO" url="http://test.vpro.nl/movie/1235"  xmlns="urn:vpro:pages:update:2013">
+  <crid>crid://cinema.movie/1235</crid>
+  <broadcaster>VPRO</broadcaster>
+  <title>Pulp Fiction</title>
+  <relation type="CINEMA_DIRECTOR" broadcaster="VPRO">Quintin Tarentino</relation>
+</page>
