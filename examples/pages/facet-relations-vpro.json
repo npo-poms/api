@@ -1,0 +1,38 @@
+{
+    "facets": {
+       "relations": [
+           {
+               "name": "directors",
+               "sort": "COUNT_DESC",
+               "subSearch": {
+                   "broadcasters": "VPRO",
+                   "types": "CINEMA_DIRECTOR"
+
+               },
+               "filter": {
+                   "relations":
+                   [ {
+                       "match": "MUST",
+                       "broadcasters": "VPRO",
+                       "types": "CINEMA_DIRECTOR"
+                   }
+                   ]
+               }
+
+
+           }
+
+       ]
+    },
+    "searches": {
+        "relations": [
+            {
+                "match": "MUST",
+                "broadcasters": "VPRO",
+                "types": "CINEMA_DIRECTOR"
+
+            }
+
+        ]
+    }
+}
