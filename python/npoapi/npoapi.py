@@ -5,14 +5,11 @@ from email import utils
 import urllib.request
 import logging
 import json
-import xml.etree.ElementTree
-
 
 class NpoApi:
     def __init__(self, key=None, secret=None, url="https://api.poms.omroep.nl/v1", origin=None, email=None):
         self.key, self.secret, self.url, self.origin, self.errors \
             = key, secret, url, origin, email
-
 
     def login(self, key, secret):
         self.key = key
@@ -32,12 +29,28 @@ class NpoApi:
             self.url = e
         return self
 
-    def configured_login(self):
+    def read_environmental_variables(self):
+        import os
+        import logging
+        if 'ENV' in os.environ:
+            self.env(os.environ['ENV'])
+        else:
+            self.env('test')
+
+        if 'DEBUG' in os.environ and os.environ['DEBUG'] == 'true':
+            logging.basicConfig(level=logging.DEBUG)
+        return self
+
+
+
+    def configured_login(self, read_environment = False):
         """
         Logs in using configuration file. Considered using json (no comments-> unusable) or configparser (nearly properties, but heading are required..)
         So, now it simply parses the file itself.
         """
         import os
+        if read_environment:
+            self.read_environmental_variables()
 
         config_files = [
             os.path.join(os.path.expanduser("~"), "conf", "creds.properties"),
@@ -119,22 +132,6 @@ class NpoApi:
         return urllib.request.urlopen(req).read().decode('utf-8')
 
 
-class Media(NpoApi):
-    def get(self, mid):
-        return self.http_get("/api/media/" + urllib.request.quote(mid))
-
-    def list(self):
-        return self.http_get("/api/media")
-
-    def search(self, form="{}", sort="asc", offset=0, max_=240):
-        return self.http_get("/api/media", data=form, params={"sort": sort, "offset": offset, "max": max_})
-
-
-class Pages(NpoApi):
-    def get(self, url):
-        return self.http_get("/api/page/" + url)
-
-
 class Screens(NpoApi):
     def list(self, sort="asc", offset=0, max_=240):
         return self.http_get("/api/screens", params={"sort": sort, "offset": offset, "max": max_})
@@ -152,34 +149,3 @@ class Tests(unittest.TestCase):
             .login(key="a", secret="b")
         self.assertEqual("NPO a:CtHYR9a+nr17OIn5rYml6a+A9ujqe0IywWqr93/DAOk=",
                          client.authenticate(uri="/media", now="Fri, 30 Oct 2015 08:43:31 -0000")[0])
-
-
-class MediaTests(unittest.TestCase):
-
-    def test_get(self):
-        client = Media().configured_login().env(ENV)
-        result = json.JSONDecoder().decode(client.get("AVRO_1656037"))
-        self.assertEqual(result["mid"], "AVRO_1656037")
-
-    def test_get_quote(self):
-        client = Media().configured_login().env(ENV)
-        result = json.JSONDecoder().decode(client.get(" Avro_1260864"))
-        self.assertEqual(result["mid"], " Avro_1260864")
-
-
-    def test_list(self):
-        client = Media().configured_login().env(ENV)
-        result = json.JSONDecoder().decode(client.list())
-        print(result)
-
-    def test_search(self):
-        client = Media().configured_login().env(ENV)
-        result = json.JSONDecoder().decode(client.search("{}"))
-        print(result)
-
-
-class ScreenTests(unittest.TestCase):
-    def test_screens(self):
-        client = Screens().configured_login().env(ENV)
-        result = json.JSONDecoder().decode(client.list(offset=3))
-        self.assertEqual(result["offset"], 3)
