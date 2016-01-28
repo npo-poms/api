@@ -3,7 +3,7 @@ from distutils.core import setup
 
 setup(
     name='NPO API',
-    version='0.2dev',
-    packages=['.', ],
+    version='0.3dev',
+    packages=['npoapi', ],
     long_description=open('README.txt').read(),
 )

@@ -1,5 +1,5 @@
-__author__ = 'michiel'
+__author__ = 'mihxil'
+__name__ = 'npoapi'
+__package__ = 'npoapi'
 
-from .media import Media
-from .pages import Pages
-from .screens import Screens
+

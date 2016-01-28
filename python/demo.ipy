@@ -1,32 +1,12 @@
+#!/usr/bin/env ipython3
 """
 
 """
-from __future__ import print_function
+from npoapi import Media
 
+#env = input("environment")
+client = Media().configured_login().env("dev")
 
-print('Enter your NPO api key')
-# <demo> --- stop ---
-
-x = 1
-y = 2
-
-# <demo> --- stop ---
-
-# the mark below makes this block as silent
-# <demo> silent
-
-print('This is a silent block, which gets executed but not printed.')
-
-# <demo> --- stop ---
-# <demo> auto
-print('This is an automatic block.')
-print('It is executed without asking for confirmation, but printed.')
-z = x + y
-
-print('z=', x)
-
-# <demo> --- stop ---
-# This is just another normal block.
-print('z is now:', z)
-
-print('bye!')
+mid = "POMS_NTR_388772"
+input("MID? ")
+print(client.get(mid))

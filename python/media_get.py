@@ -2,7 +2,7 @@
 """
 
 """
-from npoapi import Media
+from npoapi.npoapi import Media
 import sys
 
 

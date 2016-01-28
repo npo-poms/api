@@ -1,5 +1,3 @@
-__author__ = 'michiel'
-
 import hmac, hashlib, base64
 from email import utils
 import urllib.request
@@ -29,19 +27,23 @@ class NpoApi:
             self.url = e
         return self
 
+    def debug(self):
+        import logging
+        logging.basicConfig(level=logging.DEBUG)
+        return self
+
     def read_environmental_variables(self):
         import os
-        import logging
+
         if 'ENV' in os.environ:
             self.env(os.environ['ENV'])
         else:
             self.env('test')
 
         if 'DEBUG' in os.environ and os.environ['DEBUG'] == 'true':
-            logging.basicConfig(level=logging.DEBUG)
+            self.debug()
+
         return self
-
-
 
     def configured_login(self, read_environment = False):
         """
@@ -132,20 +134,23 @@ class NpoApi:
         return urllib.request.urlopen(req).read().decode('utf-8')
 
 
+class Media(NpoApi):
+    def get(self, mid):
+        return self.http_get("/api/media/" + urllib.request.quote(mid))
+
+    def list(self):
+        return self.http_get("/api/media")
+
+    def search(self, form="{}", sort="asc", offset=0, max_=240):
+        return self.http_get("/api/media", data=form, params={"sort": sort, "offset": offset, "max": max_})
+
+
+class Pages(NpoApi):
+    def get(self, url):
+        return self.http_get("/api/page/" + url)
+
+
 class Screens(NpoApi):
     def list(self, sort="asc", offset=0, max_=240):
         return self.http_get("/api/screens", params={"sort": sort, "offset": offset, "max": max_})
 
-
-import unittest
-
-ENV = "dev"
-
-
-class Tests(unittest.TestCase):
-
-    def test_authentication(self):
-        client = NpoApi(origin="http://www.vpro.nl") \
-            .login(key="a", secret="b")
-        self.assertEqual("NPO a:CtHYR9a+nr17OIn5rYml6a+A9ujqe0IywWqr93/DAOk=",
-                         client.authenticate(uri="/media", now="Fri, 30 Oct 2015 08:43:31 -0000")[0])
