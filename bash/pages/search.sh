@@ -7,7 +7,7 @@ source $(dirname ${SOURCE[0]})/../api-functions.sh
 
 
 if [ -z "$MAX" ] ; then
-    MAX=500
+    MAX=240
 fi
 
 parameters="max=$MAX&profile=$2" # make sure they are ordered!
