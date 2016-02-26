@@ -1,13 +1,7 @@
 {
     "facets": {
         "tags": {
-            "filter": {
-                "tags": [ {
-                    "matchType": "WILDCARD",
-                    "match": "MUST",
-                    "value": "Lief*"
-                }]
-            },
+            "include": "Lief.*", /* Limit the return tags to those matching this regex */
             "max": 10000
         }
     },
