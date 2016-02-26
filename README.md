@@ -1,6 +1,13 @@
 NPO frontend API scripts
 ========================
 
+PYTHON
+======
+
+
+BASH
+====
+
 Credentials
 ===========
 In the 'bash' directory you find a file 'creds-example.sh'. Copy this file to
