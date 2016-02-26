@@ -1,0 +1,22 @@
+{
+    "facets": {
+        "tags": {
+            "filter": {
+                "tags": [ {
+                    "matchType": "WILDCARD",
+                    "match": "MUST",
+                    "value": "Lief*"
+                }]
+            },
+            "max": 10000
+        }
+    },
+    "searches": {
+        "tags": [{
+            "matchType": "WILDCARD",
+            "match": "SHOULD",
+            "value": "Lief*"
+        }]
+
+    }
+}
