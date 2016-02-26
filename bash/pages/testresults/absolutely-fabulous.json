@@ -1,7 +1,7 @@
 {
   "facets" : { },
   "selectedFacets" : { },
-  "total" : 4,
+  "total" : 45,
   "offset" : 0,
   "max" : 2,
   "items" : [ {
@@ -9,7 +9,7 @@
     "result" : {
       "objectType" : "page",
       "type" : "HOME",
-      "url" : "http://www-test.vpro.nl/kijk/absolutely-fabulous.html",
+      "url" : "http://www-acc.vpro.nl/programmas/absolutely-fabulous.html",
       "sortDate" : 1365778484687,
       "crids" : [ "crid://vpro/website/b40d3431-4a11-41be-9f1d-f847cc410569" ],
       "broadcasters" : [ {
@@ -18,7 +18,7 @@
       } ],
       "portal" : {
         "id" : "VPRONL",
-        "url" : "http://www-test.vpro.nl",
+        "url" : "http://www-acc.vpro.nl",
         "value" : "VPRO.nl"
       },
       "title" : "absolutely fabulous",
@@ -27,9 +27,12 @@
         "media" : {
           "objectType" : "group",
           "mid" : "POW_00047000",
+          "type" : "SEASON",
+          "avType" : "VIDEO",
+          "workflow" : "PUBLISHED",
+          "sortDate" : 1366060200000,
           "creationDate" : 1357883451057,
           "lastModified" : 1365023340838,
-          "sortDate" : 1366060200000,
           "urn" : "urn:vpro:media:group:17662479",
           "embeddable" : true,
           "broadcasters" : [ {
@@ -96,175 +99,49 @@
             "workflow" : "PUBLISHED",
             "urn" : "urn:vpro:media:image:22549841"
           } ],
-          "workflow" : "PUBLISHED",
-          "type" : "SEASON",
-          "isOrdered" : true,
-          "avType" : "VIDEO"
+          "isOrdered" : true
         }
       } ],
+      "images" : [ {
+        "type" : "PICTURE",
+        "url" : "http://images.poms.omroep.nl/image/s360/144540.jpg",
+        "title" : "Absolutely Fabulous",
+        "description" : "Absolutely Fabulous"
+      } ],
       "publishStart" : 1365778484687,
-      "creationDate" : 1412266695873,
-      "lastModified" : 1422550065443,
+      "creationDate" : 1426250499550,
+      "lastModified" : 1426254261613,
       "refCount" : 0
     }
   }, {
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",
-      "type" : "AUDIO",
-      "url" : "http://woord-sample.localhost/luister.POMS_NTR_423801.html",
-      "sortDate" : 1386007200000,
-      "crids" : [ "crid://vpro/media/woord/POMS_NTR_423801" ],
+      "type" : "ARTICLE",
+      "url" : "http://www-acc.vpro.nl/zomergasten/achtergronden-fragmenten-2011/absolutely-fabulous.html",
+      "sortDate" : 1371802407772,
+      "crids" : [ "crid://vpro/website/58f073ee-9245-45ed-8b5b-6f8cb942f0d9" ],
       "broadcasters" : [ {
-        "id" : "NTR",
-        "value" : "NTR"
+        "id" : "VPRO",
+        "value" : "VPRO"
       } ],
       "portal" : {
-        "id" : "WOORD",
-        "url" : "http://woord-sample.localhost",
-        "value" : "Woord.nl"
+        "id" : "VPRONL",
+        "url" : "http://www-acc.vpro.nl",
+        "value" : "Tijdelijk groep vpro.nl (wordt site)"
       },
-      "title" : "Kunststof",
-      "genres" : [ {
-        "id" : "3.0.4.2",
-        "terms" : [ "Interview" ],
-        "displayName" : "Interview"
-      } ],
-      "embeds" : [ {
-        "title" : "Kunststof",
-        "description" : "Als hoofdredacteur van de glossy Fabulous Mama en moeder van vier kinderen werd Phaedra Werkhoven geconfronteerd met de gevolgen van het social media gebruik door  jongeren. Samen met Jan Dijkgraaf schreef ze de Social Media Bijbel, een handleiding en informatiebron voor ouders die de digitale draad even kwijt zijn.\nPresentatie: Jellie Brouwer ",
-        "media" : {
-          "objectType" : "program",
-          "mid" : "POMS_NTR_423801",
-          "creationDate" : 1383620223100,
-          "lastModified" : 1388673394806,
-          "sortDate" : 1386007200000,
-          "urn" : "urn:vpro:media:program:31852080",
-          "embeddable" : true,
-          "episodeOf" : [ {
-            "midRef" : "POMS_S_VPRO_137918",
-            "urnRef" : "urn:vpro:media:group:22372311",
-            "type" : "SEASON",
-            "index" : 221,
-            "highlighted" : false,
-            "added" : 1386769657747
-          } ],
-          "crids" : [ "crid://broadcast.radiobox2/254045" ],
-          "broadcasters" : [ {
-            "id" : "NTR",
-            "value" : "NTR"
-          } ],
-          "titles" : [ {
-            "value" : "Kunststof",
-            "owner" : "RADIOBOX",
-            "type" : "MAIN"
-          }, {
-            "value" : "Phaedra Werkhoven - hoofdredacteur",
-            "owner" : "BROADCASTER",
-            "type" : "SUB"
-          } ],
-          "descriptions" : [ {
-            "value" : "Als hoofdredacteur van de glossy Fabulous Mama en moeder van vier kinderen werd Phaedra Werkhoven geconfronteerd met de gevolgen van het social media gebruik door  jongeren. Samen met Jan Dijkgraaf schreef ze de Social Media Bijbel, een handleiding en informatiebron voor ouders die de digitale draad even kwijt zijn.\nPresentatie: Jellie Brouwer ",
-            "owner" : "BROADCASTER",
-            "type" : "MAIN"
-          }, {
-            "value" : "Phaedra Werkhoven - hoofdredacteur, auteur Als hoofdredacteur van de glossy Fabulous Mama en moeder van vier kinderen werd Phaedra Werkhoven geconfronteerd met de gevolgen van het social media gebruik door  jongeren. Samen met Jan Dijkgraaf schreef ze de Social Media Bijbel, een handleiding en informatiebron voor ouders die de digitale draad even kwijt zijn.\nPresentatie: Jellie Brouwer ",
-            "owner" : "RADIOBOX",
-            "type" : "MAIN"
-          } ],
-          "genres" : [ ],
-          "tags" : [ "auteur", "hoofdredacteur", "internet", "sociale media" ],
-          "countries" : [ ],
-          "languages" : [ ],
-          "duration" : 3600000,
-          "credits" : [ {
-            "givenName" : "Phaedra",
-            "familyName" : "Werkhoven ",
-            "role" : "GUEST"
-          }, {
-            "givenName" : "Phaedra",
-            "familyName" : "Werkhoven ",
-            "role" : "GUEST"
-          } ],
-          "descendantOf" : [ {
-            "midRef" : "POMS_S_VPRO_195283",
-            "urnRef" : "urn:vpro:media:group:11887617",
-            "type" : "ARCHIVE"
-          }, {
-            "midRef" : "POMS_S_VPRO_171668",
-            "urnRef" : "urn:vpro:media:group:14683553",
-            "type" : "ARCHIVE"
-          }, {
-            "midRef" : "POMS_S_VPRO_170138",
-            "urnRef" : "urn:vpro:media:group:14921822",
-            "type" : "ARCHIVE"
-          }, {
-            "midRef" : "POMS_S_VPRO_137918",
-            "urnRef" : "urn:vpro:media:group:22372311",
-            "type" : "SEASON"
-          }, {
-            "midRef" : "AUTO_KUNSTSTOF",
-            "urnRef" : "urn:vpro:media:group:3034792",
-            "type" : "SERIES"
-          }, {
-            "midRef" : "POMS_S_VPRO_417554",
-            "urnRef" : "urn:vpro:media:group:30800916",
-            "type" : "COLLECTION"
-          } ],
-          "email" : [ "kunststof@ntr.nl" ],
-          "websites" : [ {
-            "value" : "http://www.ntr.nl/kunststof"
-          } ],
-          "predictions" : [ {
-            "state" : "REALIZED",
-            "platform" : "INTERNETVOD"
-          } ],
-          "locations" : [ {
-            "programUrl" : "http://download.omroep.nl/audiologging/r1/2013/12/02/1900_2000_kunststof_20131202.mp3",
-            "avAttributes" : {
-              "avFileFormat" : "MP3"
-            },
-            "duration" : 3600000,
-            "owner" : "RADIOBOX",
-            "creationDate" : 1386011136513,
-            "lastModified" : 1386011154283,
-            "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:location:33426086"
-          } ],
-          "scheduleEvents" : [ {
-            "start" : 1386007200000,
-            "duration" : 3600000,
-            "poProgID" : "POMS_NTR_423801",
-            "channel" : "RAD1",
-            "urnRef" : "urn:vpro:media:program:31852080",
-            "midRef" : "POMS_NTR_423801"
-          } ],
-          "images" : [ {
-            "title" : "Kunststof",
-            "description" : "Kunststof",
-            "imageUri" : "urn:vpro:image:120700",
-            "owner" : "RADIOBOX",
-            "type" : "PICTURE",
-            "highlighted" : false,
-            "creationDate" : 1383620221127,
-            "lastModified" : 1383620223219,
-            "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:image:31852081"
-          } ],
-          "workflow" : "PUBLISHED",
-          "type" : "BROADCAST",
-          "avType" : "AUDIO"
-        }
+      "title" : "absolutely fabulous",
+      "summary" : "Absolutely Fabulous gaat over Eddie Monsoon (Jennifer French), haar dochter Saffron (Julia Sawalha) en vriendin Patsy Stone (Joanna Lumley). Eddie is eigenares van een PR-bureau en kampt met een midlife crisis. Ze is de veertig gepasseerd, worstelt met haar gewicht en probeert met alle macht de tekenen van het ouder worden te maskeren.",
+      "paragraphs" : [ {
+        "body" : "Eddie en haar vriendin Patsy drinken onophoudelijk, gebruiken drugs en lijken geobsedeerd door elke oppervlakkige modegril. Eddie’s dochter Saffron is in alles hun tegenpool. Zij draagt ouderwetse kleren, studeert hard en probeert met bits moraliserend commentaar haar moeder –tevergeefs- op het rechte pad te houden."
       } ],
       "images" : [ {
         "type" : "PICTURE",
-        "url" : "http://images.poms.omroep.nl/image/s360/120700.jpg",
-        "title" : "Kunststof",
-        "description" : "Kunststof"
+        "url" : "http://www-acc.vpro.nl/.imaging/stk/vpronl/search/media/vpronl/zomergasten/2011/step-vpro-3-closeup_bewerkt-1/original/step-vpro-3-closeup_bewerkt-1.jpg"
       } ],
-      "publishStart" : 1386007200000,
-      "creationDate" : 1421879772348,
-      "lastModified" : 1425949465935,
+      "publishStart" : 1371802407772,
+      "creationDate" : 1412009734398,
+      "lastModified" : 1412009734434,
       "refCount" : 0
     }
   } ]

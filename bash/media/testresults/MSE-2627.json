@@ -3,255 +3,26 @@
   "offset" : 0,
   "max" : 2,
   "items" : [ {
-    "score" : 1.447433,
-    "highlights" : [ ],
-    "result" : {
-      "objectType" : "program",
-      "mid" : "POW_00979383",
-      "creationDate" : 1421412243991,
-      "lastModified" : 1424692149498,
-      "hasSubtitles" : true,
-      "sortDate" : 1424118141000,
-      "urn" : "urn:vpro:media:program:45474644",
-      "embeddable" : true,
-      "episodeOf" : [ {
-        "midRef" : "POW_00979382",
-        "urnRef" : "urn:vpro:media:group:45576007",
-        "type" : "SEASON",
-        "index" : 1,
-        "highlighted" : false,
-        "added" : 1422002171583
-      } ],
-      "broadcasters" : [ {
-        "id" : "MAX",
-        "value" : "MAX"
-      } ],
-      "titles" : [ {
-        "value" : "Droomhuis Gezocht",
-        "owner" : "MIS",
-        "type" : "MAIN"
-      }, {
-        "value" : "Droomhuis Gezocht",
-        "owner" : "WHATS_ON",
-        "type" : "MAIN"
-      } ],
-      "descriptions" : [ {
-        "value" : "Sybrand Niessen helpt Nederlanders bij het vinden van hun droomhuis in het buitenland. In iedere aflevering staat een land centraal. De zoektocht leidt ons naar Oostenrijk, Italië, Portugal, St. Maarten, Bonaire, Spanje, Frankrijk en Zweden.",
-        "owner" : "MIS",
-        "type" : "MAIN"
-      }, {
-        "value" : "Sybrand Niessen helpt Nederlanders bij het vinden van hun droomhuis in het buitenland. In deze aflevering helpt Sybrand Matthieu en Charlotte bij de zoektocht naar hun droomhuis in Oostenrijk.",
-        "owner" : "WHATS_ON",
-        "type" : "MAIN"
-      }, {
-        "value" : "Sybrand Niessen helpt mensen om hun droomhuis in het buitenland te vinden. In deze aflevering helpt Sybrand Matthieu en Charlotte bij de zoektocht naar hun droomhuis in Oostenrijk.",
-        "owner" : "MIS",
-        "type" : "SHORT"
-      }, {
-        "value" : "Presentator Sybrand Niessen helpt mensen om hun droomhuis in het buitenland te vinden. In deze aflevering helpt Sybrand Matthieu en Charlotte bij de zoektocht naar hun droomhuis in Oostenrijk.",
-        "owner" : "WHATS_ON",
-        "type" : "SHORT"
-      }, {
-        "value" : "In deze aflevering helpt Sybrand Matthieu en Charlotte bij de zoektocht naar hun droomhuis in Oostenrijk.",
-        "owner" : "MIS",
-        "type" : "KICKER"
-      }, {
-        "value" : "Sybrand Niessen helpt Nederlanders bij het vinden van hun droomhuis in het buitenland. In deze aflevering helpt Sybrand Matthieu en Charlotte bij de zoektocht naar hun droomhuis in Oostenrijk.",
-        "owner" : "MIS",
-        "type" : "EPISODE"
-      } ],
-      "genres" : [ {
-        "id" : "3.0.1.7.31",
-        "terms" : [ "Informatief", "Wonen/Tuin" ]
-      } ],
-      "countries" : [ {
-        "code" : "NL",
-        "value" : "Nederland"
-      } ],
-      "languages" : [ ],
-      "avAttributes" : {
-        "videoAttributes" : {
-          "color" : "BLACK_AND_WHITE_AND_COLOR",
-          "aspectRatio" : "16:9"
-        },
-        "audioAttributes" : {
-          "numberOfChannels" : 2
-        }
-      },
-      "releaseYear" : 2015,
-      "duration" : 2454000,
-      "descendantOf" : [ {
-        "midRef" : "POW_00979382",
-        "urnRef" : "urn:vpro:media:group:45576007",
-        "type" : "SEASON"
-      } ],
-      "predictions" : [ {
-        "state" : "REALIZED",
-        "platform" : "INTERNETVOD"
-      }, {
-        "state" : "ANNOUNCED",
-        "publishStart" : 1424120542000,
-        "publishStop" : 1455742942000,
-        "platform" : "PLUSVOD"
-      } ],
-      "locations" : [ {
-        "programUrl" : "odip+http://odi.omroep.nl/video/adaptive/POW_00979383",
-        "avAttributes" : {
-          "avFileFormat" : "HASP"
-        },
-        "owner" : "CERES",
-        "creationDate" : 1424182750632,
-        "lastModified" : 1424182750774,
-        "workflow" : "PUBLISHED",
-        "platform" : "INTERNETVOD",
-        "urn" : "urn:vpro:media:location:45926128"
-      }, {
-        "programUrl" : "odi+http://odi.omroep.nl/video/h264_sb/POW_00979383",
-        "avAttributes" : {
-          "bitrate" : 200000,
-          "avFileFormat" : "H264"
-        },
-        "owner" : "CERES",
-        "creationDate" : 1424181543697,
-        "lastModified" : 1424181543848,
-        "workflow" : "PUBLISHED",
-        "platform" : "INTERNETVOD",
-        "urn" : "urn:vpro:media:location:45925576"
-      }, {
-        "programUrl" : "odi+http://odi.omroep.nl/video/h264_bb/POW_00979383",
-        "avAttributes" : {
-          "bitrate" : 500000,
-          "avFileFormat" : "H264"
-        },
-        "owner" : "CERES",
-        "creationDate" : 1424181543352,
-        "lastModified" : 1424181543550,
-        "workflow" : "PUBLISHED",
-        "platform" : "INTERNETVOD",
-        "urn" : "urn:vpro:media:location:45925574"
-      }, {
-        "programUrl" : "odi+http://odi.omroep.nl/video/h264_std/POW_00979383",
-        "avAttributes" : {
-          "bitrate" : 1000000,
-          "avFileFormat" : "H264"
-        },
-        "owner" : "CERES",
-        "creationDate" : 1424181842861,
-        "lastModified" : 1424181843056,
-        "workflow" : "PUBLISHED",
-        "platform" : "INTERNETVOD",
-        "urn" : "urn:vpro:media:location:45925597"
-      } ],
-      "scheduleEvents" : [ {
-        "guideDay" : 1424041200000,
-        "start" : 1424118141000,
-        "duration" : 2401000,
-        "poProgID" : "POW_00979383",
-        "channel" : "NED1",
-        "net" : "NED1",
-        "urnRef" : "urn:vpro:media:program:45474644",
-        "midRef" : "POW_00979383"
-      }, {
-        "guideDay" : 1424127600000,
-        "start" : 1424178483000,
-        "duration" : 2400000,
-        "poProgID" : "POW_00979383",
-        "channel" : "NED2",
-        "net" : "NED1",
-        "urnRef" : "urn:vpro:media:program:45474644",
-        "midRef" : "POW_00979383"
-      }, {
-        "guideDay" : 1424473200000,
-        "start" : 1424535002000,
-        "duration" : 2400000,
-        "poProgID" : "POW_00979383",
-        "channel" : "NED1",
-        "net" : "NED1",
-        "urnRef" : "urn:vpro:media:program:45474644",
-        "midRef" : "POW_00979383"
-      }, {
-        "repeat" : {
-          "isRerun" : true
-        },
-        "textSubtitles" : "Teletekst ondertitels",
-        "guideDay" : 1424559600000,
-        "start" : 1424624400000,
-        "duration" : 2454000,
-        "poProgID" : "POW_00979383",
-        "channel" : "BVNT",
-        "urnRef" : "urn:vpro:media:program:45474644",
-        "midRef" : "POW_00979383"
-      }, {
-        "repeat" : {
-          "isRerun" : true
-        },
-        "textSubtitles" : "Teletekst ondertitels",
-        "guideDay" : 1424646000000,
-        "start" : 1424667600000,
-        "duration" : 2454000,
-        "poProgID" : "POW_00979383",
-        "channel" : "BVNT",
-        "urnRef" : "urn:vpro:media:program:45474644",
-        "midRef" : "POW_00979383"
-      } ],
-      "images" : [ {
-        "title" : "Droomhuis Gezocht",
-        "description" : "Sybrand Niessen helpt mensen om hun droomhuis in het buitenland te vinden. In deze aflevering helpt Sybrand Matthieu en Charlotte bij de zoektocht naar hun droomhuis in Oostenrijk.",
-        "imageUri" : "urn:vpro:image:391165",
-        "owner" : "NEBO",
-        "type" : "STILL",
-        "highlighted" : false,
-        "creationDate" : 1424124003815,
-        "lastModified" : 1424124004697,
-        "workflow" : "PUBLISHED",
-        "urn" : "urn:vpro:media:image:45915177"
-      }, {
-        "title" : "Droomhuis Gezocht",
-        "description" : "Sybrand Niessen helpt mensen om hun droomhuis in het buitenland te vinden. In deze aflevering helpt Sybrand Matthieu en Charlotte bij de zoektocht naar hun droomhuis in Oostenrijk.",
-        "imageUri" : "urn:vpro:image:391166",
-        "owner" : "NEBO",
-        "type" : "STILL",
-        "highlighted" : false,
-        "creationDate" : 1424124004194,
-        "lastModified" : 1424124004697,
-        "workflow" : "PUBLISHED",
-        "urn" : "urn:vpro:media:image:45915178"
-      }, {
-        "title" : "Droomhuis Gezocht",
-        "description" : "Sybrand Niessen helpt mensen om hun droomhuis in het buitenland te vinden. In deze aflevering helpt Sybrand Matthieu en Charlotte bij de zoektocht naar hun droomhuis in Oostenrijk.",
-        "imageUri" : "urn:vpro:image:391167",
-        "owner" : "NEBO",
-        "type" : "STILL",
-        "highlighted" : false,
-        "creationDate" : 1424124004613,
-        "lastModified" : 1424124004698,
-        "workflow" : "PUBLISHED",
-        "urn" : "urn:vpro:media:image:45915179"
-      } ],
-      "publishDate" : 1424692494296,
-      "workflow" : "PUBLISHED",
-      "type" : "BROADCAST",
-      "avType" : "VIDEO"
-    }
-  }, {
-    "score" : 1.4374027,
+    "score" : 1.0083812,
     "highlights" : [ ],
     "result" : {
       "objectType" : "program",
       "mid" : "POW_00768226",
-      "creationDate" : 1406860641928,
-      "lastModified" : 1409926762424,
-      "hasSubtitles" : true,
+      "type" : "BROADCAST",
+      "avType" : "VIDEO",
+      "workflow" : "PUBLISHED",
       "sortDate" : 1408991625000,
-      "urn" : "urn:vpro:media:program:43176498",
+      "creationDate" : 1406868772410,
+      "lastModified" : 1416374536291,
+      "urn" : "urn:vpro:media:program:44069534",
       "embeddable" : true,
       "episodeOf" : [ {
         "midRef" : "POW_00768216",
-        "urnRef" : "urn:vpro:media:group:41268911",
+        "urnRef" : "urn:vpro:media:group:41314448",
         "type" : "SEASON",
         "index" : 10,
         "highlighted" : false,
-        "added" : 1406860642405
+        "added" : 1406868772628
       } ],
       "broadcasters" : [ {
         "id" : "MAX",
@@ -265,20 +36,33 @@
         "value" : "Groeten van MAX",
         "owner" : "WHATS_ON",
         "type" : "MAIN"
+      }, {
+        "value" : "Veilingsites en heimwee",
+        "owner" : "BROADCASTER",
+        "type" : "SUB"
       } ],
       "descriptions" : [ {
+        "value" : "Meneer Bottinga krijgt op zijn reis naar Indonesië zo'n last van heimwee, dat hij na een paar dagen alweer naar huis moet. Bij thuiskomst blijkt hij niet gerepatrieerd te zijn, waardoor hij geen recht heeft op een teruggaaf van een deel van zijn reiskosten. Wie is er verantwoordelijk?\n\nVeilingsites zijn mateloos populair. U kunt voor een relatief klein bedrag een weekendje weg op op vakantie, wie wil dat nu niet? Maar welke veilingsites zijn betrouwbaar en welke veiling kunt u beter overslaan? Joyce Donat van de Consumentenbond schuift bij ons aan. \n\nDe zomervakantie loopt voor veel mensen al op z'n eind, maar wellicht heeft de maand september nog wat mooie zomeravonden voor ons in petto. Welke barbecue kunt u het beste aanschaffen om nog volop te kunnen genieten van het mooie weer? Ralph de Kok, Grillmeester en BBQ-specialist, is te gast.\n\nPresentatie: Sybrand Niessen.",
+        "owner" : "BROADCASTER",
+        "type" : "MAIN"
+      }, {
         "value" : " ",
         "owner" : "MIS",
+        "type" : "MAIN"
+      }, {
+        "value" : " Veilingsites zijn populair, maar niet allemaal even betrouwbaar. En welke barbecue is het meest geschikt voor thuisgebruik? ",
+        "owner" : "BROADCASTER",
         "type" : "SHORT"
       }, {
         "value" : " ",
         "owner" : "MIS",
-        "type" : "EPISODE"
+        "type" : "SHORT"
       } ],
       "genres" : [ {
         "id" : "3.0.1.7",
         "terms" : [ "Informatief" ]
       } ],
+      "hasSubtitles" : true,
       "countries" : [ {
         "code" : "NL",
         "value" : "Nederland"
@@ -294,10 +78,14 @@
         }
       },
       "releaseYear" : 2014,
-      "duration" : 2730000,
+      "duration" : 2725490,
       "descendantOf" : [ {
+        "midRef" : "POMS_S_MAX_083092",
+        "urnRef" : "urn:vpro:media:group:3731898",
+        "type" : "SERIES"
+      }, {
         "midRef" : "POW_00768216",
-        "urnRef" : "urn:vpro:media:group:41268911",
+        "urnRef" : "urn:vpro:media:group:41314448",
         "type" : "SEASON"
       } ],
       "predictions" : [ {
@@ -305,8 +93,8 @@
         "platform" : "INTERNETVOD"
       }, {
         "state" : "REALIZED",
-        "publishStart" : 1408994350000,
-        "publishStop" : 1440616750000,
+        "publishStart" : 1408994347000,
+        "publishStop" : 1440616747000,
         "platform" : "PLUSVOD"
       } ],
       "locations" : [ {
@@ -315,11 +103,11 @@
           "avFileFormat" : "HASP"
         },
         "owner" : "CERES",
-        "creationDate" : 1409049246871,
-        "lastModified" : 1409049246992,
-        "workflow" : "PUBLISHED",
         "platform" : "INTERNETVOD",
-        "urn" : "urn:vpro:media:location:43375938"
+        "creationDate" : 1408997462147,
+        "lastModified" : 1408997462899,
+        "workflow" : "PUBLISHED",
+        "urn" : "urn:vpro:media:location:44402444"
       }, {
         "programUrl" : "odi+http://odi.omroep.nl/video/h264_sb/POW_00768226",
         "avAttributes" : {
@@ -327,11 +115,11 @@
           "avFileFormat" : "H264"
         },
         "owner" : "CERES",
-        "creationDate" : 1409047751985,
-        "lastModified" : 1409047752174,
-        "workflow" : "PUBLISHED",
         "platform" : "INTERNETVOD",
-        "urn" : "urn:vpro:media:location:43375183"
+        "creationDate" : 1408995987119,
+        "lastModified" : 1408995987294,
+        "workflow" : "PUBLISHED",
+        "urn" : "urn:vpro:media:location:44402385"
       }, {
         "programUrl" : "odi+http://odi.omroep.nl/video/h264_bb/POW_00768226",
         "avAttributes" : {
@@ -339,11 +127,11 @@
           "avFileFormat" : "H264"
         },
         "owner" : "CERES",
-        "creationDate" : 1409047800178,
-        "lastModified" : 1409047800302,
-        "workflow" : "PUBLISHED",
         "platform" : "INTERNETVOD",
-        "urn" : "urn:vpro:media:location:43375193"
+        "creationDate" : 1408995987513,
+        "lastModified" : 1408995987766,
+        "workflow" : "PUBLISHED",
+        "urn" : "urn:vpro:media:location:44402387"
       }, {
         "programUrl" : "odi+http://odi.omroep.nl/video/h264_std/POW_00768226",
         "avAttributes" : {
@@ -351,102 +139,525 @@
           "avFileFormat" : "H264"
         },
         "owner" : "CERES",
-        "creationDate" : 1409048644583,
-        "lastModified" : 1409048644723,
-        "workflow" : "PUBLISHED",
         "platform" : "INTERNETVOD",
-        "urn" : "urn:vpro:media:location:43375802"
-      }, {
-        "programUrl" : "sub+http//npoplus.nl/video/mpeg2_plus/POW_00768226",
-        "avAttributes" : {
-          "bitrate" : 8000000,
-          "avFileFormat" : "MPEG2"
-        },
-        "owner" : "CERES",
-        "creationDate" : 1409048351480,
-        "lastModified" : 1409048351587,
-        "publishStart" : 1408994350000,
-        "publishStop" : 1440616750000,
+        "creationDate" : 1408996269985,
+        "lastModified" : 1408996270279,
         "workflow" : "PUBLISHED",
-        "platform" : "PLUSVOD",
-        "urn" : "urn:vpro:media:location:43375526"
+        "urn" : "urn:vpro:media:location:44402389"
       } ],
       "scheduleEvents" : [ {
+        "guideDay" : 1408917600000,
         "start" : 1408991625000,
         "duration" : 2725000,
         "poProgID" : "POW_00768226",
         "channel" : "NED1",
-        "net" : "NED1",
-        "urnRef" : "urn:vpro:media:program:43176498",
+        "urnRef" : "urn:vpro:media:program:44069534",
         "midRef" : "POW_00768226"
       }, {
+        "guideDay" : 1409004000000,
         "start" : 1409044372000,
         "duration" : 2726000,
         "poProgID" : "POW_00768226",
         "channel" : "NED2",
-        "net" : "NED1",
-        "urnRef" : "urn:vpro:media:program:43176498",
+        "urnRef" : "urn:vpro:media:program:44069534",
         "midRef" : "POW_00768226"
       }, {
         "repeat" : {
           "isRerun" : true
         },
         "textSubtitles" : "Teletekst ondertitels",
+        "guideDay" : 1409954400000,
         "start" : 1410004200000,
         "duration" : 2775000,
         "poProgID" : "POW_00768226",
         "channel" : "BVNT",
-        "urnRef" : "urn:vpro:media:program:43176498",
+        "urnRef" : "urn:vpro:media:program:44069534",
         "midRef" : "POW_00768226"
       }, {
         "repeat" : {
           "isRerun" : true
         },
         "textSubtitles" : "Teletekst ondertitels",
+        "guideDay" : 1409954400000,
         "start" : 1410047400000,
         "duration" : 2775000,
         "poProgID" : "POW_00768226",
         "channel" : "BVNT",
-        "urnRef" : "urn:vpro:media:program:43176498",
+        "urnRef" : "urn:vpro:media:program:44069534",
         "midRef" : "POW_00768226"
       } ],
       "images" : [ {
         "title" : "Groeten van MAX",
-        "description" : " ",
-        "imageUri" : "urn:vpro:image:281101",
-        "owner" : "NEBO",
-        "type" : "STILL",
+        "description" : "Groeten van MAX",
+        "imageUri" : "urn:vpro:image:502629",
+        "height" : 108,
+        "width" : 192,
+        "owner" : "BROADCASTER",
+        "type" : "PICTURE",
         "highlighted" : false,
-        "creationDate" : 1408996802501,
-        "lastModified" : 1408996803752,
+        "creationDate" : 1408614112905,
+        "lastModified" : 1408614114588,
         "workflow" : "PUBLISHED",
-        "urn" : "urn:vpro:media:image:43369136"
+        "urn" : "urn:vpro:media:image:44352339"
       }, {
         "title" : "Groeten van MAX",
-        "description" : " ",
-        "imageUri" : "urn:vpro:image:281102",
+        "description" : " Veilingsites zijn populair, maar niet allemaal even betrouwbaar. En welke barbecue is het meest geschikt voor thuisgebruik? ",
+        "imageUri" : "urn:vpro:image:504161",
         "owner" : "NEBO",
         "type" : "STILL",
         "highlighted" : false,
-        "creationDate" : 1408996803078,
-        "lastModified" : 1408996803752,
+        "creationDate" : 1408996820383,
+        "lastModified" : 1408996863099,
         "workflow" : "PUBLISHED",
-        "urn" : "urn:vpro:media:image:43369137"
+        "urn" : "urn:vpro:media:image:44402400"
       }, {
         "title" : "Groeten van MAX",
-        "description" : " ",
-        "imageUri" : "urn:vpro:image:281103",
+        "description" : " Veilingsites zijn populair, maar niet allemaal even betrouwbaar. En welke barbecue is het meest geschikt voor thuisgebruik? ",
+        "imageUri" : "urn:vpro:image:504162",
         "owner" : "NEBO",
         "type" : "STILL",
         "highlighted" : false,
-        "creationDate" : 1408996803584,
-        "lastModified" : 1408996803753,
+        "creationDate" : 1408996840626,
+        "lastModified" : 1408996863101,
         "workflow" : "PUBLISHED",
-        "urn" : "urn:vpro:media:image:43369138"
+        "urn" : "urn:vpro:media:image:44402401"
+      }, {
+        "title" : "Groeten van MAX",
+        "description" : " Veilingsites zijn populair, maar niet allemaal even betrouwbaar. En welke barbecue is het meest geschikt voor thuisgebruik? ",
+        "imageUri" : "urn:vpro:image:504163",
+        "owner" : "NEBO",
+        "type" : "STILL",
+        "highlighted" : false,
+        "creationDate" : 1408996862559,
+        "lastModified" : 1408996863102,
+        "workflow" : "PUBLISHED",
+        "urn" : "urn:vpro:media:image:44402402"
       } ],
-      "workflow" : "PUBLISHED",
+      "publishDate" : 1440616761158,
+      "segments" : [ {
+        "objectType" : "segment",
+        "mid" : "POMS_MAX_615245",
+        "type" : "SEGMENT",
+        "avType" : "VIDEO",
+        "workflow" : "PUBLISHED",
+        "sortDate" : 1408991625000,
+        "creationDate" : 1408996337724,
+        "lastModified" : 1408996338138,
+        "urn" : "urn:vpro:media:segment:44402390",
+        "embeddable" : true,
+        "broadcasters" : [ {
+          "id" : "MAX",
+          "value" : "MAX"
+        } ],
+        "titles" : [ {
+          "value" : "Heimwee",
+          "owner" : "BROADCASTER",
+          "type" : "MAIN"
+        } ],
+        "genres" : [ ],
+        "countries" : [ ],
+        "languages" : [ ],
+        "duration" : 748000,
+        "descendantOf" : [ {
+          "midRef" : "POMS_S_MAX_083092",
+          "urnRef" : "urn:vpro:media:group:3731898",
+          "type" : "SERIES"
+        }, {
+          "midRef" : "POW_00768216",
+          "urnRef" : "urn:vpro:media:group:41314448",
+          "type" : "SEASON"
+        }, {
+          "midRef" : "POW_00768226",
+          "urnRef" : "urn:vpro:media:program:44069534",
+          "type" : "BROADCAST"
+        } ],
+        "publishDate" : 1414828888772,
+        "start" : 87000,
+        "urnRef" : "urn:vpro:media:program:44069534",
+        "midRef" : "POW_00768226"
+      }, {
+        "objectType" : "segment",
+        "mid" : "POMS_MAX_615246",
+        "type" : "SEGMENT",
+        "avType" : "VIDEO",
+        "workflow" : "PUBLISHED",
+        "sortDate" : 1408991400000,
+        "creationDate" : 1408996338139,
+        "lastModified" : 1408996489746,
+        "urn" : "urn:vpro:media:segment:44402392",
+        "embeddable" : true,
+        "broadcasters" : [ {
+          "id" : "MAX",
+          "value" : "MAX"
+        } ],
+        "titles" : [ {
+          "value" : "Accommodatietest",
+          "owner" : "BROADCASTER",
+          "type" : "MAIN"
+        } ],
+        "genres" : [ ],
+        "countries" : [ ],
+        "languages" : [ ],
+        "duration" : 295000,
+        "descendantOf" : [ {
+          "midRef" : "POMS_S_MAX_083092",
+          "urnRef" : "urn:vpro:media:group:3731898",
+          "type" : "SERIES"
+        }, {
+          "midRef" : "POW_00768216",
+          "urnRef" : "urn:vpro:media:group:41314448",
+          "type" : "SEASON"
+        }, {
+          "midRef" : "POW_00768226",
+          "urnRef" : "urn:vpro:media:program:44069534",
+          "type" : "BROADCAST"
+        } ],
+        "publishDate" : 1414828892560,
+        "start" : 835000,
+        "urnRef" : "urn:vpro:media:program:44069534",
+        "midRef" : "POW_00768226"
+      }, {
+        "objectType" : "segment",
+        "mid" : "POMS_MAX_615247",
+        "type" : "SEGMENT",
+        "avType" : "VIDEO",
+        "workflow" : "PUBLISHED",
+        "sortDate" : 1408991625000,
+        "creationDate" : 1408996338219,
+        "lastModified" : 1408996338231,
+        "urn" : "urn:vpro:media:segment:44402394",
+        "embeddable" : true,
+        "broadcasters" : [ {
+          "id" : "MAX",
+          "value" : "MAX"
+        } ],
+        "titles" : [ {
+          "value" : "Productentest: Barbecues",
+          "owner" : "BROADCASTER",
+          "type" : "MAIN"
+        } ],
+        "genres" : [ ],
+        "countries" : [ ],
+        "languages" : [ ],
+        "duration" : 399000,
+        "descendantOf" : [ {
+          "midRef" : "POMS_S_MAX_083092",
+          "urnRef" : "urn:vpro:media:group:3731898",
+          "type" : "SERIES"
+        }, {
+          "midRef" : "POW_00768216",
+          "urnRef" : "urn:vpro:media:group:41314448",
+          "type" : "SEASON"
+        }, {
+          "midRef" : "POW_00768226",
+          "urnRef" : "urn:vpro:media:program:44069534",
+          "type" : "BROADCAST"
+        } ],
+        "publishDate" : 1414828892436,
+        "start" : 1152000,
+        "urnRef" : "urn:vpro:media:program:44069534",
+        "midRef" : "POW_00768226"
+      }, {
+        "objectType" : "segment",
+        "mid" : "POMS_MAX_615248",
+        "type" : "SEGMENT",
+        "avType" : "VIDEO",
+        "workflow" : "PUBLISHED",
+        "sortDate" : 1408991625000,
+        "creationDate" : 1408996338234,
+        "lastModified" : 1408996338242,
+        "urn" : "urn:vpro:media:segment:44402396",
+        "embeddable" : true,
+        "broadcasters" : [ {
+          "id" : "MAX",
+          "value" : "MAX"
+        } ],
+        "titles" : [ {
+          "value" : "Campingtest",
+          "owner" : "BROADCASTER",
+          "type" : "MAIN"
+        } ],
+        "genres" : [ ],
+        "countries" : [ ],
+        "languages" : [ ],
+        "duration" : 245000,
+        "descendantOf" : [ {
+          "midRef" : "POMS_S_MAX_083092",
+          "urnRef" : "urn:vpro:media:group:3731898",
+          "type" : "SERIES"
+        }, {
+          "midRef" : "POW_00768216",
+          "urnRef" : "urn:vpro:media:group:41314448",
+          "type" : "SEASON"
+        }, {
+          "midRef" : "POW_00768226",
+          "urnRef" : "urn:vpro:media:program:44069534",
+          "type" : "BROADCAST"
+        } ],
+        "publishDate" : 1414828892844,
+        "start" : 1564000,
+        "urnRef" : "urn:vpro:media:program:44069534",
+        "midRef" : "POW_00768226"
+      }, {
+        "objectType" : "segment",
+        "mid" : "POMS_MAX_615249",
+        "type" : "SEGMENT",
+        "avType" : "VIDEO",
+        "workflow" : "PUBLISHED",
+        "sortDate" : 1408991625000,
+        "creationDate" : 1408996338243,
+        "lastModified" : 1408996338250,
+        "urn" : "urn:vpro:media:segment:44402398",
+        "embeddable" : true,
+        "broadcasters" : [ {
+          "id" : "MAX",
+          "value" : "MAX"
+        } ],
+        "titles" : [ {
+          "value" : "Veilingwebsites",
+          "owner" : "BROADCASTER",
+          "type" : "MAIN"
+        } ],
+        "genres" : [ ],
+        "countries" : [ ],
+        "languages" : [ ],
+        "duration" : 895000,
+        "descendantOf" : [ {
+          "midRef" : "POMS_S_MAX_083092",
+          "urnRef" : "urn:vpro:media:group:3731898",
+          "type" : "SERIES"
+        }, {
+          "midRef" : "POW_00768216",
+          "urnRef" : "urn:vpro:media:group:41314448",
+          "type" : "SEASON"
+        }, {
+          "midRef" : "POW_00768226",
+          "urnRef" : "urn:vpro:media:program:44069534",
+          "type" : "BROADCAST"
+        } ],
+        "publishDate" : 1414828892663,
+        "start" : 1809000,
+        "urnRef" : "urn:vpro:media:program:44069534",
+        "midRef" : "POW_00768226"
+      } ]
+    }
+  }, {
+    "score" : 1.0063834,
+    "highlights" : [ ],
+    "result" : {
+      "objectType" : "program",
+      "mid" : "POW_00979473",
       "type" : "BROADCAST",
-      "avType" : "VIDEO"
+      "avType" : "VIDEO",
+      "workflow" : "PUBLISHED",
+      "sortDate" : 1424248781000,
+      "creationDate" : 1422165031306,
+      "lastModified" : 1430998167337,
+      "urn" : "urn:vpro:media:program:50629711",
+      "embeddable" : true,
+      "episodeOf" : [ {
+        "midRef" : "POW_00979440",
+        "urnRef" : "urn:vpro:media:group:48906731",
+        "type" : "SEASON",
+        "index" : 33,
+        "highlighted" : false,
+        "added" : 1422165031398
+      } ],
+      "broadcasters" : [ {
+        "id" : "MAX",
+        "value" : "MAX"
+      } ],
+      "titles" : [ {
+        "value" : "MAX Geheugentrainer",
+        "owner" : "MIS",
+        "type" : "MAIN"
+      }, {
+        "value" : "MAX Geheugentrainer",
+        "owner" : "WHATS_ON",
+        "type" : "MAIN"
+      }, {
+        "value" : "MAX Geheugentrainer",
+        "owner" : "BROADCASTER",
+        "type" : "SUB"
+      } ],
+      "descriptions" : [ {
+        "value" : "Kijkers kunnen hun geheugen trainen door mee te spelen met de kandidaat in de studio.\n\nPresentatie: Jan Slagter",
+        "owner" : "BROADCASTER",
+        "type" : "MAIN"
+      }, {
+        "value" : " ",
+        "owner" : "MIS",
+        "type" : "MAIN"
+      }, {
+        "value" : "Train uw brein met eenvoudige oefeningen.",
+        "owner" : "BROADCASTER",
+        "type" : "SHORT"
+      }, {
+        "value" : "Elke werkdag kunnen kijkers hun geheugen trainen door mee te spelen met de kandidaat in de studio.",
+        "owner" : "MIS",
+        "type" : "SHORT"
+      }, {
+        "value" : "Elke werkdag kunnen kijkers hun geheugen trainen door mee te spelen met de kandidaat in de studio.",
+        "owner" : "MIS",
+        "type" : "KICKER"
+      } ],
+      "genres" : [ {
+        "id" : "3.0.1.7.19",
+        "terms" : [ "Informatief", "Spel/quiz" ]
+      } ],
+      "hasSubtitles" : true,
+      "countries" : [ {
+        "code" : "NL",
+        "value" : "Nederland"
+      } ],
+      "languages" : [ ],
+      "avAttributes" : {
+        "videoAttributes" : {
+          "color" : "BLACK_AND_WHITE_AND_COLOR",
+          "aspectRatio" : "16:9"
+        },
+        "audioAttributes" : {
+          "numberOfChannels" : 2
+        }
+      },
+      "releaseYear" : 2015,
+      "duration" : 897220,
+      "descendantOf" : [ {
+        "midRef" : "POMS_S_NPO_172388",
+        "urnRef" : "urn:vpro:media:group:14593596",
+        "type" : "PLAYLIST"
+      }, {
+        "midRef" : "POMS_S_MAX_059953",
+        "urnRef" : "urn:vpro:media:group:3731078",
+        "type" : "SERIES"
+      }, {
+        "midRef" : "POW_00979440",
+        "urnRef" : "urn:vpro:media:group:48906731",
+        "type" : "SEASON"
+      } ],
+      "predictions" : [ {
+        "state" : "REALIZED",
+        "platform" : "INTERNETVOD"
+      }, {
+        "state" : "REALIZED",
+        "publishStart" : 1424249658000,
+        "publishStop" : 1455872058000,
+        "platform" : "PLUSVOD"
+      } ],
+      "locations" : [ {
+        "programUrl" : "odip+http://odi.omroep.nl/video/adaptive/POW_00979473",
+        "avAttributes" : {
+          "avFileFormat" : "HASP"
+        },
+        "owner" : "CERES",
+        "platform" : "INTERNETVOD",
+        "creationDate" : 1424250671422,
+        "lastModified" : 1424250671628,
+        "workflow" : "PUBLISHED",
+        "urn" : "urn:vpro:media:location:51635356"
+      }, {
+        "programUrl" : "odi+http://odi.omroep.nl/video/h264_sb/POW_00979473",
+        "avAttributes" : {
+          "bitrate" : 200000,
+          "avFileFormat" : "H264"
+        },
+        "owner" : "CERES",
+        "platform" : "INTERNETVOD",
+        "creationDate" : 1424250068959,
+        "lastModified" : 1424250069191,
+        "workflow" : "PUBLISHED",
+        "urn" : "urn:vpro:media:location:51634650"
+      }, {
+        "programUrl" : "odi+http://odi.omroep.nl/video/h264_bb/POW_00979473",
+        "avAttributes" : {
+          "bitrate" : 500000,
+          "avFileFormat" : "H264"
+        },
+        "owner" : "CERES",
+        "platform" : "INTERNETVOD",
+        "creationDate" : 1424250068502,
+        "lastModified" : 1424250068762,
+        "workflow" : "PUBLISHED",
+        "urn" : "urn:vpro:media:location:51634647"
+      }, {
+        "programUrl" : "odi+http://odi.omroep.nl/video/h264_std/POW_00979473",
+        "avAttributes" : {
+          "bitrate" : 1000000,
+          "avFileFormat" : "H264"
+        },
+        "owner" : "CERES",
+        "platform" : "INTERNETVOD",
+        "creationDate" : 1424250067976,
+        "lastModified" : 1424250068258,
+        "workflow" : "PUBLISHED",
+        "urn" : "urn:vpro:media:location:51634644"
+      }, {
+        "programUrl" : "sub+http://npoplus.nl/video/mpeg2_hr/POW_00979473",
+        "avAttributes" : {
+          "bitrate" : 3500000,
+          "avFileFormat" : "MPEG2"
+        },
+        "owner" : "CERES",
+        "platform" : "PLUSVOD",
+        "creationDate" : 1424250066827,
+        "lastModified" : 1424250067085,
+        "publishStart" : 1424249658000,
+        "publishStop" : 1455872058000,
+        "workflow" : "PUBLISHED",
+        "urn" : "urn:vpro:media:location:51634638"
+      } ],
+      "scheduleEvents" : [ {
+        "guideDay" : 1424214000000,
+        "start" : 1424248781000,
+        "duration" : 897000,
+        "poProgID" : "POW_00979473",
+        "channel" : "NED1",
+        "urnRef" : "urn:vpro:media:program:50629711",
+        "midRef" : "POW_00979473"
+      }, {
+        "guideDay" : 1424300400000,
+        "start" : 1424322473000,
+        "duration" : 897000,
+        "poProgID" : "POW_00979473",
+        "channel" : "NED1",
+        "urnRef" : "urn:vpro:media:program:50629711",
+        "midRef" : "POW_00979473"
+      } ],
+      "images" : [ {
+        "title" : "MAX Geheugentrainer",
+        "description" : "Train uw brein met eenvoudige oefeningen.",
+        "imageUri" : "urn:vpro:image:575280",
+        "owner" : "BROADCASTER",
+        "type" : "STILL",
+        "highlighted" : false,
+        "creationDate" : 1424250907301,
+        "lastModified" : 1427119824436,
+        "workflow" : "PUBLISHED",
+        "urn" : "urn:vpro:media:image:51635733"
+      }, {
+        "title" : "MAX Geheugentrainer",
+        "description" : "Train uw brein met eenvoudige oefeningen.",
+        "imageUri" : "urn:vpro:image:575278",
+        "owner" : "BROADCASTER",
+        "type" : "STILL",
+        "highlighted" : false,
+        "creationDate" : 1424250903920,
+        "lastModified" : 1427119824436,
+        "workflow" : "PUBLISHED",
+        "urn" : "urn:vpro:media:image:51635731"
+      }, {
+        "title" : "MAX Geheugentrainer",
+        "description" : "Train uw brein met eenvoudige oefeningen.",
+        "imageUri" : "urn:vpro:image:575279",
+        "owner" : "BROADCASTER",
+        "type" : "STILL",
+        "highlighted" : false,
+        "creationDate" : 1424250906748,
+        "lastModified" : 1427119824436,
+        "workflow" : "PUBLISHED",
+        "urn" : "urn:vpro:media:image:51635732"
+      } ],
+      "publishDate" : 1436867543391
     }
   } ]
 }

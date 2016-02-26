@@ -1,636 +1,430 @@
 {
-  "total" : 22800,
+  "total" : 26168,
   "offset" : 0,
   "max" : 2,
   "items" : [ {
-    "score" : 17.627954,
+    "score" : 12.549135,
     "highlights" : [ ],
     "result" : {
       "objectType" : "program",
-      "mid" : "RBX_BNN_793586",
-      "creationDate" : 1425703856030,
-      "lastModified" : 1427908801863,
-      "sortDate" : 1427896800000,
-      "urn" : "urn:vpro:media:program:46178578",
+      "mid" : "POMS_BNN_160589",
+      "type" : "BROADCAST",
+      "avType" : "AUDIO",
+      "workflow" : "PUBLISHED",
+      "sortDate" : 1353094200000,
+      "creationDate" : 1352964826343,
+      "lastModified" : 1363601855493,
+      "urn" : "urn:vpro:media:program:16237180",
       "embeddable" : true,
       "episodeOf" : [ {
-        "midRef" : "AUTO_COENENSANDERSHO",
-        "urnRef" : "urn:vpro:media:group:15710900",
+        "midRef" : "AUTO_BNNTODAY",
+        "urnRef" : "urn:vpro:media:group:13405331",
         "type" : "SERIES",
-        "index" : 104,
+        "index" : 119,
         "highlighted" : false,
-        "added" : 1425703856277
+        "added" : 1352964865792
       } ],
-      "crids" : [ "crid://broadcast.radiobox2/337744" ],
+      "crids" : [ "crid://broadcast.radiobox2/193435" ],
       "broadcasters" : [ {
         "id" : "BNN",
         "value" : "BNN"
       } ],
       "titles" : [ {
-        "value" : "Coen en Sander Show",
+        "value" : "BNN Today",
         "owner" : "RADIOBOX",
+        "type" : "MAIN"
+      }, {
+        "value" : "BNN Today",
+        "owner" : "NEBO",
+        "type" : "MAIN"
+      }, {
+        "value" : "BNN Today",
+        "owner" : "MIS",
         "type" : "MAIN"
       } ],
       "descriptions" : [ {
-        "value" : "Ditjes en Datjes, omlijst met muziek.... Gasten van allure, die zingen en dichten, vliegensvlugge vragen, prijzen en nieuwe bandjes. Chaos en rumoer, een lach en een traan. Je hoort het iedere dag van 16 tot 19 uur op 3FM (behalve op vrijdag, dan tot 18.00 uur).",
-        "owner" : "RADIOBOX",
+        "value" : "Willemijn Veenhoven kijkt in BNN Today verder dan de headlnes. Toegankelijk maar zeker niet oppervlakkig. Met een extra focus op crime, entertainment, showbizz, sport, nieuwe media en reizen. Luuk Ikink schuift aan met een frappant nieuwsoverzicht in Today's Topics. Verslaggever Joris gaat iedere dag op avontuur. Vaste gasten zijn Erben Wennemars, Floortje Dessing, Mick van Wely, Mark Koster, Jakhals Erik, Alberto Stegeman, Barbara Barend en Sander Lantinga.",
+        "owner" : "NEBO",
         "type" : "MAIN"
+      }, {
+        "value" : "BNN Today geeft de avond van Radio 1 smoel. Met een frisse blik wordt het nieuws van de dag besproken. Vaste experts praten dagelijks over hun vakgebied: zo hoor je onder andere Erben Wennemars over sport, Bridget Maasland duikt in de wereld van entertainment en Floortje Dessing neemt je mee op reis. Verder iedere dag: Exit Holland. In dit item vertellen Nederlanders die in het buitenland wonen over hun leven daar.",
+        "owner" : "MIS",
+        "type" : "MAIN"
+      }, {
+        "value" : "Willemijn Veenhoven kijkt in BNN Today verder dan de headlnes. Toegankelijk maar zeker niet oppervlakkig. Met een extra focus op crime, entertainment, showbizz, sport, nieuwe media en reizen. Luuk Ikink schuift aan met een frappant nieuwsoverzicht in Today's Topics. Verslaggever Joris gaat iedere dag op avontuur. Vaste gasten zijn Erben Wennemars, Floortje Dessing, Mick van Wely, Mark Koster, Jakhals Erik, Alberto Stegeman, Barbara Barend en Sander Lantinga.",
+        "owner" : "NEBO",
+        "type" : "SHORT"
+      }, {
+        "value" : "Met een frisse blik wordt het nieuws van de dag besproken. Vaste experts praten dagelijks over hun vakgebied. En iedere dag: Exit Holland: Nederlanders vertellen over hun leven in het buitenland.",
+        "owner" : "MIS",
+        "type" : "SHORT"
+      }, {
+        "value" : "Willemijn Veenhoven kijkt in BNN Today verder dan de headlnes. Toegankelijk maar zeker niet oppervlakkig. Met een extra focus op crime, entertainment, showbizz, sport, nieuwe media en reizen. Luuk Ikink schuift aan met een frappant nieuwsoverzicht in Today's Topics. Verslaggever Joris gaat iedere dag op avontuur. Vaste gasten zijn Erben Wennemars, Floortje Dessing, Mick van Wely, Mark Koster, Jakhals Erik, Alberto Stegeman, Barbara Barend en Sander Lantinga.",
+        "owner" : "NEBO",
+        "type" : "EPISODE"
       } ],
       "genres" : [ ],
       "countries" : [ ],
       "languages" : [ ],
-      "credits" : [ {
-        "givenName" : "Coen",
-        "familyName" : "Swijnenberg",
-        "role" : "PRESENTER"
-      }, {
-        "givenName" : "Sander",
-        "familyName" : "Lantinga",
-        "role" : "PRESENTER"
-      } ],
+      "duration" : 9060000,
       "descendantOf" : [ {
-        "midRef" : "AUTO_COENENSANDERSHO",
-        "urnRef" : "urn:vpro:media:group:15710900",
+        "midRef" : "AUTO_BNNTODAY",
+        "urnRef" : "urn:vpro:media:group:13405331",
         "type" : "SERIES"
       } ],
+      "email" : [ "bnntoday@bnn.nl" ],
+      "websites" : [ {
+        "value" : "http://www.bnn.nl/page/bnntoday"
+      } ],
+      "predictions" : [ {
+        "state" : "REALIZED",
+        "platform" : "INTERNETVOD"
+      } ],
       "locations" : [ {
-        "programUrl" : "http://radiobox2.omroep.nl/broadcaststream/file/430757.mp3",
+        "programUrl" : "http://download.omroep.nl/audiologging/r1/2012/11/16/2030_2200_bnn_today.mp3",
         "avAttributes" : {
           "avFileFormat" : "MP3"
         },
+        "duration" : 5400000,
         "owner" : "RADIOBOX",
-        "creationDate" : 1427908791012,
-        "lastModified" : 1427908801846,
+        "creationDate" : 1363601851126,
+        "lastModified" : 1363601855491,
         "workflow" : "PUBLISHED",
-        "urn" : "urn:vpro:media:location:46834078"
+        "urn" : "urn:vpro:media:location:23360179"
       } ],
       "scheduleEvents" : [ {
-        "guideDay" : 1427839200000,
-        "start" : 1427896800000,
-        "duration" : 10800000,
-        "poProgID" : "RBX_BNN_793586",
-        "channel" : "RAD3",
-        "urnRef" : "urn:vpro:media:program:46178578",
-        "midRef" : "RBX_BNN_793586"
+        "start" : 1353094200000,
+        "duration" : 5640000,
+        "poProgID" : "POMS_BNN_160589",
+        "channel" : "RAD1",
+        "imi" : "imi:53920",
+        "urnRef" : "urn:vpro:media:program:16237180",
+        "midRef" : "POMS_BNN_160589"
       } ],
       "images" : [ {
-        "title" : "228E5924.jpg",
-        "imageUri" : "urn:vpro:image:398375",
-        "height" : 5616,
-        "width" : 3744,
+        "title" : "BNN Today",
+        "description" : "BNN Today",
+        "imageUri" : "urn:vpro:image:120704",
         "owner" : "RADIOBOX",
         "type" : "PICTURE",
         "highlighted" : false,
-        "creationDate" : 1427773639385,
-        "lastModified" : 1427773643996,
+        "creationDate" : 1363601853860,
+        "lastModified" : 1363601855490,
         "workflow" : "PUBLISHED",
-        "urn" : "urn:vpro:media:image:46801480"
-      } ],
-      "publishDate" : 1427909079993,
-      "workflow" : "PUBLISHED",
-      "segments" : [ {
-        "objectType" : "segment",
-        "mid" : "RBX_BNN_826303",
-        "creationDate" : 1427905184517,
-        "lastModified" : 1427905184689,
-        "sortDate" : 1427896800000,
-        "urn" : "urn:vpro:media:segment:46833446",
-        "embeddable" : true,
-        "crids" : [ "crid://audiofragment.radiobox2/180211" ],
-        "broadcasters" : [ {
-          "id" : "BNN",
-          "value" : "BNN"
-        } ],
-        "titles" : [ {
-          "value" : "Jim de Groot brengt album uit op dag van The Passion",
-          "owner" : "RADIOBOX",
-          "type" : "MAIN"
-        } ],
-        "genres" : [ ],
-        "tags" : [ "album", "Coen en Sander", "Jezus", "Jim de Groot", "Passion" ],
-        "countries" : [ ],
-        "languages" : [ ],
-        "duration" : 420000,
-        "descendantOf" : [ {
-          "midRef" : "AUTO_COENENSANDERSHO",
-          "urnRef" : "urn:vpro:media:group:15710900",
-          "type" : "SERIES"
-        }, {
-          "midRef" : "RBX_BNN_793586",
-          "urnRef" : "urn:vpro:media:program:46178578",
-          "type" : "BROADCAST"
-        } ],
-        "locations" : [ {
-          "programUrl" : "http://radiobox2.omroep.nl/audiofragment/file/180211/fragment.mp3",
-          "avAttributes" : {
-            "avFileFormat" : "MP3"
-          },
-          "owner" : "RADIOBOX",
-          "creationDate" : 1427905179065,
-          "lastModified" : 1427905184691,
-          "workflow" : "PUBLISHED",
-          "urn" : "urn:vpro:media:location:46833448"
-        } ],
-        "publishDate" : 1427905303508,
-        "workflow" : "PUBLISHED",
-        "start" : 1224000,
-        "urnRef" : "urn:vpro:media:program:46178578",
-        "midRef" : "RBX_BNN_793586",
-        "type" : "SEGMENT",
-        "avType" : "AUDIO"
-      }, {
-        "objectType" : "segment",
-        "mid" : "RBX_BNN_826293",
-        "creationDate" : 1427901296426,
-        "lastModified" : 1427901296516,
-        "sortDate" : 1427896800000,
-        "urn" : "urn:vpro:media:segment:46833062",
-        "embeddable" : true,
-        "crids" : [ "crid://audiofragment.radiobox2/180208" ],
-        "broadcasters" : [ {
-          "id" : "BNN",
-          "value" : "BNN"
-        } ],
-        "titles" : [ {
-          "value" : "NOS op 3: jonge boeren blij met het verdwijnen van het melkquotum",
-          "owner" : "RADIOBOX",
-          "type" : "MAIN"
-        } ],
-        "genres" : [ ],
-        "tags" : [ "Melkquotum", "nos op 3", "nosop3" ],
-        "countries" : [ ],
-        "languages" : [ ],
-        "duration" : 118000,
-        "descendantOf" : [ {
-          "midRef" : "AUTO_COENENSANDERSHO",
-          "urnRef" : "urn:vpro:media:group:15710900",
-          "type" : "SERIES"
-        }, {
-          "midRef" : "RBX_BNN_793586",
-          "urnRef" : "urn:vpro:media:program:46178578",
-          "type" : "BROADCAST"
-        } ],
-        "locations" : [ {
-          "programUrl" : "http://radiobox2.omroep.nl/audiofragment/file/180208/fragment.mp3",
-          "avAttributes" : {
-            "avFileFormat" : "MP3"
-          },
-          "owner" : "RADIOBOX",
-          "creationDate" : 1427901282557,
-          "lastModified" : 1427901296517,
-          "workflow" : "PUBLISHED",
-          "urn" : "urn:vpro:media:location:46833064"
-        } ],
-        "publishDate" : 1427901575615,
-        "workflow" : "PUBLISHED",
-        "start" : 3722000,
-        "urnRef" : "urn:vpro:media:program:46178578",
-        "midRef" : "RBX_BNN_793586",
-        "type" : "SEGMENT",
-        "avType" : "AUDIO"
-      }, {
-        "objectType" : "segment",
-        "mid" : "RBX_BNN_826302",
-        "creationDate" : 1427905184538,
-        "lastModified" : 1427905184692,
-        "sortDate" : 1427896800000,
-        "urn" : "urn:vpro:media:segment:46833450",
-        "embeddable" : true,
-        "crids" : [ "crid://audiofragment.radiobox2/180210" ],
-        "broadcasters" : [ {
-          "id" : "BNN",
-          "value" : "BNN"
-        } ],
-        "titles" : [ {
-          "value" : "Hoera! Teletekst bestaat 35 jaar!",
-          "owner" : "RADIOBOX",
-          "type" : "MAIN"
-        } ],
-        "genres" : [ ],
-        "tags" : [ "1 april", "101", "35 jaar", "Coen en Sander", "Matijn Nijhuis", "NOS", "Teletekst" ],
-        "countries" : [ ],
-        "languages" : [ ],
-        "duration" : 485000,
-        "descendantOf" : [ {
-          "midRef" : "AUTO_COENENSANDERSHO",
-          "urnRef" : "urn:vpro:media:group:15710900",
-          "type" : "SERIES"
-        }, {
-          "midRef" : "RBX_BNN_793586",
-          "urnRef" : "urn:vpro:media:program:46178578",
-          "type" : "BROADCAST"
-        } ],
-        "locations" : [ {
-          "programUrl" : "http://radiobox2.omroep.nl/audiofragment/file/180210/fragment.mp3",
-          "avAttributes" : {
-            "avFileFormat" : "MP3"
-          },
-          "owner" : "RADIOBOX",
-          "creationDate" : 1427905179065,
-          "lastModified" : 1427905184693,
-          "workflow" : "PUBLISHED",
-          "urn" : "urn:vpro:media:location:46833452"
-        } ],
-        "publishDate" : 1427905303302,
-        "workflow" : "PUBLISHED",
-        "start" : 4271000,
-        "urnRef" : "urn:vpro:media:program:46178578",
-        "midRef" : "RBX_BNN_793586",
-        "type" : "SEGMENT",
-        "avType" : "AUDIO"
-      }, {
-        "objectType" : "segment",
-        "mid" : "RBX_BNN_826347",
-        "creationDate" : 1427906403703,
-        "lastModified" : 1427906403869,
-        "sortDate" : 1427896800000,
-        "urn" : "urn:vpro:media:segment:46833509",
-        "embeddable" : true,
-        "crids" : [ "crid://audiofragment.radiobox2/180214" ],
-        "broadcasters" : [ {
-          "id" : "BNN",
-          "value" : "BNN"
-        } ],
-        "titles" : [ {
-          "value" : "Kaboutertje Dopvleugel en de kuifhaarmuts",
-          "owner" : "RADIOBOX",
-          "type" : "MAIN"
-        } ],
-        "genres" : [ ],
-        "tags" : [ "Betsie", "Coen en Sander", "Francis", "Kaboutertje Dopvleugel", "kuifhaarmuts" ],
-        "countries" : [ ],
-        "languages" : [ ],
-        "duration" : 319000,
-        "descendantOf" : [ {
-          "midRef" : "AUTO_COENENSANDERSHO",
-          "urnRef" : "urn:vpro:media:group:15710900",
-          "type" : "SERIES"
-        }, {
-          "midRef" : "RBX_BNN_793586",
-          "urnRef" : "urn:vpro:media:program:46178578",
-          "type" : "BROADCAST"
-        } ],
-        "locations" : [ {
-          "programUrl" : "http://radiobox2.omroep.nl/audiofragment/file/180214/fragment.mp3",
-          "avAttributes" : {
-            "avFileFormat" : "MP3"
-          },
-          "owner" : "RADIOBOX",
-          "creationDate" : 1427906392248,
-          "lastModified" : 1427906403870,
-          "workflow" : "PUBLISHED",
-          "urn" : "urn:vpro:media:location:46833511"
-        } ],
-        "publishDate" : 1427906528054,
-        "workflow" : "PUBLISHED",
-        "start" : 6520000,
-        "urnRef" : "urn:vpro:media:program:46178578",
-        "midRef" : "RBX_BNN_793586",
-        "type" : "SEGMENT",
-        "avType" : "AUDIO"
-      }, {
-        "objectType" : "segment",
-        "mid" : "RBX_BNN_826351",
-        "creationDate" : 1427906403704,
-        "lastModified" : 1427906403871,
-        "sortDate" : 1427896800000,
-        "urn" : "urn:vpro:media:segment:46833513",
-        "embeddable" : true,
-        "crids" : [ "crid://audiofragment.radiobox2/180216" ],
-        "broadcasters" : [ {
-          "id" : "BNN",
-          "value" : "BNN"
-        } ],
-        "titles" : [ {
-          "value" : "Pieterburen is jaarlijkse 1 april-grap beu",
-          "owner" : "RADIOBOX",
-          "type" : "MAIN"
-        } ],
-        "genres" : [ ],
-        "tags" : [ "1 april", "Arnoud de Vries", "C Hond", "C Leeuw", "Coen en Sander", "overzicht", "Pieterburen" ],
-        "countries" : [ ],
-        "languages" : [ ],
-        "duration" : 415000,
-        "descendantOf" : [ {
-          "midRef" : "AUTO_COENENSANDERSHO",
-          "urnRef" : "urn:vpro:media:group:15710900",
-          "type" : "SERIES"
-        }, {
-          "midRef" : "RBX_BNN_793586",
-          "urnRef" : "urn:vpro:media:program:46178578",
-          "type" : "BROADCAST"
-        } ],
-        "locations" : [ {
-          "programUrl" : "http://radiobox2.omroep.nl/audiofragment/file/180216/fragment.mp3",
-          "avAttributes" : {
-            "avFileFormat" : "MP3"
-          },
-          "owner" : "RADIOBOX",
-          "creationDate" : 1427906392249,
-          "lastModified" : 1427906403872,
-          "workflow" : "PUBLISHED",
-          "urn" : "urn:vpro:media:location:46833515"
-        } ],
-        "publishDate" : 1427906527313,
-        "workflow" : "PUBLISHED",
-        "start" : 8530000,
-        "urnRef" : "urn:vpro:media:program:46178578",
-        "midRef" : "RBX_BNN_793586",
-        "type" : "SEGMENT",
-        "avType" : "AUDIO"
-      } ],
-      "type" : "BROADCAST",
-      "avType" : "AUDIO"
+        "urn" : "urn:vpro:media:image:23360177"
+      } ]
     }
   }, {
-    "score" : 17.627954,
+    "score" : 12.549135,
     "highlights" : [ ],
     "result" : {
       "objectType" : "program",
-      "mid" : "RBX_BNN_792925",
-      "creationDate" : 1425617103486,
-      "lastModified" : 1427822394783,
-      "sortDate" : 1427810400000,
-      "urn" : "urn:vpro:media:program:46165180",
+      "mid" : "POW_00479474",
+      "type" : "BROADCAST",
+      "avType" : "VIDEO",
+      "workflow" : "PUBLISHED",
+      "sortDate" : 1355086800000,
+      "creationDate" : 1352958384722,
+      "lastModified" : 1394337876666,
+      "urn" : "urn:vpro:media:program:16234793",
       "embeddable" : true,
       "episodeOf" : [ {
-        "midRef" : "AUTO_COENENSANDERSHO",
-        "urnRef" : "urn:vpro:media:group:15710900",
-        "type" : "SERIES",
-        "index" : 103,
+        "midRef" : "POW_00479465",
+        "urnRef" : "urn:vpro:media:group:15311972",
+        "type" : "SEASON",
+        "index" : 1,
         "highlighted" : false,
-        "added" : 1425617103673
+        "added" : 1352958384874
+      }, {
+        "midRef" : "POW_00478985",
+        "urnRef" : "urn:vpro:media:group:15312012",
+        "type" : "SEASON",
+        "index" : 1,
+        "highlighted" : false,
+        "added" : 1355090168030
       } ],
-      "crids" : [ "crid://broadcast.radiobox2/337718" ],
+      "crids" : [ "crid://tmp.program.omroep.nl/15034979" ],
       "broadcasters" : [ {
         "id" : "BNN",
         "value" : "BNN"
       } ],
       "titles" : [ {
-        "value" : "Coen en Sander Show",
-        "owner" : "RADIOBOX",
+        "value" : "Spuiten en slikken",
+        "owner" : "NEBO",
+        "type" : "MAIN"
+      }, {
+        "value" : "Spuiten en slikken",
+        "owner" : "MIS",
+        "type" : "MAIN"
+      }, {
+        "value" : "Spuiten en slikken",
+        "owner" : "CERES",
+        "type" : "MAIN"
+      }, {
+        "value" : "Spuiten en Slikken",
+        "owner" : "WHATS_ON",
         "type" : "MAIN"
       } ],
       "descriptions" : [ {
-        "value" : "Ditjes en Datjes, omlijst met muziek.... Gasten van allure, die zingen en dichten, vliegensvlugge vragen, prijzen en nieuwe bandjes. Chaos en rumoer, een lach en een traan. Je hoort het iedere dag van 16 tot 19 uur op 3FM (behalve op vrijdag, dan tot 18.00 uur).",
-        "owner" : "RADIOBOX",
+        "value" : "Filemon Wesselink keert voor zeven afleveringen terug als gastheer van Spuiten en Slikken. Samen met Geraldine Kemper en nieuwkomer Tim Hofman duikt hij in de wereld van seks en drugs. Hij ontvangt naast BN'ers, gasten die vanuit hun deskundigheid of ervaring een interessante mening hebben over het pittigste seks-en drugsnieuws. Verslaggevers Geraldine en Tim maken reportages in de spannendste hoeken van Nederland en de Amsterdamse Ouwe Hoeren geven deskundig advies aan iedereen die vragen heeft over hun eigen seksleven. Een nieuw Spuiten en Slikken, maar nog steeds informatief, geil, leerzaam en spannend.",
+        "owner" : "NEBO",
         "type" : "MAIN"
+      }, {
+        "value" : "Filemon Wesselink keert voor zeven afleveringen terug als gastheer van Spuiten en Slikken. Samen met Geraldine Kemper en nieuwkomer Tim Hofman duikt hij in de wereld van seks en drugs. Hij ontvangt naast BN'ers, gasten die vanuit hun deskundigheid of ervaring een interessante mening hebben over het pittigste seks-en drugsnieuws. Verslaggevers Geraldine en Tim maken reportages in de spannendste hoeken van Nederland en de Amsterdamse Ouwe Hoeren geven deskundig advies aan iedereen die vragen heeft over hun eigen seksleven. Een nieuw Spuiten en Slikken, maar nog steeds informatief, geil, leerzaam en spannend.",
+        "owner" : "MIS",
+        "type" : "MAIN"
+      }, {
+        "value" : "Filemon Wesselink keert voor zeven afleveringen terug als gastheer van Spuiten en Slikken. Samen met Geraldine Kemper en nieuwkomer Tim Hofman duikt hij in de wereld van seks en drugs. Hij ontvangt naast BN'ers, gasten die vanuit hun deskundigheid of ervaring een interessante mening hebben over het pittigste seks-en drugsnieuws. Verslaggevers Geraldine en Tim maken reportages in de spannendste hoeken van Nederland en de Amsterdamse Ouwe Hoeren geven deskundig advies aan iedereen die vragen heeft over hun eigen seksleven. Een nieuw Spuiten en Slikken, maar nog steeds informatief, geil, leerzaam en spannend.",
+        "owner" : "CERES",
+        "type" : "MAIN"
+      }, {
+        "value" : "Filemon Wesselink keert voor zeven afleveringen terug als gastheer van Spuiten en Slikken. Samen met Geraldine Kemper en nieuwkomer Tim Hofman duikt hij in de wereld van seks en drugs. Iedere zondag ontvangt hij naast BN'ers, gasten die vanuit hun deskundigheid of ervaring een interessante mening hebben over het pittigste seks-en drugsnieuws. Verslaggevers Geraldine en Tim maken reportages in de spannendste hoeken van Nederland en de Amsterdamse Ouwe Hoeren geven deskundig advies aan iedereen die vragen heeft over hun eigen seksleven. Een nieuw Spuiten en Slikken, maar nog steeds informatief, geil, leerzaam en spannend.",
+        "owner" : "WHATS_ON",
+        "type" : "MAIN"
+      }, {
+        "value" : "Filemon Wesselink keert voor zeven afleveringen terug als gastheer van Spuiten en Slikken. Samen met Geraldine Kemper en nieuwkomer Tim Hofman duikt hij in de wereld van seks en drugs.",
+        "owner" : "NEBO",
+        "type" : "SHORT"
+      }, {
+        "value" : "Filemon Wesselink keert voor zeven afleveringen terug als gastheer van Spuiten en Slikken. Samen met Geraldine Kemper en nieuwkomer Tim Hofman duikt hij in de wereld van seks en drugs.",
+        "owner" : "MIS",
+        "type" : "SHORT"
+      }, {
+        "value" : "Filemon Wesselink keert voor zeven afleveringen terug als gastheer van Spuiten en Slikken. Samen met Geraldine Kemper en nieuwkomer Tim Hofman duikt hij in de wereld van seks en drugs.",
+        "owner" : "CERES",
+        "type" : "SHORT"
+      }, {
+        "value" : "Filemon Wesselink keert voor zeven afleveringen terug als gastheer van Spuiten en Slikken. Samen met Geraldine Kemper en nieuwkomer Tim Hofman duikt hij in de wereld van seks en drugs. Iedere zondag ontvangt hij naast BN'ers, gasten die vanuit hun deskundigheid of ervaring een interessante mening hebben over het pittigste seks-en drugsnieuws. Verslaggevers Geraldine en Tim maken reportages in de spannendste hoeken van Nederland en de Amsterdamse Ouwe Hoeren geven deskundig advies aan iedereen die vragen heeft over hun eigen seksleven. Een nieuw Spuiten en Slikken, maar nog steeds informatief, geil, leerzaam en spannend.",
+        "owner" : "WHATS_ON",
+        "type" : "SHORT"
+      }, {
+        "value" : "Filemon Wesselink keert voor zeven afleveringen terug als gastheer van Spuiten en Slikken. Samen met Geraldine Kemper en nieuwkomer Tim Hofman duikt hij in de wereld van seks en drugs. Hij ontvangt naast BN'ers, gasten die vanuit hun deskundigheid of ervaring een interessante mening hebben over het pittigste seks-en drugsnieuws. Verslaggevers Geraldine en Tim maken reportages in de spannendste hoeken van Nederland en de Amsterdamse Ouwe Hoeren geven deskundig advies aan iedereen die vragen heeft over hun eigen seksleven. Een nieuw Spuiten en Slikken, maar nog steeds informatief, geil, leerzaam en spannend. Presentatie: Filemon Wesselink, Geraldine Kemper, Tim Hofman.",
+        "owner" : "NEBO",
+        "type" : "EPISODE"
       } ],
-      "genres" : [ ],
+      "genres" : [ {
+        "id" : "3.0.1.6",
+        "terms" : [ "Amusement" ]
+      } ],
+      "hasSubtitles" : true,
       "countries" : [ ],
       "languages" : [ ],
+      "avAttributes" : {
+        "videoAttributes" : {
+          "color" : "BLACK_AND_WHITE_AND_COLOR",
+          "aspectRatio" : "16:9"
+        },
+        "audioAttributes" : {
+          "numberOfChannels" : 2
+        }
+      },
+      "duration" : 3300000,
       "credits" : [ {
-        "givenName" : "Coen",
-        "familyName" : "Swijnenberg",
+        "givenName" : "Tim",
+        "familyName" : "Hofman",
         "role" : "PRESENTER"
       }, {
-        "givenName" : "Sander",
-        "familyName" : "Lantinga",
+        "givenName" : "Geraldine",
+        "familyName" : "Kemper",
+        "role" : "PRESENTER"
+      }, {
+        "givenName" : "Filemon",
+        "familyName" : "Wesselink",
         "role" : "PRESENTER"
       } ],
       "descendantOf" : [ {
-        "midRef" : "AUTO_COENENSANDERSHO",
-        "urnRef" : "urn:vpro:media:group:15710900",
+        "midRef" : "POW_00479465",
+        "urnRef" : "urn:vpro:media:group:15311972",
+        "type" : "SEASON"
+      }, {
+        "midRef" : "POW_00478985",
+        "urnRef" : "urn:vpro:media:group:15312012",
+        "type" : "SEASON"
+      }, {
+        "midRef" : "POMS_S_AVRO_096388",
+        "urnRef" : "urn:vpro:media:group:18438227",
+        "type" : "ARCHIVE"
+      }, {
+        "midRef" : "POMS_S_BNN_097254",
+        "urnRef" : "urn:vpro:media:group:18537991",
+        "type" : "SERIES"
+      }, {
+        "midRef" : "POMS_S_BNN_123417",
+        "urnRef" : "urn:vpro:media:group:21214893",
         "type" : "SERIES"
       } ],
+      "ageRating" : "16",
+      "contentRatings" : [ "SEKS", "DRUGS_EN_ALCOHOL" ],
+      "predictions" : [ {
+        "state" : "REALIZED",
+        "publishStart" : 1355090100000,
+        "platform" : "INTERNETVOD"
+      } ],
       "locations" : [ {
-        "programUrl" : "http://radiobox2.omroep.nl/broadcaststream/file/430680.mp3",
+        "programUrl" : "odip+http://odi.omroep.nl/video/adaptive/POW_00479474",
         "avAttributes" : {
-          "avFileFormat" : "MP3"
+          "avFileFormat" : "HASP"
         },
-        "owner" : "RADIOBOX",
-        "creationDate" : 1427822380591,
-        "lastModified" : 1427822394776,
+        "owner" : "CERES",
+        "creationDate" : 1355091369969,
+        "lastModified" : 1355091370203,
+        "publishStart" : 1355090100000,
         "workflow" : "PUBLISHED",
-        "urn" : "urn:vpro:media:location:46816638"
+        "urn" : "urn:vpro:media:location:16838091"
+      }, {
+        "programUrl" : "odi+http://odi.omroep.nl/video/h264_sb/POW_00479474",
+        "avAttributes" : {
+          "bitrate" : 204800,
+          "avFileFormat" : "MP4",
+          "videoAttributes" : {
+            "videoCoding" : "MP4",
+            "aspectRatio" : "16:9"
+          }
+        },
+        "owner" : "NEBO",
+        "platform" : "INTERNETVOD",
+        "creationDate" : 1361044462144,
+        "lastModified" : 1361044462340,
+        "publishStart" : 1355090100000,
+        "workflow" : "PUBLISHED",
+        "urn" : "urn:vpro:media:location:21215017"
+      }, {
+        "programUrl" : "odi+http://odi.omroep.nl/video/h264_bb/POW_00479474",
+        "avAttributes" : {
+          "bitrate" : 512000,
+          "avFileFormat" : "MP4",
+          "videoAttributes" : {
+            "videoCoding" : "MP4",
+            "aspectRatio" : "16:9"
+          }
+        },
+        "owner" : "NEBO",
+        "platform" : "INTERNETVOD",
+        "creationDate" : 1361044462145,
+        "lastModified" : 1361044462341,
+        "publishStart" : 1355090100000,
+        "workflow" : "PUBLISHED",
+        "urn" : "urn:vpro:media:location:21215020"
+      }, {
+        "programUrl" : "odi+http://odi.omroep.nl/video/h264_std/POW_00479474",
+        "avAttributes" : {
+          "bitrate" : 1024000,
+          "avFileFormat" : "MP4",
+          "videoAttributes" : {
+            "videoCoding" : "MP4",
+            "aspectRatio" : "16:9"
+          }
+        },
+        "owner" : "NEBO",
+        "platform" : "INTERNETVOD",
+        "creationDate" : 1361044462144,
+        "lastModified" : 1361044462342,
+        "publishStart" : 1355090100000,
+        "workflow" : "PUBLISHED",
+        "urn" : "urn:vpro:media:location:21215023"
+      }, {
+        "programUrl" : "odi+http://odi.omroep.nl/video/wvc1_std/POW_00479474",
+        "avAttributes" : {
+          "bitrate" : 1024000,
+          "avFileFormat" : "WVC1",
+          "videoAttributes" : {
+            "videoCoding" : "MP4",
+            "aspectRatio" : "16:9"
+          }
+        },
+        "owner" : "NEBO",
+        "platform" : "INTERNETVOD",
+        "creationDate" : 1361044462144,
+        "lastModified" : 1361044462343,
+        "publishStart" : 1355090100000,
+        "workflow" : "PUBLISHED",
+        "urn" : "urn:vpro:media:location:21215026"
+      }, {
+        "programUrl" : "odi+http://odi.omroep.nl/video/wmv_sb/POW_00479474",
+        "avAttributes" : {
+          "bitrate" : 204800,
+          "avFileFormat" : "WM",
+          "videoAttributes" : {
+            "videoCoding" : "MP4",
+            "aspectRatio" : "16:9"
+          }
+        },
+        "owner" : "NEBO",
+        "platform" : "INTERNETVOD",
+        "creationDate" : 1361044462144,
+        "lastModified" : 1361044462345,
+        "publishStart" : 1355090100000,
+        "workflow" : "PUBLISHED",
+        "urn" : "urn:vpro:media:location:21215029"
+      }, {
+        "programUrl" : "odi+http://odi.omroep.nl/video/wmv_bb/POW_00479474",
+        "avAttributes" : {
+          "bitrate" : 512000,
+          "avFileFormat" : "WM",
+          "videoAttributes" : {
+            "videoCoding" : "MP4",
+            "aspectRatio" : "16:9"
+          }
+        },
+        "owner" : "NEBO",
+        "platform" : "INTERNETVOD",
+        "creationDate" : 1361044462144,
+        "lastModified" : 1361044462346,
+        "publishStart" : 1355090100000,
+        "workflow" : "PUBLISHED",
+        "urn" : "urn:vpro:media:location:21215032"
       } ],
       "scheduleEvents" : [ {
-        "guideDay" : 1427752800000,
-        "start" : 1427810400000,
-        "duration" : 10800000,
-        "poProgID" : "RBX_BNN_792925",
-        "channel" : "RAD3",
-        "urnRef" : "urn:vpro:media:program:46165180",
-        "midRef" : "RBX_BNN_792925"
+        "avAttributes" : {
+          "bitrate" : 0,
+          "avFileFormat" : "MP4",
+          "videoAttributes" : {
+            "videoCoding" : "MP4",
+            "aspectRatio" : "16:9"
+          }
+        },
+        "textSubtitles" : "Teletekst ondertitels",
+        "start" : 1355086800000,
+        "duration" : 3300000,
+        "poProgID" : "POW_00479474",
+        "channel" : "NED3",
+        "urnRef" : "urn:vpro:media:program:16234793",
+        "midRef" : "POW_00479474"
       } ],
       "images" : [ {
-        "title" : "228E5924.jpg",
-        "imageUri" : "urn:vpro:image:398375",
-        "height" : 5616,
-        "width" : 3744,
-        "owner" : "RADIOBOX",
-        "type" : "PICTURE",
+        "title" : "Spuiten en slikken",
+        "description" : "Filemon Wesselink keert voor zeven afleveringen terug als gastheer van Spuiten en Slikken. Samen met Geraldine Kemper en nieuwkomer Tim Hofman duikt hij in de wereld van seks en drugs.",
+        "imageUri" : "urn:vpro:image:120649",
+        "owner" : "NEBO",
+        "type" : "STILL",
         "highlighted" : false,
-        "creationDate" : 1427818791755,
-        "lastModified" : 1427818820117,
+        "creationDate" : 1355092221900,
+        "lastModified" : 1355092226591,
         "workflow" : "PUBLISHED",
-        "urn" : "urn:vpro:media:image:46816056"
-      } ],
-      "publishDate" : 1427823100727,
-      "workflow" : "PUBLISHED",
-      "segments" : [ {
-        "objectType" : "segment",
-        "mid" : "POMS_BNN_1304693",
-        "creationDate" : 1427818819876,
-        "lastModified" : 1427818820120,
-        "sortDate" : 1427810400000,
-        "urn" : "urn:vpro:media:segment:46816059",
-        "embeddable" : true,
-        "crids" : [ "crid://audiofragment.radiobox2/180081" ],
-        "broadcasters" : [ {
-          "id" : "BNN",
-          "value" : "BNN"
-        } ],
-        "titles" : [ {
-          "value" : "Mediatransfer: Jan Jaap van der Wal wordt columnist VIVA Forum",
-          "owner" : "RADIOBOX",
-          "type" : "MAIN"
-        } ],
-        "genres" : [ ],
-        "tags" : [ "Coen en Sander", "Jan Jaap", "Jan Jaap van der Wal", "mediatransfer", "VIVA", "Viva Forum" ],
-        "countries" : [ ],
-        "languages" : [ ],
-        "duration" : 469000,
-        "descendantOf" : [ {
-          "midRef" : "AUTO_COENENSANDERSHO",
-          "urnRef" : "urn:vpro:media:group:15710900",
-          "type" : "SERIES"
-        }, {
-          "midRef" : "RBX_BNN_792925",
-          "urnRef" : "urn:vpro:media:program:46165180",
-          "type" : "BROADCAST"
-        } ],
-        "locations" : [ {
-          "programUrl" : "http://radiobox2.omroep.nl/audiofragment/file/180081/fragment.mp3",
-          "avAttributes" : {
-            "avFileFormat" : "MP3"
-          },
-          "owner" : "RADIOBOX",
-          "creationDate" : 1427818788769,
-          "lastModified" : 1427818820122,
-          "workflow" : "PUBLISHED",
-          "urn" : "urn:vpro:media:location:46816061"
-        } ],
-        "publishDate" : 1427819379227,
-        "workflow" : "PUBLISHED",
-        "start" : 1404000,
-        "urnRef" : "urn:vpro:media:program:46165180",
-        "midRef" : "RBX_BNN_792925",
-        "type" : "SEGMENT",
-        "avType" : "AUDIO"
+        "urn" : "urn:vpro:media:image:16838113"
       }, {
-        "objectType" : "segment",
-        "mid" : "RBX_BNN_824331",
-        "creationDate" : 1427818819883,
-        "lastModified" : 1427818820123,
-        "sortDate" : 1427810400000,
-        "urn" : "urn:vpro:media:segment:46816063",
-        "embeddable" : true,
-        "crids" : [ "crid://audiofragment.radiobox2/180079" ],
-        "broadcasters" : [ {
-          "id" : "BNN",
-          "value" : "BNN"
-        } ],
-        "titles" : [ {
-          "value" : "Is Nederland in 2040 seksloos?",
-          "owner" : "RADIOBOX",
-          "type" : "MAIN"
-        } ],
-        "genres" : [ ],
-        "tags" : [ "Brits onderzoek", "Coen en Sander", "seks", "seksloos", "seksuologe", "sex", "Wil Berghuis" ],
-        "countries" : [ ],
-        "languages" : [ ],
-        "duration" : 465000,
-        "descendantOf" : [ {
-          "midRef" : "AUTO_COENENSANDERSHO",
-          "urnRef" : "urn:vpro:media:group:15710900",
-          "type" : "SERIES"
-        }, {
-          "midRef" : "RBX_BNN_792925",
-          "urnRef" : "urn:vpro:media:program:46165180",
-          "type" : "BROADCAST"
-        } ],
-        "locations" : [ {
-          "programUrl" : "http://radiobox2.omroep.nl/audiofragment/file/180079/fragment.mp3",
-          "avAttributes" : {
-            "avFileFormat" : "MP3"
-          },
-          "owner" : "RADIOBOX",
-          "creationDate" : 1427818788766,
-          "lastModified" : 1427818820124,
-          "workflow" : "PUBLISHED",
-          "urn" : "urn:vpro:media:location:46816065"
-        } ],
-        "publishDate" : 1427819376841,
+        "title" : "Spuiten en slikken",
+        "description" : "Filemon Wesselink keert voor zeven afleveringen terug als gastheer van Spuiten en Slikken. Samen met Geraldine Kemper en nieuwkomer Tim Hofman duikt hij in de wereld van seks en drugs.",
+        "imageUri" : "urn:vpro:image:120650",
+        "owner" : "NEBO",
+        "type" : "STILL",
+        "highlighted" : false,
+        "creationDate" : 1355092224228,
+        "lastModified" : 1355092226593,
         "workflow" : "PUBLISHED",
-        "start" : 4309000,
-        "urnRef" : "urn:vpro:media:program:46165180",
-        "midRef" : "RBX_BNN_792925",
-        "type" : "SEGMENT",
-        "avType" : "AUDIO"
+        "urn" : "urn:vpro:media:image:16838114"
       }, {
-        "objectType" : "segment",
-        "mid" : "RBX_BNN_824336",
-        "creationDate" : 1427819383177,
-        "lastModified" : 1427819383342,
-        "sortDate" : 1427810400000,
-        "urn" : "urn:vpro:media:segment:46816176",
-        "embeddable" : true,
-        "crids" : [ "crid://audiofragment.radiobox2/180082" ],
-        "broadcasters" : [ {
-          "id" : "BNN",
-          "value" : "BNN"
-        } ],
-        "titles" : [ {
-          "value" : "Jay-Z opent met Tidal aanval op Spotify",
-          "owner" : "RADIOBOX",
-          "type" : "MAIN"
-        } ],
-        "genres" : [ ],
-        "tags" : [ "Eric van Tijn", "Spotify", "Tidal" ],
-        "countries" : [ ],
-        "languages" : [ ],
-        "duration" : 411000,
-        "descendantOf" : [ {
-          "midRef" : "AUTO_COENENSANDERSHO",
-          "urnRef" : "urn:vpro:media:group:15710900",
-          "type" : "SERIES"
-        }, {
-          "midRef" : "RBX_BNN_792925",
-          "urnRef" : "urn:vpro:media:program:46165180",
-          "type" : "BROADCAST"
-        } ],
-        "locations" : [ {
-          "programUrl" : "http://radiobox2.omroep.nl/audiofragment/file/180082/fragment.mp3",
-          "avAttributes" : {
-            "avFileFormat" : "MP3"
-          },
-          "owner" : "RADIOBOX",
-          "creationDate" : 1427819376829,
-          "lastModified" : 1427819383344,
-          "workflow" : "PUBLISHED",
-          "urn" : "urn:vpro:media:location:46816178"
-        } ],
-        "publishDate" : 1427819870255,
+        "title" : "Spuiten en slikken",
+        "description" : "Filemon Wesselink keert voor zeven afleveringen terug als gastheer van Spuiten en Slikken. Samen met Geraldine Kemper en nieuwkomer Tim Hofman duikt hij in de wereld van seks en drugs.",
+        "imageUri" : "urn:vpro:image:120651",
+        "owner" : "NEBO",
+        "type" : "STILL",
+        "highlighted" : false,
+        "creationDate" : 1355092226489,
+        "lastModified" : 1355092226595,
         "workflow" : "PUBLISHED",
-        "start" : 6440000,
-        "urnRef" : "urn:vpro:media:program:46165180",
-        "midRef" : "RBX_BNN_792925",
-        "type" : "SEGMENT",
-        "avType" : "AUDIO"
-      }, {
-        "objectType" : "segment",
-        "mid" : "RBX_BNN_824491",
-        "creationDate" : 1427820346096,
-        "lastModified" : 1427820346265,
-        "sortDate" : 1427810400000,
-        "urn" : "urn:vpro:media:segment:46816445",
-        "embeddable" : true,
-        "crids" : [ "crid://audiofragment.radiobox2/180084" ],
-        "broadcasters" : [ {
-          "id" : "BNN",
-          "value" : "BNN"
-        } ],
-        "titles" : [ {
-          "value" : "Franks favorieten voor De Gouden Klomp",
-          "owner" : "RADIOBOX",
-          "type" : "MAIN"
-        } ],
-        "genres" : [ ],
-        "tags" : [ "3FM Awards", "Coen en Sander", "Frank van der Lende", "Gouden Klomp", "stem nu", "stemmen" ],
-        "countries" : [ ],
-        "languages" : [ ],
-        "duration" : 372000,
-        "descendantOf" : [ {
-          "midRef" : "AUTO_COENENSANDERSHO",
-          "urnRef" : "urn:vpro:media:group:15710900",
-          "type" : "SERIES"
-        }, {
-          "midRef" : "RBX_BNN_792925",
-          "urnRef" : "urn:vpro:media:program:46165180",
-          "type" : "BROADCAST"
-        } ],
-        "locations" : [ {
-          "programUrl" : "http://radiobox2.omroep.nl/audiofragment/file/180084/fragment.mp3",
-          "avAttributes" : {
-            "avFileFormat" : "MP3"
-          },
-          "owner" : "RADIOBOX",
-          "creationDate" : 1427820336661,
-          "lastModified" : 1427820346267,
-          "workflow" : "PUBLISHED",
-          "urn" : "urn:vpro:media:location:46816447"
-        } ],
-        "publishDate" : 1427820527414,
-        "workflow" : "PUBLISHED",
-        "start" : 8657000,
-        "urnRef" : "urn:vpro:media:program:46165180",
-        "midRef" : "RBX_BNN_792925",
-        "type" : "SEGMENT",
-        "avType" : "AUDIO"
-      } ],
-      "type" : "BROADCAST",
-      "avType" : "AUDIO"
+        "urn" : "urn:vpro:media:image:16838115"
+      } ]
     }
   } ]
 }

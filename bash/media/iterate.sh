@@ -13,7 +13,7 @@ function useage() {
     echo Usage:
     echo "[ENV=<prod|test|dev>] $0 [<max number of results> [<profile>]"
     echo "e.g.: "
-    echo " $0  100000000 vpro | jsongrep -output FULLVALUE -recordsep $'\n\n' -record items.*.result items.*.result.mid,items.*.result.objectType,items.*.result.locations.*.programUrl,items.*.result.locations.*.platform | tee /tmp/vpro.txt"
+    echo " $0  100000000 vpro | jsongrep -output FULLVALUE -recordsep $'\n\n' -record mediaobjects[*] mediaobjects[*].mid,mediaobjects[*].objectType,mediaobjects[*].locations.*.programUrl,mediaobjects[*].locations.*.platform | tee /tmp/vpro.txt"
     exit
 }
 

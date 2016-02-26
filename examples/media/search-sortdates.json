@@ -2,7 +2,7 @@
     "searches": {
         "sortDates": [
             {
-                "end": 1449243921998
+                "end": 1449243921998 /* fill in the current time */
             }
 
         ]

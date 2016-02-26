@@ -1,13 +1,13 @@
 {
   "facets" : {
     "sortDates" : [ {
-      "count" : 4,
+      "count" : 8,
       "selected" : false,
       "value" : "1987",
       "begin" : 536457600000,
       "end" : 567993600000
     }, {
-      "count" : 92,
+      "count" : 406,
       "selected" : false,
       "value" : "1988",
       "begin" : 567993600000,
@@ -15,7 +15,7 @@
     } ]
   },
   "selectedFacets" : { },
-  "total" : 96,
+  "total" : 414,
   "offset" : 0,
   "max" : 2,
   "items" : [ {
@@ -23,16 +23,147 @@
     "result" : {
       "objectType" : "page",
       "type" : "AUDIO",
-      "url" : "http://woord-sample.localhost/luister.POMS_VPRO_106128.html",
+      "url" : "http://www-acc.vpro.nl/speel.POMS_VPRO_106131.html",
       "sortDate" : 567990000000,
-      "crids" : [ "crid://vpro/media/woord/POMS_VPRO_106128" ],
+      "crids" : [ "crid://vpro/media/vpro/POMS_VPRO_106131" ],
+      "broadcasters" : [ {
+        "id" : "VPRO",
+        "value" : "VPRO"
+      } ],
+      "portal" : {
+        "id" : "VPRONL",
+        "url" : "http://www-acc.vpro.nl",
+        "value" : "VPRO.nl"
+      },
+      "title" : "VPRO Marathoninterview",
+      "embeds" : [ {
+        "title" : "VPRO Marathoninterview",
+        "description" : "Geen woorden maar daden. \n\nDe lijfspreuk van de stad waar hij negen jaar burgemeester van was (1964-1975), was ook op hemzelf van toepassing. Wim ‘Dux’ Thomassen sleepte zijn stad mee in de vaart der volkeren. Onder zijn bewind werd Rotterdam tot wereldhaven en kreeg het een eigen universiteit. Economisch herstel was voor de sociaal-democraat, die de crisis in de jaren dertig aan den lijve had ondervonden, van het grootste belang. Hij kwam er aan het eind van de jaren zestig in zijn gemeenteraad mee in de problemen. Werkgelegenheid was er immers genoeg en honger was iets dat tot het verleden behoorde. De rijkdommen werden als vanzelfsprekend gezien. Met zijn vrouw An, die hij bij de Nederlandsche Bond van Abstinent Studeerenden – een geheelonthoudersvereniging – had ontmoet, vormde hij van 1932 tot hun beider dood in 2001 (zij stierf acht maanden na hem) een onlosmakelijk verbond. Dat wilde niet zeggen dat ze het altijd met elkaar eens waren. An stond bekend als links-radicaal, Wim was een tikkeltje gematigder. Op 1 januari 1988 schoof de 79-jarige oud-burgemeester bij John Jansen van Galen aan voor een vijf uur durend interview.\n-------------------------------------------\n\nBiografie Wim Thomassen\ngeb. 3 oktober 1909 te Amsterdam – gest. 16 juni 2001 te Bergen (N-H)\n\nVolks en voornaam\n\nWillem ‘Dux’ (niet naar Il Duce, maar na een eendje uit een voorleesverhaal) Thomassen werd in een ‘rood’ nest in de Brederodestraat in Amsterdam-West geboren. Vader Kees was een prominent lid van de Sociaal Democratische Arbeiderspartij (SDAP) en als kleine jongen ging Wim al met zijn vader mee ‘de boer op’, die toespraken hield op bijeenkomsten van de arbeiderspartij. \n \nNa van 1925 tot 1929 een opleiding werktuigbouwkunde te hebben gedaan aan de MTS, besluit hij toch leraar te willen worden en volgt hij de lerarenopleiding in een stoomcursus. Vanaf 1931 werkt hij onder andere als onderwijzer in Amsterdam, Zaandam, Wieringen en Zuid-Limburg. In die tijd wordt hij ook actief in de Nederlandsche Bond van Abstitent Studeeerenden (NBAS), een geheelonthoudersvereniging. Daar ontmoette hij An Lind, de vrouw met wie hij in 1932 trouwden en van wie hij de daaropvolgende zeventig jaar onafscheidelijk zou zijn. In haar vond hij een vrouw die er nog veel linkser ideeën op nahield dan hij en met wie hij een “discussiegroep van twee personen” vormde. An Thomassen over hun huwelijk: “We zijn in veel dingen tegengesteld, maar de grondgedachte is altijd gelijk. Ik ben radicaler dan hij. Dat merken we bijna elke dag. Toch blijft solidariteit het kenmerk van onze relatie.”\n \nNa de NBAS stapte Thomassen in 1936 over naar de Arbeiders Jeugd Centrale (AJC), de socialistische jongerenorganisatie. Hij organiseerde congressen en kampen voor de jeugdige socialisten. In de oorlog dook hij een tijd onder en hoewel hij zelf ooit verklaarde te bang te zijn geweest om in het verzet te gaan, presteerde hij het toch om meerdere malen het gijzelaarskamp in Sint Michielsgestel binnen te dringen. Daar zaten socialisten en sociaal-democraten gevangen met wie Thomassen over de vernieuwing in het socialisme te praten. Niet alleen kwam hij het kamp binnen, maar liep er ook zonder problemen weer uit. \n \nOp 9 februari 1946 werd zijn geesteskind geboren: de PvdA werd opgericht. Voor de ideologie en beginselverklaring was hij niet verantwoordelijk, dat liet hij aan anderen over, zoals Willem Banning en Marinus van der Goes van Naters. Thomassen was meer een doener, hij had ervoor gezorgd dat de organisatie op poten stond. Van 1946 tot 1948 was hij partijsecretaris en lid van de Tweede Kamer. Maar toen hij het gevoel had dat hij ergens anders meer kon betekenen en vooral meer kon doen, verliet hij Den Haag om burgemeester van Zaandam te worden. Na tien jaar verruilde hij die gemeente voor de gemeente Enschede. Daar bleef hij zeven jaar. In 1965 zette hij de kroon op carrière als burgemeester toen hij naar de tweede stad van Nederland vertrok: Rotterdam. \n \nAls burgemeester stelde hij economisch herstel van de stad altijd boven het behoud van de natuur. Voor Enschede had hij voor de A1 gestreden en Rotterdam kon onder zijn bewind haar havengebied flink uitbreiden. Ook bezorgde hij beide steden een universiteit; de Technische Universiteit voor Enschede en de Erasmus Universiteit voor Rotterdam. Het kwam hem op de karaktereigenschap ‘regentesk’ te staan, een eigenschap die in die tijd juist zeer onder vuur kwam te liggen.\n \nDe actievoerders in Rotterdam hadden al gauw in de gaten bij wie ze moesten zijn als ze de burgemeester tot daden aan wilden sporen: zijn vrouw An. Een activist nam, in overleg met mevrouw Thomassen een bad in de ambtswoning van de burgemeester, uit protest tegen het ontbreken van een bad of douche in veel Rotterdamse woningen. Bij Thomassens overlijden schreef één van zijn opvolgers, Bram Peper “Een ding staat vast. Hij zou niet geschikt zijn voor het burgemeesterschap in deze tijd waarin het vermijden van risico’s en het afgeven van een geur van aangename nietszeggendheid tot een ware kunst zijn verheven.”\n \nNa zijn pensionering verhuisde het echtpaar naar het Noord-Hollandse Schoorl. Prompt kreeg het PvdA-congres nooit eerder vertoonde moties van de afdeling aldaar voorgeschoteld. Die werd, hoe kon het ook anders, bestierd door An. Daarnaast stond het echtpaar bekent als een ‘stoer stel’: Antarctica werd bedwongen en tot ver in de tachtig pakten ze ook elke vakantie een alp mee. Te voet. \n \nWim Thomassen stierf op 16 juni 2001 op 91-jarige leeftijd. Zijn vrouw An volgde hem acht maanden later. Tot het laatst toe bleven ze ‘hun’ partij op de voet volgen.\n-----------------------------------------------\n\nHoogtepunten uit het interview\n\"Ik ken je boekje niet, dat vind ik een schande van mezelf\"\nJohn Jansen van Galen begon het Marathoninterview met de opmerking dat de dood in zijn leven om zich heen had gegrepen: zijn moeder was net overleden, Joop den Uyl net gecremeerd. Of Thomassen ook wel eens tijden meemaakte waarin iedereen dood leek te gaan: \"Ja John, dat is voor jou natuurlijk beroerd dat je aan zo'n marathon moet beginnen met de dood van je moeder zo kort geleden in je herinnering. Maar om je vraag zo precies mogelijk te beantwoorden: bij de leeftijd die ik heb, 78, hoort natuurlijk dat je in de kring van vroegere vrienden de een na de ander ziet wegvallen. We hebben ook vrienden, ouder dan wij, die zeggen, van onze generatie is niemand meer over. Dat hebben mijn vrouw en ik nog niet. Ik kan niet bij de uitvaart van Joop den Uyl zijn, omdat er een ander sterfgeval mee samenvalt. En in de Nieuwe Kerk met 2500 genodigden zal ik niet gemist worden, maar in het andere geval wel, dat was een goede vriend.\" \n \nThomassen was socialist in hart en nieren, maar van de ene keer dat hij de grote voorman - Pieter Jelles Troelstra - had gezien, was hij zich pas later bewust. \"Als jongen heeft mijn vader me ooit meegenomen naar het ijsclubterrein in Amsterdam, daar stond zo'n eigenaardige stellage met een dakje erboven. Daarbinnen stond een man luid te schreeuwen, maar ik stond er te ver vanaf om het te kunnen verstaan en ik heb later begrepen dat ik dus van mijn leven één keer Troelstra heb gehoord. De persoon van Troelstra daar kon je niet luchtig, zakelijk, politiek over praten, het was een soort van 'heiligenbeeld' en dat was voor de politieke discussie een enorm nadeel. Ik geloof dat je van nr. 2, Drees, kunt zeggen, dat je op de naam van Drees geen enkele kardinale fout kunt stellen en dat Troelstra, als ie afweek van de opvattingen van Vliegen, enorme fouten maakte. Ik was ook zeer onder de bekoring van deze persoonlijkheid, deze dichter/politicus, dat was een zeldzaamheid, maar toen ik later over nadacht? 1913: het weigeren van ministerszetels was een ontzettende fout en 1918: het doorzetten van de gedachte revolutie, ook toen hem dat ontraden was, was naar mijn mening een fatale fout. Als je dat aan oud-SDAP'ers met cijfers aan wilt tonen, dan kunnen ze nog kwaad op je worden.\" \n \nOver 'vadertje Drees', die de laatste jaren van zijn leven lag weg te kwijnen: \"Het is heel tragisch dat Drees nog leeft. Het is al een paar jaar geleden dat collega's van je bij Drees kwamen en zeiden: ”dit is het laatste, bezig doof te worden, bezig blind te worden”. Dat is ie nu beide, contacten zijn er dus niet meer. Ik denk dat een mens dan zelf snakt naar de dood. Als die zoveel te laat komt en mensen in de volle kracht van hun leven dood gaan, dan is dat een tragedie. Ik wens iedereen een lang leven, maar ik wens Drees een zachte dood.\" \n \nDe geëngageerde oud-burgemeester merkte op dat hij pas op hoge leeftijd echt oog had gekregen voor de ellende buiten de eigen landsgrenzen: \"Het door mekaar geschud worden door armoede en ellende in de wereld, dat is pas gekomen tussen mijn pensionering en de eindstreep, voor zover ik die organisatorisch nu zo ongeveer wel bereikt heb. Voor het baggerwerk ging ik naar Bangladesh, Ethiopië, waar de lepra-artsen begonnen. Nou, als je het hebt over de verdoemden in hongersnood, dan zijn het de leprapatiënten. Ik heb geprobeerd de mensen wat moed in te spreken. \n\n\n\n",
+        "media" : {
+          "objectType" : "program",
+          "mid" : "POMS_VPRO_106131",
+          "type" : "BROADCAST",
+          "avType" : "AUDIO",
+          "workflow" : "PUBLISHED",
+          "sortDate" : 567990000000,
+          "creationDate" : 1359644939687,
+          "lastModified" : 1359646360397,
+          "publishStart" : 567990000000,
+          "urn" : "urn:vpro:media:program:19750633",
+          "embeddable" : true,
+          "episodeOf" : [ {
+            "midRef" : "POMS_S_VPRO_105800",
+            "urnRef" : "urn:vpro:media:group:19717874",
+            "type" : "SEASON",
+            "index" : 10,
+            "highlighted" : false,
+            "added" : 1359646360264
+          } ],
+          "broadcasters" : [ {
+            "id" : "VPRO",
+            "value" : "VPRO"
+          } ],
+          "titles" : [ {
+            "value" : "VPRO Marathoninterview",
+            "owner" : "BROADCASTER",
+            "type" : "MAIN"
+          }, {
+            "value" : "Wim Thomassen: uur 5",
+            "owner" : "BROADCASTER",
+            "type" : "SUB"
+          } ],
+          "descriptions" : [ {
+            "value" : "Geen woorden maar daden. \n\nDe lijfspreuk van de stad waar hij negen jaar burgemeester van was (1964-1975), was ook op hemzelf van toepassing. Wim ‘Dux’ Thomassen sleepte zijn stad mee in de vaart der volkeren. Onder zijn bewind werd Rotterdam tot wereldhaven en kreeg het een eigen universiteit. Economisch herstel was voor de sociaal-democraat, die de crisis in de jaren dertig aan den lijve had ondervonden, van het grootste belang. Hij kwam er aan het eind van de jaren zestig in zijn gemeenteraad mee in de problemen. Werkgelegenheid was er immers genoeg en honger was iets dat tot het verleden behoorde. De rijkdommen werden als vanzelfsprekend gezien. Met zijn vrouw An, die hij bij de Nederlandsche Bond van Abstinent Studeerenden – een geheelonthoudersvereniging – had ontmoet, vormde hij van 1932 tot hun beider dood in 2001 (zij stierf acht maanden na hem) een onlosmakelijk verbond. Dat wilde niet zeggen dat ze het altijd met elkaar eens waren. An stond bekend als links-radicaal, Wim was een tikkeltje gematigder. Op 1 januari 1988 schoof de 79-jarige oud-burgemeester bij John Jansen van Galen aan voor een vijf uur durend interview.\n-------------------------------------------\n\nBiografie Wim Thomassen\ngeb. 3 oktober 1909 te Amsterdam – gest. 16 juni 2001 te Bergen (N-H)\n\nVolks en voornaam\n\nWillem ‘Dux’ (niet naar Il Duce, maar na een eendje uit een voorleesverhaal) Thomassen werd in een ‘rood’ nest in de Brederodestraat in Amsterdam-West geboren. Vader Kees was een prominent lid van de Sociaal Democratische Arbeiderspartij (SDAP) en als kleine jongen ging Wim al met zijn vader mee ‘de boer op’, die toespraken hield op bijeenkomsten van de arbeiderspartij. \n \nNa van 1925 tot 1929 een opleiding werktuigbouwkunde te hebben gedaan aan de MTS, besluit hij toch leraar te willen worden en volgt hij de lerarenopleiding in een stoomcursus. Vanaf 1931 werkt hij onder andere als onderwijzer in Amsterdam, Zaandam, Wieringen en Zuid-Limburg. In die tijd wordt hij ook actief in de Nederlandsche Bond van Abstitent Studeeerenden (NBAS), een geheelonthoudersvereniging. Daar ontmoette hij An Lind, de vrouw met wie hij in 1932 trouwden en van wie hij de daaropvolgende zeventig jaar onafscheidelijk zou zijn. In haar vond hij een vrouw die er nog veel linkser ideeën op nahield dan hij en met wie hij een “discussiegroep van twee personen” vormde. An Thomassen over hun huwelijk: “We zijn in veel dingen tegengesteld, maar de grondgedachte is altijd gelijk. Ik ben radicaler dan hij. Dat merken we bijna elke dag. Toch blijft solidariteit het kenmerk van onze relatie.”\n \nNa de NBAS stapte Thomassen in 1936 over naar de Arbeiders Jeugd Centrale (AJC), de socialistische jongerenorganisatie. Hij organiseerde congressen en kampen voor de jeugdige socialisten. In de oorlog dook hij een tijd onder en hoewel hij zelf ooit verklaarde te bang te zijn geweest om in het verzet te gaan, presteerde hij het toch om meerdere malen het gijzelaarskamp in Sint Michielsgestel binnen te dringen. Daar zaten socialisten en sociaal-democraten gevangen met wie Thomassen over de vernieuwing in het socialisme te praten. Niet alleen kwam hij het kamp binnen, maar liep er ook zonder problemen weer uit. \n \nOp 9 februari 1946 werd zijn geesteskind geboren: de PvdA werd opgericht. Voor de ideologie en beginselverklaring was hij niet verantwoordelijk, dat liet hij aan anderen over, zoals Willem Banning en Marinus van der Goes van Naters. Thomassen was meer een doener, hij had ervoor gezorgd dat de organisatie op poten stond. Van 1946 tot 1948 was hij partijsecretaris en lid van de Tweede Kamer. Maar toen hij het gevoel had dat hij ergens anders meer kon betekenen en vooral meer kon doen, verliet hij Den Haag om burgemeester van Zaandam te worden. Na tien jaar verruilde hij die gemeente voor de gemeente Enschede. Daar bleef hij zeven jaar. In 1965 zette hij de kroon op carrière als burgemeester toen hij naar de tweede stad van Nederland vertrok: Rotterdam. \n \nAls burgemeester stelde hij economisch herstel van de stad altijd boven het behoud van de natuur. Voor Enschede had hij voor de A1 gestreden en Rotterdam kon onder zijn bewind haar havengebied flink uitbreiden. Ook bezorgde hij beide steden een universiteit; de Technische Universiteit voor Enschede en de Erasmus Universiteit voor Rotterdam. Het kwam hem op de karaktereigenschap ‘regentesk’ te staan, een eigenschap die in die tijd juist zeer onder vuur kwam te liggen.\n \nDe actievoerders in Rotterdam hadden al gauw in de gaten bij wie ze moesten zijn als ze de burgemeester tot daden aan wilden sporen: zijn vrouw An. Een activist nam, in overleg met mevrouw Thomassen een bad in de ambtswoning van de burgemeester, uit protest tegen het ontbreken van een bad of douche in veel Rotterdamse woningen. Bij Thomassens overlijden schreef één van zijn opvolgers, Bram Peper “Een ding staat vast. Hij zou niet geschikt zijn voor het burgemeesterschap in deze tijd waarin het vermijden van risico’s en het afgeven van een geur van aangename nietszeggendheid tot een ware kunst zijn verheven.”\n \nNa zijn pensionering verhuisde het echtpaar naar het Noord-Hollandse Schoorl. Prompt kreeg het PvdA-congres nooit eerder vertoonde moties van de afdeling aldaar voorgeschoteld. Die werd, hoe kon het ook anders, bestierd door An. Daarnaast stond het echtpaar bekent als een ‘stoer stel’: Antarctica werd bedwongen en tot ver in de tachtig pakten ze ook elke vakantie een alp mee. Te voet. \n \nWim Thomassen stierf op 16 juni 2001 op 91-jarige leeftijd. Zijn vrouw An volgde hem acht maanden later. Tot het laatst toe bleven ze ‘hun’ partij op de voet volgen.\n-----------------------------------------------\n\nHoogtepunten uit het interview\n\"Ik ken je boekje niet, dat vind ik een schande van mezelf\"\nJohn Jansen van Galen begon het Marathoninterview met de opmerking dat de dood in zijn leven om zich heen had gegrepen: zijn moeder was net overleden, Joop den Uyl net gecremeerd. Of Thomassen ook wel eens tijden meemaakte waarin iedereen dood leek te gaan: \"Ja John, dat is voor jou natuurlijk beroerd dat je aan zo'n marathon moet beginnen met de dood van je moeder zo kort geleden in je herinnering. Maar om je vraag zo precies mogelijk te beantwoorden: bij de leeftijd die ik heb, 78, hoort natuurlijk dat je in de kring van vroegere vrienden de een na de ander ziet wegvallen. We hebben ook vrienden, ouder dan wij, die zeggen, van onze generatie is niemand meer over. Dat hebben mijn vrouw en ik nog niet. Ik kan niet bij de uitvaart van Joop den Uyl zijn, omdat er een ander sterfgeval mee samenvalt. En in de Nieuwe Kerk met 2500 genodigden zal ik niet gemist worden, maar in het andere geval wel, dat was een goede vriend.\" \n \nThomassen was socialist in hart en nieren, maar van de ene keer dat hij de grote voorman - Pieter Jelles Troelstra - had gezien, was hij zich pas later bewust. \"Als jongen heeft mijn vader me ooit meegenomen naar het ijsclubterrein in Amsterdam, daar stond zo'n eigenaardige stellage met een dakje erboven. Daarbinnen stond een man luid te schreeuwen, maar ik stond er te ver vanaf om het te kunnen verstaan en ik heb later begrepen dat ik dus van mijn leven één keer Troelstra heb gehoord. De persoon van Troelstra daar kon je niet luchtig, zakelijk, politiek over praten, het was een soort van 'heiligenbeeld' en dat was voor de politieke discussie een enorm nadeel. Ik geloof dat je van nr. 2, Drees, kunt zeggen, dat je op de naam van Drees geen enkele kardinale fout kunt stellen en dat Troelstra, als ie afweek van de opvattingen van Vliegen, enorme fouten maakte. Ik was ook zeer onder de bekoring van deze persoonlijkheid, deze dichter/politicus, dat was een zeldzaamheid, maar toen ik later over nadacht? 1913: het weigeren van ministerszetels was een ontzettende fout en 1918: het doorzetten van de gedachte revolutie, ook toen hem dat ontraden was, was naar mijn mening een fatale fout. Als je dat aan oud-SDAP'ers met cijfers aan wilt tonen, dan kunnen ze nog kwaad op je worden.\" \n \nOver 'vadertje Drees', die de laatste jaren van zijn leven lag weg te kwijnen: \"Het is heel tragisch dat Drees nog leeft. Het is al een paar jaar geleden dat collega's van je bij Drees kwamen en zeiden: ”dit is het laatste, bezig doof te worden, bezig blind te worden”. Dat is ie nu beide, contacten zijn er dus niet meer. Ik denk dat een mens dan zelf snakt naar de dood. Als die zoveel te laat komt en mensen in de volle kracht van hun leven dood gaan, dan is dat een tragedie. Ik wens iedereen een lang leven, maar ik wens Drees een zachte dood.\" \n \nDe geëngageerde oud-burgemeester merkte op dat hij pas op hoge leeftijd echt oog had gekregen voor de ellende buiten de eigen landsgrenzen: \"Het door mekaar geschud worden door armoede en ellende in de wereld, dat is pas gekomen tussen mijn pensionering en de eindstreep, voor zover ik die organisatorisch nu zo ongeveer wel bereikt heb. Voor het baggerwerk ging ik naar Bangladesh, Ethiopië, waar de lepra-artsen begonnen. Nou, als je het hebt over de verdoemden in hongersnood, dan zijn het de leprapatiënten. Ik heb geprobeerd de mensen wat moed in te spreken. \n\n\n\n",
+            "owner" : "BROADCASTER",
+            "type" : "MAIN"
+          } ],
+          "genres" : [ ],
+          "tags" : [ "buitenland", "dood", "Drees", "lepra", "Rotterdam", "socialisme", "Troelstra" ],
+          "countries" : [ ],
+          "languages" : [ ],
+          "releaseYear" : 1988,
+          "credits" : [ {
+            "givenName" : "John",
+            "familyName" : "Jansen van Galen",
+            "role" : "PRESENTER"
+          } ],
+          "descendantOf" : [ {
+            "midRef" : "POMS_S_VPRO_195283",
+            "urnRef" : "urn:vpro:media:group:11887617",
+            "type" : "ARCHIVE"
+          }, {
+            "midRef" : "POMS_S_VPRO_105800",
+            "urnRef" : "urn:vpro:media:group:19717874",
+            "type" : "SEASON"
+          }, {
+            "midRef" : "POMS_S_VPRO_417554",
+            "urnRef" : "urn:vpro:media:group:30800916",
+            "type" : "COLLECTION"
+          }, {
+            "midRef" : "POMS_S_VPRO_215527",
+            "urnRef" : "urn:vpro:media:group:6836897",
+            "type" : "SERIES"
+          } ],
+          "websites" : [ {
+            "value" : "http://nl.wikipedia.org/wiki/Wim_Thomassen"
+          } ],
+          "predictions" : [ {
+            "state" : "REALIZED",
+            "platform" : "INTERNETVOD"
+          } ],
+          "locations" : [ {
+            "programUrl" : "http://download.omroep.nl/vpro/36346037.mp3",
+            "avAttributes" : {
+              "avFileFormat" : "MP3"
+            },
+            "owner" : "BROADCASTER",
+            "creationDate" : 1359645123042,
+            "lastModified" : 1359645123123,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:19751606"
+          } ],
+          "images" : [ {
+            "title" : "Wim Thomassen",
+            "description" : "v",
+            "imageUri" : "urn:vpro:image:134256",
+            "height" : 193,
+            "width" : 150,
+            "owner" : "BROADCASTER",
+            "type" : "PICTURE",
+            "highlighted" : false,
+            "creationDate" : 1359645181235,
+            "lastModified" : 1359645181296,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:19752007"
+          } ]
+        }
+      } ],
+      "images" : [ {
+        "type" : "PICTURE",
+        "url" : "http://images.poms.omroep.nl/image/s360/134256.jpg",
+        "title" : "Wim Thomassen",
+        "description" : "v"
+      } ],
+      "publishStart" : 567990000000,
+      "creationDate" : 1412013129520,
+      "lastModified" : 1430323809188,
+      "refCount" : 0
+    }
+  }, {
+    "highlights" : [ ],
+    "result" : {
+      "objectType" : "page",
+      "type" : "AUDIO",
+      "url" : "http://www-acc.woord.nl/luister.POMS_VPRO_106129.html",
+      "sortDate" : 567990000000,
+      "crids" : [ "crid://vpro/media/woord/POMS_VPRO_106129" ],
       "broadcasters" : [ {
         "id" : "VPRO",
         "value" : "VPRO"
       } ],
       "portal" : {
         "id" : "WOORD",
-        "url" : "http://woord-sample.localhost",
+        "url" : "http://www-acc.woord.nl",
         "value" : "Woord.nl"
       },
       "title" : "VPRO Marathoninterview",
@@ -46,20 +177,23 @@
         "description" : "Geen woorden maar daden. \n\nDe lijfspreuk van de stad waar hij negen jaar burgemeester van was (1964-1975), was ook op hemzelf van toepassing. Wim ‘Dux’ Thomassen sleepte zijn stad mee in de vaart der volkeren. Onder zijn bewind werd Rotterdam tot wereldhaven en kreeg het een eigen universiteit. Economisch herstel was voor de sociaal-democraat, die de crisis in de jaren dertig aan den lijve had ondervonden, van het grootste belang. Hij kwam er aan het eind van de jaren zestig in zijn gemeenteraad mee in de problemen. Werkgelegenheid was er immers genoeg en honger was iets dat tot het verleden behoorde. De rijkdommen werden als vanzelfsprekend gezien. Met zijn vrouw An, die hij bij de Nederlandsche Bond van Abstinent Studeerenden – een geheelonthoudersvereniging – had ontmoet, vormde hij van 1932 tot hun beider dood in 2001 (zij stierf acht maanden na hem) een onlosmakelijk verbond. Dat wilde niet zeggen dat ze het altijd met elkaar eens waren. An stond bekend als links-radicaal, Wim was een tikkeltje gematigder. Op 1 januari 1988 schoof de 79-jarige oud-burgemeester bij John Jansen van Galen aan voor een vijf uur durend interview.\n-------------------------------------------\n\nBiografie Wim Thomassen\ngeb. 3 oktober 1909 te Amsterdam – gest. 16 juni 2001 te Bergen (N-H)\n\nVolks en voornaam\n\nWillem ‘Dux’ (niet naar Il Duce, maar na een eendje uit een voorleesverhaal) Thomassen werd in een ‘rood’ nest in de Brederodestraat in Amsterdam-West geboren. Vader Kees was een prominent lid van de Sociaal Democratische Arbeiderspartij (SDAP) en als kleine jongen ging Wim al met zijn vader mee ‘de boer op’, die toespraken hield op bijeenkomsten van de arbeiderspartij. \n \nNa van 1925 tot 1929 een opleiding werktuigbouwkunde te hebben gedaan aan de MTS, besluit hij toch leraar te willen worden en volgt hij de lerarenopleiding in een stoomcursus. Vanaf 1931 werkt hij onder andere als onderwijzer in Amsterdam, Zaandam, Wieringen en Zuid-Limburg. In die tijd wordt hij ook actief in de Nederlandsche Bond van Abstitent Studeeerenden (NBAS), een geheelonthoudersvereniging. Daar ontmoette hij An Lind, de vrouw met wie hij in 1932 trouwden en van wie hij de daaropvolgende zeventig jaar onafscheidelijk zou zijn. In haar vond hij een vrouw die er nog veel linkser ideeën op nahield dan hij en met wie hij een “discussiegroep van twee personen” vormde. An Thomassen over hun huwelijk: “We zijn in veel dingen tegengesteld, maar de grondgedachte is altijd gelijk. Ik ben radicaler dan hij. Dat merken we bijna elke dag. Toch blijft solidariteit het kenmerk van onze relatie.”\n \nNa de NBAS stapte Thomassen in 1936 over naar de Arbeiders Jeugd Centrale (AJC), de socialistische jongerenorganisatie. Hij organiseerde congressen en kampen voor de jeugdige socialisten. In de oorlog dook hij een tijd onder en hoewel hij zelf ooit verklaarde te bang te zijn geweest om in het verzet te gaan, presteerde hij het toch om meerdere malen het gijzelaarskamp in Sint Michielsgestel binnen te dringen. Daar zaten socialisten en sociaal-democraten gevangen met wie Thomassen over de vernieuwing in het socialisme te praten. Niet alleen kwam hij het kamp binnen, maar liep er ook zonder problemen weer uit. \n \nOp 9 februari 1946 werd zijn geesteskind geboren: de PvdA werd opgericht. Voor de ideologie en beginselverklaring was hij niet verantwoordelijk, dat liet hij aan anderen over, zoals Willem Banning en Marinus van der Goes van Naters. Thomassen was meer een doener, hij had ervoor gezorgd dat de organisatie op poten stond. Van 1946 tot 1948 was hij partijsecretaris en lid van de Tweede Kamer. Maar toen hij het gevoel had dat hij ergens anders meer kon betekenen en vooral meer kon doen, verliet hij Den Haag om burgemeester van Zaandam te worden. Na tien jaar verruilde hij die gemeente voor de gemeente Enschede. Daar bleef hij zeven jaar. In 1965 zette hij de kroon op carrière als burgemeester toen hij naar de tweede stad van Nederland vertrok: Rotterdam. \n \nAls burgemeester stelde hij economisch herstel van de stad altijd boven het behoud van de natuur. Voor Enschede had hij voor de A1 gestreden en Rotterdam kon onder zijn bewind haar havengebied flink uitbreiden. Ook bezorgde hij beide steden een universiteit; de Technische Universiteit voor Enschede en de Erasmus Universiteit voor Rotterdam. Het kwam hem op de karaktereigenschap ‘regentesk’ te staan, een eigenschap die in die tijd juist zeer onder vuur kwam te liggen.\n \nDe actievoerders in Rotterdam hadden al gauw in de gaten bij wie ze moesten zijn als ze de burgemeester tot daden aan wilden sporen: zijn vrouw An. Een activist nam, in overleg met mevrouw Thomassen een bad in de ambtswoning van de burgemeester, uit protest tegen het ontbreken van een bad of douche in veel Rotterdamse woningen. Bij Thomassens overlijden schreef één van zijn opvolgers, Bram Peper “Een ding staat vast. Hij zou niet geschikt zijn voor het burgemeesterschap in deze tijd waarin het vermijden van risico’s en het afgeven van een geur van aangename nietszeggendheid tot een ware kunst zijn verheven.”\n \nNa zijn pensionering verhuisde het echtpaar naar het Noord-Hollandse Schoorl. Prompt kreeg het PvdA-congres nooit eerder vertoonde moties van de afdeling aldaar voorgeschoteld. Die werd, hoe kon het ook anders, bestierd door An. Daarnaast stond het echtpaar bekent als een ‘stoer stel’: Antarctica werd bedwongen en tot ver in de tachtig pakten ze ook elke vakantie een alp mee. Te voet. \n \nWim Thomassen stierf op 16 juni 2001 op 91-jarige leeftijd. Zijn vrouw An volgde hem acht maanden later. Tot het laatst toe bleven ze ‘hun’ partij op de voet volgen.\n-----------------------------------------------\n\nHoogtepunten uit het interview\n\"Ik ken je boekje niet, dat vind ik een schande van mezelf\"\nJohn Jansen van Galen begon het Marathoninterview met de opmerking dat de dood in zijn leven om zich heen had gegrepen: zijn moeder was net overleden, Joop den Uyl net gecremeerd. Of Thomassen ook wel eens tijden meemaakte waarin iedereen dood leek te gaan: \"Ja John, dat is voor jou natuurlijk beroerd dat je aan zo'n marathon moet beginnen met de dood van je moeder zo kort geleden in je herinnering. Maar om je vraag zo precies mogelijk te beantwoorden: bij de leeftijd die ik heb, 78, hoort natuurlijk dat je in de kring van vroegere vrienden de een na de ander ziet wegvallen. We hebben ook vrienden, ouder dan wij, die zeggen, van onze generatie is niemand meer over. Dat hebben mijn vrouw en ik nog niet. Ik kan niet bij de uitvaart van Joop den Uyl zijn, omdat er een ander sterfgeval mee samenvalt. En in de Nieuwe Kerk met 2500 genodigden zal ik niet gemist worden, maar in het andere geval wel, dat was een goede vriend.\" \n \nThomassen was socialist in hart en nieren, maar van de ene keer dat hij de grote voorman - Pieter Jelles Troelstra - had gezien, was hij zich pas later bewust. \"Als jongen heeft mijn vader me ooit meegenomen naar het ijsclubterrein in Amsterdam, daar stond zo'n eigenaardige stellage met een dakje erboven. Daarbinnen stond een man luid te schreeuwen, maar ik stond er te ver vanaf om het te kunnen verstaan en ik heb later begrepen dat ik dus van mijn leven één keer Troelstra heb gehoord. De persoon van Troelstra daar kon je niet luchtig, zakelijk, politiek over praten, het was een soort van 'heiligenbeeld' en dat was voor de politieke discussie een enorm nadeel. Ik geloof dat je van nr. 2, Drees, kunt zeggen, dat je op de naam van Drees geen enkele kardinale fout kunt stellen en dat Troelstra, als ie afweek van de opvattingen van Vliegen, enorme fouten maakte. Ik was ook zeer onder de bekoring van deze persoonlijkheid, deze dichter/politicus, dat was een zeldzaamheid, maar toen ik later over nadacht? 1913: het weigeren van ministerszetels was een ontzettende fout en 1918: het doorzetten van de gedachte revolutie, ook toen hem dat ontraden was, was naar mijn mening een fatale fout. Als je dat aan oud-SDAP'ers met cijfers aan wilt tonen, dan kunnen ze nog kwaad op je worden.\" \n \nOver 'vadertje Drees', die de laatste jaren van zijn leven lag weg te kwijnen: \"Het is heel tragisch dat Drees nog leeft. Het is al een paar jaar geleden dat collega's van je bij Drees kwamen en zeiden: ”dit is het laatste, bezig doof te worden, bezig blind te worden”. Dat is ie nu beide, contacten zijn er dus niet meer. Ik denk dat een mens dan zelf snakt naar de dood. Als die zoveel te laat komt en mensen in de volle kracht van hun leven dood gaan, dan is dat een tragedie. Ik wens iedereen een lang leven, maar ik wens Drees een zachte dood.\" \n \nDe geëngageerde oud-burgemeester merkte op dat hij pas op hoge leeftijd echt oog had gekregen voor de ellende buiten de eigen landsgrenzen: \"Het door mekaar geschud worden door armoede en ellende in de wereld, dat is pas gekomen tussen mijn pensionering en de eindstreep, voor zover ik die organisatorisch nu zo ongeveer wel bereikt heb. Voor het baggerwerk ging ik naar Bangladesh, Ethiopië, waar de lepra-artsen begonnen. Nou, als je het hebt over de verdoemden in hongersnood, dan zijn het de leprapatiënten. Ik heb geprobeerd de mensen wat moed in te spreken. \n\n\n\n",
         "media" : {
           "objectType" : "program",
-          "mid" : "POMS_VPRO_106128",
-          "creationDate" : 1359644897492,
-          "lastModified" : 1359646215107,
-          "publishStart" : 567990000000,
+          "mid" : "POMS_VPRO_106129",
+          "type" : "BROADCAST",
+          "avType" : "AUDIO",
+          "workflow" : "PUBLISHED",
           "sortDate" : 567990000000,
-          "urn" : "urn:vpro:media:program:19750309",
+          "creationDate" : 1359644907886,
+          "lastModified" : 1359646258487,
+          "publishStart" : 567990000000,
+          "urn" : "urn:vpro:media:program:19750411",
           "embeddable" : true,
           "episodeOf" : [ {
             "midRef" : "POMS_S_VPRO_105800",
             "urnRef" : "urn:vpro:media:group:19717874",
             "type" : "SEASON",
-            "index" : 7,
+            "index" : 8,
             "highlighted" : false,
-            "added" : 1359646214973
+            "added" : 1359646258359
           } ],
           "broadcasters" : [ {
             "id" : "VPRO",
@@ -70,7 +204,7 @@
             "owner" : "BROADCASTER",
             "type" : "MAIN"
           }, {
-            "value" : "Wim Thomassen: uur 2",
+            "value" : "Wim Thomassen: uur 3",
             "owner" : "BROADCASTER",
             "type" : "SUB"
           } ],
@@ -114,180 +248,41 @@
             "platform" : "INTERNETVOD"
           } ],
           "locations" : [ {
-            "programUrl" : "http://download.omroep.nl/vpro/36346012.mp3",
+            "programUrl" : "http://download.omroep.nl/vpro/36346019.mp3",
             "avAttributes" : {
               "avFileFormat" : "MP3"
             },
             "owner" : "BROADCASTER",
-            "creationDate" : 1359645044731,
-            "lastModified" : 1359645044812,
+            "creationDate" : 1359645068030,
+            "lastModified" : 1359645068096,
             "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:location:19751337"
+            "urn" : "urn:vpro:media:location:19751435"
           } ],
           "images" : [ {
             "title" : "Wim Thomassen",
             "description" : "v",
-            "imageUri" : "urn:vpro:image:134259",
+            "imageUri" : "urn:vpro:image:134258",
             "height" : 193,
             "width" : 150,
             "owner" : "BROADCASTER",
             "type" : "PICTURE",
             "highlighted" : false,
-            "creationDate" : 1359645267691,
-            "lastModified" : 1359645267780,
+            "creationDate" : 1359645236213,
+            "lastModified" : 1359645236294,
             "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:image:19752691"
-          } ],
-          "workflow" : "PUBLISHED",
-          "type" : "BROADCAST",
-          "avType" : "AUDIO"
+            "urn" : "urn:vpro:media:image:19752450"
+          } ]
         }
       } ],
       "images" : [ {
         "type" : "PICTURE",
-        "url" : "http://images.poms.omroep.nl/image/s360/134259.jpg",
+        "url" : "http://images.poms.omroep.nl/image/s360/134258.jpg",
         "title" : "Wim Thomassen",
         "description" : "v"
       } ],
       "publishStart" : 567990000000,
-      "creationDate" : 1421942036585,
-      "lastModified" : 1425951260789,
-      "refCount" : 0
-    }
-  }, {
-    "highlights" : [ ],
-    "result" : {
-      "objectType" : "page",
-      "type" : "AUDIO",
-      "url" : "http://woord-sample.localhost/luister.POMS_VPRO_106130.html",
-      "sortDate" : 567990000000,
-      "crids" : [ "crid://vpro/media/woord/POMS_VPRO_106130" ],
-      "broadcasters" : [ {
-        "id" : "VPRO",
-        "value" : "VPRO"
-      } ],
-      "portal" : {
-        "id" : "WOORD",
-        "url" : "http://woord-sample.localhost",
-        "value" : "Woord.nl"
-      },
-      "title" : "VPRO Marathoninterview",
-      "genres" : [ {
-        "id" : "3.0.4.2",
-        "terms" : [ "Interview" ],
-        "displayName" : "Interview"
-      } ],
-      "embeds" : [ {
-        "title" : "VPRO Marathoninterview",
-        "description" : "Geen woorden maar daden. \n\nDe lijfspreuk van de stad waar hij negen jaar burgemeester van was (1964-1975), was ook op hemzelf van toepassing. Wim ‘Dux’ Thomassen sleepte zijn stad mee in de vaart der volkeren. Onder zijn bewind werd Rotterdam tot wereldhaven en kreeg het een eigen universiteit. Economisch herstel was voor de sociaal-democraat, die de crisis in de jaren dertig aan den lijve had ondervonden, van het grootste belang. Hij kwam er aan het eind van de jaren zestig in zijn gemeenteraad mee in de problemen. Werkgelegenheid was er immers genoeg en honger was iets dat tot het verleden behoorde. De rijkdommen werden als vanzelfsprekend gezien. Met zijn vrouw An, die hij bij de Nederlandsche Bond van Abstinent Studeerenden – een geheelonthoudersvereniging – had ontmoet, vormde hij van 1932 tot hun beider dood in 2001 (zij stierf acht maanden na hem) een onlosmakelijk verbond. Dat wilde niet zeggen dat ze het altijd met elkaar eens waren. An stond bekend als links-radicaal, Wim was een tikkeltje gematigder. Op 1 januari 1988 schoof de 79-jarige oud-burgemeester bij John Jansen van Galen aan voor een vijf uur durend interview.\n-------------------------------------------\n\nBiografie Wim Thomassen\ngeb. 3 oktober 1909 te Amsterdam – gest. 16 juni 2001 te Bergen (N-H)\n\nVolks en voornaam\n\nWillem ‘Dux’ (niet naar Il Duce, maar na een eendje uit een voorleesverhaal) Thomassen werd in een ‘rood’ nest in de Brederodestraat in Amsterdam-West geboren. Vader Kees was een prominent lid van de Sociaal Democratische Arbeiderspartij (SDAP) en als kleine jongen ging Wim al met zijn vader mee ‘de boer op’, die toespraken hield op bijeenkomsten van de arbeiderspartij. \n \nNa van 1925 tot 1929 een opleiding werktuigbouwkunde te hebben gedaan aan de MTS, besluit hij toch leraar te willen worden en volgt hij de lerarenopleiding in een stoomcursus. Vanaf 1931 werkt hij onder andere als onderwijzer in Amsterdam, Zaandam, Wieringen en Zuid-Limburg. In die tijd wordt hij ook actief in de Nederlandsche Bond van Abstitent Studeeerenden (NBAS), een geheelonthoudersvereniging. Daar ontmoette hij An Lind, de vrouw met wie hij in 1932 trouwden en van wie hij de daaropvolgende zeventig jaar onafscheidelijk zou zijn. In haar vond hij een vrouw die er nog veel linkser ideeën op nahield dan hij en met wie hij een “discussiegroep van twee personen” vormde. An Thomassen over hun huwelijk: “We zijn in veel dingen tegengesteld, maar de grondgedachte is altijd gelijk. Ik ben radicaler dan hij. Dat merken we bijna elke dag. Toch blijft solidariteit het kenmerk van onze relatie.”\n \nNa de NBAS stapte Thomassen in 1936 over naar de Arbeiders Jeugd Centrale (AJC), de socialistische jongerenorganisatie. Hij organiseerde congressen en kampen voor de jeugdige socialisten. In de oorlog dook hij een tijd onder en hoewel hij zelf ooit verklaarde te bang te zijn geweest om in het verzet te gaan, presteerde hij het toch om meerdere malen het gijzelaarskamp in Sint Michielsgestel binnen te dringen. Daar zaten socialisten en sociaal-democraten gevangen met wie Thomassen over de vernieuwing in het socialisme te praten. Niet alleen kwam hij het kamp binnen, maar liep er ook zonder problemen weer uit. \n \nOp 9 februari 1946 werd zijn geesteskind geboren: de PvdA werd opgericht. Voor de ideologie en beginselverklaring was hij niet verantwoordelijk, dat liet hij aan anderen over, zoals Willem Banning en Marinus van der Goes van Naters. Thomassen was meer een doener, hij had ervoor gezorgd dat de organisatie op poten stond. Van 1946 tot 1948 was hij partijsecretaris en lid van de Tweede Kamer. Maar toen hij het gevoel had dat hij ergens anders meer kon betekenen en vooral meer kon doen, verliet hij Den Haag om burgemeester van Zaandam te worden. Na tien jaar verruilde hij die gemeente voor de gemeente Enschede. Daar bleef hij zeven jaar. In 1965 zette hij de kroon op carrière als burgemeester toen hij naar de tweede stad van Nederland vertrok: Rotterdam. \n \nAls burgemeester stelde hij economisch herstel van de stad altijd boven het behoud van de natuur. Voor Enschede had hij voor de A1 gestreden en Rotterdam kon onder zijn bewind haar havengebied flink uitbreiden. Ook bezorgde hij beide steden een universiteit; de Technische Universiteit voor Enschede en de Erasmus Universiteit voor Rotterdam. Het kwam hem op de karaktereigenschap ‘regentesk’ te staan, een eigenschap die in die tijd juist zeer onder vuur kwam te liggen.\n \nDe actievoerders in Rotterdam hadden al gauw in de gaten bij wie ze moesten zijn als ze de burgemeester tot daden aan wilden sporen: zijn vrouw An. Een activist nam, in overleg met mevrouw Thomassen een bad in de ambtswoning van de burgemeester, uit protest tegen het ontbreken van een bad of douche in veel Rotterdamse woningen. Bij Thomassens overlijden schreef één van zijn opvolgers, Bram Peper “Een ding staat vast. Hij zou niet geschikt zijn voor het burgemeesterschap in deze tijd waarin het vermijden van risico’s en het afgeven van een geur van aangename nietszeggendheid tot een ware kunst zijn verheven.”\n \nNa zijn pensionering verhuisde het echtpaar naar het Noord-Hollandse Schoorl. Prompt kreeg het PvdA-congres nooit eerder vertoonde moties van de afdeling aldaar voorgeschoteld. Die werd, hoe kon het ook anders, bestierd door An. Daarnaast stond het echtpaar bekent als een ‘stoer stel’: Antarctica werd bedwongen en tot ver in de tachtig pakten ze ook elke vakantie een alp mee. Te voet. \n \nWim Thomassen stierf op 16 juni 2001 op 91-jarige leeftijd. Zijn vrouw An volgde hem acht maanden later. Tot het laatst toe bleven ze ‘hun’ partij op de voet volgen.\n-----------------------------------------------\n\nHoogtepunten uit het interview\n\"Ik ken je boekje niet, dat vind ik een schande van mezelf\"\nJohn Jansen van Galen begon het Marathoninterview met de opmerking dat de dood in zijn leven om zich heen had gegrepen: zijn moeder was net overleden, Joop den Uyl net gecremeerd. Of Thomassen ook wel eens tijden meemaakte waarin iedereen dood leek te gaan: \"Ja John, dat is voor jou natuurlijk beroerd dat je aan zo'n marathon moet beginnen met de dood van je moeder zo kort geleden in je herinnering. Maar om je vraag zo precies mogelijk te beantwoorden: bij de leeftijd die ik heb, 78, hoort natuurlijk dat je in de kring van vroegere vrienden de een na de ander ziet wegvallen. We hebben ook vrienden, ouder dan wij, die zeggen, van onze generatie is niemand meer over. Dat hebben mijn vrouw en ik nog niet. Ik kan niet bij de uitvaart van Joop den Uyl zijn, omdat er een ander sterfgeval mee samenvalt. En in de Nieuwe Kerk met 2500 genodigden zal ik niet gemist worden, maar in het andere geval wel, dat was een goede vriend.\" \n \nThomassen was socialist in hart en nieren, maar van de ene keer dat hij de grote voorman - Pieter Jelles Troelstra - had gezien, was hij zich pas later bewust. \"Als jongen heeft mijn vader me ooit meegenomen naar het ijsclubterrein in Amsterdam, daar stond zo'n eigenaardige stellage met een dakje erboven. Daarbinnen stond een man luid te schreeuwen, maar ik stond er te ver vanaf om het te kunnen verstaan en ik heb later begrepen dat ik dus van mijn leven één keer Troelstra heb gehoord. De persoon van Troelstra daar kon je niet luchtig, zakelijk, politiek over praten, het was een soort van 'heiligenbeeld' en dat was voor de politieke discussie een enorm nadeel. Ik geloof dat je van nr. 2, Drees, kunt zeggen, dat je op de naam van Drees geen enkele kardinale fout kunt stellen en dat Troelstra, als ie afweek van de opvattingen van Vliegen, enorme fouten maakte. Ik was ook zeer onder de bekoring van deze persoonlijkheid, deze dichter/politicus, dat was een zeldzaamheid, maar toen ik later over nadacht? 1913: het weigeren van ministerszetels was een ontzettende fout en 1918: het doorzetten van de gedachte revolutie, ook toen hem dat ontraden was, was naar mijn mening een fatale fout. Als je dat aan oud-SDAP'ers met cijfers aan wilt tonen, dan kunnen ze nog kwaad op je worden.\" \n \nOver 'vadertje Drees', die de laatste jaren van zijn leven lag weg te kwijnen: \"Het is heel tragisch dat Drees nog leeft. Het is al een paar jaar geleden dat collega's van je bij Drees kwamen en zeiden: ”dit is het laatste, bezig doof te worden, bezig blind te worden”. Dat is ie nu beide, contacten zijn er dus niet meer. Ik denk dat een mens dan zelf snakt naar de dood. Als die zoveel te laat komt en mensen in de volle kracht van hun leven dood gaan, dan is dat een tragedie. Ik wens iedereen een lang leven, maar ik wens Drees een zachte dood.\" \n \nDe geëngageerde oud-burgemeester merkte op dat hij pas op hoge leeftijd echt oog had gekregen voor de ellende buiten de eigen landsgrenzen: \"Het door mekaar geschud worden door armoede en ellende in de wereld, dat is pas gekomen tussen mijn pensionering en de eindstreep, voor zover ik die organisatorisch nu zo ongeveer wel bereikt heb. Voor het baggerwerk ging ik naar Bangladesh, Ethiopië, waar de lepra-artsen begonnen. Nou, als je het hebt over de verdoemden in hongersnood, dan zijn het de leprapatiënten. Ik heb geprobeerd de mensen wat moed in te spreken. \n\n\n\n",
-        "media" : {
-          "objectType" : "program",
-          "mid" : "POMS_VPRO_106130",
-          "creationDate" : 1359644917633,
-          "lastModified" : 1359646314749,
-          "publishStart" : 567990000000,
-          "sortDate" : 567990000000,
-          "urn" : "urn:vpro:media:program:19750457",
-          "embeddable" : true,
-          "episodeOf" : [ {
-            "midRef" : "POMS_S_VPRO_105800",
-            "urnRef" : "urn:vpro:media:group:19717874",
-            "type" : "SEASON",
-            "index" : 9,
-            "highlighted" : false,
-            "added" : 1359646314613
-          } ],
-          "broadcasters" : [ {
-            "id" : "VPRO",
-            "value" : "VPRO"
-          } ],
-          "titles" : [ {
-            "value" : "VPRO Marathoninterview",
-            "owner" : "BROADCASTER",
-            "type" : "MAIN"
-          }, {
-            "value" : "Wim Thomassen: uur 4",
-            "owner" : "BROADCASTER",
-            "type" : "SUB"
-          } ],
-          "descriptions" : [ {
-            "value" : "Geen woorden maar daden. \n\nDe lijfspreuk van de stad waar hij negen jaar burgemeester van was (1964-1975), was ook op hemzelf van toepassing. Wim ‘Dux’ Thomassen sleepte zijn stad mee in de vaart der volkeren. Onder zijn bewind werd Rotterdam tot wereldhaven en kreeg het een eigen universiteit. Economisch herstel was voor de sociaal-democraat, die de crisis in de jaren dertig aan den lijve had ondervonden, van het grootste belang. Hij kwam er aan het eind van de jaren zestig in zijn gemeenteraad mee in de problemen. Werkgelegenheid was er immers genoeg en honger was iets dat tot het verleden behoorde. De rijkdommen werden als vanzelfsprekend gezien. Met zijn vrouw An, die hij bij de Nederlandsche Bond van Abstinent Studeerenden – een geheelonthoudersvereniging – had ontmoet, vormde hij van 1932 tot hun beider dood in 2001 (zij stierf acht maanden na hem) een onlosmakelijk verbond. Dat wilde niet zeggen dat ze het altijd met elkaar eens waren. An stond bekend als links-radicaal, Wim was een tikkeltje gematigder. Op 1 januari 1988 schoof de 79-jarige oud-burgemeester bij John Jansen van Galen aan voor een vijf uur durend interview.\n-------------------------------------------\n\nBiografie Wim Thomassen\ngeb. 3 oktober 1909 te Amsterdam – gest. 16 juni 2001 te Bergen (N-H)\n\nVolks en voornaam\n\nWillem ‘Dux’ (niet naar Il Duce, maar na een eendje uit een voorleesverhaal) Thomassen werd in een ‘rood’ nest in de Brederodestraat in Amsterdam-West geboren. Vader Kees was een prominent lid van de Sociaal Democratische Arbeiderspartij (SDAP) en als kleine jongen ging Wim al met zijn vader mee ‘de boer op’, die toespraken hield op bijeenkomsten van de arbeiderspartij. \n \nNa van 1925 tot 1929 een opleiding werktuigbouwkunde te hebben gedaan aan de MTS, besluit hij toch leraar te willen worden en volgt hij de lerarenopleiding in een stoomcursus. Vanaf 1931 werkt hij onder andere als onderwijzer in Amsterdam, Zaandam, Wieringen en Zuid-Limburg. In die tijd wordt hij ook actief in de Nederlandsche Bond van Abstitent Studeeerenden (NBAS), een geheelonthoudersvereniging. Daar ontmoette hij An Lind, de vrouw met wie hij in 1932 trouwden en van wie hij de daaropvolgende zeventig jaar onafscheidelijk zou zijn. In haar vond hij een vrouw die er nog veel linkser ideeën op nahield dan hij en met wie hij een “discussiegroep van twee personen” vormde. An Thomassen over hun huwelijk: “We zijn in veel dingen tegengesteld, maar de grondgedachte is altijd gelijk. Ik ben radicaler dan hij. Dat merken we bijna elke dag. Toch blijft solidariteit het kenmerk van onze relatie.”\n \nNa de NBAS stapte Thomassen in 1936 over naar de Arbeiders Jeugd Centrale (AJC), de socialistische jongerenorganisatie. Hij organiseerde congressen en kampen voor de jeugdige socialisten. In de oorlog dook hij een tijd onder en hoewel hij zelf ooit verklaarde te bang te zijn geweest om in het verzet te gaan, presteerde hij het toch om meerdere malen het gijzelaarskamp in Sint Michielsgestel binnen te dringen. Daar zaten socialisten en sociaal-democraten gevangen met wie Thomassen over de vernieuwing in het socialisme te praten. Niet alleen kwam hij het kamp binnen, maar liep er ook zonder problemen weer uit. \n \nOp 9 februari 1946 werd zijn geesteskind geboren: de PvdA werd opgericht. Voor de ideologie en beginselverklaring was hij niet verantwoordelijk, dat liet hij aan anderen over, zoals Willem Banning en Marinus van der Goes van Naters. Thomassen was meer een doener, hij had ervoor gezorgd dat de organisatie op poten stond. Van 1946 tot 1948 was hij partijsecretaris en lid van de Tweede Kamer. Maar toen hij het gevoel had dat hij ergens anders meer kon betekenen en vooral meer kon doen, verliet hij Den Haag om burgemeester van Zaandam te worden. Na tien jaar verruilde hij die gemeente voor de gemeente Enschede. Daar bleef hij zeven jaar. In 1965 zette hij de kroon op carrière als burgemeester toen hij naar de tweede stad van Nederland vertrok: Rotterdam. \n \nAls burgemeester stelde hij economisch herstel van de stad altijd boven het behoud van de natuur. Voor Enschede had hij voor de A1 gestreden en Rotterdam kon onder zijn bewind haar havengebied flink uitbreiden. Ook bezorgde hij beide steden een universiteit; de Technische Universiteit voor Enschede en de Erasmus Universiteit voor Rotterdam. Het kwam hem op de karaktereigenschap ‘regentesk’ te staan, een eigenschap die in die tijd juist zeer onder vuur kwam te liggen.\n \nDe actievoerders in Rotterdam hadden al gauw in de gaten bij wie ze moesten zijn als ze de burgemeester tot daden aan wilden sporen: zijn vrouw An. Een activist nam, in overleg met mevrouw Thomassen een bad in de ambtswoning van de burgemeester, uit protest tegen het ontbreken van een bad of douche in veel Rotterdamse woningen. Bij Thomassens overlijden schreef één van zijn opvolgers, Bram Peper “Een ding staat vast. Hij zou niet geschikt zijn voor het burgemeesterschap in deze tijd waarin het vermijden van risico’s en het afgeven van een geur van aangename nietszeggendheid tot een ware kunst zijn verheven.”\n \nNa zijn pensionering verhuisde het echtpaar naar het Noord-Hollandse Schoorl. Prompt kreeg het PvdA-congres nooit eerder vertoonde moties van de afdeling aldaar voorgeschoteld. Die werd, hoe kon het ook anders, bestierd door An. Daarnaast stond het echtpaar bekent als een ‘stoer stel’: Antarctica werd bedwongen en tot ver in de tachtig pakten ze ook elke vakantie een alp mee. Te voet. \n \nWim Thomassen stierf op 16 juni 2001 op 91-jarige leeftijd. Zijn vrouw An volgde hem acht maanden later. Tot het laatst toe bleven ze ‘hun’ partij op de voet volgen.\n-----------------------------------------------\n\nHoogtepunten uit het interview\n\"Ik ken je boekje niet, dat vind ik een schande van mezelf\"\nJohn Jansen van Galen begon het Marathoninterview met de opmerking dat de dood in zijn leven om zich heen had gegrepen: zijn moeder was net overleden, Joop den Uyl net gecremeerd. Of Thomassen ook wel eens tijden meemaakte waarin iedereen dood leek te gaan: \"Ja John, dat is voor jou natuurlijk beroerd dat je aan zo'n marathon moet beginnen met de dood van je moeder zo kort geleden in je herinnering. Maar om je vraag zo precies mogelijk te beantwoorden: bij de leeftijd die ik heb, 78, hoort natuurlijk dat je in de kring van vroegere vrienden de een na de ander ziet wegvallen. We hebben ook vrienden, ouder dan wij, die zeggen, van onze generatie is niemand meer over. Dat hebben mijn vrouw en ik nog niet. Ik kan niet bij de uitvaart van Joop den Uyl zijn, omdat er een ander sterfgeval mee samenvalt. En in de Nieuwe Kerk met 2500 genodigden zal ik niet gemist worden, maar in het andere geval wel, dat was een goede vriend.\" \n \nThomassen was socialist in hart en nieren, maar van de ene keer dat hij de grote voorman - Pieter Jelles Troelstra - had gezien, was hij zich pas later bewust. \"Als jongen heeft mijn vader me ooit meegenomen naar het ijsclubterrein in Amsterdam, daar stond zo'n eigenaardige stellage met een dakje erboven. Daarbinnen stond een man luid te schreeuwen, maar ik stond er te ver vanaf om het te kunnen verstaan en ik heb later begrepen dat ik dus van mijn leven één keer Troelstra heb gehoord. De persoon van Troelstra daar kon je niet luchtig, zakelijk, politiek over praten, het was een soort van 'heiligenbeeld' en dat was voor de politieke discussie een enorm nadeel. Ik geloof dat je van nr. 2, Drees, kunt zeggen, dat je op de naam van Drees geen enkele kardinale fout kunt stellen en dat Troelstra, als ie afweek van de opvattingen van Vliegen, enorme fouten maakte. Ik was ook zeer onder de bekoring van deze persoonlijkheid, deze dichter/politicus, dat was een zeldzaamheid, maar toen ik later over nadacht? 1913: het weigeren van ministerszetels was een ontzettende fout en 1918: het doorzetten van de gedachte revolutie, ook toen hem dat ontraden was, was naar mijn mening een fatale fout. Als je dat aan oud-SDAP'ers met cijfers aan wilt tonen, dan kunnen ze nog kwaad op je worden.\" \n \nOver 'vadertje Drees', die de laatste jaren van zijn leven lag weg te kwijnen: \"Het is heel tragisch dat Drees nog leeft. Het is al een paar jaar geleden dat collega's van je bij Drees kwamen en zeiden: ”dit is het laatste, bezig doof te worden, bezig blind te worden”. Dat is ie nu beide, contacten zijn er dus niet meer. Ik denk dat een mens dan zelf snakt naar de dood. Als die zoveel te laat komt en mensen in de volle kracht van hun leven dood gaan, dan is dat een tragedie. Ik wens iedereen een lang leven, maar ik wens Drees een zachte dood.\" \n \nDe geëngageerde oud-burgemeester merkte op dat hij pas op hoge leeftijd echt oog had gekregen voor de ellende buiten de eigen landsgrenzen: \"Het door mekaar geschud worden door armoede en ellende in de wereld, dat is pas gekomen tussen mijn pensionering en de eindstreep, voor zover ik die organisatorisch nu zo ongeveer wel bereikt heb. Voor het baggerwerk ging ik naar Bangladesh, Ethiopië, waar de lepra-artsen begonnen. Nou, als je het hebt over de verdoemden in hongersnood, dan zijn het de leprapatiënten. Ik heb geprobeerd de mensen wat moed in te spreken. \n\n\n\n",
-            "owner" : "BROADCASTER",
-            "type" : "MAIN"
-          } ],
-          "genres" : [ ],
-          "tags" : [ "armoede", "buitenland", "dood", "Drees", "lepra", "Rotterdam", "socialisme", "Troelstra" ],
-          "countries" : [ ],
-          "languages" : [ ],
-          "releaseYear" : 1988,
-          "credits" : [ {
-            "givenName" : "John",
-            "familyName" : "Jansen van Galen",
-            "role" : "PRESENTER"
-          } ],
-          "descendantOf" : [ {
-            "midRef" : "POMS_S_VPRO_195283",
-            "urnRef" : "urn:vpro:media:group:11887617",
-            "type" : "ARCHIVE"
-          }, {
-            "midRef" : "POMS_S_VPRO_105800",
-            "urnRef" : "urn:vpro:media:group:19717874",
-            "type" : "SEASON"
-          }, {
-            "midRef" : "POMS_S_VPRO_417554",
-            "urnRef" : "urn:vpro:media:group:30800916",
-            "type" : "COLLECTION"
-          }, {
-            "midRef" : "POMS_S_VPRO_215527",
-            "urnRef" : "urn:vpro:media:group:6836897",
-            "type" : "SERIES"
-          } ],
-          "websites" : [ {
-            "value" : "http://nl.wikipedia.org/wiki/Wim_Thomassen"
-          } ],
-          "predictions" : [ {
-            "state" : "REALIZED",
-            "platform" : "INTERNETVOD"
-          } ],
-          "locations" : [ {
-            "programUrl" : "http://download.omroep.nl/vpro/36346029.mp3",
-            "avAttributes" : {
-              "avFileFormat" : "MP3"
-            },
-            "owner" : "BROADCASTER",
-            "creationDate" : 1359645099054,
-            "lastModified" : 1359645099178,
-            "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:location:19751496"
-          } ],
-          "images" : [ {
-            "title" : "Wim Thomassen",
-            "description" : "v",
-            "imageUri" : "urn:vpro:image:134257",
-            "height" : 193,
-            "width" : 150,
-            "owner" : "BROADCASTER",
-            "type" : "PICTURE",
-            "highlighted" : false,
-            "creationDate" : 1359645208011,
-            "lastModified" : 1359645208093,
-            "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:image:19752200"
-          } ],
-          "workflow" : "PUBLISHED",
-          "type" : "BROADCAST",
-          "avType" : "AUDIO"
-        }
-      } ],
-      "images" : [ {
-        "type" : "PICTURE",
-        "url" : "http://images.poms.omroep.nl/image/s360/134257.jpg",
-        "title" : "Wim Thomassen",
-        "description" : "v"
-      } ],
-      "publishStart" : 567990000000,
-      "creationDate" : 1421942036831,
-      "lastModified" : 1425951260933,
+      "creationDate" : 1415128361262,
+      "lastModified" : 1444831840816,
       "refCount" : 0
     }
   } ]

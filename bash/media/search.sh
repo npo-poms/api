@@ -20,7 +20,7 @@ if [[ "$2" != "" ]] ; then
     parameters="max=$MAX&profile=$2"
 fi
 
-if [[ "$1" == "" ||  ! -e $1 ]] ; then
+if [[ "$1" == "" ]] ; then
     echo Usage:
     echo "[ENV=<prod|test|dev>] $0 <json file with search form> [<profile>]"
     echo "e.g.: "
@@ -29,6 +29,20 @@ if [[ "$1" == "" ||  ! -e $1 ]] ; then
 fi
 
 
+if [[ ! -e "$1"  ]] ; then
+    read -r -d '' search <<EOF
+{
+    "searches" : {
+        "text" : "$1"
+    }
+}
+EOF
+
+else
+    search=$1
+fi
+
+
 
 # find the implementation of the post function in ../api-functions.sh
-post "api/media" $parameters $1
+post "api/media" $parameters "$search"

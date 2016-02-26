@@ -1,30 +1,33 @@
 {
-  "total" : 637912,
+  "total" : 767738,
   "offset" : 0,
   "max" : 2,
   "items" : [ {
-    "score" : 2.9583755,
+    "score" : 2.0,
     "highlights" : [ ],
     "result" : {
       "objectType" : "program",
-      "mid" : "RBX_KRO_546077",
-      "creationDate" : 1387477441140,
-      "lastModified" : 1407159545553,
-      "sortDate" : 1401292800000,
-      "urn" : "urn:vpro:media:program:34337502",
+      "mid" : "RBX_VARA_544435",
+      "type" : "BROADCAST",
+      "avType" : "AUDIO",
+      "workflow" : "PUBLISHED",
+      "sortDate" : 1401163200000,
+      "creationDate" : 1387484237849,
+      "lastModified" : 1407157514691,
+      "urn" : "urn:vpro:media:program:34340155",
       "embeddable" : true,
       "episodeOf" : [ {
-        "midRef" : "POMS_S_KRO_066265",
-        "urnRef" : "urn:vpro:media:group:17424545",
+        "midRef" : "AUTO_DEHEERONTWAAKT",
+        "urnRef" : "urn:vpro:media:group:13405394",
         "type" : "SERIES",
         "index" : 1,
         "highlighted" : false,
-        "added" : 1387477443248
+        "added" : 1387484239532
       } ],
-      "crids" : [ "crid://broadcast.radiobox2/267878" ],
+      "crids" : [ "crid://broadcast.radiobox2/268257" ],
       "broadcasters" : [ {
-        "id" : "KRO",
-        "value" : "KRO"
+        "id" : "VARA",
+        "value" : "VARA"
       } ],
       "titles" : [ {
         "value" : " ",
@@ -34,80 +37,79 @@
       "genres" : [ ],
       "countries" : [ ],
       "languages" : [ ],
-      "duration" : 7200000,
+      "duration" : 10800000,
       "credits" : [ {
-        "givenName" : "Bert",
-        "familyName" : "Haandrikman",
+        "givenName" : "Sander",
+        "familyName" : "de Heer",
         "role" : "PRESENTER"
       } ],
       "descendantOf" : [ {
-        "midRef" : "POMS_S_KRO_066265",
-        "urnRef" : "urn:vpro:media:group:17424545",
+        "midRef" : "AUTO_DEHEERONTWAAKT",
+        "urnRef" : "urn:vpro:media:group:13405394",
         "type" : "SERIES"
       } ],
-      "email" : [ "haandrikman@kro-ncrv.nl" ],
+      "email" : [ "deheerontwaakt@vara.nl" ],
       "websites" : [ {
-        "value" : "http://helemaalhaandrikman.kro.nl/"
+        "value" : "http://deheerontwaakt.vara.nl/"
       } ],
       "locations" : [ {
-        "programUrl" : "http://download.omroep.nl/audiologging/r2/2014/05/28/1800_2000_helemaal_haandrikman_20140528.mp3",
+        "programUrl" : "http://download.omroep.nl/audiologging/r2/2014/05/27/0600_0900_de_heer_ontwaakt_20140527.mp3",
         "avAttributes" : {
           "avFileFormat" : "MP3"
         },
-        "duration" : 7200000,
+        "duration" : 10800000,
         "owner" : "RADIOBOX",
-        "creationDate" : 1407159527960,
-        "lastModified" : 1407159545550,
+        "creationDate" : 1407157504617,
+        "lastModified" : 1407157514689,
         "workflow" : "PUBLISHED",
-        "urn" : "urn:vpro:media:location:43187495"
+        "urn" : "urn:vpro:media:location:43186950"
       } ],
       "scheduleEvents" : [ {
-        "start" : 1401292800000,
-        "duration" : 7200000,
-        "poProgID" : "RBX_KRO_546077",
+        "start" : 1401163200000,
+        "duration" : 10800000,
+        "poProgID" : "RBX_VARA_544435",
         "channel" : "RAD2",
-        "urnRef" : "urn:vpro:media:program:34337502",
-        "midRef" : "RBX_KRO_546077"
+        "urnRef" : "urn:vpro:media:program:34340155",
+        "midRef" : "RBX_VARA_544435"
       } ],
       "images" : [ {
         "title" : " ",
-        "description" : "",
-        "imageUri" : "urn:vpro:image:230462",
+        "imageUri" : "urn:vpro:image:328173",
         "owner" : "RADIOBOX",
         "type" : "PICTURE",
         "highlighted" : false,
-        "creationDate" : 1387477439270,
-        "lastModified" : 1407159545553,
+        "creationDate" : 1389042828006,
+        "lastModified" : 1407157514691,
         "workflow" : "PUBLISHED",
-        "urn" : "urn:vpro:media:image:34337504"
-      } ],
-      "workflow" : "PUBLISHED",
-      "type" : "BROADCAST",
-      "avType" : "AUDIO"
+        "urn" : "urn:vpro:media:image:35059544"
+      } ]
     }
   }, {
-    "score" : 2.9583526,
+    "score" : 2.0,
     "highlights" : [ ],
     "result" : {
       "objectType" : "program",
-      "mid" : "RBX_NCRV_544444",
-      "creationDate" : 1384297391700,
-      "lastModified" : 1407159431395,
-      "sortDate" : 1401285600000,
-      "urn" : "urn:vpro:media:program:32374302",
+      "mid" : "POMS_AVRO_539902",
+      "type" : "BROADCAST",
+      "avType" : "AUDIO",
+      "workflow" : "PUBLISHED",
+      "sortDate" : 1401087600000,
+      "creationDate" : 1384879168958,
+      "lastModified" : 1407143881329,
+      "urn" : "urn:vpro:media:program:32752815",
       "embeddable" : true,
       "episodeOf" : [ {
-        "midRef" : "POMS_S_NCRV_223738",
-        "urnRef" : "urn:vpro:media:group:22805686",
+        "midRef" : "AUTO_DEKLASSIEKEN",
+        "urnRef" : "urn:vpro:media:group:13405534",
         "type" : "SERIES",
         "index" : 1,
         "highlighted" : false,
-        "added" : 1384297393884
+        "added" : 1384879171895
       } ],
-      "crids" : [ "crid://broadcast.radiobox2/256813" ],
+      "crids" : [ "crid://broadcast.radiobox2/258845" ],
       "broadcasters" : [ {
-        "id" : "NCRV",
-        "value" : "NCRV"
+        "id" : "AVRO",
+        "value" : "AVRO"
       } ],
       "titles" : [ {
         "value" : " ",
@@ -117,56 +119,60 @@
       "genres" : [ ],
       "countries" : [ ],
       "languages" : [ ],
-      "duration" : 7200000,
+      "duration" : 10800000,
       "credits" : [ {
-        "givenName" : "Bert",
-        "familyName" : "Kranenbarg",
+        "givenName" : "Dieuwertje",
+        "familyName" : "Blok",
         "role" : "PRESENTER"
       } ],
       "descendantOf" : [ {
-        "midRef" : "POMS_S_NCRV_223738",
-        "urnRef" : "urn:vpro:media:group:22805686",
+        "midRef" : "AUTO_DEKLASSIEKEN",
+        "urnRef" : "urn:vpro:media:group:13405534",
         "type" : "SERIES"
+      }, {
+        "midRef" : "POMS_S_VPRO_171668",
+        "urnRef" : "urn:vpro:media:group:14683553",
+        "type" : "ARCHIVE"
+      }, {
+        "midRef" : "POMS_S_VPRO_170117",
+        "urnRef" : "urn:vpro:media:group:14921910",
+        "type" : "ARCHIVE"
       } ],
-      "email" : [ "kk@ncrv.nl" ],
+      "email" : [ "deklassieken@avrotros.nl" ],
       "websites" : [ {
-        "value" : "http://knooppuntkranenbarg.ncrv.nl/"
+        "value" : "http://www.radio4.nl/deklassieken"
       } ],
       "locations" : [ {
-        "programUrl" : "http://download.omroep.nl/audiologging/r2/2014/05/28/1600_1800_knooppunt_kranenbarg_20140528.mp3",
+        "programUrl" : "http://download.omroep.nl/audiologging/r4/2014/05/26/0900_1200_de_klassieken_20140526.mp3",
         "avAttributes" : {
           "avFileFormat" : "MP3"
         },
-        "duration" : 7200000,
+        "duration" : 10800000,
         "owner" : "RADIOBOX",
-        "creationDate" : 1407159391553,
-        "lastModified" : 1407159431385,
+        "creationDate" : 1401176888456,
+        "lastModified" : 1401176919539,
         "workflow" : "PUBLISHED",
-        "urn" : "urn:vpro:media:location:43187479"
+        "urn" : "urn:vpro:media:location:41919699"
       } ],
       "scheduleEvents" : [ {
-        "start" : 1401285600000,
-        "duration" : 7200000,
-        "poProgID" : "RBX_NCRV_544444",
-        "channel" : "RAD2",
-        "urnRef" : "urn:vpro:media:program:32374302",
-        "midRef" : "RBX_NCRV_544444"
+        "start" : 1401087600000,
+        "duration" : 10800000,
+        "poProgID" : "POMS_AVRO_539902",
+        "channel" : "RAD4",
+        "urnRef" : "urn:vpro:media:program:32752815",
+        "midRef" : "POMS_AVRO_539902"
       } ],
       "images" : [ {
         "title" : " ",
-        "description" : "",
-        "imageUri" : "urn:vpro:image:230465",
+        "imageUri" : "urn:vpro:image:465402",
         "owner" : "RADIOBOX",
         "type" : "PICTURE",
         "highlighted" : false,
-        "creationDate" : 1384297389825,
-        "lastModified" : 1407159431395,
+        "creationDate" : 1401174025054,
+        "lastModified" : 1407143881329,
         "workflow" : "PUBLISHED",
-        "urn" : "urn:vpro:media:image:32374304"
-      } ],
-      "workflow" : "PUBLISHED",
-      "type" : "BROADCAST",
-      "avType" : "AUDIO"
+        "urn" : "urn:vpro:media:image:41919198"
+      } ]
     }
   } ]
 }

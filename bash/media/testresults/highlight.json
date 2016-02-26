@@ -1,9 +1,90 @@
 {
-  "total" : 837,
+  "total" : 1306,
   "offset" : 0,
   "max" : 2,
   "items" : [ {
-    "score" : 6.9414706,
+    "score" : 14.315844,
+    "highlights" : [ {
+      "term" : "titles.value",
+      "body" : [ "promo <em class=\"hlt1\">argos</em> 20 juli 2013" ]
+    }, {
+      "term" : "descriptions.value",
+      "body" : [ ", hoe kwamen ze aan het geld en hoe hielpen ondoorzichtige financiele producten daarbij? <em class=\"hlt1\">Argos</em>, het nieuws van alle kanten" ]
+    }, {
+      "term" : "images.title",
+      "body" : [ "<em class=\"hlt1\">argos</em>" ]
+    }, {
+      "term" : "images.description",
+      "body" : [ "<em class=\"hlt1\">argos</em>" ]
+    }, {
+      "term" : "tags.text",
+      "body" : [ "<em class=\"hlt1\">argos</em>" ]
+    } ],
+    "result" : {
+      "objectType" : "program",
+      "mid" : "WO_VPRO_380449",
+      "type" : "TRACK",
+      "avType" : "AUDIO",
+      "workflow" : "PUBLISHED",
+      "sortDate" : 1374051370384,
+      "creationDate" : 1374051370384,
+      "lastModified" : 1374051891529,
+      "urn" : "urn:vpro:media:program:27748550",
+      "embeddable" : true,
+      "broadcasters" : [ {
+        "id" : "VPRO",
+        "value" : "VPRO"
+      } ],
+      "titles" : [ {
+        "value" : "promo argos 20 juli 2013",
+        "owner" : "BROADCASTER",
+        "type" : "MAIN"
+      }, {
+        "value" : "hoe banken slim geld verdienen met uw hypotheek",
+        "owner" : "BROADCASTER",
+        "type" : "SUB"
+      } ],
+      "descriptions" : [ {
+        "value" : "Welke rol speelden Amerikaanse en Nederlandse banken in het opblazen van de huizen bubble, hoe kwamen ze aan het geld en hoe hielpen ondoorzichtige financiele producten daarbij? Argos, het nieuws van alle kanten",
+        "owner" : "BROADCASTER",
+        "type" : "SHORT"
+      } ],
+      "genres" : [ ],
+      "tags" : [ "argos", "banken", "crisis", "financiële crisis", "Hypotheek" ],
+      "countries" : [ ],
+      "languages" : [ ],
+      "predictions" : [ {
+        "state" : "REALIZED",
+        "platform" : "INTERNETVOD"
+      } ],
+      "locations" : [ {
+        "programUrl" : "http://download.omroep.nl/vpro/algemeen/vpronl/radio/argos/promo_argos-20-07-2013.mp3",
+        "avAttributes" : {
+          "avFileFormat" : "MP3"
+        },
+        "owner" : "BROADCASTER",
+        "creationDate" : 1374051891489,
+        "lastModified" : 1374051891527,
+        "workflow" : "PUBLISHED",
+        "urn" : "urn:vpro:media:location:27748578"
+      } ],
+      "images" : [ {
+        "title" : "argos",
+        "description" : "argos",
+        "imageUri" : "urn:vpro:image:202161",
+        "height" : 452,
+        "width" : 657,
+        "owner" : "BROADCASTER",
+        "type" : "PICTURE",
+        "highlighted" : false,
+        "creationDate" : 1374051693487,
+        "lastModified" : 1374051693521,
+        "workflow" : "PUBLISHED",
+        "urn" : "urn:vpro:media:image:27748565"
+      } ]
+    }
+  }, {
+    "score" : 9.833161,
     "highlights" : [ {
       "term" : "titles.value",
       "body" : [ "<em class=\"hlt1\">Argos</em>", "<em class=\"hlt1\">Argos</em>", "<em class=\"hlt1\">Argos</em>" ]
@@ -16,13 +97,19 @@
     }, {
       "term" : "images.description",
       "body" : [ "<em class=\"hlt1\">Argos</em>" ]
+    }, {
+      "term" : "segments.titles.value",
+      "body" : [ "<em class=\"hlt1\">Argos</em>: weinig controle op subsidie-aanvrager" ]
     } ],
     "result" : {
       "objectType" : "program",
       "mid" : "POMS_VPRO_1224859",
+      "type" : "BROADCAST",
+      "avType" : "AUDIO",
+      "workflow" : "PUBLISHED",
+      "sortDate" : 1335608100000,
       "creationDate" : 1334385256709,
       "lastModified" : 1400833386908,
-      "sortDate" : 1335608100000,
       "urn" : "urn:vpro:media:program:13631936",
       "embeddable" : true,
       "episodeOf" : [ {
@@ -143,13 +230,15 @@
         "workflow" : "PUBLISHED",
         "urn" : "urn:vpro:media:image:23133991"
       } ],
-      "workflow" : "PUBLISHED",
       "segments" : [ {
         "objectType" : "segment",
         "mid" : "POMS_VPRO_1224860",
+        "type" : "SEGMENT",
+        "avType" : "AUDIO",
+        "workflow" : "PUBLISHED",
+        "sortDate" : 1335608100000,
         "creationDate" : 1363466189384,
         "lastModified" : 1400833383994,
-        "sortDate" : 1335608100000,
         "urn" : "urn:vpro:media:segment:23133994",
         "embeddable" : true,
         "crids" : [ "crid://fragment.radiobox2/41048" ],
@@ -208,96 +297,10 @@
           "workflow" : "PUBLISHED",
           "urn" : "urn:vpro:media:image:41764533"
         } ],
-        "workflow" : "PUBLISHED",
         "start" : 19000,
         "urnRef" : "urn:vpro:media:program:13631936",
-        "midRef" : "POMS_VPRO_1224859",
-        "type" : "SEGMENT",
-        "avType" : "AUDIO"
-      } ],
-      "type" : "BROADCAST",
-      "avType" : "AUDIO"
-    }
-  }, {
-    "score" : 6.5393777,
-    "highlights" : [ {
-      "term" : "titles.value",
-      "body" : [ "promo <em class=\"hlt1\">argos</em> 20 juli 2013" ]
-    }, {
-      "term" : "descriptions.value",
-      "body" : [ ", hoe kwamen ze aan het geld en hoe hielpen ondoorzichtige financiele producten daarbij? <em class=\"hlt1\">Argos</em>, het nieuws van alle kanten" ]
-    }, {
-      "term" : "images.title",
-      "body" : [ "<em class=\"hlt1\">argos</em>" ]
-    }, {
-      "term" : "tags.text",
-      "body" : [ "<em class=\"hlt1\">argos</em>" ]
-    }, {
-      "term" : "images.description",
-      "body" : [ "<em class=\"hlt1\">argos</em>" ]
-    } ],
-    "result" : {
-      "objectType" : "program",
-      "mid" : "WO_VPRO_380449",
-      "creationDate" : 1374051370384,
-      "lastModified" : 1374051891529,
-      "sortDate" : 1374051370384,
-      "urn" : "urn:vpro:media:program:27748550",
-      "embeddable" : true,
-      "broadcasters" : [ {
-        "id" : "VPRO",
-        "value" : "VPRO"
-      } ],
-      "titles" : [ {
-        "value" : "promo argos 20 juli 2013",
-        "owner" : "BROADCASTER",
-        "type" : "MAIN"
-      }, {
-        "value" : "hoe banken slim geld verdienen met uw hypotheek",
-        "owner" : "BROADCASTER",
-        "type" : "SUB"
-      } ],
-      "descriptions" : [ {
-        "value" : "Welke rol speelden Amerikaanse en Nederlandse banken in het opblazen van de huizen bubble, hoe kwamen ze aan het geld en hoe hielpen ondoorzichtige financiele producten daarbij? Argos, het nieuws van alle kanten",
-        "owner" : "BROADCASTER",
-        "type" : "SHORT"
-      } ],
-      "genres" : [ ],
-      "tags" : [ "argos", "banken", "crisis", "financiële crisis", "Hypotheek" ],
-      "countries" : [ ],
-      "languages" : [ ],
-      "predictions" : [ {
-        "state" : "REALIZED",
-        "platform" : "INTERNETVOD"
-      } ],
-      "locations" : [ {
-        "programUrl" : "http://download.omroep.nl/vpro/algemeen/vpronl/radio/argos/promo_argos-20-07-2013.mp3",
-        "avAttributes" : {
-          "avFileFormat" : "MP3"
-        },
-        "owner" : "BROADCASTER",
-        "creationDate" : 1374051891489,
-        "lastModified" : 1374051891527,
-        "workflow" : "PUBLISHED",
-        "urn" : "urn:vpro:media:location:27748578"
-      } ],
-      "images" : [ {
-        "title" : "argos",
-        "description" : "argos",
-        "imageUri" : "urn:vpro:image:202161",
-        "height" : 452,
-        "width" : 657,
-        "owner" : "BROADCASTER",
-        "type" : "PICTURE",
-        "highlighted" : false,
-        "creationDate" : 1374051693487,
-        "lastModified" : 1374051693521,
-        "workflow" : "PUBLISHED",
-        "urn" : "urn:vpro:media:image:27748565"
-      } ],
-      "workflow" : "PUBLISHED",
-      "type" : "TRACK",
-      "avType" : "AUDIO"
+        "midRef" : "POMS_VPRO_1224859"
+      } ]
     }
   } ]
 }

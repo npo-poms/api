@@ -1,73 +1,281 @@
-Usage : xmllint [options] XMLfiles ...
-	Parse the XML files and output the result of the parsing
-	--version : display the version of the XML library used
-	--debug : dump a debug tree of the in-memory document
-	--shell : run a navigating shell
-	--debugent : debug the entities defined in the document
-	--copy : used to test the internal copy implementation
-	--recover : output what was parsable on broken XML documents
-	--huge : remove any internal arbitrary parser limits
-	--noent : substitute entity references by their value
-	--noenc : ignore any encoding specified inside the document
-	--noout : don't output the result tree
-	--path 'paths': provide a set of paths for resources
-	--load-trace : print trace of all external entites loaded
-	--nonet : refuse to fetch DTDs or entities over network
-	--nocompact : do not generate compact text nodes
-	--htmlout : output results as HTML
-	--nowrap : do not put HTML doc wrapper
-	--valid : validate the document in addition to std well-formed check
-	--postvalid : do a posteriori validation, i.e after parsing
-	--dtdvalid URL : do a posteriori validation against a given DTD
-	--dtdvalidfpi FPI : same but name the DTD with a Public Identifier
-	--timing : print some timings
-	--output file or -o file: save to a given file
-	--repeat : repeat 100 times, for timing or profiling
-	--insert : ad-hoc test for valid insertions
-	--compress : turn on gzip compression of output
-	--html : use the HTML parser
-	--xmlout : force to use the XML serializer when using --html
-	--nodefdtd : do not default HTML doctype
-	--push : use the push mode of the parser
-	--pushsmall : use the push mode of the parser using tiny increments
-	--memory : parse from memory
-	--maxmem nbbytes : limits memory allocation to nbbytes bytes
-	--nowarning : do not emit warnings from parser/validator
-	--noblanks : drop (ignorable?) blanks spaces
-	--nocdata : replace cdata section with text nodes
-	--format : reformat/reindent the input
-	--encode encoding : output in the given encoding
-	--dropdtd : remove the DOCTYPE of the input docs
-	--pretty STYLE : pretty-print in a particular style
-	                 0 Do not pretty print
-	                 1 Format the XML content, as --format
-	                 2 Add whitespace inside tags, preserving content
-	--c14n : save in W3C canonical format v1.0 (with comments)
-	--c14n11 : save in W3C canonical format v1.1 (with comments)
-	--exc-c14n : save in W3C exclusive canonical format (with comments)
-	--nsclean : remove redundant namespace declarations
-	--testIO : test user I/O support
-	--catalogs : use SGML catalogs from $SGML_CATALOG_FILES
-	             otherwise XML Catalogs starting from 
-	         file:///opt/local/etc/xml/catalog are activated by default
-	--nocatalogs: deactivate all catalogs
-	--auto : generate a small doc on the fly
-	--xinclude : do XInclude processing
-	--noxincludenode : same but do not generate XInclude nodes
-	--nofixup-base-uris : do not fixup xml:base uris
-	--loaddtd : fetch external DTD
-	--dtdattr : loaddtd + populate the tree with inherited attributes 
-	--stream : use the streaming interface to process very large files
-	--walker : create a reader and walk though the resulting doc
-	--pattern pattern_value : test the pattern support
-	--chkregister : verify the node registration code
-	--relaxng schema : do RelaxNG validation against the schema
-	--schema schema : do validation against the WXS schema
-	--schematron schema : do validation against a schematron
-	--sax1: use the old SAX1 interfaces for processing
-	--sax: do not build a tree but work just at the SAX level
-	--oldxml10: use XML-1.0 parsing rules before the 5th edition
-	--xpath expr: evaluate the XPath expression, imply --noout
-
-Libxml project home page: http://xmlsoft.org/
-To report bugs or get some help check: http://xmlsoft.org/bugs.html
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<api:mediaSearchResult xmlns="urn:vpro:media:2009" xmlns:shared="urn:vpro:shared:2009" xmlns:pages="urn:vpro:pages:2013" xmlns:api="urn:vpro:api:2013" xmlns:media="urn:vpro:media:2009" total="78" offset="0" max="2">
+  <api:items>
+    <api:item xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="api:searchResultItem" score="10.511236">
+      <api:result xsi:type="media:programType" type="BROADCAST" avType="VIDEO" embeddable="true" mid="VPWON_1238339" sortDate="2015-01-26T11:12:19+01:00" creationDate="2015-01-02T06:50:29.796+01:00" lastModified="2015-05-07T17:08:02.813+02:00" publishDate="2015-06-16T10:34:01.729+02:00" urn="urn:vpro:media:program:49742323" workflow="PUBLISHED">
+        <media:broadcaster id="NTR">NTR</media:broadcaster>
+        <media:title owner="MIS" type="MAIN">Het Zandkasteel</media:title>
+        <media:title owner="WHATS_ON" type="MAIN">Brave draak</media:title>
+        <media:title owner="MIS" type="SUB">Brave draak</media:title>
+        <media:title owner="WHATS_ON" type="ORIGINAL">Brave draak</media:title>
+        <media:description owner="MIS" type="MAIN">Toto speelt dat hij een ridder is en Sassa een prinses. Ze hebben nog een draak nodig, vindt Sassa. Koning Koos speelt de draak. Maar Toto vindt de grommende draak een beetje eng. Gelukkig kunnen ze de boze draak omtoveren in een brave draak.</media:description>
+        <media:description owner="WHATS_ON" type="MAIN">Toto speelt dat hij een ridder is en Sassa een prinses. Ze hebben nog een draak nodig, vindt Sassa. Koning Koos speelt de draak. Maar Toto vindt de grommende draak een beetje eng. Gelukkig kunnen ze de boze draak omtoveren in een brave draak.</media:description>
+        <media:description owner="MIS" type="SHORT">Peuterprogramma rond de avonturen van Toto, Sassa en Koning Koos in hun Zandkasteel.</media:description>
+        <media:description owner="WHATS_ON" type="SHORT">Peuterprogramma rond de avonturen van Toto, Sassa en Koning Koos in hun Zandkasteel.</media:description>
+        <media:description owner="MIS" type="KICKER">Peuterprogramma rond de avonturen van Toto, Sassa en Koning Koos in hun Zandkasteel.</media:description>
+        <media:genre id="3.0.1.1">
+          <media:term>Jeugd</media:term>
+        </media:genre>
+        <media:country code="NL">Nederland</media:country>
+        <media:avAttributes>
+          <media:videoAttributes/>
+          <media:audioAttributes/>
+        </media:avAttributes>
+        <media:releaseYear>2009</media:releaseYear>
+        <media:duration>P0DT0H14M30.910S</media:duration>
+        <media:credits/>
+        <media:descendantOf urnRef="urn:vpro:media:group:3731005" midRef="POMS_S_NTR_059963" type="SERIES"/>
+        <media:descendantOf urnRef="urn:vpro:media:group:49333384" midRef="VPWON_1238318" type="SEASON"/>
+        <media:prediction state="REALIZED">INTERNETVOD</media:prediction>
+        <media:prediction state="REALIZED" publishStart="2015-01-26T11:27:01+01:00" publishStop="2015-02-23T11:27:01+01:00">PLUSVOD</media:prediction>
+        <media:locations>
+          <media:location owner="CERES" platform="INTERNETVOD" creationDate="2015-01-26T11:41:26.609+01:00" lastModified="2015-01-26T11:41:26.739+01:00" urn="urn:vpro:media:location:50669811" workflow="PUBLISHED">
+            <media:programUrl>odip+http://odi.omroep.nl/video/adaptive/VPWON_1238339</media:programUrl>
+            <media:avAttributes>
+              <media:avFileFormat>HASP</media:avFileFormat>
+            </media:avAttributes>
+          </media:location>
+          <media:location owner="CERES" platform="INTERNETVOD" creationDate="2015-01-26T11:36:11.153+01:00" lastModified="2015-01-26T11:36:11.352+01:00" urn="urn:vpro:media:location:50669362" workflow="PUBLISHED">
+            <media:programUrl>odi+http://odi.omroep.nl/video/h264_sb/VPWON_1238339</media:programUrl>
+            <media:avAttributes>
+              <media:bitrate>200000</media:bitrate>
+              <media:avFileFormat>H264</media:avFileFormat>
+            </media:avAttributes>
+          </media:location>
+          <media:location owner="CERES" platform="INTERNETVOD" creationDate="2015-01-26T11:36:11.744+01:00" lastModified="2015-01-26T11:36:11.929+01:00" urn="urn:vpro:media:location:50669368" workflow="PUBLISHED">
+            <media:programUrl>odi+http://odi.omroep.nl/video/h264_bb/VPWON_1238339</media:programUrl>
+            <media:avAttributes>
+              <media:bitrate>500000</media:bitrate>
+              <media:avFileFormat>H264</media:avFileFormat>
+            </media:avAttributes>
+          </media:location>
+          <media:location owner="CERES" platform="INTERNETVOD" creationDate="2015-01-26T11:36:11.457+01:00" lastModified="2015-01-26T11:36:11.646+01:00" urn="urn:vpro:media:location:50669365" workflow="PUBLISHED">
+            <media:programUrl>odi+http://odi.omroep.nl/video/h264_std/VPWON_1238339</media:programUrl>
+            <media:avAttributes>
+              <media:bitrate>1000000</media:bitrate>
+              <media:avFileFormat>H264</media:avFileFormat>
+            </media:avAttributes>
+          </media:location>
+        </media:locations>
+        <media:scheduleEvents>
+          <media:scheduleEvent channel="NED3" midRef="VPWON_1238339" net="ZAPPE" urnRef="urn:vpro:media:program:49742323">
+            <media:guideDay>2015-01-26+01:00</media:guideDay>
+            <media:start>2015-01-26T11:12:19+01:00</media:start>
+            <media:duration>P0DT0H14M31.000S</media:duration>
+            <media:poProgID>VPWON_1238339</media:poProgID>
+          </media:scheduleEvent>
+        </media:scheduleEvents>
+        <media:images>
+          <shared:image owner="BROADCASTER" type="STILL" highlighted="false" creationDate="2015-01-26T11:45:01.442+01:00" lastModified="2015-03-02T16:05:48.876+01:00" urn="urn:vpro:media:image:50670025" workflow="PUBLISHED">
+            <shared:title>Het Zandkasteel</shared:title>
+            <shared:description>Peuterprogramma rond de avonturen van Toto, Sassa en Koning Koos in hun Zandkasteel.</shared:description>
+            <shared:imageUri>urn:vpro:image:566064</shared:imageUri>
+          </shared:image>
+          <shared:image owner="BROADCASTER" type="STILL" highlighted="false" creationDate="2015-01-26T11:45:01.072+01:00" lastModified="2015-03-02T16:05:48.876+01:00" urn="urn:vpro:media:image:50670024" workflow="PUBLISHED">
+            <shared:title>Het Zandkasteel</shared:title>
+            <shared:description>Peuterprogramma rond de avonturen van Toto, Sassa en Koning Koos in hun Zandkasteel.</shared:description>
+            <shared:imageUri>urn:vpro:image:499275</shared:imageUri>
+          </shared:image>
+          <shared:image owner="NEBO" type="STILL" highlighted="false" creationDate="2015-01-26T11:45:01.814+01:00" lastModified="2015-01-26T11:45:02.706+01:00" urn="urn:vpro:media:image:50670026" workflow="PUBLISHED">
+            <shared:title>Het Zandkasteel</shared:title>
+            <shared:description>Peuterprogramma rond de avonturen van Toto, Sassa en Koning Koos in hun Zandkasteel.</shared:description>
+            <shared:imageUri>urn:vpro:image:566065</shared:imageUri>
+          </shared:image>
+        </media:images>
+        <media:episodeOf added="2015-01-02T06:50:29.931+01:00" highlighted="false" midRef="VPWON_1238318" index="141" type="SEASON" urnRef="urn:vpro:media:group:49333384"/>
+        <media:segments/>
+      </api:result>
+    </api:item>
+    <api:item xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="api:searchResultItem" score="10.511236">
+      <api:result xsi:type="media:programType" type="BROADCAST" avType="VIDEO" embeddable="true" hasSubtitles="true" mid="VPWON_1229996" sortDate="2015-01-23T18:06:05+01:00" creationDate="2014-12-30T06:54:43.371+01:00" lastModified="2015-08-24T19:19:27.436+02:00" publishDate="2016-01-22T11:35:25.338+01:00" urn="urn:vpro:media:program:49633997" workflow="PUBLISHED">
+        <media:broadcaster id="NTR">NTR</media:broadcaster>
+        <media:title owner="MIS" type="MAIN">Beste Vrienden Quiz</media:title>
+        <media:title owner="WHATS_ON" type="MAIN">Beste Vrienden Quiz</media:title>
+        <media:title owner="BROADCASTER" type="SUB">Aflevering 15</media:title>
+        <media:title owner="WHATS_ON" type="ORIGINAL">Beste Vrienden Quiz</media:title>
+        <media:description owner="BROADCASTER" type="MAIN">Quiz van een kwartier waarin twee teams van vrienden uit groep 7 of 8 tegen elkaar spelen. Het winnende team komt de volgende dag terug. De beste teams van het seizoen spelen in de laatste twee weken om de titel 'Beste Vrienden'. De vriendenteams spelen dagelijks om een geldbedrag. De ene helft is voor het goede doel: hun verre vrienden. De andere helft mogen ze zelf houden. De winnaars komen de volgende dag terug.</media:description>
+        <media:description owner="MIS" type="MAIN">Quiz waarin twee teams van drie vrienden uit groep 7 of 8 tegen elkaar spelen. Het winnende team komt de volgende dag terug. De beste teams van het seizoen spelen in de laatste twee weken om de titel 'Beste Vrienden'. De vriendenteams spelen dagelijks om een geldbedrag. De ene helft is voor het goede doel: hun verre vrienden. De andere helft mogen ze zelf houden. De winnaars komen de volgende dag terug.</media:description>
+        <media:description owner="WHATS_ON" type="MAIN">Quiz van een kwartier waarin twee teams van drie vrienden uit groep 7 of 8 tegen elkaar spelen. Het winnende team komt de volgende dag terug. De beste teams van het seizoen spelen in de laatste twee weken om de titel 'Beste Vrienden'. De vriendenteams spelen dagelijks om een geldbedrag. De ene helft is voor het goede doel: hun verre vrienden. De andere helft mogen ze zelf houden. De winnaars komen de volgende dag terug.</media:description>
+        <media:description owner="BROADCASTER" type="SHORT">Quiz waarin twee teams van vrienden uit groep 7 of 8 tegen elkaar spelen. Vandaag spelen Delano &amp; Ronan tegen Douae &amp; Ikram.</media:description>
+        <media:description owner="MIS" type="SHORT">Quiz waarin twee teams van vrienden uit groep 7 of 8 tegen elkaar spelen. De beste teams van het seizoen spelen om de titel 'Beste Vrienden'.</media:description>
+        <media:description owner="WHATS_ON" type="SHORT">Quiz waarin twee teams van vrienden uit groep 7 of 8 tegen elkaar spelen. De beste teams van het seizoen spelen om de titel 'Beste Vrienden'.</media:description>
+        <media:description owner="BROADCASTER" type="EPISODE">Quiz waarin twee teams van vrienden uit groep 7 of 8 tegen elkaar spelen. Vandaag spelen Delano &amp; Ronan tegen Douae &amp; Ikram.</media:description>
+        <media:description owner="MIS" type="KICKER">Quiz waarin twee teams van vrienden uit groep 7 of 8 spelen om de titel 'Beste Vrienden'.</media:description>
+        <media:genre id="3.0.1.1.19">
+          <media:term>Jeugd</media:term>
+          <media:term>Spel/quiz</media:term>
+        </media:genre>
+        <media:country code="NL">Nederland</media:country>
+        <media:language code="nl">Nederlands</media:language>
+        <media:avAttributes>
+          <media:videoAttributes/>
+          <media:audioAttributes/>
+        </media:avAttributes>
+        <media:releaseYear>2015</media:releaseYear>
+        <media:duration>P0DT0H20M10.200S</media:duration>
+        <media:credits>
+          <media:person role="PRESENTER">
+            <media:givenName>Bart</media:givenName>
+            <media:familyName>Meijer</media:familyName>
+          </media:person>
+        </media:credits>
+        <media:descendantOf urnRef="urn:vpro:media:group:44769623" midRef="POMS_S_NTR_624074" type="COLLECTION"/>
+        <media:descendantOf urnRef="urn:vpro:media:group:48907376" midRef="VPWON_1229981" type="SEASON"/>
+        <media:descendantOf urnRef="urn:vpro:media:group:60996117" midRef="VPWON_1249361" type="SERIES"/>
+        <media:prediction state="REALIZED">INTERNETVOD</media:prediction>
+        <media:prediction state="REALIZED" publishStart="2015-01-23T18:25:51+01:00" publishStop="2015-02-20T18:25:51+01:00">PLUSVOD</media:prediction>
+        <media:locations>
+          <media:location owner="CERES" platform="INTERNETVOD" creationDate="2015-01-23T18:41:39.472+01:00" lastModified="2015-01-23T18:41:39.730+01:00" urn="urn:vpro:media:location:50594597" workflow="PUBLISHED">
+            <media:programUrl>odip+http://odi.omroep.nl/video/adaptive/VPWON_1229996</media:programUrl>
+            <media:avAttributes>
+              <media:avFileFormat>HASP</media:avFileFormat>
+            </media:avAttributes>
+          </media:location>
+          <media:location owner="CERES" platform="INTERNETVOD" creationDate="2015-01-23T18:36:10.326+01:00" lastModified="2015-01-23T18:36:10.508+01:00" urn="urn:vpro:media:location:50594467" workflow="PUBLISHED">
+            <media:programUrl>odi+http://odi.omroep.nl/video/h264_sb/VPWON_1229996</media:programUrl>
+            <media:avAttributes>
+              <media:bitrate>200000</media:bitrate>
+              <media:avFileFormat>H264</media:avFileFormat>
+            </media:avAttributes>
+          </media:location>
+          <media:location owner="CERES" platform="INTERNETVOD" creationDate="2015-01-23T18:36:11.183+01:00" lastModified="2015-01-23T18:36:11.375+01:00" urn="urn:vpro:media:location:50594470" workflow="PUBLISHED">
+            <media:programUrl>odi+http://odi.omroep.nl/video/h264_bb/VPWON_1229996</media:programUrl>
+            <media:avAttributes>
+              <media:bitrate>500000</media:bitrate>
+              <media:avFileFormat>H264</media:avFileFormat>
+            </media:avAttributes>
+          </media:location>
+          <media:location owner="CERES" platform="INTERNETVOD" creationDate="2015-01-23T18:36:11.916+01:00" lastModified="2015-01-23T18:36:12.174+01:00" urn="urn:vpro:media:location:50594473" workflow="PUBLISHED">
+            <media:programUrl>odi+http://odi.omroep.nl/video/h264_std/VPWON_1229996</media:programUrl>
+            <media:avAttributes>
+              <media:bitrate>1000000</media:bitrate>
+              <media:avFileFormat>H264</media:avFileFormat>
+            </media:avAttributes>
+          </media:location>
+        </media:locations>
+        <media:scheduleEvents>
+          <media:scheduleEvent channel="NED3" midRef="VPWON_1229996" net="ZAPP" urnRef="urn:vpro:media:program:49633997">
+            <media:guideDay>2015-01-23+01:00</media:guideDay>
+            <media:start>2015-01-23T18:06:05+01:00</media:start>
+            <media:duration>P0DT0H20M10.000S</media:duration>
+            <media:poProgID>VPWON_1229996</media:poProgID>
+          </media:scheduleEvent>
+          <media:scheduleEvent channel="NED3" midRef="VPWON_1229996" net="ZAPP" urnRef="urn:vpro:media:program:49633997">
+            <media:guideDay>2015-01-26+01:00</media:guideDay>
+            <media:start>2015-01-26T15:57:46+01:00</media:start>
+            <media:duration>P0DT0H20M10.000S</media:duration>
+            <media:poProgID>VPWON_1229996</media:poProgID>
+          </media:scheduleEvent>
+          <media:scheduleEvent channel="BVNT" midRef="VPWON_1229996" urnRef="urn:vpro:media:program:49633997">
+            <media:repeat isRerun="true"/>
+            <media:textSubtitles>Teletekst ondertitels</media:textSubtitles>
+            <media:guideDay>2015-08-22+02:00</media:guideDay>
+            <media:start>2015-08-22T15:45:00+02:00</media:start>
+            <media:duration>P0DT0H20M59.000S</media:duration>
+            <media:poProgID>VPWON_1229996</media:poProgID>
+          </media:scheduleEvent>
+          <media:scheduleEvent channel="BVNT" midRef="VPWON_1229996" urnRef="urn:vpro:media:program:49633997">
+            <media:repeat isRerun="true"/>
+            <media:textSubtitles>Teletekst ondertitels</media:textSubtitles>
+            <media:guideDay>2015-08-22+02:00</media:guideDay>
+            <media:start>2015-08-23T03:45:00+02:00</media:start>
+            <media:duration>P0DT0H20M59.000S</media:duration>
+            <media:poProgID>VPWON_1229996</media:poProgID>
+          </media:scheduleEvent>
+        </media:scheduleEvents>
+        <media:images>
+          <shared:image owner="NEBO" type="STILL" highlighted="false" creationDate="2015-01-23T18:45:14.395+01:00" lastModified="2015-01-23T18:45:15.254+01:00" urn="urn:vpro:media:image:50594653" workflow="PUBLISHED">
+            <shared:title>Beste Vrienden Quiz</shared:title>
+            <shared:description>Quiz waarin twee teams van vrienden uit groep 7 of 8 tegen elkaar spelen. De beste teams van het seizoen spelen om de titel 'Beste Vrienden'.</shared:description>
+            <shared:imageUri>urn:vpro:image:565326</shared:imageUri>
+          </shared:image>
+          <shared:image owner="NEBO" type="STILL" highlighted="false" creationDate="2015-01-23T18:45:14.744+01:00" lastModified="2015-01-23T18:45:15.262+01:00" urn="urn:vpro:media:image:50594654" workflow="PUBLISHED">
+            <shared:title>Beste Vrienden Quiz</shared:title>
+            <shared:description>Quiz waarin twee teams van vrienden uit groep 7 of 8 tegen elkaar spelen. De beste teams van het seizoen spelen om de titel 'Beste Vrienden'.</shared:description>
+            <shared:imageUri>urn:vpro:image:565327</shared:imageUri>
+          </shared:image>
+          <shared:image owner="NEBO" type="STILL" highlighted="false" creationDate="2015-01-23T18:45:15.142+01:00" lastModified="2015-01-23T18:45:15.265+01:00" urn="urn:vpro:media:image:50594655" workflow="PUBLISHED">
+            <shared:title>Beste Vrienden Quiz</shared:title>
+            <shared:description>Quiz waarin twee teams van vrienden uit groep 7 of 8 tegen elkaar spelen. De beste teams van het seizoen spelen om de titel 'Beste Vrienden'.</shared:description>
+            <shared:imageUri>urn:vpro:image:565328</shared:imageUri>
+          </shared:image>
+        </media:images>
+        <media:episodeOf added="2014-12-30T06:54:43.491+01:00" highlighted="false" midRef="VPWON_1229981" index="15" type="SEASON" urnRef="urn:vpro:media:group:48907376"/>
+        <media:segments/>
+      </api:result>
+    </api:item>
+  </api:items>
+  <api:facets>
+    <api:broadcasters>
+      <api:count>13</api:count>
+      <api:id>VPRO</api:id>
+      <api:value>VPRO</api:value>
+    </api:broadcasters>
+    <api:broadcasters>
+      <api:count>3</api:count>
+      <api:id>VARA</api:id>
+      <api:value>VARA</api:value>
+    </api:broadcasters>
+    <api:broadcasters>
+      <api:count>2</api:count>
+      <api:id>TELE</api:id>
+      <api:value>Teleac</api:value>
+    </api:broadcasters>
+    <api:broadcasters>
+      <api:count>3</api:count>
+      <api:id>TROS</api:id>
+      <api:value>TROS</api:value>
+    </api:broadcasters>
+    <api:broadcasters>
+      <api:count>13</api:count>
+      <api:id>NTR</api:id>
+      <api:value>NTR</api:value>
+    </api:broadcasters>
+    <api:broadcasters>
+      <api:count>3</api:count>
+      <api:id>NPS</api:id>
+      <api:value>NPS</api:value>
+    </api:broadcasters>
+    <api:broadcasters>
+      <api:count>7</api:count>
+      <api:id>NOS</api:id>
+      <api:value>NOS</api:value>
+    </api:broadcasters>
+    <api:broadcasters>
+      <api:count>3</api:count>
+      <api:id>NCRV</api:id>
+      <api:value>NCRV</api:value>
+    </api:broadcasters>
+    <api:broadcasters>
+      <api:count>1</api:count>
+      <api:id>KRNC</api:id>
+      <api:value>KRO-NCRV</api:value>
+    </api:broadcasters>
+    <api:broadcasters>
+      <api:count>14</api:count>
+      <api:id>KRO</api:id>
+      <api:value>KRO</api:value>
+    </api:broadcasters>
+    <api:broadcasters>
+      <api:count>8</api:count>
+      <api:id>EO</api:id>
+      <api:value>EO</api:value>
+    </api:broadcasters>
+    <api:broadcasters>
+      <api:count>4</api:count>
+      <api:id>BNN</api:id>
+      <api:value>BNN</api:value>
+    </api:broadcasters>
+    <api:broadcasters>
+      <api:count>13</api:count>
+      <api:id>AVTR</api:id>
+      <api:value>AVROTROS</api:value>
+    </api:broadcasters>
+    <api:broadcasters>
+      <api:count>1</api:count>
+      <api:id>AVRO</api:id>
+      <api:value>AVRO</api:value>
+    </api:broadcasters>
+  </api:facets>
+  <api:selectedFacets/>
+</api:mediaSearchResult>

@@ -1,568 +1,233 @@
 {
   "facets" : { },
   "selectedFacets" : { },
-  "total" : 1197,
+  "total" : 12044,
   "offset" : 0,
   "max" : 2,
   "items" : [ {
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",
-      "type" : "PLAYER",
-      "url" : "http://omroep-test.human.nl/speel.POW_00452122.html",
-      "sortDate" : 1346364300000,
-      "crids" : [ "crid://vpro/media/human/POW_00452122" ],
+      "type" : "VIDEO",
+      "url" : "http://www-acc.vpro.nl/speel.POMS_VPRO_200051.html",
+      "sortDate" : 904287600000,
+      "crids" : [ "crid://vpro/media/vpro/POMS_VPRO_200051" ],
       "broadcasters" : [ {
-        "id" : "IKON",
-        "value" : "IKON"
-      }, {
-        "id" : "HUMA",
-        "value" : "HUMAN"
-      }, {
         "id" : "VPRO",
         "value" : "VPRO"
       } ],
       "portal" : {
-        "id" : "HUMANNL",
-        "url" : "http://omroep-test.human.nl",
-        "value" : "Human.nl"
+        "id" : "VPRONL",
+        "url" : "http://www-acc.vpro.nl",
+        "value" : "VPRO.nl"
       },
-      "title" : "Holland Doc",
-      "genres" : [ {
-        "id" : "3.0.1.8",
-        "terms" : [ "Documentaire" ],
-        "displayName" : "Documentaire"
-      } ],
+      "title" : "Twee Vandaag: Poncke Princen",
       "embeds" : [ {
-        "title" : "Holland Doc",
-        "description" : "Serie documentaires met nu eens schrijnende, dan weer hartverwarmende verhalen over mensen dichtbij of ver weg die vechten voor hun bestaan en die onze compassie hebben verdiend.",
+        "title" : "Twee Vandaag: Poncke Princen",
+        "description" : "Voor Twee Vandaag wordt Poncke Princen geïnterviewd in Jakarta, Indonesië. Hij vertelt de verslaggever waarom Van Mierlo hem een visum heeft gegeven. Princen (1925 – 2002) was een Indonesische mensenrechtenactivist van Nederlandse afkomst. Als dienstplichtige deserteerde hij in 1948 in Nederlands-Indië om bij de Indonesische republikeinse troepen dienst te nemen. Sommigen beschouwden hem als een moedig mens vanwege de keuze die hij tegen de koloniale oorlog maakte. Veel oud-strijders vonden het echter onvergeeflijk dat Princen de wapens tegen zijn eigen landgenoten had opgenomen. In 1994 werd Princen op humanitaire gronden en op voorwaarde dat hij zich onopvallend zou gedragen, door minister Van Mierlo een visum voor Nederland verstrekt, nadat dit hem eerder door de Nederlandse ambassadeur in Jakarta was geweigerd. Een strafklacht tegen Princen door de Vereniging Oud Militairen Indiëgangers werd door justitie niet in behandeling genomen. (TROS 1994)",
         "media" : {
-          "objectType" : "program",
-          "mid" : "POW_00452122",
-          "creationDate" : 1344814691583,
-          "lastModified" : 1394214738767,
-          "hasSubtitles" : true,
-          "sortDate" : 1346364300000,
-          "urn" : "urn:vpro:media:program:15081350",
+          "objectType" : "segment",
+          "mid" : "POMS_VPRO_200051",
+          "type" : "SEGMENT",
+          "avType" : "VIDEO",
+          "workflow" : "PUBLISHED",
+          "sortDate" : 904287600000,
+          "creationDate" : 1311151715761,
+          "lastModified" : 1338881793509,
+          "urn" : "urn:vpro:media:segment:10330538",
           "embeddable" : true,
-          "episodeOf" : [ {
-            "midRef" : "POW_00445528",
-            "urnRef" : "urn:vpro:media:group:14694875",
-            "type" : "SEASON",
-            "index" : 1,
-            "highlighted" : false,
-            "added" : 1346368567694
-          }, {
-            "midRef" : "POW_00445528",
-            "urnRef" : "urn:vpro:media:group:14694875",
-            "type" : "SEASON",
-            "index" : 12,
-            "highlighted" : false,
-            "added" : 1344814691605
-          } ],
-          "crids" : [ "crid://tmp.program.omroep.nl/14692519" ],
+          "crids" : [ "crid://tmp.fragment.mmbase.vpro.nl/42405411", "crid://tmp.item.mmbase.vpro.nl/42371121" ],
           "broadcasters" : [ {
-            "id" : "IKON",
-            "value" : "IKON"
-          }, {
-            "id" : "HUMA",
-            "value" : "HUMAN"
-          }, {
             "id" : "VPRO",
             "value" : "VPRO"
           } ],
           "titles" : [ {
-            "value" : "Holland Doc",
+            "value" : "Twee Vandaag: Poncke Princen",
             "owner" : "BROADCASTER",
             "type" : "MAIN"
           }, {
-            "value" : "Holland Doc: Compassie",
-            "owner" : "NEBO",
-            "type" : "MAIN"
-          }, {
-            "value" : "Holland Doc: Compassie",
-            "owner" : "MIS",
-            "type" : "MAIN"
-          }, {
-            "value" : "Holland Doc: Compassie",
-            "owner" : "CERES",
-            "type" : "MAIN"
-          }, {
-            "value" : "Twee levens",
-            "owner" : "WHATS_ON",
-            "type" : "MAIN"
-          }, {
-            "value" : "Twee levens",
+            "value" : "Zomergasten 2009: Alexander Pechtold",
             "owner" : "BROADCASTER",
-            "type" : "SUB"
-          }, {
-            "value" : "Twee levens",
-            "owner" : "NEBO",
-            "type" : "SUB"
-          }, {
-            "value" : "Twee levens",
-            "owner" : "MIS",
-            "type" : "SUB"
-          }, {
-            "value" : "Twee levens",
-            "owner" : "CERES",
             "type" : "SUB"
           } ],
           "descriptions" : [ {
-            "value" : "Serie documentaires met nu eens schrijnende, dan weer hartverwarmende verhalen over mensen dichtbij of ver weg die vechten voor hun bestaan en die onze compassie hebben verdiend.",
-            "owner" : "NEBO",
+            "value" : "Voor Twee Vandaag wordt Poncke Princen geïnterviewd in Jakarta, Indonesië. Hij vertelt de verslaggever waarom Van Mierlo hem een visum heeft gegeven. Princen (1925 – 2002) was een Indonesische mensenrechtenactivist van Nederlandse afkomst. Als dienstplichtige deserteerde hij in 1948 in Nederlands-Indië om bij de Indonesische republikeinse troepen dienst te nemen. Sommigen beschouwden hem als een moedig mens vanwege de keuze die hij tegen de koloniale oorlog maakte. Veel oud-strijders vonden het echter onvergeeflijk dat Princen de wapens tegen zijn eigen landgenoten had opgenomen. In 1994 werd Princen op humanitaire gronden en op voorwaarde dat hij zich onopvallend zou gedragen, door minister Van Mierlo een visum voor Nederland verstrekt, nadat dit hem eerder door de Nederlandse ambassadeur in Jakarta was geweigerd. Een strafklacht tegen Princen door de Vereniging Oud Militairen Indiëgangers werd door justitie niet in behandeling genomen. (TROS 1994)",
+            "owner" : "BROADCASTER",
             "type" : "MAIN"
-          }, {
-            "value" : "Serie documentaires met nu eens schrijnende, dan weer hartverwarmende verhalen over mensen dichtbij of ver weg die vechten voor hun bestaan en die onze compassie hebben verdiend.",
-            "owner" : "MIS",
-            "type" : "MAIN"
-          }, {
-            "value" : "Op 12 december 1985 verdwijnt Maarten Visser tijdens een reis door Chili. Sindsdien gaan z'n ouders ieder jaar terug om hem te zoeken. Filmmaker Fifi Visser, de zus van Maarten, gaat voor 't eerst mee.",
-            "owner" : "CERES",
-            "type" : "MAIN"
-          }, {
-            "value" : "IKON-zomerreeks Holland Doc: Compassie  23.40 - 00.30 uur:TWEE LEVENS   Serie van 9 documentaires in de reeks Holland Doc: Compassie. Met nu eens schrijnende, dan weer hartverwarmende verhalen over mensen dichtbij of ver weg die vechten voor hun bestaan en die onze compassie hebben verdiend.   Op 12 december 1985 verdwijnt Maarten Visser tijdens een reis door Chili. Zijn ouders, Paulus en Loes Visser, vertrekken onmiddellijk naar het land om hun zoon te zoeken, maar vinden hem niet. Maarten blijkt spoorloos te zijn verdwenen. Sindsdien gaan ze ieder jaar terug om hun zoektocht te vervolgen. Vervuld van hoop en vrees vragen ze aandacht in de lokale media en verversen ze hun posters.   In de documentaire gaat filmmaker Fifi Visser, de zus van Maarten, met haar ouders mee naar Chili. Ze volgt hen op hun zoveelste tocht langs inmiddels bekende adressen. De afgelegde bezoeken, de korte interviews met haar ouders en de brieffragmenten van Maarten verbeelden de wanhoop. Eén spoor brengt hen naar Colonia Dignidad. Deze door oud-nazi Paul Schäfer opgerichte gemeenschap diende onder Pinochet als martelcentrum. Maar ook hier komen ze niet verder. Terwijl Loes weigert te accepteren dat Maarten dood is, lijkt Paulus zich ermee verzoend te hebben. Toch is ook zijn leven in 1985 gedeeltelijk gestopt. \"Je hebt eigenlijk twee levens. Een leven dat stilstaat en een leven dat doorgaat.\"  Regie: Fifi Visser, productie: De Aanpak  www.hollanddoc.nl",
-            "owner" : "WHATS_ON",
-            "type" : "MAIN"
-          }, {
-            "value" : "Op 12 december 1985 verdwijnt Maarten Visser tijdens een reis door Chili. Sindsdien gaan z'n ouders ieder jaar terug om hem te zoeken. Filmmaker Fifi Visser, de zus van Maarten, gaat voor 't eerst mee.",
-            "owner" : "NEBO",
-            "type" : "SHORT"
-          }, {
-            "value" : "Op 12 december 1985 verdwijnt Maarten Visser tijdens een reis door Chili. Sindsdien gaan z'n ouders ieder jaar terug om hem te zoeken. Filmmaker Fifi Visser, de zus van Maarten, gaat voor 't eerst mee.",
-            "owner" : "MIS",
-            "type" : "SHORT"
-          }, {
-            "value" : "Op 12 december 1985 verdwijnt Maarten Visser tijdens een reis door Chili. Zijn ouders, Paulus en Loes Visser, vertrekken onmiddellijk naar het land om hun zoon te zoeken, maar vinden hem niet. Maarten blijkt spoorloos te zijn verdwenen. Sindsdien gaan ze ieder jaar terug om hun zoektocht te vervolgen. Vervuld van hoop en vrees vragen ze aandacht in de lokale media en verversen ze hun posters. In de documentaire gaat filmmaker Fifi Visser, de zus van Maarten, met haar ouders mee naar Chili. Ze volgt hen op hun zoveelste tocht langs inmiddels bekende adressen. De afgelegde bezoeken, de korte interviews met haar ouders en de brieffragmenten van Maarten verbeelden de wanhoop. Eén spoor brengt hen naar Colonia Dignidad. Deze door oud-nazi Paul Schäfer opgerichte gemeenschap diende onder Pinochet als martelcentrum. Maar ook hier komen ze niet verder. Terwijl Loes weigert te accepteren dat Maarten dood is, lijkt Paulus zich ermee verzoend te hebben. Toch is ook zijn leven in 1985 gedeeltelijk gestopt. 'Je hebt eigenlijk twee levens. Een leven dat stilstaat en een leven dat doorgaat.'.",
-            "owner" : "NEBO",
-            "type" : "SUB"
-          }, {
-            "value" : "Op 12 december 1985 verdwijnt Maarten Visser tijdens een reis door Chili. Zijn ouders, Paulus en Loes Visser, vertrekken onmiddellijk naar het land om hun zoon te zoeken, maar vinden hem niet. Maarten blijkt spoorloos te zijn verdwenen. Sindsdien gaan ze ieder jaar terug om hun zoektocht te vervolgen. Vervuld van hoop en vrees vragen ze aandacht in de lokale media en verversen ze hun posters. In de documentaire gaat filmmaker Fifi Visser, de zus van Maarten, met haar ouders mee naar Chili. Ze volgt hen op hun zoveelste tocht langs inmiddels bekende adressen. De afgelegde bezoeken, de korte interviews met haar ouders en de brieffragmenten van Maarten verbeelden de wanhoop. Eén spoor brengt hen naar Colonia Dignidad. Deze door oud-nazi Paul Schäfer opgerichte gemeenschap diende onder Pinochet als martelcentrum. Maar ook hier komen ze niet verder. Terwijl Loes weigert te accepteren dat Maarten dood is, lijkt Paulus zich ermee verzoend te hebben. Toch is ook zijn leven in 1985 gedeeltelijk gestopt. 'Je hebt eigenlijk twee levens. Een leven dat stilstaat en een leven dat doorgaat.'.",
-            "owner" : "CERES",
-            "type" : "SUB"
-          }, {
-            "value" : "Serie documentaires met nu eens schrijnende, dan weer hartverwarmende verhalen over mensen dichtbij of ver weg die vechten voor hun bestaan en die onze compassie hebben verdiend. Afl.: Twee levens. Op 12 december 1985 verdwijnt Maarten Visser tijdens een reis door Chili. Zijn ouders, Paulus en Loes Visser, vertrekken onmiddellijk naar het land om hun zoon te zoeken, maar vinden hem niet. Maarten blijkt spoorloos te zijn verdwenen. Sindsdien gaan ze ieder jaar terug om hun zoektocht te vervolgen. Vervuld van hoop en vrees vragen ze aandacht in de lokale media en verversen ze hun posters. In de documentaire gaat filmmaker Fifi Visser, de zus van Maarten, met haar ouders mee naar Chili. Ze volgt hen op hun zoveelste tocht langs inmiddels bekende adressen. De afgelegde bezoeken, de korte interviews met haar ouders en de brieffragmenten van Maarten verbeelden de wanhoop. Eén spoor brengt hen naar Colonia Dignidad. Deze door oud-nazi Paul Schäfer opgerichte gemeenschap diende onder Pinochet als martelcentrum. Maar ook hier komen ze niet verder. Terwijl Loes weigert te accepteren dat Maarten dood is, lijkt Paulus zich ermee verzoend te hebben. Toch is ook zijn leven in 1985 gedeeltelijk gestopt. 'Je hebt eigenlijk twee levens. Een leven dat stilstaat en een leven dat doorgaat.'.",
-            "owner" : "NEBO",
-            "type" : "EPISODE"
-          }, {
-            "value" : "Op 12 december 1985 verdwijnt Maarten Visser tijdens een reis door Chili. Zijn ouders, Paulus en Loes Visser, vertrekken onmiddellijk naar het land om hun zoon te zoeken, maar vinden hem niet. Maarten blijkt spoorloos te zijn verdwenen. Sindsdien gaan ze ieder jaar terug om hun zoektocht te vervolgen. Vervuld van hoop en vrees vragen ze aandacht in de lokale media en verversen ze hun posters. In de documentaire gaat filmmaker Fifi Visser, de zus van Maarten, met haar ouders mee naar Chili. Ze volgt hen op hun zoveelste tocht langs inmiddels bekende adressen. De afgelegde bezoeken, de korte interviews met haar ouders en de brieffragmenten van Maarten verbeelden de wanhoop. Eén spoor brengt hen naar Colonia Dignidad. Deze door oud-nazi Paul Schäfer opgerichte gemeenschap diende onder Pinochet als martelcentrum. Maar ook hier komen ze niet verder. Terwijl Loes weigert te accepteren dat Maarten dood is, lijkt Paulus zich ermee verzoend te hebben. Toch is ook zijn leven in 1985 gedeeltelijk gestopt. 'Je hebt eigenlijk twee levens. Een leven dat stilstaat en een leven dat doorgaat.'.",
-            "owner" : "MIS",
-            "type" : "EPISODE"
           } ],
-          "genres" : [ {
-            "id" : "3.0.1.8",
-            "terms" : [ "Documentaire" ]
-          } ],
-          "tags" : [ "chili", "maarten visser", "verdwijning" ],
+          "genres" : [ ],
           "countries" : [ ],
           "languages" : [ ],
-          "avAttributes" : {
-            "videoAttributes" : {
-              "color" : "BLACK_AND_WHITE_AND_COLOR",
-              "aspectRatio" : "16:9"
-            },
-            "audioAttributes" : {
-              "numberOfChannels" : 2
-            }
-          },
-          "duration" : 3840000,
-          "awards" : [ "Winnaar Special Jury Award DocAviv 2012" ],
+          "duration" : 3600000,
           "descendantOf" : [ {
-            "midRef" : "POW_00445528",
-            "urnRef" : "urn:vpro:media:group:14694875",
+            "midRef" : "POMS_S_VPRO_201060",
+            "urnRef" : "urn:vpro:media:group:10154461",
             "type" : "SEASON"
           }, {
-            "midRef" : "POMS_S_VPRO_056894",
-            "urnRef" : "urn:vpro:media:group:16904525",
+            "midRef" : "POMS_S_VPRO_174530",
+            "urnRef" : "urn:vpro:media:group:14376491",
             "type" : "PLAYLIST"
           }, {
-            "midRef" : "POMS_S_VARA_216768",
-            "urnRef" : "urn:vpro:media:group:2981769",
-            "type" : "PLAYLIST"
-          }, {
-            "midRef" : "POMS_S_VPRO_083953",
-            "urnRef" : "urn:vpro:media:group:72681",
-            "type" : "SERIES"
-          }, {
-            "midRef" : "POMS_S_VPRO_218645",
-            "urnRef" : "urn:vpro:media:group:9707788",
-            "type" : "PLAYLIST"
+            "midRef" : "VPRO_5",
+            "urnRef" : "urn:vpro:media:program:7085596",
+            "type" : "BROADCAST"
           } ],
           "memberOf" : [ {
-            "midRef" : "POMS_S_VPRO_056894",
-            "urnRef" : "urn:vpro:media:group:16904525",
+            "midRef" : "POMS_S_VPRO_174530",
+            "urnRef" : "urn:vpro:media:group:14376491",
             "type" : "PLAYLIST",
-            "index" : 9,
+            "index" : 1,
             "highlighted" : false,
-            "added" : 1355218408235
-          }, {
-            "midRef" : "POMS_S_VARA_216768",
-            "urnRef" : "urn:vpro:media:group:2981769",
-            "type" : "PLAYLIST",
-            "index" : 35,
-            "highlighted" : false,
-            "added" : 1346419265896
-          }, {
-            "midRef" : "POMS_S_VPRO_218645",
-            "urnRef" : "urn:vpro:media:group:9707788",
-            "type" : "PLAYLIST",
-            "highlighted" : false,
-            "added" : 1346419265832
-          } ],
-          "websites" : [ {
-            "value" : "http://www.hollanddoc.nl"
+            "added" : 1338881722773
           } ],
           "predictions" : [ {
             "state" : "REALIZED",
-            "publishStart" : 1346368245000,
             "platform" : "INTERNETVOD"
           } ],
           "locations" : [ {
-            "programUrl" : "odip+http://odi.omroep.nl/video/adaptive/POW_00452122",
+            "programUrl" : "http://cgi.omroep.nl/cgi-bin/streams?/vpro/42405411/windowsmedia.asf",
             "avAttributes" : {
-              "avFileFormat" : "HASP"
+              "bitrate" : 500000,
+              "avFileFormat" : "WM"
             },
             "owner" : "BROADCASTER",
-            "creationDate" : 1346369768482,
-            "lastModified" : 1346402182313,
-            "publishStart" : 1346368245000,
+            "creationDate" : 1251496800000,
+            "lastModified" : 1311151748112,
             "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:location:15242178"
-          }, {
-            "programUrl" : "odi+http://odi.omroep.nl/video/h264_sb/POW_00452122",
-            "avAttributes" : {
-              "bitrate" : 204800,
-              "avFileFormat" : "MP4",
-              "videoAttributes" : {
-                "videoCoding" : "WM",
-                "aspectRatio" : "16:9"
-              }
-            },
-            "owner" : "NEBO",
-            "creationDate" : 1346368867148,
-            "lastModified" : 1361189288601,
-            "publishStart" : 1346368245000,
-            "workflow" : "PUBLISHED",
-            "platform" : "INTERNETVOD",
-            "urn" : "urn:vpro:media:location:15242147"
-          }, {
-            "programUrl" : "odi+http://odi.omroep.nl/video/h264_bb/POW_00452122",
-            "avAttributes" : {
-              "bitrate" : 512000,
-              "avFileFormat" : "MP4",
-              "videoAttributes" : {
-                "videoCoding" : "WM",
-                "aspectRatio" : "16:9"
-              }
-            },
-            "owner" : "NEBO",
-            "creationDate" : 1346368566750,
-            "lastModified" : 1361189288600,
-            "publishStart" : 1346368245000,
-            "workflow" : "PUBLISHED",
-            "platform" : "INTERNETVOD",
-            "urn" : "urn:vpro:media:location:15242137"
-          }, {
-            "programUrl" : "odi+http://odi.omroep.nl/video/h264_std/POW_00452122",
-            "avAttributes" : {
-              "bitrate" : 1024000,
-              "avFileFormat" : "MP4",
-              "videoAttributes" : {
-                "videoCoding" : "WM",
-                "aspectRatio" : "16:9"
-              }
-            },
-            "owner" : "NEBO",
-            "creationDate" : 1346368867293,
-            "lastModified" : 1361189288601,
-            "publishStart" : 1346368245000,
-            "workflow" : "PUBLISHED",
-            "platform" : "INTERNETVOD",
-            "urn" : "urn:vpro:media:location:15242149"
-          }, {
-            "programUrl" : "odi+http://odi.omroep.nl/video/wvc1_std/POW_00452122",
-            "avAttributes" : {
-              "bitrate" : 1024000,
-              "avFileFormat" : "WVC1",
-              "videoAttributes" : {
-                "videoCoding" : "WM",
-                "aspectRatio" : "16:9"
-              }
-            },
-            "owner" : "NEBO",
-            "creationDate" : 1346368566846,
-            "lastModified" : 1361189288600,
-            "publishStart" : 1346368245000,
-            "workflow" : "PUBLISHED",
-            "platform" : "INTERNETVOD",
-            "urn" : "urn:vpro:media:location:15242139"
-          }, {
-            "programUrl" : "odi+http://odi.omroep.nl/video/wmv_sb/POW_00452122",
-            "avAttributes" : {
-              "bitrate" : 204800,
-              "avFileFormat" : "WM",
-              "videoAttributes" : {
-                "videoCoding" : "WM",
-                "aspectRatio" : "16:9"
-              }
-            },
-            "owner" : "NEBO",
-            "creationDate" : 1346368566579,
-            "lastModified" : 1361189288600,
-            "publishStart" : 1346368245000,
-            "workflow" : "PUBLISHED",
-            "platform" : "INTERNETVOD",
-            "urn" : "urn:vpro:media:location:15242133"
-          }, {
-            "programUrl" : "odi+http://odi.omroep.nl/video/wmv_bb/POW_00452122",
-            "avAttributes" : {
-              "bitrate" : 512000,
-              "avFileFormat" : "WM",
-              "videoAttributes" : {
-                "videoCoding" : "WM",
-                "aspectRatio" : "16:9"
-              }
-            },
-            "owner" : "NEBO",
-            "creationDate" : 1346368566663,
-            "lastModified" : 1361189288600,
-            "publishStart" : 1346368245000,
-            "workflow" : "PUBLISHED",
-            "platform" : "INTERNETVOD",
-            "urn" : "urn:vpro:media:location:15242135"
-          } ],
-          "scheduleEvents" : [ {
-            "avAttributes" : {
-              "bitrate" : 0,
-              "avFileFormat" : "WM",
-              "videoAttributes" : {
-                "videoCoding" : "WM",
-                "aspectRatio" : "16:9"
-              }
-            },
-            "textSubtitles" : "Teletekst ondertitels",
-            "start" : 1346364300000,
-            "duration" : 3660000,
-            "poProgID" : "POW_00452122",
-            "channel" : "NED2",
-            "urnRef" : "urn:vpro:media:program:15081350",
-            "midRef" : "POW_00452122"
+            "urn" : "urn:vpro:media:location:10330540"
           } ],
           "images" : [ {
-            "title" : "TWee levens",
-            "description" : "twee levens",
-            "imageUri" : "urn:vpro:image:96180",
-            "height" : 450,
-            "width" : 800,
+            "title" : "Twee Vandaag",
+            "description" : "Twee Vandaag: Poncke Princen",
+            "imageUri" : "urn:vpro:image:80623",
+            "height" : 225,
+            "width" : 378,
             "owner" : "BROADCASTER",
-            "type" : "PICTURE",
-            "highlighted" : false,
-            "creationDate" : 1346314396299,
-            "lastModified" : 1346314396301,
-            "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:image:15238539"
-          }, {
-            "title" : "Holland Doc",
-            "description" : "Op 12 december 1985 verdwijnt Maarten Visser tijdens een reis door Chili. Sindsdien gaan z'n ouders ieder jaar terug om hem te zoeken. Filmmaker Fifi Visser, de zus van Maarten, gaat voor 't eerst mee.",
-            "imageUri" : "urn:vpro:image:96384",
-            "owner" : "NEBO",
             "type" : "STILL",
             "highlighted" : false,
-            "creationDate" : 1394214704418,
-            "lastModified" : 1394214738766,
+            "creationDate" : 1338881495105,
+            "lastModified" : 1338881495106,
             "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:image:38305235"
-          }, {
-            "title" : "Holland Doc",
-            "description" : "Op 12 december 1985 verdwijnt Maarten Visser tijdens een reis door Chili. Sindsdien gaan z'n ouders ieder jaar terug om hem te zoeken. Filmmaker Fifi Visser, de zus van Maarten, gaat voor 't eerst mee.",
-            "imageUri" : "urn:vpro:image:96385",
-            "owner" : "NEBO",
-            "type" : "STILL",
-            "highlighted" : false,
-            "creationDate" : 1394214721831,
-            "lastModified" : 1394214738766,
-            "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:image:38305236"
-          }, {
-            "title" : "Holland Doc",
-            "description" : "Op 12 december 1985 verdwijnt Maarten Visser tijdens een reis door Chili. Sindsdien gaan z'n ouders ieder jaar terug om hem te zoeken. Filmmaker Fifi Visser, de zus van Maarten, gaat voor 't eerst mee.",
-            "imageUri" : "urn:vpro:image:96386",
-            "owner" : "NEBO",
-            "type" : "STILL",
-            "highlighted" : false,
-            "creationDate" : 1394214738640,
-            "lastModified" : 1394214738767,
-            "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:image:38305237"
+            "urn" : "urn:vpro:media:image:14376588"
           } ],
-          "workflow" : "PUBLISHED",
-          "type" : "BROADCAST",
-          "avType" : "VIDEO"
+          "start" : 0,
+          "urnRef" : "urn:vpro:media:program:7085596",
+          "midRef" : "VPRO_5"
         }
       } ],
       "images" : [ {
         "type" : "PICTURE",
-        "url" : "http://images.poms.omroep.nl/image/s360/96180.jpg",
-        "title" : "TWee levens",
-        "description" : "twee levens"
+        "url" : "http://images.poms.omroep.nl/image/s360/80623.jpg",
+        "title" : "Twee Vandaag",
+        "description" : "Twee Vandaag: Poncke Princen"
       } ],
-      "publishStart" : 1346364300000,
-      "creationDate" : 1411384668764,
-      "lastModified" : 1422550162917,
+      "publishStart" : 904287600000,
+      "creationDate" : 1416967833156,
+      "lastModified" : 1430325855657,
       "refCount" : 0
     }
   }, {
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",
-      "type" : "VIDEO",
-      "url" : "http://human.localhost/speel.POW_00452122.html",
-      "sortDate" : 1346364300000,
-      "crids" : [ "crid://vpro/media/human/POW_00452122" ],
+      "type" : "PLAYER",
+      "url" : "http://acc.portal.ntr.nl/parent/0/detail/Nieuwsuur/NPS_1239095",
+      "sortDate" : 1426081308408,
       "broadcasters" : [ {
-        "id" : "IKON",
-        "value" : "IKON"
-      }, {
-        "id" : "HUMA",
-        "value" : "HUMAN"
-      }, {
-        "id" : "VPRO",
-        "value" : "VPRO"
+        "id" : "NTR",
+        "value" : "NTR"
       } ],
       "portal" : {
-        "id" : "HUMANNL",
-        "url" : "http://human.localhost",
-        "value" : "Human.nl"
+        "id" : "NTRPORTAL",
+        "url" : "http://acc.portal.ntr.nl",
+        "value" : "Portal NTR",
+        "section" : {
+          "path" : "/site/thema/Actueel/5",
+          "id" : "NTRPORTAL./site/thema/Actueel/5"
+        }
       },
-      "title" : "Holland Doc",
+      "title" : "Nieuwsuur",
       "genres" : [ {
-        "id" : "3.0.1.8",
-        "terms" : [ "Documentaire" ],
-        "displayName" : "Documentaire"
+        "id" : "3.0.5.1",
+        "terms" : [ "Actueel" ],
+        "displayName" : "Actueel"
+      }, {
+        "id" : "3.0.5.8",
+        "terms" : [ "Interview" ],
+        "displayName" : "Interview"
+      } ],
+      "paragraphs" : [ {
+        "body" : "Nieuws, sport en achtergronden."
       } ],
       "embeds" : [ {
-        "title" : "Holland Doc",
-        "description" : "Serie documentaires met nu eens schrijnende, dan weer hartverwarmende verhalen over mensen dichtbij of ver weg die vechten voor hun bestaan en die onze compassie hebben verdiend.",
         "media" : {
           "objectType" : "program",
-          "mid" : "POW_00452122",
-          "creationDate" : 1344814691583,
-          "lastModified" : 1394214738767,
-          "hasSubtitles" : true,
-          "sortDate" : 1346364300000,
-          "urn" : "urn:vpro:media:program:15081350",
+          "mid" : "NPS_1239095",
+          "type" : "BROADCAST",
+          "avType" : "VIDEO",
+          "workflow" : "PUBLISHED",
+          "sortDate" : 1395435600000,
+          "creationDate" : 1393307472896,
+          "lastModified" : 1396859492501,
+          "urn" : "urn:vpro:media:program:37718087",
           "embeddable" : true,
           "episodeOf" : [ {
-            "midRef" : "POW_00445528",
-            "urnRef" : "urn:vpro:media:group:14694875",
+            "midRef" : "NPS_1235376",
+            "urnRef" : "urn:vpro:media:group:33744047",
             "type" : "SEASON",
-            "index" : 1,
+            "index" : 78,
             "highlighted" : false,
-            "added" : 1346368567694
-          }, {
-            "midRef" : "POW_00445528",
-            "urnRef" : "urn:vpro:media:group:14694875",
-            "type" : "SEASON",
-            "index" : 12,
-            "highlighted" : false,
-            "added" : 1344814691605
+            "added" : 1393307473005
           } ],
-          "crids" : [ "crid://tmp.program.omroep.nl/14692519" ],
           "broadcasters" : [ {
-            "id" : "IKON",
-            "value" : "IKON"
+            "id" : "NPS",
+            "value" : "NPS"
           }, {
-            "id" : "HUMA",
-            "value" : "HUMAN"
+            "id" : "NOS",
+            "value" : "NOS"
           }, {
-            "id" : "VPRO",
-            "value" : "VPRO"
+            "id" : "NTR",
+            "value" : "NTR"
           } ],
           "titles" : [ {
-            "value" : "Holland Doc",
-            "owner" : "BROADCASTER",
-            "type" : "MAIN"
-          }, {
-            "value" : "Holland Doc: Compassie",
-            "owner" : "NEBO",
-            "type" : "MAIN"
-          }, {
-            "value" : "Holland Doc: Compassie",
+            "value" : "Nieuwsuur",
             "owner" : "MIS",
             "type" : "MAIN"
           }, {
-            "value" : "Holland Doc: Compassie",
-            "owner" : "CERES",
-            "type" : "MAIN"
-          }, {
-            "value" : "Twee levens",
+            "value" : "Nieuwsuur",
             "owner" : "WHATS_ON",
             "type" : "MAIN"
-          }, {
-            "value" : "Twee levens",
-            "owner" : "BROADCASTER",
-            "type" : "SUB"
-          }, {
-            "value" : "Twee levens",
-            "owner" : "NEBO",
-            "type" : "SUB"
-          }, {
-            "value" : "Twee levens",
-            "owner" : "MIS",
-            "type" : "SUB"
-          }, {
-            "value" : "Twee levens",
-            "owner" : "CERES",
-            "type" : "SUB"
           } ],
           "descriptions" : [ {
-            "value" : "Serie documentaires met nu eens schrijnende, dan weer hartverwarmende verhalen over mensen dichtbij of ver weg die vechten voor hun bestaan en die onze compassie hebben verdiend.",
-            "owner" : "NEBO",
-            "type" : "MAIN"
-          }, {
-            "value" : "Serie documentaires met nu eens schrijnende, dan weer hartverwarmende verhalen over mensen dichtbij of ver weg die vechten voor hun bestaan en die onze compassie hebben verdiend.",
+            "value" : "Nieuws, sport en achtergronden.",
             "owner" : "MIS",
             "type" : "MAIN"
           }, {
-            "value" : "Op 12 december 1985 verdwijnt Maarten Visser tijdens een reis door Chili. Sindsdien gaan z'n ouders ieder jaar terug om hem te zoeken. Filmmaker Fifi Visser, de zus van Maarten, gaat voor 't eerst mee.",
-            "owner" : "CERES",
-            "type" : "MAIN"
-          }, {
-            "value" : "IKON-zomerreeks Holland Doc: Compassie  23.40 - 00.30 uur:TWEE LEVENS   Serie van 9 documentaires in de reeks Holland Doc: Compassie. Met nu eens schrijnende, dan weer hartverwarmende verhalen over mensen dichtbij of ver weg die vechten voor hun bestaan en die onze compassie hebben verdiend.   Op 12 december 1985 verdwijnt Maarten Visser tijdens een reis door Chili. Zijn ouders, Paulus en Loes Visser, vertrekken onmiddellijk naar het land om hun zoon te zoeken, maar vinden hem niet. Maarten blijkt spoorloos te zijn verdwenen. Sindsdien gaan ze ieder jaar terug om hun zoektocht te vervolgen. Vervuld van hoop en vrees vragen ze aandacht in de lokale media en verversen ze hun posters.   In de documentaire gaat filmmaker Fifi Visser, de zus van Maarten, met haar ouders mee naar Chili. Ze volgt hen op hun zoveelste tocht langs inmiddels bekende adressen. De afgelegde bezoeken, de korte interviews met haar ouders en de brieffragmenten van Maarten verbeelden de wanhoop. Eén spoor brengt hen naar Colonia Dignidad. Deze door oud-nazi Paul Schäfer opgerichte gemeenschap diende onder Pinochet als martelcentrum. Maar ook hier komen ze niet verder. Terwijl Loes weigert te accepteren dat Maarten dood is, lijkt Paulus zich ermee verzoend te hebben. Toch is ook zijn leven in 1985 gedeeltelijk gestopt. \"Je hebt eigenlijk twee levens. Een leven dat stilstaat en een leven dat doorgaat.\"  Regie: Fifi Visser, productie: De Aanpak  www.hollanddoc.nl",
+            "value" : "Dagelijks tussen tien en elf: nieuws, sport en achtergronden. www.nieuwsuur.nl",
             "owner" : "WHATS_ON",
             "type" : "MAIN"
           }, {
-            "value" : "Op 12 december 1985 verdwijnt Maarten Visser tijdens een reis door Chili. Sindsdien gaan z'n ouders ieder jaar terug om hem te zoeken. Filmmaker Fifi Visser, de zus van Maarten, gaat voor 't eerst mee.",
-            "owner" : "NEBO",
-            "type" : "SHORT"
-          }, {
-            "value" : "Op 12 december 1985 verdwijnt Maarten Visser tijdens een reis door Chili. Sindsdien gaan z'n ouders ieder jaar terug om hem te zoeken. Filmmaker Fifi Visser, de zus van Maarten, gaat voor 't eerst mee.",
+            "value" : "-Kabinet neemt afstand van Wilders. -Ook zijn er vandaag twee PVV'ers opgestapt. -Achter de schermen bij de NSS.",
             "owner" : "MIS",
             "type" : "SHORT"
           }, {
-            "value" : "Op 12 december 1985 verdwijnt Maarten Visser tijdens een reis door Chili. Zijn ouders, Paulus en Loes Visser, vertrekken onmiddellijk naar het land om hun zoon te zoeken, maar vinden hem niet. Maarten blijkt spoorloos te zijn verdwenen. Sindsdien gaan ze ieder jaar terug om hun zoektocht te vervolgen. Vervuld van hoop en vrees vragen ze aandacht in de lokale media en verversen ze hun posters. In de documentaire gaat filmmaker Fifi Visser, de zus van Maarten, met haar ouders mee naar Chili. Ze volgt hen op hun zoveelste tocht langs inmiddels bekende adressen. De afgelegde bezoeken, de korte interviews met haar ouders en de brieffragmenten van Maarten verbeelden de wanhoop. Eén spoor brengt hen naar Colonia Dignidad. Deze door oud-nazi Paul Schäfer opgerichte gemeenschap diende onder Pinochet als martelcentrum. Maar ook hier komen ze niet verder. Terwijl Loes weigert te accepteren dat Maarten dood is, lijkt Paulus zich ermee verzoend te hebben. Toch is ook zijn leven in 1985 gedeeltelijk gestopt. 'Je hebt eigenlijk twee levens. Een leven dat stilstaat en een leven dat doorgaat.'.",
-            "owner" : "NEBO",
-            "type" : "SUB"
-          }, {
-            "value" : "Op 12 december 1985 verdwijnt Maarten Visser tijdens een reis door Chili. Zijn ouders, Paulus en Loes Visser, vertrekken onmiddellijk naar het land om hun zoon te zoeken, maar vinden hem niet. Maarten blijkt spoorloos te zijn verdwenen. Sindsdien gaan ze ieder jaar terug om hun zoektocht te vervolgen. Vervuld van hoop en vrees vragen ze aandacht in de lokale media en verversen ze hun posters. In de documentaire gaat filmmaker Fifi Visser, de zus van Maarten, met haar ouders mee naar Chili. Ze volgt hen op hun zoveelste tocht langs inmiddels bekende adressen. De afgelegde bezoeken, de korte interviews met haar ouders en de brieffragmenten van Maarten verbeelden de wanhoop. Eén spoor brengt hen naar Colonia Dignidad. Deze door oud-nazi Paul Schäfer opgerichte gemeenschap diende onder Pinochet als martelcentrum. Maar ook hier komen ze niet verder. Terwijl Loes weigert te accepteren dat Maarten dood is, lijkt Paulus zich ermee verzoend te hebben. Toch is ook zijn leven in 1985 gedeeltelijk gestopt. 'Je hebt eigenlijk twee levens. Een leven dat stilstaat en een leven dat doorgaat.'.",
-            "owner" : "CERES",
-            "type" : "SUB"
-          }, {
-            "value" : "Serie documentaires met nu eens schrijnende, dan weer hartverwarmende verhalen over mensen dichtbij of ver weg die vechten voor hun bestaan en die onze compassie hebben verdiend. Afl.: Twee levens. Op 12 december 1985 verdwijnt Maarten Visser tijdens een reis door Chili. Zijn ouders, Paulus en Loes Visser, vertrekken onmiddellijk naar het land om hun zoon te zoeken, maar vinden hem niet. Maarten blijkt spoorloos te zijn verdwenen. Sindsdien gaan ze ieder jaar terug om hun zoektocht te vervolgen. Vervuld van hoop en vrees vragen ze aandacht in de lokale media en verversen ze hun posters. In de documentaire gaat filmmaker Fifi Visser, de zus van Maarten, met haar ouders mee naar Chili. Ze volgt hen op hun zoveelste tocht langs inmiddels bekende adressen. De afgelegde bezoeken, de korte interviews met haar ouders en de brieffragmenten van Maarten verbeelden de wanhoop. Eén spoor brengt hen naar Colonia Dignidad. Deze door oud-nazi Paul Schäfer opgerichte gemeenschap diende onder Pinochet als martelcentrum. Maar ook hier komen ze niet verder. Terwijl Loes weigert te accepteren dat Maarten dood is, lijkt Paulus zich ermee verzoend te hebben. Toch is ook zijn leven in 1985 gedeeltelijk gestopt. 'Je hebt eigenlijk twee levens. Een leven dat stilstaat en een leven dat doorgaat.'.",
-            "owner" : "NEBO",
-            "type" : "EPISODE"
-          }, {
-            "value" : "Op 12 december 1985 verdwijnt Maarten Visser tijdens een reis door Chili. Zijn ouders, Paulus en Loes Visser, vertrekken onmiddellijk naar het land om hun zoon te zoeken, maar vinden hem niet. Maarten blijkt spoorloos te zijn verdwenen. Sindsdien gaan ze ieder jaar terug om hun zoektocht te vervolgen. Vervuld van hoop en vrees vragen ze aandacht in de lokale media en verversen ze hun posters. In de documentaire gaat filmmaker Fifi Visser, de zus van Maarten, met haar ouders mee naar Chili. Ze volgt hen op hun zoveelste tocht langs inmiddels bekende adressen. De afgelegde bezoeken, de korte interviews met haar ouders en de brieffragmenten van Maarten verbeelden de wanhoop. Eén spoor brengt hen naar Colonia Dignidad. Deze door oud-nazi Paul Schäfer opgerichte gemeenschap diende onder Pinochet als martelcentrum. Maar ook hier komen ze niet verder. Terwijl Loes weigert te accepteren dat Maarten dood is, lijkt Paulus zich ermee verzoend te hebben. Toch is ook zijn leven in 1985 gedeeltelijk gestopt. 'Je hebt eigenlijk twee levens. Een leven dat stilstaat en een leven dat doorgaat.'.",
+            "value" : "-Kabinet neemt afstand van Wilders. De uitspraken van PVV-leider Wilders over Marokkanen hebben grote gevolgen. Premier Rutte ziet geen brood meer in politieke samenwerking met Wilders en ook andere partijen nemen afstand. Komt er straks een cordon sanitaire? Nieuwsuur kijkt naar België dat een cordon toepast op het Vlaams Belang (voormalig Vlaams Blok). -Ook zijn er vandaag twee PVV'ers opgestapt: Joram van Klaveren verlaat de fractie en Chris van der Helm stapt uit de Haagse gemeenteraad. Ex-PVV'er Louis Bontes is te gast. Hij werd eind vorig jaar uit de partij gezet. -Achter de schermen bij de NSS. De Nuclear Security Summit begint maandag in Den Haag. Het is de grootste internationale top die ooit in Nederland is gehouden. Nieuwsuur keek het afgelopen half jaar mee met de voorbereidingen en volgde hoofdonderhandelaar Piet de Klerk en projectleider Marc Gerritsen.",
             "owner" : "MIS",
             "type" : "EPISODE"
           } ],
           "genres" : [ {
-            "id" : "3.0.1.8",
-            "terms" : [ "Documentaire" ]
+            "id" : "3.0.1.4",
+            "terms" : [ "Sport" ]
+          }, {
+            "id" : "3.0.1.7.21",
+            "terms" : [ "Informatief", "Nieuws/actualiteiten" ]
           } ],
-          "tags" : [ "chili", "maarten visser", "verdwijning" ],
+          "hasSubtitles" : true,
           "countries" : [ ],
-          "languages" : [ ],
+          "languages" : [ {
+            "code" : "nl",
+            "value" : "Nederlands"
+          } ],
           "avAttributes" : {
             "videoAttributes" : {
               "color" : "BLACK_AND_WHITE_AND_COLOR",
@@ -572,250 +237,309 @@
               "numberOfChannels" : 2
             }
           },
-          "duration" : 3840000,
-          "awards" : [ "Winnaar Special Jury Award DocAviv 2012" ],
+          "duration" : 3600000,
           "descendantOf" : [ {
-            "midRef" : "POW_00445528",
-            "urnRef" : "urn:vpro:media:group:14694875",
+            "midRef" : "NPS_1235376",
+            "urnRef" : "urn:vpro:media:group:33744047",
             "type" : "SEASON"
           }, {
-            "midRef" : "POMS_S_VPRO_056894",
-            "urnRef" : "urn:vpro:media:group:16904525",
-            "type" : "PLAYLIST"
-          }, {
-            "midRef" : "POMS_S_VARA_216768",
-            "urnRef" : "urn:vpro:media:group:2981769",
-            "type" : "PLAYLIST"
-          }, {
-            "midRef" : "POMS_S_VPRO_083953",
-            "urnRef" : "urn:vpro:media:group:72681",
+            "midRef" : "POMS_S_NOS_059872",
+            "urnRef" : "urn:vpro:media:group:4421154",
             "type" : "SERIES"
-          }, {
-            "midRef" : "POMS_S_VPRO_218645",
-            "urnRef" : "urn:vpro:media:group:9707788",
-            "type" : "PLAYLIST"
-          } ],
-          "memberOf" : [ {
-            "midRef" : "POMS_S_VPRO_056894",
-            "urnRef" : "urn:vpro:media:group:16904525",
-            "type" : "PLAYLIST",
-            "index" : 9,
-            "highlighted" : false,
-            "added" : 1355218408235
-          }, {
-            "midRef" : "POMS_S_VARA_216768",
-            "urnRef" : "urn:vpro:media:group:2981769",
-            "type" : "PLAYLIST",
-            "index" : 35,
-            "highlighted" : false,
-            "added" : 1346419265896
-          }, {
-            "midRef" : "POMS_S_VPRO_218645",
-            "urnRef" : "urn:vpro:media:group:9707788",
-            "type" : "PLAYLIST",
-            "highlighted" : false,
-            "added" : 1346419265832
           } ],
           "websites" : [ {
-            "value" : "http://www.hollanddoc.nl"
+            "value" : "www.nieuwsuur.nl"
           } ],
           "predictions" : [ {
             "state" : "REALIZED",
-            "publishStart" : 1346368245000,
             "platform" : "INTERNETVOD"
+          }, {
+            "state" : "REALIZED",
+            "publishStart" : 1395439020000,
+            "publishStop" : 1427061420000,
+            "platform" : "PLUSVOD"
           } ],
           "locations" : [ {
-            "programUrl" : "odip+http://odi.omroep.nl/video/adaptive/POW_00452122",
+            "programUrl" : "odip+http://odi.omroep.nl/video/adaptive/NPS_1239095",
             "avAttributes" : {
               "avFileFormat" : "HASP"
             },
-            "owner" : "BROADCASTER",
-            "creationDate" : 1346369768482,
-            "lastModified" : 1346402182313,
-            "publishStart" : 1346368245000,
-            "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:location:15242178"
-          }, {
-            "programUrl" : "odi+http://odi.omroep.nl/video/h264_sb/POW_00452122",
-            "avAttributes" : {
-              "bitrate" : 204800,
-              "avFileFormat" : "MP4",
-              "videoAttributes" : {
-                "videoCoding" : "WM",
-                "aspectRatio" : "16:9"
-              }
-            },
-            "owner" : "NEBO",
-            "creationDate" : 1346368867148,
-            "lastModified" : 1361189288601,
-            "publishStart" : 1346368245000,
-            "workflow" : "PUBLISHED",
+            "owner" : "CERES",
             "platform" : "INTERNETVOD",
-            "urn" : "urn:vpro:media:location:15242147"
-          }, {
-            "programUrl" : "odi+http://odi.omroep.nl/video/h264_bb/POW_00452122",
-            "avAttributes" : {
-              "bitrate" : 512000,
-              "avFileFormat" : "MP4",
-              "videoAttributes" : {
-                "videoCoding" : "WM",
-                "aspectRatio" : "16:9"
-              }
-            },
-            "owner" : "NEBO",
-            "creationDate" : 1346368566750,
-            "lastModified" : 1361189288600,
-            "publishStart" : 1346368245000,
+            "creationDate" : 1395441367094,
+            "lastModified" : 1395441367244,
             "workflow" : "PUBLISHED",
-            "platform" : "INTERNETVOD",
-            "urn" : "urn:vpro:media:location:15242137"
+            "urn" : "urn:vpro:media:location:38998189"
           }, {
-            "programUrl" : "odi+http://odi.omroep.nl/video/h264_std/POW_00452122",
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_sb/NPS_1239095",
             "avAttributes" : {
-              "bitrate" : 1024000,
-              "avFileFormat" : "MP4",
-              "videoAttributes" : {
-                "videoCoding" : "WM",
-                "aspectRatio" : "16:9"
-              }
+              "bitrate" : 200000,
+              "avFileFormat" : "H264"
             },
-            "owner" : "NEBO",
-            "creationDate" : 1346368867293,
-            "lastModified" : 1361189288601,
-            "publishStart" : 1346368245000,
-            "workflow" : "PUBLISHED",
+            "owner" : "CERES",
             "platform" : "INTERNETVOD",
-            "urn" : "urn:vpro:media:location:15242149"
+            "creationDate" : 1395440170534,
+            "lastModified" : 1395440170849,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:38998146"
           }, {
-            "programUrl" : "odi+http://odi.omroep.nl/video/wvc1_std/POW_00452122",
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_bb/NPS_1239095",
             "avAttributes" : {
-              "bitrate" : 1024000,
-              "avFileFormat" : "WVC1",
-              "videoAttributes" : {
-                "videoCoding" : "WM",
-                "aspectRatio" : "16:9"
-              }
+              "bitrate" : 500000,
+              "avFileFormat" : "H264"
             },
-            "owner" : "NEBO",
-            "creationDate" : 1346368566846,
-            "lastModified" : 1361189288600,
-            "publishStart" : 1346368245000,
-            "workflow" : "PUBLISHED",
+            "owner" : "CERES",
             "platform" : "INTERNETVOD",
-            "urn" : "urn:vpro:media:location:15242139"
+            "creationDate" : 1395440171133,
+            "lastModified" : 1395440171326,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:38998149"
           }, {
-            "programUrl" : "odi+http://odi.omroep.nl/video/wmv_sb/POW_00452122",
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_std/NPS_1239095",
             "avAttributes" : {
-              "bitrate" : 204800,
-              "avFileFormat" : "WM",
-              "videoAttributes" : {
-                "videoCoding" : "WM",
-                "aspectRatio" : "16:9"
-              }
+              "bitrate" : 1000000,
+              "avFileFormat" : "H264"
             },
-            "owner" : "NEBO",
-            "creationDate" : 1346368566579,
-            "lastModified" : 1361189288600,
-            "publishStart" : 1346368245000,
-            "workflow" : "PUBLISHED",
+            "owner" : "CERES",
             "platform" : "INTERNETVOD",
-            "urn" : "urn:vpro:media:location:15242133"
-          }, {
-            "programUrl" : "odi+http://odi.omroep.nl/video/wmv_bb/POW_00452122",
-            "avAttributes" : {
-              "bitrate" : 512000,
-              "avFileFormat" : "WM",
-              "videoAttributes" : {
-                "videoCoding" : "WM",
-                "aspectRatio" : "16:9"
-              }
-            },
-            "owner" : "NEBO",
-            "creationDate" : 1346368566663,
-            "lastModified" : 1361189288600,
-            "publishStart" : 1346368245000,
+            "creationDate" : 1395440472905,
+            "lastModified" : 1395440473001,
             "workflow" : "PUBLISHED",
-            "platform" : "INTERNETVOD",
-            "urn" : "urn:vpro:media:location:15242135"
+            "urn" : "urn:vpro:media:location:38998157"
           } ],
           "scheduleEvents" : [ {
+            "guideDay" : 1395356400000,
+            "start" : 1395435600000,
+            "duration" : 3120000,
+            "poProgID" : "NPS_1239095",
+            "channel" : "NED2",
+            "urnRef" : "urn:vpro:media:program:37718087",
+            "midRef" : "NPS_1239095"
+          }, {
+            "repeat" : {
+              "isRerun" : true
+            },
             "avAttributes" : {
-              "bitrate" : 0,
-              "avFileFormat" : "WM",
               "videoAttributes" : {
-                "videoCoding" : "WM",
                 "aspectRatio" : "16:9"
               }
             },
             "textSubtitles" : "Teletekst ondertitels",
-            "start" : 1346364300000,
-            "duration" : 3660000,
-            "poProgID" : "POW_00452122",
+            "guideDay" : 1395356400000,
+            "start" : 1395438000000,
+            "duration" : 3000000,
+            "poProgID" : "NPS_1239095",
+            "channel" : "BVNT",
+            "imi" : "imi:40198",
+            "urnRef" : "urn:vpro:media:program:37718087",
+            "midRef" : "NPS_1239095"
+          }, {
+            "repeat" : {
+              "isRerun" : true
+            },
+            "avAttributes" : {
+              "videoAttributes" : {
+                "aspectRatio" : "16:9"
+              }
+            },
+            "textSubtitles" : "Teletekst ondertitels",
+            "guideDay" : 1395356400000,
+            "start" : 1395447000000,
+            "offset" : 86000,
+            "duration" : 3600000,
+            "poProgID" : "NPS_1239095",
             "channel" : "NED2",
-            "urnRef" : "urn:vpro:media:program:15081350",
-            "midRef" : "POW_00452122"
+            "imi" : "imi:17177",
+            "urnRef" : "urn:vpro:media:program:37718087",
+            "midRef" : "NPS_1239095"
+          }, {
+            "repeat" : {
+              "isRerun" : true
+            },
+            "avAttributes" : {
+              "videoAttributes" : {
+                "aspectRatio" : "16:9"
+              }
+            },
+            "textSubtitles" : "Teletekst ondertitels",
+            "guideDay" : 1395356400000,
+            "start" : 1395450600000,
+            "offset" : 55000,
+            "duration" : 3060000,
+            "poProgID" : "NPS_1239095",
+            "channel" : "NED2",
+            "imi" : "imi:17178",
+            "urnRef" : "urn:vpro:media:program:37718087",
+            "midRef" : "NPS_1239095"
+          }, {
+            "repeat" : {
+              "isRerun" : true
+            },
+            "avAttributes" : {
+              "videoAttributes" : {
+                "aspectRatio" : "16:9"
+              }
+            },
+            "textSubtitles" : "Teletekst ondertitels",
+            "guideDay" : 1395442800000,
+            "start" : 1395481200000,
+            "duration" : 3000000,
+            "poProgID" : "NPS_1239095",
+            "channel" : "BVNT",
+            "imi" : "imi:40226",
+            "urnRef" : "urn:vpro:media:program:37718087",
+            "midRef" : "NPS_1239095"
           } ],
           "images" : [ {
-            "title" : "TWee levens",
-            "description" : "twee levens",
-            "imageUri" : "urn:vpro:image:96180",
-            "height" : 450,
-            "width" : 800,
-            "owner" : "BROADCASTER",
-            "type" : "PICTURE",
-            "highlighted" : false,
-            "creationDate" : 1346314396299,
-            "lastModified" : 1346314396301,
-            "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:image:15238539"
-          }, {
-            "title" : "Holland Doc",
-            "description" : "Op 12 december 1985 verdwijnt Maarten Visser tijdens een reis door Chili. Sindsdien gaan z'n ouders ieder jaar terug om hem te zoeken. Filmmaker Fifi Visser, de zus van Maarten, gaat voor 't eerst mee.",
-            "imageUri" : "urn:vpro:image:96384",
+            "title" : "Nieuwsuur",
+            "description" : "-Kabinet neemt afstand van Wilders. -Ook zijn er vandaag twee PVV'ers opgestapt. -Achter de schermen bij de NSS.",
+            "imageUri" : "urn:vpro:image:441931",
             "owner" : "NEBO",
             "type" : "STILL",
             "highlighted" : false,
-            "creationDate" : 1394214704418,
-            "lastModified" : 1394214738766,
+            "creationDate" : 1395441013341,
+            "lastModified" : 1395441013428,
             "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:image:38305235"
+            "urn" : "urn:vpro:media:image:38998172"
           }, {
-            "title" : "Holland Doc",
-            "description" : "Op 12 december 1985 verdwijnt Maarten Visser tijdens een reis door Chili. Sindsdien gaan z'n ouders ieder jaar terug om hem te zoeken. Filmmaker Fifi Visser, de zus van Maarten, gaat voor 't eerst mee.",
-            "imageUri" : "urn:vpro:image:96385",
+            "title" : "Nieuwsuur",
+            "description" : "-Kabinet neemt afstand van Wilders. -Ook zijn er vandaag twee PVV'ers opgestapt. -Achter de schermen bij de NSS.",
+            "imageUri" : "urn:vpro:image:441933",
             "owner" : "NEBO",
             "type" : "STILL",
             "highlighted" : false,
-            "creationDate" : 1394214721831,
-            "lastModified" : 1394214738766,
+            "creationDate" : 1395441927928,
+            "lastModified" : 1395441941925,
             "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:image:38305236"
+            "urn" : "urn:vpro:media:image:38998200"
           }, {
-            "title" : "Holland Doc",
-            "description" : "Op 12 december 1985 verdwijnt Maarten Visser tijdens een reis door Chili. Sindsdien gaan z'n ouders ieder jaar terug om hem te zoeken. Filmmaker Fifi Visser, de zus van Maarten, gaat voor 't eerst mee.",
-            "imageUri" : "urn:vpro:image:96386",
+            "title" : "Nieuwsuur",
+            "description" : "-Kabinet neemt afstand van Wilders. -Ook zijn er vandaag twee PVV'ers opgestapt. -Achter de schermen bij de NSS.",
+            "imageUri" : "urn:vpro:image:441934",
             "owner" : "NEBO",
             "type" : "STILL",
             "highlighted" : false,
-            "creationDate" : 1394214738640,
-            "lastModified" : 1394214738767,
+            "creationDate" : 1395441941784,
+            "lastModified" : 1395441941925,
             "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:image:38305237"
+            "urn" : "urn:vpro:media:image:38998201"
           } ],
-          "workflow" : "PUBLISHED",
-          "type" : "BROADCAST",
-          "avType" : "VIDEO"
+          "publishDate" : 1427061461176,
+          "segments" : [ {
+            "objectType" : "segment",
+            "mid" : "POMS_NTR_506392",
+            "type" : "SEGMENT",
+            "avType" : "VIDEO",
+            "workflow" : "PUBLISHED",
+            "sortDate" : 1395435600000,
+            "creationDate" : 1395653100171,
+            "lastModified" : 1396859492501,
+            "urn" : "urn:vpro:media:segment:39089490",
+            "embeddable" : true,
+            "broadcasters" : [ {
+              "id" : "NPS",
+              "value" : "NPS"
+            }, {
+              "id" : "NOS",
+              "value" : "NOS"
+            }, {
+              "id" : "NTR",
+              "value" : "NTR"
+            } ],
+            "titles" : [ {
+              "value" : "Nieuwsuur - PVV'ers stappen op om uitspraken Wilders",
+              "owner" : "BROADCASTER",
+              "type" : "MAIN"
+            }, {
+              "value" : "21-03-2014",
+              "owner" : "BROADCASTER",
+              "type" : "SUB"
+            } ],
+            "descriptions" : [ {
+              "value" : "Het kabinet neemt afstand van de uitspraken van Wilders en steeds meer PVV'ers stappen op. Wacht de partij een politiek isolement net als het Vlaams Blok in België?\n",
+              "owner" : "BROADCASTER",
+              "type" : "MAIN"
+            }, {
+              "value" : "Het kabinet neemt afstand van de uitspraken van Wilders en steeds meer PVV'ers stappen op. Wacht de partij een politiek isolement net als het Vlaams Blok in België?\n",
+              "owner" : "BROADCASTER",
+              "type" : "SHORT"
+            } ],
+            "genres" : [ ],
+            "tags" : [ "discriminatie", "racisme", "regering", "wilders" ],
+            "countries" : [ ],
+            "languages" : [ ],
+            "duration" : 213000,
+            "descendantOf" : [ {
+              "midRef" : "POMS_S_NCRV_171924",
+              "urnRef" : "urn:vpro:media:group:14665646",
+              "type" : "ARCHIVE"
+            }, {
+              "midRef" : "POMS_S_NCRV_158917",
+              "urnRef" : "urn:vpro:media:group:16021111",
+              "type" : "ARCHIVE"
+            }, {
+              "midRef" : "NPS_1235376",
+              "urnRef" : "urn:vpro:media:group:33744047",
+              "type" : "SEASON"
+            }, {
+              "midRef" : "POMS_S_NCRV_465815",
+              "urnRef" : "urn:vpro:media:group:35412652",
+              "type" : "PLAYLIST"
+            }, {
+              "midRef" : "POMS_S_NCRV_470248",
+              "urnRef" : "urn:vpro:media:group:35773623",
+              "type" : "COLLECTION"
+            }, {
+              "midRef" : "POMS_S_NCRV_474558",
+              "urnRef" : "urn:vpro:media:group:36304999",
+              "type" : "COLLECTION"
+            }, {
+              "midRef" : "POMS_S_NOS_059872",
+              "urnRef" : "urn:vpro:media:group:4421154",
+              "type" : "SERIES"
+            }, {
+              "midRef" : "NPS_1239095",
+              "urnRef" : "urn:vpro:media:program:37718087",
+              "type" : "BROADCAST"
+            } ],
+            "memberOf" : [ {
+              "midRef" : "POMS_S_NCRV_465815",
+              "urnRef" : "urn:vpro:media:group:35412652",
+              "type" : "PLAYLIST",
+              "index" : 13,
+              "highlighted" : false,
+              "added" : 1395653334373
+            }, {
+              "midRef" : "POMS_S_NCRV_470248",
+              "urnRef" : "urn:vpro:media:group:35773623",
+              "type" : "COLLECTION",
+              "index" : 189,
+              "highlighted" : false,
+              "added" : 1395653367853
+            } ],
+            "images" : [ {
+              "title" : "Nieuwsuur - PVV'ers stappen op om uitspraken Wilders",
+              "description" : "gemaakt met de itemizer",
+              "imageUri" : "urn:vpro:image:442551",
+              "height" : 360,
+              "width" : 640,
+              "owner" : "BROADCASTER",
+              "type" : "STILL",
+              "highlighted" : false,
+              "creationDate" : 1395653232964,
+              "lastModified" : 1395653233135,
+              "workflow" : "PUBLISHED",
+              "urn" : "urn:vpro:media:image:39089494"
+            } ],
+            "publishDate" : 1415149658278,
+            "start" : 48000,
+            "urnRef" : "urn:vpro:media:program:37718087",
+            "midRef" : "NPS_1239095"
+          } ]
         }
       } ],
-      "images" : [ {
-        "type" : "PICTURE",
-        "url" : "http://images.poms.omroep.nl/image/s360/96180.jpg",
-        "title" : "TWee levens",
-        "description" : "twee levens"
-      } ],
-      "publishStart" : 1346364300000,
-      "creationDate" : 1407961197426,
-      "lastModified" : 1425945760998,
+      "creationDate" : 1426081308408,
+      "lastModified" : 1426081308693,
       "refCount" : 0
     }
   } ]

@@ -12,7 +12,7 @@ for i in `ls ../../examples/media` ; do
     if [ ${i%.xml} == $i ] ; then
         post "api/media" $parameters ../../examples/media/$i | jsonformat > $target
     else
-        post "api/media" $parameters ../../examples/media/$i | xmllint --format  > $target
+        post "api/media" $parameters ../../examples/media/$i | xmllint -format -  > $target
     fi
 done
 

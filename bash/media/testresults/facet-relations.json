@@ -23,8 +23,7 @@
   },
   "selectedFacets" : {
     "relations" : [ {
-      "name" : "labels",
-      "facet" : [ ]
+      "name" : "labels"
     }, {
       "name" : "artiesten",
       "facet" : [ {
@@ -39,14 +38,17 @@
   "offset" : 0,
   "max" : 2,
   "items" : [ {
-    "score" : 25.162653,
+    "score" : 24.728783,
     "highlights" : [ ],
     "result" : {
       "objectType" : "program",
       "mid" : "WO_VPRO_336459",
+      "type" : "TRACK",
+      "avType" : "AUDIO",
+      "workflow" : "PUBLISHED",
+      "sortDate" : 1365082172037,
       "creationDate" : 1365082172037,
       "lastModified" : 1365082172530,
-      "sortDate" : 1365082172037,
       "urn" : "urn:vpro:media:program:24038959",
       "embeddable" : true,
       "broadcasters" : [ {
@@ -104,20 +106,20 @@
         "lastModified" : 1365082172530,
         "workflow" : "PUBLISHED",
         "urn" : "urn:vpro:media:image:24038967"
-      } ],
-      "workflow" : "PUBLISHED",
-      "type" : "TRACK",
-      "avType" : "AUDIO"
+      } ]
     }
   }, {
-    "score" : 24.753952,
+    "score" : 23.283161,
     "highlights" : [ ],
     "result" : {
       "objectType" : "program",
       "mid" : "WO_VPRO_031867",
-      "creationDate" : 1334760888741,
-      "lastModified" : 1344869437784,
+      "type" : "CLIP",
+      "avType" : "VIDEO",
+      "workflow" : "PUBLISHED",
       "sortDate" : 1334760888741,
+      "creationDate" : 1334760888741,
+      "lastModified" : 1421104437478,
       "urn" : "urn:vpro:media:program:13685957",
       "embeddable" : true,
       "broadcasters" : [ {
@@ -152,6 +154,7 @@
       "locations" : [ {
         "programUrl" : "odis+http://content.omroep.nl/vpro/protected/luisterpaal/video/2012/04/18/BlauzunFlameonmyhead.mp4",
         "avAttributes" : {
+          "bitrate" : 500000,
           "avFileFormat" : "MP4"
         },
         "owner" : "BROADCASTER",
@@ -179,10 +182,7 @@
         "lastModified" : 1334823964949,
         "workflow" : "PUBLISHED",
         "urn" : "urn:vpro:media:image:13698009"
-      } ],
-      "workflow" : "PUBLISHED",
-      "type" : "CLIP",
-      "avType" : "VIDEO"
+      } ]
     }
   } ]
 }

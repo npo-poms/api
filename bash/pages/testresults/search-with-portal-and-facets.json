@@ -1,748 +1,971 @@
 {
   "facets" : {
     "types" : [ {
-      "count" : 90,
+      "count" : 8418,
       "id" : "ARTICLE",
       "value" : "Artikel"
     }, {
-      "count" : 4,
+      "count" : 2962,
       "id" : "AUDIO",
       "value" : "Audio"
     }, {
-      "count" : 2,
+      "count" : 80,
       "id" : "SPECIAL",
       "value" : "Special"
     }, {
-      "count" : 4,
+      "count" : 183,
+      "id" : "PLAYER",
+      "value" : "Speler"
+    }, {
+      "count" : 38,
       "id" : "HOME",
       "value" : "Thuis"
     }, {
-      "count" : 286,
+      "count" : 2477,
       "id" : "VIDEO",
       "value" : "Video"
     } ],
     "keywords" : [ {
-      "count" : 1,
-      "id" : "2033",
-      "value" : "2033"
+      "count" : 2
     }, {
       "count" : 1,
-      "id" : "2doc",
-      "value" : "2doc"
+      "id" : "\r\nFacial feedback",
+      "value" : "\r\nFacial feedback"
     }, {
       "count" : 1,
-      "id" : "3 seconden",
-      "value" : "3 seconden"
-    }, {
-      "count" : 4,
-      "id" : "3D",
-      "value" : "3D"
+      "id" : "\r\nNWQ",
+      "value" : "\r\nNWQ"
     }, {
       "count" : 1,
-      "id" : "3D printer",
-      "value" : "3D printer"
+      "id" : " Edge",
+      "value" : " Edge"
     }, {
       "count" : 1,
-      "id" : "3d",
-      "value" : "3d"
+      "id" : " Henk Brinkhuis",
+      "value" : " Henk Brinkhuis"
     }, {
       "count" : 1,
-      "id" : "ABN-Amro",
-      "value" : "ABN-Amro"
+      "id" : " de kennis van nu",
+      "value" : " de kennis van nu"
     }, {
       "count" : 1,
-      "id" : "AGV",
-      "value" : "AGV"
+      "id" : " laura starink",
+      "value" : " laura starink"
+    }, {
+      "count" : 3,
+      "id" : " radio",
+      "value" : " radio"
     }, {
       "count" : 1,
-      "id" : "Academisch Ziekenhuis Maastricht",
-      "value" : "Academisch Ziekenhuis Maastricht"
+      "id" : "\"Ons betere ik\"",
+      "value" : "\"Ons betere ik\""
+    }, {
+      "count" : 1,
+      "id" : "'Een zeepaardje in je hoofd'",
+      "value" : "'Een zeepaardje in je hoofd'"
     }, {
       "count" : 2,
-      "id" : "Ad de Jongh",
-      "value" : "Ad de Jongh"
+      "id" : "'s Gravesande",
+      "value" : "'s Gravesande"
     }, {
       "count" : 1,
-      "id" : "Afghanistan",
-      "value" : "Afghanistan"
+      "id" : "'tumor koken'",
+      "value" : "'tumor koken'"
     }, {
       "count" : 1,
-      "id" : "Alan Wallace",
-      "value" : "Alan Wallace"
+      "id" : "'tussen de oren'",
+      "value" : "'tussen de oren'"
     }, {
       "count" : 1,
-      "id" : "Alfred Nobel",
-      "value" : "Alfred Nobel"
+      "id" : "074886",
+      "value" : "074886"
     }, {
       "count" : 1,
-      "id" : "Amazone",
-      "value" : "Amazone"
+      "id" : "1 januari '0",
+      "value" : "1 januari '0"
     }, {
       "count" : 1,
-      "id" : "Andre Kuipers",
-      "value" : "Andre Kuipers"
+      "id" : "1 juli 1858",
+      "value" : "1 juli 1858"
     }, {
       "count" : 1,
-      "id" : "Andries Kamstra",
-      "value" : "Andries Kamstra"
+      "id" : "1 juni",
+      "value" : "1 juni"
     }, {
       "count" : 1,
-      "id" : "André",
-      "value" : "André"
+      "id" : "1 maart 2010",
+      "value" : "1 maart 2010"
     }, {
       "count" : 1,
-      "id" : "André Krouwel",
-      "value" : "André Krouwel"
+      "id" : "1 mei.",
+      "value" : "1 mei."
     }, {
       "count" : 1,
-      "id" : "Andy van den Dobbelsteen",
-      "value" : "Andy van den Dobbelsteen"
+      "id" : "10 jaar economie",
+      "value" : "10 jaar economie"
     }, {
       "count" : 1,
-      "id" : "Anic van Damme",
-      "value" : "Anic van Damme"
+      "id" : "10 jaar vlees",
+      "value" : "10 jaar vlees"
     }, {
       "count" : 1,
-      "id" : "Antarctica",
-      "value" : "Antarctica"
+      "id" : "10 januari 1901",
+      "value" : "10 januari 1901"
     }, {
       "count" : 1,
-      "id" : "Antartica",
-      "value" : "Antartica"
+      "id" : "10 januari 2014",
+      "value" : "10 januari 2014"
     }, {
       "count" : 1,
-      "id" : "Anthony Verschoor",
-      "value" : "Anthony Verschoor"
-    }, {
-      "count" : 1,
-      "id" : "Ap Verheggen",
-      "value" : "Ap Verheggen"
+      "id" : "100",
+      "value" : "100"
     } ],
     "genres" : [ {
-      "count" : 17,
+      "count" : 439,
       "id" : "3.0.2.6",
       "value" : "Aarde & Klimaat",
       "terms" : [ "Aarde & Klimaat" ]
     }, {
-      "count" : 75,
+      "count" : 889,
       "id" : "3.0.2.2",
       "value" : "Beta & Tech",
       "terms" : [ "Beta & Tech" ]
     }, {
-      "count" : 40,
+      "count" : 934,
       "id" : "3.0.2.4",
       "value" : "Brein & Gedrag",
       "terms" : [ "Brein & Gedrag" ]
     }, {
-      "count" : 74,
+      "count" : 806,
       "id" : "3.0.2.1",
       "value" : "Flora & Fauna",
       "terms" : [ "Flora & Fauna" ]
     }, {
-      "count" : 34,
+      "count" : 641,
       "id" : "3.0.2.7",
       "value" : "Geschiedenis & Archeologie",
       "terms" : [ "Geschiedenis & Archeologie" ]
     }, {
-      "count" : 42,
+      "count" : 340,
       "id" : "3.0.2.3",
       "value" : "Heelal & Ruimtevaart",
       "terms" : [ "Heelal & Ruimtevaart" ]
     }, {
-      "count" : 52,
+      "count" : 1106,
       "id" : "3.0.2.5",
       "value" : "Lijf & Gezondheid",
       "terms" : [ "Lijf & Gezondheid" ]
     }, {
-      "count" : 61,
+      "count" : 1633,
       "id" : "3.0.2.8",
       "value" : "Mens & Maatschappij",
       "terms" : [ "Mens & Maatschappij" ]
     } ],
     "sections" : [ {
-      "count" : 3,
-      "id" : "WETENSCHAP24./wetenschap-sample/programmas/Labyrint",
-      "value" : "Labyrint"
+      "count" : 1,
+      "id" : "WETENSCHAP24./wetenschap/programmas/academische-jaarprijs",
+      "value" : "Academische Jaarprijs"
     }, {
-      "count" : 92,
-      "id" : "WETENSCHAP24./wetenschap-sample/nieuws",
-      "value" : "Noorderlicht"
+      "count" : 57,
+      "id" : "WETENSCHAP24./wetenschap/programmas/beagle",
+      "value" : "Beagle"
+    }, {
+      "count" : 8,
+      "id" : "WETENSCHAP24./wetenschap/programmas/bezopen",
+      "value" : "Bezopen!"
+    }, {
+      "count" : 473,
+      "id" : "WETENSCHAP24./wetenschap/programmas/de-kennis-van-nu",
+      "value" : "De Kennis van Nu Radio"
+    }, {
+      "count" : 109,
+      "id" : "WETENSCHAP24./wetenschap/programmas/de-kennis-van-nu-tv",
+      "value" : "De Kennis van Nu TV"
     }, {
       "count" : 1,
-      "id" : "WETENSCHAP24./wetenschap-sample/over-wetenschap24",
-      "value" : "Over Wetenschap24"
+      "id" : "WETENSCHAP24./wetenschap/programmas/dekennisvannu",
+      "value" : "De kennis van nu - home"
     }, {
-      "count" : 158,
-      "id" : "WETENSCHAP24./wetenschap-sample/programmas/scienceflash",
-      "value" : "ScienceFlash"
+      "count" : 13,
+      "id" : "WETENSCHAP24./wetenschap/programmas/de-kunst-van-het-opvoeden",
+      "value" : "De kunst van het opvoeden"
+    }, {
+      "count" : 42,
+      "id" : "WETENSCHAP24./wetenschap/programmas/factcheckers",
+      "value" : "Factcheckers"
+    }, {
+      "count" : 3,
+      "id" : "WETENSCHAP24./wetenschap/programmas/famelab",
+      "value" : "FameLab"
+    }, {
+      "count" : 46,
+      "id" : "WETENSCHAP24./wetenschap/programmas/grootnationaalonderzoek",
+      "value" : "Groot Nationaal Onderzoek"
+    }, {
+      "count" : 11,
+      "id" : "WETENSCHAP24./wetenschap/programmas/de-kennis-van-nu-tv/hack-the-brain",
+      "value" : "Hack the Brain"
+    }, {
+      "count" : 2013,
+      "id" : "WETENSCHAP24./wetenschap/programmas/hoezo-radio",
+      "value" : "Hoe?Zo!"
+    }, {
+      "count" : 17,
+      "id" : "WETENSCHAP24./wetenschap/programmas/input",
+      "value" : "Input"
+    }, {
+      "count" : 25,
+      "id" : "WETENSCHAP24./wetenschap/programmas/Klimaatjagers",
+      "value" : "Klimaatjagers"
+    }, {
+      "count" : 7,
+      "id" : "WETENSCHAP24./wetenschap/programmas/LabW24",
+      "value" : "Lab W24"
+    }, {
+      "count" : 5,
+      "id" : "WETENSCHAP24./wetenschap/programmas/de-kennis-van-nu-tv/lopen-met-diederik",
+      "value" : "Lopen met Diederik"
+    }, {
+      "count" : 48,
+      "id" : "WETENSCHAP24./wetenschap/programmas/lowlands",
+      "value" : "Lowlands"
+    }, {
+      "count" : 5,
+      "id" : "WETENSCHAP24./wetenschap/programmas/Urgert-vanDeudekom",
+      "value" : "Met de kennis van nu"
+    }, {
+      "count" : 6,
+      "id" : "WETENSCHAP24./wetenschap/programmas/mindfck",
+      "value" : "Mindf*ck"
+    }, {
+      "count" : 11,
+      "id" : "WETENSCHAP24./wetenschap/programmas/NTR-Wetenschapscircus",
+      "value" : "NTR Wetenschapscircus"
+    }, {
+      "count" : 7628,
+      "id" : "WETENSCHAP24./wetenschap/nieuws",
+      "value" : "Nieuws"
+    }, {
+      "count" : 32,
+      "id" : "WETENSCHAP24./wetenschap/programmas/noorderlicht-tv",
+      "value" : "Noorderlicht TV"
+    }, {
+      "count" : 5,
+      "id" : "WETENSCHAP24./wetenschap/over-wetenschap24",
+      "value" : "Over NPO Wetenschap"
+    }, {
+      "count" : 1007,
+      "id" : "WETENSCHAP24./wetenschap/programmas/labyrint",
+      "value" : "labyrint"
     } ]
   },
   "selectedFacets" : { },
   "mediaFacets" : {
     "avTypes" : [ {
-      "count" : 5,
+      "count" : 3115,
       "id" : "AUDIO",
       "value" : "Audio"
     }, {
-      "count" : 1,
-      "id" : "MIXED",
-      "value" : "Afwisselend"
-    }, {
-      "count" : 289,
+      "count" : 2645,
       "id" : "VIDEO",
       "value" : "Video"
     } ]
   },
   "mediaSelectedFacets" : { },
-  "total" : 386,
+  "total" : 14158,
   "offset" : 0,
   "max" : 2,
   "items" : [ {
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",
-      "type" : "VIDEO",
-      "url" : "http://wetenschap-sample.localhost/videos/meer-video/2doc-particle-fever.html",
-      "sortDate" : 1397658554000,
-      "crids" : [ "crid://vpro/website/b4036861-9d18-4c80-a97c-17820d1849b7" ],
+      "type" : "HOME",
+      "url" : "http://www-acc.npowetenschap.nl/programmas/de-kennis-van-nu-tv/lopen-met-diederik.html",
+      "sortDate" : 1400504899900,
+      "crids" : [ "crid://vpro/website/7f7b28e9-567b-4402-88bf-aab40ba7bb40" ],
       "broadcasters" : [ {
         "id" : "NTR",
         "value" : "NTR"
-      }, {
-        "id" : "VPRO",
-        "value" : "VPRO"
       } ],
       "portal" : {
         "id" : "WETENSCHAP24",
-        "url" : "http://wetenschap-sample.localhost",
-        "value" : "NPO Wetenschap"
+        "url" : "http://www-acc.npowetenschap.nl",
+        "value" : "NPO Wetenschap",
+        "section" : {
+          "path" : "/wetenschap/programmas/de-kennis-van-nu-tv/lopen-met-diederik",
+          "id" : "WETENSCHAP24./wetenschap/programmas/de-kennis-van-nu-tv/lopen-met-diederik"
+        }
       },
-      "title" : "Particle fever",
-      "subTitle" : "2Doc ",
-      "keywords" : [ "Higgs", "Gods-deeltje", "Gods Particle", "Particle fever", "2doc", "oerknal", "Higgs-Boson", "LHC", "Mark Levinson", "de Large Hadron Collider", "CERN", "deeltjes", "deeltjes-experiment", "deeltjesversneller", "massa", "standaardmodel", "elementaire deeltjes", "universum", "heelal", "Peter Higgs" ],
-      "genres" : [ {
-        "id" : "3.0.2.2",
-        "terms" : [ "Beta & Tech" ],
-        "displayName" : "Beta & Tech"
-      }, {
-        "id" : "3.0.2.3",
-        "terms" : [ "Heelal & Ruimtevaart" ],
-        "displayName" : "Heelal & Ruimtevaart"
-      } ],
-      "summary" : "Wat gebeurde er nèt na de oerknal? Vijf jaar lang worden de meest vooraanstaande wetenschappers gevolgd in hun zoektocht naar het HIGGS-deeltje.",
+      "title" : "Lopen met Diederik",
+      "keywords" : [ " de kennis van nu", "ntr", "hardlopen", "rennen", "marathon", "Diederik Jekel", "lopen met Diederik", "DWDD" ],
       "paragraphs" : [ {
-        "body" : "Een thriller met sexy wetenschappers die ook nog goed de ingewikkelde materie kunnen uitleggen. 'Stel je een aantal opgewonden jongetjes van zes jaar vlak voor hun verjaardag voor' zo omschrijft een wetenschapster haar collega's als die voor het eerst het HIGGS-deeltje proberen aan te tonen. Met de vondst van dit zogenoemde Gods-deeltje hopen ze te ontcijferen wat er nèt na de oerknal gebeurde. Aan het onderzoek werken 10.000 wetenschappers uit meer dan 100 landen mee en de kijker zit op de eerste rang bij dit grootste en duurste experiment ooit. Van dichtbij wordt een aantal wetenschappers gevolgd en zien we hoe ze met bloed, zweet en tranen onderzoeken hoe onze wereld in elkaar zit. De film komt zo dichtbij dat het voelt alsof je er bovenop zit terwijl Edison de gloeilamp uitvond. Regie: Mark Levinson."
+        "body" : "Diederiks marathon.    Kijk voor een grotere kaart via deze link op Endomondo"
+      }, {
+        "body" : "De wetenschap achter hardlopen"
+      }, {
+        "body" : "Updates"
+      }, {
+        "title" : "Fotoblog"
+      }, {
+        "image" : {
+          "type" : "PICTURE",
+          "url" : "http://www-acc.npowetenschap.nl/.imaging/stk/wetenschap/search/media/wetenschap/programmas/TV-De-kennis-van-nu/items-2014/lopen-met-Diederik/dagboek/1609/original/1609.jpg",
+          "title" : "/wetenschap/programmas/de-kennis-van-nu-tv/lopen-met-diederik/extras/extras1/04/images/0"
+        }
+      }, {
+        "image" : {
+          "type" : "PICTURE",
+          "url" : "http://www-acc.npowetenschap.nl/.imaging/stk/wetenschap/search/media/wetenschap/programmas/TV-De-kennis-van-nu/items-2014/lopen-met-Diederik/dagboek/1109/original/1109.jpg",
+          "title" : "/wetenschap/programmas/de-kennis-van-nu-tv/lopen-met-diederik/extras/extras1/04/images/00"
+        }
+      }, {
+        "image" : {
+          "type" : "PICTURE",
+          "url" : "http://www-acc.npowetenschap.nl/.imaging/stk/wetenschap/search/media/wetenschap/programmas/TV-De-kennis-van-nu/items-2014/lopen-met-Diederik/dagboek/1009/original/1009.jpg",
+          "title" : "/wetenschap/programmas/de-kennis-van-nu-tv/lopen-met-diederik/extras/extras1/04/images/01"
+        }
+      }, {
+        "image" : {
+          "type" : "PICTURE",
+          "url" : "http://www-acc.npowetenschap.nl/.imaging/stk/wetenschap/search/media/wetenschap/programmas/TV-De-kennis-van-nu/items-2014/lopen-met-Diederik/dagboek/0809/original/0809.jpg",
+          "title" : "/wetenschap/programmas/de-kennis-van-nu-tv/lopen-met-diederik/extras/extras1/04/images/02"
+        }
+      }, {
+        "image" : {
+          "type" : "PICTURE",
+          "url" : "http://www-acc.npowetenschap.nl/.imaging/stk/wetenschap/search/media/wetenschap/programmas/TV-De-kennis-van-nu/items-2014/lopen-met-Diederik/dagboek/0409-2/original/0409-2.jpg",
+          "title" : "/wetenschap/programmas/de-kennis-van-nu-tv/lopen-met-diederik/extras/extras1/04/images/03"
+        }
+      }, {
+        "image" : {
+          "type" : "PICTURE",
+          "url" : "http://www-acc.npowetenschap.nl/.imaging/stk/wetenschap/search/media/wetenschap/programmas/TV-De-kennis-van-nu/items-2014/lopen-met-Diederik/dagboek/0409/original/0409.jpg",
+          "title" : "/wetenschap/programmas/de-kennis-van-nu-tv/lopen-met-diederik/extras/extras1/04/images/04"
+        }
+      }, {
+        "image" : {
+          "type" : "PICTURE",
+          "url" : "http://www-acc.npowetenschap.nl/.imaging/stk/wetenschap/search/media/wetenschap/programmas/TV-De-kennis-van-nu/items-2014/lopen-met-Diederik/dagboek/0309/original/0309.jpg",
+          "title" : "/wetenschap/programmas/de-kennis-van-nu-tv/lopen-met-diederik/extras/extras1/04/images/05"
+        }
+      }, {
+        "image" : {
+          "type" : "PICTURE",
+          "url" : "http://www-acc.npowetenschap.nl/.imaging/stk/wetenschap/search/media/wetenschap/programmas/TV-De-kennis-van-nu/items-2014/lopen-met-Diederik/dagboek/0209/original/0209.jpg",
+          "title" : "/wetenschap/programmas/de-kennis-van-nu-tv/lopen-met-diederik/extras/extras1/04/images/06"
+        }
+      }, {
+        "image" : {
+          "type" : "PICTURE",
+          "url" : "http://www-acc.npowetenschap.nl/.imaging/stk/wetenschap/search/media/wetenschap/programmas/TV-De-kennis-van-nu/items-2014/lopen-met-Diederik/dagboek/3108/original/3108.jpg",
+          "title" : "/wetenschap/programmas/de-kennis-van-nu-tv/lopen-met-diederik/extras/extras1/04/images/07"
+        }
+      }, {
+        "image" : {
+          "type" : "PICTURE",
+          "url" : "http://www-acc.npowetenschap.nl/.imaging/stk/wetenschap/search/media/wetenschap/programmas/TV-De-kennis-van-nu/items-2014/lopen-met-Diederik/dagboek/2608/original/2608.jpg",
+          "title" : "/wetenschap/programmas/de-kennis-van-nu-tv/lopen-met-diederik/extras/extras1/04/images/08"
+        }
+      }, {
+        "image" : {
+          "type" : "PICTURE",
+          "url" : "http://www-acc.npowetenschap.nl/.imaging/stk/wetenschap/search/media/wetenschap/programmas/TV-De-kennis-van-nu/items-2014/lopen-met-Diederik/dagboek/2408/original/2408.jpg",
+          "title" : "/wetenschap/programmas/de-kennis-van-nu-tv/lopen-met-diederik/extras/extras1/04/images/09"
+        }
+      }, {
+        "image" : {
+          "type" : "PICTURE",
+          "url" : "http://www-acc.npowetenschap.nl/.imaging/stk/wetenschap/search/media/wetenschap/programmas/TV-De-kennis-van-nu/items-2014/lopen-met-Diederik/dagboek/2108/original/2108.jpg",
+          "title" : "/wetenschap/programmas/de-kennis-van-nu-tv/lopen-met-diederik/extras/extras1/04/images/010"
+        }
+      }, {
+        "image" : {
+          "type" : "PICTURE",
+          "url" : "http://www-acc.npowetenschap.nl/.imaging/stk/wetenschap/search/media/wetenschap/programmas/TV-De-kennis-van-nu/items-2014/lopen-met-Diederik/dagboek/Diederik-13-08/original/Diederik-13-08.jpg",
+          "title" : "/wetenschap/programmas/de-kennis-van-nu-tv/lopen-met-diederik/extras/extras1/04/images/011"
+        }
+      }, {
+        "image" : {
+          "type" : "PICTURE",
+          "url" : "http://www-acc.npowetenschap.nl/.imaging/stk/wetenschap/search/media/wetenschap/programmas/TV-De-kennis-van-nu/items-2014/lopen-met-Diederik/dagboek/Diederik-10-08/original/Diederik-10-08.jpg",
+          "title" : "/wetenschap/programmas/de-kennis-van-nu-tv/lopen-met-diederik/extras/extras1/04/images/012"
+        }
+      }, {
+        "image" : {
+          "type" : "PICTURE",
+          "url" : "http://www-acc.npowetenschap.nl/.imaging/stk/wetenschap/search/media/wetenschap/programmas/TV-De-kennis-van-nu/items-2014/lopen-met-Diederik/dagboek/Diederik-loopt/original/Diederik-loopt.jpg",
+          "title" : "/wetenschap/programmas/de-kennis-van-nu-tv/lopen-met-diederik/extras/extras1/04/images/013"
+        }
+      }, {
+        "image" : {
+          "type" : "PICTURE",
+          "url" : "http://www-acc.npowetenschap.nl/.imaging/stk/wetenschap/search/media/wetenschap/programmas/TV-De-kennis-van-nu/items-2014/lopen-met-Diederik/dagboek/1507/original/1507.jpg",
+          "title" : "/wetenschap/programmas/de-kennis-van-nu-tv/lopen-met-diederik/extras/extras1/04/images/014"
+        }
+      }, {
+        "image" : {
+          "type" : "PICTURE",
+          "url" : "http://www-acc.npowetenschap.nl/.imaging/stk/wetenschap/search/media/wetenschap/programmas/TV-De-kennis-van-nu/items-2014/lopen-met-Diederik/dagboek/1407/original/1407.jpg",
+          "title" : "/wetenschap/programmas/de-kennis-van-nu-tv/lopen-met-diederik/extras/extras1/04/images/015"
+        }
+      }, {
+        "body" : "#LopenmetDiederik. Tweets over \"@#lopenmetdiederik\""
+      } ],
+      "referrals" : [ {
+        "referrer" : "http://www-acc.npowetenschap.nl/programmas/de-kennis-van-nu/Radio-5/2014/oktober/17-10-2014-Diederiks-Marathon.html",
+        "title" : "Lopen met Diederik. Bekijk alles over Diederiks training deze zomer en Diederiks Hardloophandboek met een overzicht van (wetenschappelijke) hardlooptips."
+      }, {
+        "referrer" : "http://www-acc.npowetenschap.nl/programmas/de-kennis-van-nu-tv/lopen-met-diederik/videos/diederik-jekel-hardlopen-marathon.html",
+        "title" : "Lopen met Diederik. Volg de training deze zomer online."
+      }, {
+        "referrer" : "http://www-acc.npowetenschap.nl/nieuws/artikelen/2014/Oktober/De-rennende-mens.html",
+        "title" : "Lopen met Diederik. Loopt Diederik Jekel de marathon uit?"
+      }, {
+        "referrer" : "http://www-acc.npowetenschap.nl/programmas/de-kennis-van-nu-tv/lopen-met-diederik/dagboek/loop-mee-vondelpark.html",
+        "title" : "Lopen met Diederik. Volg Diederik op weg naar de marathon."
+      }, {
+        "referrer" : "http://www-acc.npowetenschap.nl/programmas/de-kennis-van-nu-tv/uitzendingen/2014/oktober/19oktober.html",
+        "title" : "Lopen met Diederik. Bekijk Diederiks voorbereiding op de marathon gedurende de afgelopen vier maanden."
+      }, {
+        "referrer" : "http://www-acc.npowetenschap.nl/programmas/de-kennis-van-nu-tv/onderwerpen/2014/oktober/lopen-met-diederik.html",
+        "title" : "Lopen met Diederik. Bekijk Diederiks voorbereiding op de marathon gedurende de afgelopen vier maanden."
+      }, {
+        "referrer" : "http://www-acc.npowetenschap.nl/programmas/de-kennis-van-nu-tv/lopen-met-diederik/videos/de-wolfsvenloop.html",
+        "title" : "Lopen met Diederik"
+      }, {
+        "referrer" : "http://www-acc.npowetenschap.nl/nieuws/artikelen/2014/Augustus/Lopen-tegen-diabetes.html",
+        "title" : "Lopen met Diederik. Diederik Jekel wil op 19 oktober de marathon lopen. Kan de wetenschap hem daarbij helpen?"
       } ],
       "links" : [ {
-        "text" : "De zoektocht naar het Higgs-deeltje. Zoeken naar het Higgs-deeltje; een speld in miljoenen hooibergen.",
-        "pageRef" : "http://wetenschap-sample.localhost/videos/meer-video/de-zoektocht-naar-het-higgs-deeltje.html"
+        "text" : "Trainingsblog. Lees mijn trainingservaringen en bekijk de looproutes.",
+        "pageRef" : "http://www-acc.npowetenschap.nl/programmas/de-kennis-van-nu-tv/lopen-met-diederik/dagboek/trainingen.html"
+      }, {
+        "text" : "Meer.. De Kennis van Nu.",
+        "pageRef" : "http://www-acc.npowetenschap.nl/programmas/dekennisvannu.html"
+      }, {
+        "text" : "Diederiks Hardloophandboek. Een overzicht van (wetenschappelijke) hardlooptips.",
+        "pageRef" : "http://www-acc.npowetenschap.nl/specials/hardlopen.html"
+      }, {
+        "text" : "De rennende mens",
+        "pageRef" : "http://www-acc.npowetenschap.nl/nieuws/artikelen/2014/Oktober/De-rennende-mens.html"
+      }, {
+        "text" : "Marathonreanimatie",
+        "pageRef" : "http://www-acc.npowetenschap.nl/nieuws/artikelen/2012/januari/Marathonreanimatie.html"
+      }, {
+        "text" : "Schuinsmarcheren zonder steunzolen",
+        "pageRef" : "http://www-acc.npowetenschap.nl/nieuws/artikelen/2013/juni/Pronatie-en-supinatie-doen-er-niet-toe-.html"
+      }, {
+        "text" : "Te-hardlopers zijn doodlopers",
+        "pageRef" : "http://www-acc.npowetenschap.nl/nieuws/artikelen/2012/dec/Te-hardlopers-zijn-doodlopers.html"
+      }, {
+        "text" : "Dam tot Damloop. Het tragische overlijden van een hardloper staat niet op zichzelf. Diederik onderzoekt een nieuwe hypothese over hartproblemen bij oudere sporters.",
+        "pageRef" : "http://www-acc.npowetenschap.nl/programmas/de-kennis-van-nu-tv/lopen-met-diederik/videos/dam-tot-damloop.html"
+      }, {
+        "text" : "Loop mee",
+        "pageRef" : "http://www-acc.npowetenschap.nl/programmas/de-kennis-van-nu-tv/lopen-met-diederik/dagboek/loop-mee-vondelpark.html"
+      }, {
+        "text" : "Diederik blijft cool. Diederik rende zijn eerste 10 kilometer in 1 uur, 3 minuten en 15 seconden.",
+        "pageRef" : "http://www-acc.npowetenschap.nl/programmas/de-kennis-van-nu-tv/lopen-met-diederik/videos/diederik-blijft-cool-op-de-tien.html"
+      }, {
+        "text" : "Diederik heeft post",
+        "pageRef" : "http://www-acc.npowetenschap.nl/programmas/de-kennis-van-nu-tv/lopen-met-diederik/videos/Diederik-heeft-post.html"
+      }, {
+        "text" : "Eerste officiële vijf kilometer",
+        "pageRef" : "http://www-acc.npowetenschap.nl/programmas/de-kennis-van-nu-tv/lopen-met-diederik/videos/eerste-vijf-kilometer.html"
       } ],
       "embeds" : [ {
         "media" : {
           "objectType" : "program",
-          "mid" : "VPWON_1208500",
-          "creationDate" : 1395640713075,
-          "lastModified" : 1398843817111,
-          "sortDate" : 1397682000000,
-          "urn" : "urn:vpro:media:program:39087928",
+          "mid" : "VPWON_1229349",
+          "type" : "BROADCAST",
+          "avType" : "VIDEO",
+          "workflow" : "PUBLISHED",
+          "sortDate" : 1413740757000,
+          "creationDate" : 1411613005337,
+          "lastModified" : 1414410579017,
+          "urn" : "urn:vpro:media:program:43730856",
           "embeddable" : true,
           "episodeOf" : [ {
-            "midRef" : "POMS_S_VPRO_472240",
-            "urnRef" : "urn:vpro:media:group:36114396",
-            "type" : "SERIES",
-            "index" : 34,
+            "midRef" : "VPWON_1229348",
+            "urnRef" : "urn:vpro:media:group:43730862",
+            "type" : "SEASON",
+            "index" : 1,
             "highlighted" : false,
-            "added" : 1396597327674
+            "added" : 1411613005751
           } ],
           "broadcasters" : [ {
-            "id" : "VPRO",
-            "value" : "VPRO"
+            "id" : "NTR",
+            "value" : "NTR"
           } ],
-          "regions" : [ "NL" ],
           "titles" : [ {
-            "value" : "2Doc",
-            "owner" : "BROADCASTER",
-            "type" : "MAIN"
-          }, {
-            "value" : "2doc: Particle fever",
+            "value" : "De Kennis van Nu",
             "owner" : "MIS",
             "type" : "MAIN"
           }, {
-            "value" : "2doc:Particle fever",
+            "value" : "De Kennis van Nu",
             "owner" : "WHATS_ON",
             "type" : "MAIN"
           }, {
-            "value" : "Particle fever",
-            "owner" : "BROADCASTER",
-            "type" : "SUB"
-          }, {
-            "value" : "2doc:Particle fever",
+            "value" : "De Kennis van Nu",
             "owner" : "WHATS_ON",
             "type" : "ORIGINAL"
           } ],
           "descriptions" : [ {
-            "value" : "Wat gebeurde er nèt na de oerknal? Vijf jaar lang worden de meest vooraanstaande wetenschappers gevolgd in hun zoektocht naar het Higgs-deeltje. Een thriller met sexy wetenschappers die ook nog goed de ingewikkelde materie kunnen uitleggen. 'Stel je een aantal opgewonden jongetjes van zes jaar vlak voor hun verjaardag voor' zo omschrijft een wetenschapster haar collega's als die voor het eerst het Higgs-deeltje proberen aan te tonen. Met de vondst van dit zogenoemde God-deeltje hopen ze te ontcijferen wat er nèt na de oerknal gebeurde. Aan het onderzoek werken 10.000 wetenschappers uit meer dan 100 landen mee en de kijker zit op de eerste rang bij dit grootste en duurste experiment ooit. Van dichtbij wordt een aantal wetenschappers gevolgd en zien we hoe ze met bloed, zweet en tranen onderzoeken hoe onze wereld in elkaar zit. De film komt zo dichtbij dat het voelt alsof je er bovenop zit terwijl Edison de gloeilamp uitvond. Regie: Mark Levinson.",
-            "owner" : "BROADCASTER",
-            "type" : "MAIN"
-          }, {
-            "value" : "Wat gebeurde er nèt na de oerknal? Vijf jaar lang worden de meest vooraanstaande wetenschappers gevolgd in hun zoektocht naar het HIGGS-deeltje. Een thriller met sexy wetenschappers die ook nog goed de ingewikkelde materie kunnen uitleggen. 'Stel je een aantal opgewonden jongetjes van zes jaar vlak voor hun verjaardag voor' zo omschrijft een wetenschapster haar collega's als die voor het eerst het HIGGS-deeltje proberen aan te tonen. Met de vondst van dit zogenoemde Gods-deeltje hopen ze te ontcijferen wat er nèt na de oerknal gebeurde. Aan het onderzoek werken 10.000 wetenschappers uit meer dan 100 landen mee en de kijker zit op de eerste rang bij dit grootste en duurste experiment ooit. Van dichtbij wordt een aantal wetenschappers gevolgd en zien we hoe ze met bloed, zweet en tranen onderzoeken hoe onze wereld in elkaar zit. De film komt zo dichtbij dat het voelt alsof je er bovenop zit terwijl Edison de gloeilamp uitvond. Regie: Mark Levinson.",
+            "value" : "Wetenschapsprogramma met André Kuipers, Diederik Jekel, Liesbeth Staats en Bart Meijer.",
             "owner" : "MIS",
             "type" : "MAIN"
           }, {
-            "value" : "Wat gebeurde er nèt na de oerknal?  Vijf jaar lang worden de meest vooraanstaande wetenschappers gevolgd in hun zoektocht naar het HIGGS-deeltje. Een thriller met sexy wetenschappers die ook nog goed de ingewikkelde materie kunnen uitleggen.  'Stel je een aantal opgewonden jongetjes van 6 jaar vlak voor hun verjaardag voor' zo omschrijft een wetenschapster haar collega's als die voor het eerst het HIGGS-deeltje proberen aan te tonen. Met de vondst van dit zogenoemde Gods-deeltje hopen ze te ontcijferen wat er nèt na de oerknal gebeurde. Aan het onderzoek werken 10.000 wetenschappers uit meer dan 100 landen mee en de kijker zit op de eerste rang bij dit grootste en duurste experiment ooit. Van dichtbij wordt een aantal wetenschappers gevolgd en zien we hoe ze met bloed, zweet en tranen onderzoeken hoe onze wereld in elkaar zit. De film komt zo dichtbij dat het voelt alsof je er bovenop zit terwijl Edison de gloeilamp uitvond.   Regie: Mark Levinson",
+            "value" : "In mei kon hij nog geen 100 meter hardlopen en in oktober is hij klaar voor de marathon van Amsterdam. Wetenschapsjournalist Diederik Jekel is veranderd van een zwaarlijvige inactieve roker in een slanke sportman. Met behulp van de wetenschap lukt het hem binnen vier maanden om fit genoeg te zijn om 42 kilometer en 195 meter binnen vijf uur af te leggen.  Maar de eerste uitzending bevat nog meer nieuws over sport. In een bijdrage van arts/astronaut André Kuipers onthullen we een nieuwe verklaring voor zeldzame, maar zeer dramatische gevallen van hartfalen bij sporters. En dé wetenschapper die betrokken is bij de training van Italiaanse topwielrenners zoals tourwinnaar Nibali vertelt in de uitzending hoe hij ervoor zorgt dat zij het net wat langer volhouden dan de rest.",
             "owner" : "WHATS_ON",
             "type" : "MAIN"
           }, {
-            "value" : "Wat gebeurde er nèt na de oerknal? Vijf jaar lang worden de meest vooraanstaande wetenschappers gevolgd in hun zoektocht naar het HIGGS-deeltje.",
+            "value" : "We zien o.a. wetenschapsjournalist Diederik Jekel die de marathon loopt.",
             "owner" : "MIS",
             "type" : "SHORT"
+          }, {
+            "value" : "Wetenschapsprogramma van de NTR met André Kuipers, Diederik Jekel, Liesbeth Staats en Bart Meijer. In de eerste aflevering zien we o.a.  wetenschapsjournalist Diederik Jekel die de marathon loopt.",
+            "owner" : "WHATS_ON",
+            "type" : "SHORT"
+          }, {
+            "value" : "In mei kon hij nog geen 100 m hardlopen en in oktober is hij klaar voor de marathon van Amsterdam. Wetenschapsjournalist Diederik Jekel is veranderd van een zwaarlijvige inactieve roker in een slanke sportman. Met behulp van de wetenschap lukt het hem binnen vier maanden om fit genoeg te zijn om 42 km en 195 m binnen vijf uur af te leggen. Maar de eerste uitzending bevat nog meer nieuws over sport. In een bijdrage van arts/astronaut André Kuipers onthullen we een nieuwe verklaring voor zeldzame, maar zeer dramatische gevallen van hartfalen bij sporters. En dé wetenschapper die betrokken is bij de training van Italiaanse topwielrenners, zoals tourwinnaar Nibali vertelt in de uitzending hoe hij ervoor zorgt dat zij het net wat langer volhouden dan de rest.",
+            "owner" : "MIS",
+            "type" : "EPISODE"
+          }, {
+            "value" : "Wetenschapsprogramma met wetenschapsjournalist Diederik Jekel die de marathon loopt.",
+            "owner" : "MIS",
+            "type" : "KICKER"
           } ],
           "genres" : [ {
-            "id" : "3.0.1.8",
-            "terms" : [ "Documentaire" ]
+            "id" : "3.0.1.7.27",
+            "terms" : [ "Informatief", "Wetenschap" ]
           } ],
-          "tags" : [ "documentaire", "Higgs-deeltje", "oerknal", "wetenschap" ],
-          "countries" : [ ],
+          "hasSubtitles" : true,
+          "countries" : [ {
+            "code" : "NL",
+            "value" : "Nederland"
+          } ],
           "languages" : [ ],
           "avAttributes" : {
             "videoAttributes" : { },
             "audioAttributes" : { }
           },
-          "duration" : 5580000,
+          "releaseYear" : 2014,
+          "duration" : 1431460,
           "descendantOf" : [ {
-            "midRef" : "POMS_S_VPRO_472240",
-            "urnRef" : "urn:vpro:media:group:36114396",
-            "type" : "SERIES"
-          }, {
-            "midRef" : "POMS_S_VPRO_522139",
-            "urnRef" : "urn:vpro:media:group:40914217",
-            "type" : "COLLECTION"
-          }, {
-            "midRef" : "POMS_S_VPRO_522208",
-            "urnRef" : "urn:vpro:media:group:40917007",
-            "type" : "COLLECTION"
+            "midRef" : "VPWON_1229348",
+            "urnRef" : "urn:vpro:media:group:43730862",
+            "type" : "SEASON"
           } ],
           "predictions" : [ {
             "state" : "REALIZED",
-            "publishStart" : 1397714400000,
-            "publishStop" : 1398895080000,
             "platform" : "INTERNETVOD"
           }, {
             "state" : "REALIZED",
-            "publishStart" : 1397687566000,
-            "publishStop" : 1429309966000,
+            "publishStart" : 1413742189000,
+            "publishStop" : 1445364589000,
             "platform" : "PLUSVOD"
           } ],
           "locations" : [ {
-            "programUrl" : "sub+http//npoplus.nl/video/mpeg2_hr/VPWON_1208500",
+            "programUrl" : "odip+http://odi.omroep.nl/video/adaptive/VPWON_1229349",
+            "avAttributes" : {
+              "avFileFormat" : "HASP"
+            },
+            "owner" : "CERES",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1414243445716,
+            "lastModified" : 1414243446301,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:44203716"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_sb/VPWON_1229349",
+            "avAttributes" : {
+              "bitrate" : 200000,
+              "avFileFormat" : "H264"
+            },
+            "owner" : "CERES",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1414243151283,
+            "lastModified" : 1414243151438,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:44203713"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_bb/VPWON_1229349",
+            "avAttributes" : {
+              "bitrate" : 500000,
+              "avFileFormat" : "H264"
+            },
+            "owner" : "CERES",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1414243150542,
+            "lastModified" : 1414243150737,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:44203707"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_std/VPWON_1229349",
+            "avAttributes" : {
+              "bitrate" : 1000000,
+              "avFileFormat" : "H264"
+            },
+            "owner" : "CERES",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1414243151044,
+            "lastModified" : 1414243151201,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:44203710"
+          }, {
+            "programUrl" : "sub+http//npoplus.nl/video/mpeg2_hr/VPWON_1229349",
             "avAttributes" : {
               "bitrate" : 3500000,
               "avFileFormat" : "MPEG2"
             },
             "owner" : "CERES",
-            "creationDate" : 1397688666833,
-            "lastModified" : 1397688666954,
-            "publishStart" : 1397687566000,
-            "publishStop" : 1429309966000,
-            "workflow" : "PUBLISHED",
             "platform" : "PLUSVOD",
-            "urn" : "urn:vpro:media:location:40276763"
+            "creationDate" : 1414242846245,
+            "lastModified" : 1414242846591,
+            "publishStart" : 1413742189000,
+            "publishStop" : 1445364589000,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:44203701"
           } ],
           "scheduleEvents" : [ {
-            "avAttributes" : {
-              "videoAttributes" : {
-                "aspectRatio" : "16:9"
-              }
-            },
-            "start" : 1397682000000,
-            "offset" : -30000,
-            "duration" : 6300000,
-            "poProgID" : "VPWON_1208500",
+            "start" : 1413740757000,
+            "duration" : 1432000,
+            "poProgID" : "VPWON_1229349",
             "channel" : "NED2",
-            "imi" : "imi:18595",
-            "urnRef" : "urn:vpro:media:program:39087928",
-            "midRef" : "VPWON_1208500"
+            "urnRef" : "urn:vpro:media:program:43730856",
+            "midRef" : "VPWON_1229349"
+          }, {
+            "repeat" : {
+              "isRerun" : true
+            },
+            "textSubtitles" : "Teletekst ondertitels",
+            "start" : 1414240500000,
+            "offset" : 93000,
+            "duration" : 1545000,
+            "poProgID" : "VPWON_1229349",
+            "channel" : "NED2",
+            "urnRef" : "urn:vpro:media:program:43730856",
+            "midRef" : "VPWON_1229349"
           } ],
           "images" : [ {
-            "title" : "fever",
-            "description" : "fever",
-            "imageUri" : "urn:vpro:image:447082",
-            "height" : 390,
-            "width" : 600,
-            "owner" : "BROADCASTER",
-            "type" : "PICTURE",
+            "title" : "De Kennis van Nu",
+            "description" : "We zien o.a. wetenschapsjournalist Diederik Jekel die de marathon loopt.",
+            "imageUri" : "urn:vpro:image:504185",
+            "owner" : "NEBO",
+            "type" : "STILL",
             "highlighted" : false,
-            "creationDate" : 1396597835516,
-            "lastModified" : 1396597835662,
+            "creationDate" : 1413808217336,
+            "lastModified" : 1413808218495,
             "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:image:39653321"
-          } ],
-          "workflow" : "PUBLISHED",
-          "type" : "BROADCAST",
-          "avType" : "VIDEO"
+            "urn" : "urn:vpro:media:image:44133844"
+          }, {
+            "title" : "De Kennis van Nu",
+            "description" : "We zien o.a. wetenschapsjournalist Diederik Jekel die de marathon loopt.",
+            "imageUri" : "urn:vpro:image:504186",
+            "owner" : "NEBO",
+            "type" : "STILL",
+            "highlighted" : false,
+            "creationDate" : 1413808217675,
+            "lastModified" : 1413808218496,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:44133845"
+          }, {
+            "title" : "De Kennis van Nu",
+            "description" : "We zien o.a. wetenschapsjournalist Diederik Jekel die de marathon loopt.",
+            "imageUri" : "urn:vpro:image:504187",
+            "owner" : "NEBO",
+            "type" : "STILL",
+            "highlighted" : false,
+            "creationDate" : 1413808218468,
+            "lastModified" : 1413808218496,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:44133846"
+          } ]
         }
       } ],
       "images" : [ {
         "type" : "PICTURE",
-        "url" : "http://images.poms.omroep.nl/image/s360/447082.jpg",
-        "title" : "fever",
-        "description" : "fever"
+        "url" : "http://images.poms.omroep.nl/image/s360/504185.jpg",
+        "title" : "De Kennis van Nu",
+        "description" : "We zien o.a. wetenschapsjournalist Diederik Jekel die de marathon loopt."
       } ],
-      "publishStart" : 1397658554000,
-      "creationDate" : 1425915024603,
-      "lastModified" : 1425915024621,
-      "refCount" : 0
+      "publishStart" : 1400504899900,
+      "creationDate" : 1420475896888,
+      "lastModified" : 1430401956812,
+      "refCount" : 8
     }
   }, {
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",
       "type" : "VIDEO",
-      "url" : "http://wetenschap-sample.localhost/videos/meer-video/NTR-College-Tour-Frans-de-Waal.html",
-      "sortDate" : 1379686980000,
-      "crids" : [ "crid://vpro/website/b701b7d0-abf7-4680-a96b-4ae0dc947451" ],
+      "url" : "http://www-acc.npowetenschap.nl/programmas/de-kennis-van-nu-tv/uitzendingen/2015/januari/28-januari-spelen.html",
+      "sortDate" : 1422268307000,
+      "crids" : [ "crid://vpro/website/c2d8a046-cf0d-484f-b5f2-56a93ca68296" ],
       "broadcasters" : [ {
         "id" : "NTR",
         "value" : "NTR"
-      }, {
-        "id" : "VPRO",
-        "value" : "VPRO"
       } ],
       "portal" : {
         "id" : "WETENSCHAP24",
-        "url" : "http://wetenschap-sample.localhost",
-        "value" : "NPO Wetenschap"
+        "url" : "http://www-acc.npowetenschap.nl",
+        "value" : "NPO Wetenschap",
+        "section" : {
+          "path" : "/wetenschap/programmas/de-kennis-van-nu-tv",
+          "id" : "WETENSCHAP24./wetenschap/programmas/de-kennis-van-nu-tv"
+        }
       },
-      "title" : "NTR College Tour: Frans de Waal",
+      "title" : "Spelen is van levensbelang",
+      "subTitle" : "De Kennis van Nu | 28 januari 2015, 19:20 uur op NPO2",
+      "keywords" : [ "dkvn", "de kennis van nu", "spelen", "speelsheid", "andré kuipers", "spelend brein", "spelen is van levensbelang" ],
       "genres" : [ {
         "id" : "3.0.2.4",
         "terms" : [ "Brein & Gedrag" ],
         "displayName" : "Brein & Gedrag"
       } ],
-      "summary" : "Twan Huys interviewt, samen met 400 studenten in Burgers Zoo, primatoloog Frans de Waal.",
+      "summary" : "Spelen lijkt een verspilling van tijd en energie, maar onderzoek toont aan dat we spelen serieus moeten nemen.",
       "paragraphs" : [ {
-        "body" : "De Bosschenaar Frans de Waal is gespecialiseerd in primatologie en ethologie. Binnen zijn vakgebied is hij een van de meest vooraanstaande figuren. Zo werd hij in 2007 door het Amerikaanse Tijdschrift Time geschaard in de ‘TIME:100: The people who shape our world’, een lijst de meest invloedrijke wetenschappers, kunstenaars, politici en ondernemers van het moment."
+        "body" : "Wat wil je liever: een lekkernij of even spelen? Die vraag stelde presentator André Kuipers aan willekeurige voorbijgangers. De meeste mensen kozen voor spelen en storten zich vol overgave in een kussengevecht. Want spelen is leuk en voelt lekker. Daarin onderscheiden mensen zich niet van dieren: chimpansees verkiezen ook zeven op de tien keer spel boven eten."
+      }, {
+        "title" : "Flexibel brein",
+        "body" : "André Kuipers sprak met vooraanstaande onderzoekers op het gebied van spelen om te ontrafelen waarom dieren zoveel tijd en energie steken in spel. Spelen blijkt belangrijk voor het ontwikkelen en het flexibel houden van het brein; het voorkomt dat je geest vastroest. De Kennis van Nu onderzoekt in deze uitzending: Wat gebeurt er in een spelend brein? Hoe herkent een dier het verschil tussen stoeien en vechten? Waarom moeten we ook als volwassenen blijven spelen? En hoe speels is André Kuipers zelf eigenlijk?"
+      }, {
+        "body" : "Met: Psycholoog Peter Gray, Boston College Gedragsbioloog Edwin van Leeuwen, Universiteit Jena  Orthopedagoog Annemieke Mol Lous, Hogeschool Leiden en Rotterdam Psycholoog René Proyer, Universiteit van Zürich Neurobioloog Louk Vanderschuren, Universiteit Utrecht"
+      }, {
+        "body" : "Vermindert Ritalin speelsheid."
+      }, {
+        "body" : "Werkt spelen als medicijn?."
+      } ],
+      "referrals" : [ {
+        "referrer" : "http://www-acc.npowetenschap.nl/programmas/de-kennis-van-nu-tv/extra/zelftest-spelen.html",
+        "title" : "Uitzending: Spelen is van levensbelang"
+      }, {
+        "referrer" : "http://www-acc.npowetenschap.nl/nieuws/artikelen/2015/Januari/Spelen-voorkomt-dat-je-geest-vastroest.html",
+        "title" : "Spelen is van levensbelang"
+      }, {
+        "referrer" : "http://www-acc.npowetenschap.nl/programmas/de-kennis-van-nu/Radio-5/2015/Januari/28-1-2015-spelen-is-van-levensbelang.html",
+        "title" : "Spelen is van levensbelang. André Kuipers sprak met vooraanstaande wetenschappers om uit te vinden waarom dieren zoveel tijd en energie steken in spel."
+      } ],
+      "links" : [ {
+        "text" : "Hoe speels ben jij?. Maak de wetenschappelijke speelsheidstest.",
+        "pageRef" : "http://www-acc.npowetenschap.nl/programmas/de-kennis-van-nu-tv/extra/zelftest-spelen.html"
+      }, {
+        "text" : "Spelen is van levensbelang. Waarom moeten we ook als volwassenen blijven spelen? Stel na de tv-uitzending al je vragen aan onze speel-experts vanaf 22.00 op Radio 5.",
+        "pageRef" : "http://www-acc.npowetenschap.nl/programmas/de-kennis-van-nu/Radio-5/2015/Januari/28-1-2015-spelen-is-van-levensbelang.html"
+      }, {
+        "text" : "Mens, durf te spelen. Een jeugd zonder spel leidt tot rigide volwassenen, of zelfs tot terminale serieusheid.",
+        "pageRef" : "http://www-acc.npowetenschap.nl/nieuws/artikelen/2015/Januari/Spelen-voorkomt-dat-je-geest-vastroest.html"
       } ],
       "embeds" : [ {
         "media" : {
           "objectType" : "program",
-          "mid" : "NPS_1230343",
-          "creationDate" : 1377578991807,
-          "lastModified" : 1387153650396,
-          "hasSubtitles" : true,
-          "sortDate" : 1379701800000,
-          "urn" : "urn:vpro:media:program:28939210",
+          "mid" : "VPWON_1236017",
+          "type" : "BROADCAST",
+          "avType" : "VIDEO",
+          "workflow" : "PUBLISHED",
+          "sortDate" : 1422469238000,
+          "creationDate" : 1420350610281,
+          "lastModified" : 1422704973140,
+          "urn" : "urn:vpro:media:program:45296644",
           "embeddable" : true,
           "episodeOf" : [ {
-            "midRef" : "NPS_1227411",
-            "urnRef" : "urn:vpro:media:group:28493124",
+            "midRef" : "VPWON_1236013",
+            "urnRef" : "urn:vpro:media:group:45023051",
             "type" : "SEASON",
-            "index" : 3,
+            "index" : 4,
             "highlighted" : false,
-            "added" : 1377578991884
+            "added" : 1420350610417
           } ],
-          "crids" : [ "crid://tmp.program.omroep.nl/16049935" ],
           "broadcasters" : [ {
-            "id" : "NPS",
-            "value" : "NPS"
-          }, {
             "id" : "NTR",
             "value" : "NTR"
           } ],
           "titles" : [ {
-            "value" : "College Tour",
-            "owner" : "BROADCASTER",
-            "type" : "MAIN"
-          }, {
-            "value" : "College Tour",
-            "owner" : "NEBO",
-            "type" : "MAIN"
-          }, {
-            "value" : "College Tour",
+            "value" : "De kennis van Nu",
             "owner" : "MIS",
             "type" : "MAIN"
           }, {
-            "value" : "Frans de Waal",
+            "value" : "De Kennis van Nu",
             "owner" : "WHATS_ON",
             "type" : "MAIN"
-          }, {
-            "value" : "Frans de Waal",
-            "owner" : "MIS",
-            "type" : "SUB"
-          }, {
-            "value" : "FRANS DE WAAL",
-            "owner" : "WHATS_ON",
-            "type" : "ORIGINAL"
           } ],
           "descriptions" : [ {
-            "value" : "Twan Huys interviewt, samen met studenten, prominente gasten uit de politiek, media, cultuur en wetenschap.",
-            "owner" : "BROADCASTER",
-            "type" : "MAIN"
-          }, {
-            "value" : "Twan Huys interviewt, samen met studenten, prominente gasten uit de politiek, media, cultuur en wetenschap.",
+            "value" : "Wetenschapsprogramma met André Kuipers, Diederik Jekel, Liesbeth Staats en Bart Meijer.",
             "owner" : "MIS",
             "type" : "MAIN"
           }, {
-            "value" : "Twan Huys interviewt, samen met studenten, prominente gasten uit de politiek, media, cultuur en wetenschap. Vandaag is Frans de Waal te gast. De Nederlandse bioloog is uitgeroepen door Time Magazine tot een van de meest invloedrijke wetenschappers ter wereld. Dit heeft hij te danken aan zijn baanbrekende onderzoek naar het gedrag van apen. Zijn boek Chimpansee Politiek vormt een inspiratiebron voor Amerikaanse politici als Jimmy Carter. Inmiddels doet Frans de Waal al jaren onderzoek in Atlanta waar hij tevens woont. De opname vindt plaats op de plek waar de carrière van De Waal in de jaren zeventig begon: Burgers' Zoo.  www.ntr.nl/collegetour",
+            "value" : "Wetenschapsprogramma van de NTR met André Kuipers, Diederik Jekel, Liesbeth Staats en Bart Meijer.",
             "owner" : "WHATS_ON",
             "type" : "MAIN"
           }, {
-            "value" : "De Nederlandse bioloog Frans de Waal is uitgeroepen door Time Magazine tot een van de meest invloedrijke wetenschappers ter wereld. Dit heeft hij te danken aan zijn baanbrekende onderzoek naar het gedrag van apen.",
-            "owner" : "BROADCASTER",
-            "type" : "SHORT"
-          }, {
-            "value" : "Gast: Frans de Waal. De Nederlandse bioloog is uitgeroepen door Time Magazine tot een van de meest invloedrijke wetenschappers ter wereld, dankzij zijn baanbrekende onderzoek naar het gedrag van apen.",
+            "value" : "Wetenschapsprogramma met André Kuipers, Diederik Jekel, Liesbeth Staats en Bart Meijer.",
             "owner" : "MIS",
             "type" : "SHORT"
           }, {
-            "value" : "De Nederlandse bioloog Frans de Waal is uitgeroepen door Time Magazine tot een van de meest invloedrijke wetenschappers ter wereld. Dit heeft hij te danken aan zijn baanbrekende onderzoek naar het gedrag van apen. Zijn boek Chimpansee Politiek vormt een inspiratiebron voor Amerikaanse politici als Jimmy Carter. Inmiddels doet Frans de Waal al jaren onderzoek in Atlanta waar hij tevens woont. De opname vindt plaats op de plek waar de carrière van De Waal in de jaren zeventig begon: Burgers’ Zoo.",
-            "owner" : "BROADCASTER",
-            "type" : "SUB"
+            "value" : "Wetenschapsprogramma van de NTR met André Kuipers, Diederik Jekel, Liesbeth Staats en Bart Meijer.",
+            "owner" : "WHATS_ON",
+            "type" : "SHORT"
           }, {
-            "value" : "Twan Huys interviewt, samen met studenten, prominente gasten uit de politiek, media, cultuur en wetenschap. Afl.: De Nederlandse bioloog Frans de Waal is uitgeroepen door Time Magazine tot een van de meest invloedrijke wetenschappers ter wereld. Dit heeft hij te danken aan zijn baanbrekende onderzoek naar het gedrag van apen. Zijn boek Chimpansee Politiek vormt een inspiratiebron voor Amerikaanse politici als Jimmy Carter. Inmiddels doet Frans de Waal al jaren onderzoek in Atlanta waar hij tevens woont. De opname vindt plaats op de plek waar de carrière van De Waal in de jaren zeventig begon: Burgers’ Zoo.",
-            "owner" : "BROADCASTER",
-            "type" : "EPISODE"
-          }, {
-            "value" : "Frans de Waal is te gast. De Nederlandse bioloog is uitgeroepen door Time Magazine tot een van de meest invloedrijke wetenschappers ter wereld. Dit heeft hij te danken aan zijn baanbrekende onderzoek naar het gedrag van apen. Zijn boek Chimpansee Politiek vormt een inspiratiebron voor Amerikaanse politici als Jimmy Carter. Inmiddels doet Frans de Waal al jaren onderzoek in Atlanta waar hij tevens woont. De opname vindt plaats op de plek waar de carrière van De Waal in de jaren zeventig begon: Burgers' Zoo.",
+            "value" : " ",
             "owner" : "MIS",
             "type" : "EPISODE"
+          }, {
+            "value" : "Wetenschapsprogramma met André Kuipers, Diederik Jekel, Liesbeth Staats en Bart Meijer.",
+            "owner" : "MIS",
+            "type" : "KICKER"
           } ],
           "genres" : [ {
-            "id" : "3.0.1.6",
-            "terms" : [ "Amusement" ]
-          }, {
-            "id" : "3.0.1.7",
-            "terms" : [ "Informatief" ]
+            "id" : "3.0.1.7.27",
+            "terms" : [ "Informatief", "Wetenschap" ]
           } ],
-          "countries" : [ ],
-          "languages" : [ {
-            "code" : "nl",
-            "value" : "Nederlands"
+          "hasSubtitles" : true,
+          "countries" : [ {
+            "code" : "NL",
+            "value" : "Nederland"
           } ],
+          "languages" : [ ],
           "avAttributes" : {
-            "videoAttributes" : {
-              "color" : "BLACK_AND_WHITE_AND_COLOR",
-              "aspectRatio" : "16:9"
-            },
-            "audioAttributes" : {
-              "numberOfChannels" : 2
-            }
+            "videoAttributes" : { },
+            "audioAttributes" : { }
           },
-          "duration" : 3600000,
-          "credits" : [ {
-            "givenName" : "Twan",
-            "familyName" : "Huys",
-            "role" : "PRESENTER"
-          } ],
+          "releaseYear" : 2014,
+          "duration" : 1530260,
           "descendantOf" : [ {
-            "midRef" : "NPS_1227411",
-            "urnRef" : "urn:vpro:media:group:28493124",
+            "midRef" : "VPWON_1236013",
+            "urnRef" : "urn:vpro:media:group:45023051",
             "type" : "SEASON"
-          }, {
-            "midRef" : "POMS_S_NTR_124382",
-            "urnRef" : "urn:vpro:media:group:4495230",
-            "type" : "SERIES"
-          } ],
-          "websites" : [ {
-            "value" : "www.ntr.nl/collegetour"
           } ],
           "predictions" : [ {
             "state" : "REALIZED",
             "platform" : "INTERNETVOD"
+          }, {
+            "state" : "REALIZED",
+            "publishStart" : 1422470709000,
+            "publishStop" : 1454093109000,
+            "platform" : "PLUSVOD"
           } ],
           "locations" : [ {
-            "programUrl" : "odip+http://odi.omroep.nl/video/adaptive/NPS_1230343",
+            "programUrl" : "odip+http://odi.omroep.nl/video/adaptive/VPWON_1236017",
             "avAttributes" : {
               "avFileFormat" : "HASP"
             },
             "owner" : "CERES",
-            "creationDate" : 1379707265413,
-            "lastModified" : 1379707265771,
-            "workflow" : "PUBLISHED",
             "platform" : "INTERNETVOD",
-            "urn" : "urn:vpro:media:location:29842773"
+            "creationDate" : 1422472143963,
+            "lastModified" : 1422472144137,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:45692003"
           }, {
-            "programUrl" : "odi+http://odi.omroep.nl/video/h264_sb/NPS_1230343",
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_sb/VPWON_1236017",
             "avAttributes" : {
-              "bitrate" : 204800,
-              "avFileFormat" : "MP4",
-              "videoAttributes" : {
-                "videoCoding" : "MP4",
-                "aspectRatio" : "16:9"
-              }
+              "bitrate" : 200000,
+              "avFileFormat" : "H264"
             },
-            "owner" : "NEBO",
-            "creationDate" : 1379746688581,
-            "lastModified" : 1379746688745,
-            "workflow" : "PUBLISHED",
+            "owner" : "CERES",
             "platform" : "INTERNETVOD",
-            "urn" : "urn:vpro:media:location:29846213"
+            "creationDate" : 1422471544364,
+            "lastModified" : 1422471544636,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:45691978"
           }, {
-            "programUrl" : "odi+http://odi.omroep.nl/video/h264_bb/NPS_1230343",
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_bb/VPWON_1236017",
             "avAttributes" : {
-              "bitrate" : 512000,
-              "avFileFormat" : "MP4",
-              "videoAttributes" : {
-                "videoCoding" : "MP4",
-                "aspectRatio" : "16:9"
-              }
+              "bitrate" : 500000,
+              "avFileFormat" : "H264"
             },
-            "owner" : "NEBO",
-            "creationDate" : 1379746688581,
-            "lastModified" : 1379746688747,
-            "workflow" : "PUBLISHED",
+            "owner" : "CERES",
             "platform" : "INTERNETVOD",
-            "urn" : "urn:vpro:media:location:29846216"
+            "creationDate" : 1422471544850,
+            "lastModified" : 1422471545073,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:45691981"
           }, {
-            "programUrl" : "odi+http://odi.omroep.nl/video/h264_std/NPS_1230343",
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_std/VPWON_1236017",
             "avAttributes" : {
-              "bitrate" : 1024000,
-              "avFileFormat" : "MP4",
-              "videoAttributes" : {
-                "videoCoding" : "MP4",
-                "aspectRatio" : "16:9"
-              }
+              "bitrate" : 1000000,
+              "avFileFormat" : "H264"
             },
-            "owner" : "NEBO",
-            "creationDate" : 1379746688581,
-            "lastModified" : 1379746688748,
-            "workflow" : "PUBLISHED",
+            "owner" : "CERES",
             "platform" : "INTERNETVOD",
-            "urn" : "urn:vpro:media:location:29846219"
+            "creationDate" : 1422471545196,
+            "lastModified" : 1422471545514,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:45691984"
+          }, {
+            "programUrl" : "sub+http//npoplus.nl/video/mpeg2_hr/VPWON_1236017",
+            "avAttributes" : {
+              "bitrate" : 3500000,
+              "avFileFormat" : "MPEG2"
+            },
+            "owner" : "CERES",
+            "platform" : "PLUSVOD",
+            "creationDate" : 1422471249599,
+            "lastModified" : 1422471249704,
+            "publishStart" : 1422470709000,
+            "publishStop" : 1454093109000,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:45691974"
           } ],
           "scheduleEvents" : [ {
-            "memberOf" : "crid://bds.tv/17400359",
-            "avAttributes" : {
-              "videoAttributes" : {
-                "aspectRatio" : "16:9"
-              }
-            },
-            "textSubtitles" : "Teletekst ondertitels",
-            "start" : 1379701800000,
-            "offset" : -135000,
-            "duration" : 3600000,
-            "poProgID" : "NPS_1230343",
-            "channel" : "NED3",
-            "imi" : "imi:36562",
-            "urnRef" : "urn:vpro:media:program:28939210",
-            "midRef" : "NPS_1230343"
+            "start" : 1422469238000,
+            "duration" : 1530000,
+            "poProgID" : "VPWON_1236017",
+            "channel" : "NED2",
+            "urnRef" : "urn:vpro:media:program:45296644",
+            "midRef" : "VPWON_1236017"
           }, {
-            "repeat" : {
-              "isRerun" : true
-            },
-            "avAttributes" : {
-              "videoAttributes" : {
-                "aspectRatio" : "16:9"
-              }
-            },
-            "textSubtitles" : "Teletekst ondertitels",
-            "start" : 1387478700000,
-            "duration" : 3000000,
-            "poProgID" : "NPS_1230343",
-            "channel" : "BVNT",
-            "imi" : "imi:11295",
-            "urnRef" : "urn:vpro:media:program:28939210",
-            "midRef" : "NPS_1230343"
-          }, {
-            "repeat" : {
-              "isRerun" : true
-            },
-            "avAttributes" : {
-              "videoAttributes" : {
-                "aspectRatio" : "16:9"
-              }
-            },
-            "textSubtitles" : "Teletekst ondertitels",
-            "start" : 1387521900000,
-            "duration" : 3000000,
-            "poProgID" : "NPS_1230343",
-            "channel" : "BVNT",
-            "imi" : "imi:11297",
-            "urnRef" : "urn:vpro:media:program:28939210",
-            "midRef" : "NPS_1230343"
+            "start" : 1422544178000,
+            "duration" : 1530000,
+            "poProgID" : "VPWON_1236017",
+            "channel" : "NED2",
+            "urnRef" : "urn:vpro:media:program:45296644",
+            "midRef" : "VPWON_1236017"
           } ],
           "images" : [ {
-            "title" : "College Tour",
-            "description" : "Twan Huys interviewt, samen met studenten, prominente gasten uit de politiek, media, cultuur en wetenschap.",
-            "imageUri" : "urn:vpro:image:222180",
+            "title" : "De kennis van Nu",
+            "description" : "Wetenschapsprogramma met André Kuipers, Diederik Jekel, Liesbeth Staats en Bart Meijer.",
+            "imageUri" : "urn:vpro:image:530100",
             "owner" : "NEBO",
             "type" : "STILL",
             "highlighted" : false,
-            "creationDate" : 1379707345119,
-            "lastModified" : 1379707461372,
+            "creationDate" : 1422471601285,
+            "lastModified" : 1422471602305,
             "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:image:29842786"
+            "urn" : "urn:vpro:media:image:45691986"
           }, {
-            "title" : "College Tour",
-            "description" : "Twan Huys interviewt, samen met studenten, prominente gasten uit de politiek, media, cultuur en wetenschap.",
-            "imageUri" : "urn:vpro:image:222181",
+            "title" : "De kennis van Nu",
+            "description" : "Wetenschapsprogramma met André Kuipers, Diederik Jekel, Liesbeth Staats en Bart Meijer.",
+            "imageUri" : "urn:vpro:image:530101",
             "owner" : "NEBO",
             "type" : "STILL",
             "highlighted" : false,
-            "creationDate" : 1379707404137,
-            "lastModified" : 1379707461373,
+            "creationDate" : 1422471601653,
+            "lastModified" : 1422471602306,
             "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:image:29842787"
+            "urn" : "urn:vpro:media:image:45691987"
           }, {
-            "title" : "College Tour",
-            "description" : "Twan Huys interviewt, samen met studenten, prominente gasten uit de politiek, media, cultuur en wetenschap.",
-            "imageUri" : "urn:vpro:image:222182",
+            "title" : "De kennis van Nu",
+            "description" : "Wetenschapsprogramma met André Kuipers, Diederik Jekel, Liesbeth Staats en Bart Meijer.",
+            "imageUri" : "urn:vpro:image:530102",
             "owner" : "NEBO",
             "type" : "STILL",
             "highlighted" : false,
-            "creationDate" : 1379707461303,
-            "lastModified" : 1379707461373,
+            "creationDate" : 1422471602226,
+            "lastModified" : 1422471602306,
             "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:image:29842788"
-          }, {
-            "title" : "College Tour",
-            "description" : "De Nederlandse bioloog Frans de Waal is uitgeroepen door Time Magazine tot een van de meest invloedrijke wetenschappers ter wereld. Dit heeft hij te danken aan zijn baanbrekende onderzoek naar het gedrag van apen.",
-            "imageUri" : "urn:vpro:image:319207",
-            "owner" : "NEBO",
-            "type" : "STILL",
-            "highlighted" : false,
-            "creationDate" : 1387129472730,
-            "lastModified" : 1387129498023,
-            "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:image:34123085"
-          }, {
-            "title" : "College Tour",
-            "description" : "De Nederlandse bioloog Frans de Waal is uitgeroepen door Time Magazine tot een van de meest invloedrijke wetenschappers ter wereld. Dit heeft hij te danken aan zijn baanbrekende onderzoek naar het gedrag van apen.",
-            "imageUri" : "urn:vpro:image:319208",
-            "owner" : "NEBO",
-            "type" : "STILL",
-            "highlighted" : false,
-            "creationDate" : 1387129485738,
-            "lastModified" : 1387129498023,
-            "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:image:34123086"
-          }, {
-            "title" : "College Tour",
-            "description" : "De Nederlandse bioloog Frans de Waal is uitgeroepen door Time Magazine tot een van de meest invloedrijke wetenschappers ter wereld. Dit heeft hij te danken aan zijn baanbrekende onderzoek naar het gedrag van apen.",
-            "imageUri" : "urn:vpro:image:319209",
-            "owner" : "NEBO",
-            "type" : "STILL",
-            "highlighted" : false,
-            "creationDate" : 1387129497911,
-            "lastModified" : 1387129498024,
-            "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:image:34123087"
-          } ],
-          "workflow" : "PUBLISHED",
-          "type" : "BROADCAST",
-          "avType" : "VIDEO"
+            "urn" : "urn:vpro:media:image:45691988"
+          } ]
         }
       } ],
       "images" : [ {
         "type" : "PICTURE",
-        "url" : "http://images.poms.omroep.nl/image/s360/222180.jpg",
-        "title" : "College Tour",
-        "description" : "Twan Huys interviewt, samen met studenten, prominente gasten uit de politiek, media, cultuur en wetenschap."
+        "url" : "http://www-acc.npowetenschap.nl/.imaging/stk/wetenschap/search/media/wetenschap/programmas/TV-De-kennis-van-nu/items-2015/Spelen/P1012162/original/P1012162.jpg",
+        "title" : "/wetenschap/programmas/de-kennis-van-nu-tv/uitzendingen/2015/januari/28-januari-spelen"
       } ],
-      "publishStart" : 1379686980000,
-      "creationDate" : 1425915024234,
-      "lastModified" : 1425915024254,
-      "refCount" : 0
+      "publishStart" : 1422268307000,
+      "creationDate" : 1426679928244,
+      "lastModified" : 1430401935802,
+      "refCount" : 3
     }
   } ]
 }

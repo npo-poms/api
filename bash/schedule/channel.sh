@@ -10,7 +10,7 @@ source $(dirname ${SOURCE[0]})/../api-functions.sh
 
 
 if [[ -z "$2" ]] ; then
-    parameters="guideDay=`date +'%Y-%m-%d'`&max=240&proeprties=scheduleEvents"
+    parameters="guideDay=`date +'%Y-%m-%d'`&max=240&properties=scheduleEvents"
 else
     parameters="guideDay=$2&max=240&properties=scheduleEvents"
 fi

@@ -1,36 +1,228 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<api:pageSearchResult xmlns="urn:vpro:media:2009" xmlns:shared="urn:vpro:shared:2009" xmlns:pages="urn:vpro:pages:2013" xmlns:api="urn:vpro:api:2013" xmlns:media="urn:vpro:media:2009" total="2383" offset="0" max="2">
+<api:pageSearchResult xmlns="urn:vpro:media:2009" xmlns:shared="urn:vpro:shared:2009" xmlns:pages="urn:vpro:pages:2013" xmlns:api="urn:vpro:api:2013" xmlns:media="urn:vpro:media:2009" total="29782" offset="0" max="2">
   <api:items>
-    <api:item xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="api:searchResultItem" score="0.03852243">
-      <api:result xsi:type="pages:pageType" url="http://human.localhost/speel.POMS_S_AVRO_578564.html" creationDate="2015-03-06T15:51:51.133+01:00" lastModified="2015-03-06T15:51:51.154+01:00" publishStart="2013-01-01T09:15:00+01:00" refCount="0" sortDate="2013-01-01T09:15:00+01:00" type="VIDEO">
-        <pages:crid>crid://vpro/media/human/POMS_S_AVRO_578564</pages:crid>
-        <pages:broadcaster id="AVRO">AVRO</pages:broadcaster>
-        <pages:portal id="HUMANNL" url="http://human.localhost">
-          <pages:name>Human.nl</pages:name>
-        </pages:portal>
-        <pages:title>Hoe heurt het eigenlijk? Seizoen 2</pages:title>
-      </api:result>
-    </api:item>
-    <api:item xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="api:searchResultItem" score="0.03857421">
-      <api:result xsi:type="pages:pageType" url="http://www-acc.cultura.nl/speel.NPS_1218755.html" creationDate="2014-12-30T09:39:44.346+01:00" lastModified="2014-12-30T09:39:44.349+01:00" publishStart="2013-01-01T13:10:00+01:00" refCount="0" sortDate="2013-01-01T13:10:00+01:00" type="PLAYER">
-        <pages:crid>crid://vpro/media/cultura/NPS_1218755</pages:crid>
-        <pages:broadcaster id="NPS">NPS</pages:broadcaster>
+    <api:item xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="api:searchResultItem" score="0.62860113">
+      <api:result xsi:type="pages:pageType" url="http://www-acc.cultura.nl/speel.POMS_NTR_065942.html" creationDate="2014-10-31T17:42:50.204+01:00" lastModified="2014-12-01T21:05:53.307+01:00" publishStart="2013-01-01T01:00:00+01:00" refCount="0" sortDate="2013-01-01T01:00:00+01:00" type="PLAYER">
+        <pages:crid>crid://vpro/media/cultura/POMS_NTR_065942</pages:crid>
         <pages:broadcaster id="NTR">NTR</pages:broadcaster>
-        <pages:broadcaster id="VPRO">VPRO</pages:broadcaster>
         <pages:portal id="CULTURA24" url="http://www-acc.cultura.nl">
           <pages:name>NPO Cultura</pages:name>
         </pages:portal>
-        <pages:title>Het uur van de wolf: A.L. Snijders - een handige dromer</pages:title>
-        <pages:genre displayName="Literatuur" id="3.0.3.1">
-          <pages:term>Literatuur</pages:term>
+        <pages:title>Angelique Houtveen</pages:title>
+        <pages:genre displayName="Pop/jazz/world" id="3.0.3.4">
+          <pages:term>Pop/jazz/world</pages:term>
         </pages:genre>
-        <pages:genre displayName="Kunst" id="3.0.3.3">
-          <pages:term>Kunst</pages:term>
-        </pages:genre>
+        <pages:embed>
+          <pages:title>Angelique Houtveen</pages:title>
+          <pages:description>Angelique sluit de eerste werkdag van de week af met fijne soul &amp; jazz nummers.</pages:description>
+          <media:program type="BROADCAST" avType="AUDIO" embeddable="true" mid="POMS_NTR_065942" sortDate="2013-01-01T01:00:00+01:00" creationDate="2013-01-01T04:08:09.812+01:00" lastModified="2013-03-18T23:24:36.125+01:00" urn="urn:vpro:media:program:17401791" workflow="PUBLISHED">
+            <media:crid>crid://broadcast.radiobox2/202972</media:crid>
+            <media:broadcaster id="NTR">NTR</media:broadcaster>
+            <media:title owner="RADIOBOX" type="MAIN">Angelique Houtveen</media:title>
+            <media:description owner="RADIOBOX" type="MAIN">Angelique sluit de eerste werkdag van de week af met fijne soul &amp; jazz nummers.</media:description>
+            <media:duration>P0DT3H0M0.000S</media:duration>
+            <media:credits/>
+            <media:descendantOf urnRef="urn:vpro:media:group:14683553" midRef="POMS_S_VPRO_171668" type="ARCHIVE"/>
+            <media:descendantOf urnRef="urn:vpro:media:group:14921825" midRef="POMS_S_VPRO_218686" type="ARCHIVE"/>
+            <media:descendantOf urnRef="urn:vpro:media:group:15712274" midRef="AUTO_ANGELIQUEHOUTVEEN" type="SERIES"/>
+            <media:descendantOf urnRef="urn:vpro:media:group:20347947" midRef="POMS_S_VPRO_117474" type="PLAYLIST"/>
+            <media:email>angelique@radio6.nl</media:email>
+            <media:prediction state="REALIZED">INTERNETVOD</media:prediction>
+            <media:locations>
+              <media:location owner="RADIOBOX" creationDate="2013-01-01T04:08:06.831+01:00" lastModified="2013-01-01T04:08:09.820+01:00" urn="urn:vpro:media:location:17401794" workflow="PUBLISHED">
+                <media:programUrl>http://download.omroep.nl/audiologging/r6/2013/01/01/0100_0400_angelique_houtveen.mp3</media:programUrl>
+                <media:avAttributes>
+                  <media:avFileFormat>MP3</media:avFileFormat>
+                </media:avAttributes>
+                <media:duration>P0DT3H0M0.000S</media:duration>
+              </media:location>
+            </media:locations>
+            <media:scheduleEvents>
+              <media:scheduleEvent channel="RAD6" midRef="POMS_NTR_065942" urnRef="urn:vpro:media:program:17401791">
+                <media:start>2013-01-01T01:00:00+01:00</media:start>
+                <media:duration>P0DT3H0M0.000S</media:duration>
+                <media:poProgID>POMS_NTR_065942</media:poProgID>
+              </media:scheduleEvent>
+            </media:scheduleEvents>
+            <media:images>
+              <shared:image owner="RADIOBOX" type="PICTURE" highlighted="false" creationDate="2013-01-01T04:08:09.026+01:00" lastModified="2013-01-01T04:08:09.819+01:00" urn="urn:vpro:media:image:17401792" workflow="PUBLISHED">
+                <shared:title>angelique_houtveen.jpg</shared:title>
+                <shared:description>Angelique Houtveen</shared:description>
+                <shared:imageUri>urn:vpro:image:120687</shared:imageUri>
+              </shared:image>
+            </media:images>
+            <media:episodeOf added="2013-03-18T23:24:36.021+01:00" highlighted="false" midRef="AUTO_ANGELIQUEHOUTVEEN" index="1" type="SERIES" urnRef="urn:vpro:media:group:15712274"/>
+            <media:segments/>
+          </media:program>
+        </pages:embed>
         <pages:images>
-          <pages:image type="PICTURE" url="http://images.poms.omroep.nl/image/s360/125810.jpg">
-            <pages:title>Het uur van de wolf: A.L. Snijders - een handige dromer</pages:title>
-            <pages:description>Schrijven is ijsberen en dat doet A.L. Snijders rondom zijn huis in de Achterhoek. Hij heeft geen zitvlees en heeft van de nood een deugd gemaakt. Met veel succes schrijft hij Zeer Korte Verhalen.</pages:description>
+          <pages:image type="PICTURE" url="http://images.poms.omroep.nl/image/s360/120687.jpg">
+            <pages:title>angelique_houtveen.jpg</pages:title>
+            <pages:description>Angelique Houtveen</pages:description>
+          </pages:image>
+        </pages:images>
+      </api:result>
+    </api:item>
+    <api:item xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="api:searchResultItem" score="0.6286475">
+      <api:result xsi:type="pages:pageType" url="http://www-acc.cultura.nl/speel.TROS_1334756.html" creationDate="2014-10-31T16:05:01.180+01:00" lastModified="2014-12-01T18:56:31.011+01:00" publishStart="2013-01-01T03:20:00+01:00" refCount="0" sortDate="2013-01-01T03:20:00+01:00" type="PLAYER">
+        <pages:crid>crid://vpro/media/cultura/TROS_1334756</pages:crid>
+        <pages:broadcaster id="TROS">TROS</pages:broadcaster>
+        <pages:portal id="CULTURA24" url="http://www-acc.cultura.nl">
+          <pages:name>NPO Cultura</pages:name>
+        </pages:portal>
+        <pages:title>Ali B op volle toeren in concert</pages:title>
+        <pages:genre displayName="Pop/jazz/world" id="3.0.3.4">
+          <pages:term>Pop/jazz/world</pages:term>
+        </pages:genre>
+        <pages:embed>
+          <pages:title>Ali B op volle toeren in concert</pages:title>
+          <pages:description>Na het succes van Ali B op volle toeren staan de muziekiconen van toen en de rappers van nu op het podium van de Amsterdamse poptempel Paradiso. Bijna iedereen doet mee en dat levert een unieke lijst met iconen uit de Nederlandse muziekwereld op. Willeke Alberti, Lenny Kuhr, Liesbeth List, Anneke Grönloh, Margriet Eshuijs, Ronnie Tober en Stef Bos zijn enkele namen die te gast zullen zijn bij het concert. Maar ook aan rappers ontbreekt het natuurlijk niet. Naast gastheren Ali B en Brownie Dutch zullen onder anderen Keizer, Kleine Viezerik, Sticks, Gio, RBDjan en Priester het podium 'onveilig' maken. En net als bij de serie draait het ook bij het concert om het samenbrengen van twee werelden. De fans van de Nederlandse iconen en de achterban van de rappers 'vinden elkaar' in Paradiso. In twee compilaties neemt Ali B de kijker voor en achter de schermen mee in de voorbereidingen naar het concert. En daarnaast natuurlijk heel veel optredens en exclusieve beelden van de backstage Crib.</pages:description>
+          <media:program type="BROADCAST" avType="VIDEO" embeddable="true" mid="TROS_1334756" sortDate="2013-01-01T03:20:00+01:00" creationDate="2012-12-07T06:45:55.656+01:00" lastModified="2013-03-04T07:04:02.755+01:00" urn="urn:vpro:media:program:16780147" workflow="PUBLISHED">
+            <media:crid>crid://tmp.program.omroep.nl/15082936</media:crid>
+            <media:broadcaster id="TROS">TROS</media:broadcaster>
+            <media:title owner="NEBO" type="MAIN">Ali B op volle toeren in concert</media:title>
+            <media:title owner="MIS" type="MAIN">Ali B op volle toeren in concert</media:title>
+            <media:title owner="CERES" type="MAIN">Ali B op volle toeren in concert</media:title>
+            <media:title owner="WHATS_ON" type="MAIN">Ali B. op volle toeren in concert</media:title>
+            <media:title owner="WHATS_ON" type="ORIGINAL">ALI B. OP VOLLE TOEREN IN CONCERT</media:title>
+            <media:description owner="MIS" type="MAIN">Na het succes van Ali B op volle toeren staan de muziekiconen van toen en de rappers van nu op het podium van de Amsterdamse poptempel Paradiso. Bijna iedereen doet mee en dat levert een unieke lijst met iconen uit de Nederlandse muziekwereld op. Willeke Alberti, Lenny Kuhr, Liesbeth List, Anneke Grönloh, Margriet Eshuijs, Ronnie Tober en Stef Bos zijn enkele namen die te gast zullen zijn bij het concert. Maar ook aan rappers ontbreekt het natuurlijk niet. Naast gastheren Ali B en Brownie Dutch zullen onder anderen Keizer, Kleine Viezerik, Sticks, Gio, RBDjan en Priester het podium 'onveilig' maken. En net als bij de serie draait het ook bij het concert om het samenbrengen van twee werelden. De fans van de Nederlandse iconen en de achterban van de rappers 'vinden elkaar' in Paradiso. In twee compilaties neemt Ali B de kijker voor en achter de schermen mee in de voorbereidingen naar het concert. En daarnaast natuurlijk heel veel optredens en exclusieve beelden van de backstage Crib.</media:description>
+            <media:description owner="CERES" type="MAIN">Na het succes van Ali B op volle toeren staan de muziekiconen van toen en de rappers van nu op het podium van de Amsterdamse poptempel Paradiso. Bijna iedereen doet mee en dat levert een unieke lijst met iconen uit de Nederlandse muziekwereld op. Willeke Alberti, Lenny Kuhr, Liesbeth List, Anneke Grönloh, Margriet Eshuijs, Ronnie Tober en Stef Bos zijn enkele namen die te gast zullen zijn bij het concert. Maar ook aan rappers ontbreekt het natuurlijk niet. Naast gastheren Ali B en Brownie Dutch zullen onder anderen Keizer, Kleine Viezerik, Sticks, Gio, RBDjan en Priester het podium 'onveilig' maken. En net als bij de serie draait het ook bij het concert om het samenbrengen van twee werelden. De fans van de Nederlandse iconen en de achterban van de rappers 'vinden elkaar' in Paradiso. In twee compilaties neemt Ali B de kijker voor en achter de schermen mee in de voorbereidingen naar het concert. En daarnaast natuurlijk heel veel optredens en exclusieve beelden van de backstage Crib.</media:description>
+            <media:description owner="WHATS_ON" type="MAIN">Na het succes van ALI B OP VOLLE TOEREN staan de muziekiconen van toen en de rappers van nu op het podium van de Amsterdamse poptempel Paradiso tijdens ALI B OP VOLLE TOEREN IN CONCERT.   Bijna iedereen doet mee en dat levert een unieke lijst met iconen uit de Nederlandse muziekwereld op. Willeke Alberti, Lenny Kuhr, Liesbeth List, Anneke Grönloh, Margriet Eshuijs, Ronnie Tober en Stef Bos zijn enkele namen die te gast zullen zijn  bij het concert. Maar ook aan rappers ontbreekt het natuurlijk niet. Naast gastheren Ali B en Brownie Dutch zullen onder anderen Keizer, Kleine Viezerik, Sticks, Gio, RBDjan en Priester het podium 'onveilig' maken.  En net als bij de serie draait het ook bij het concert om het samenbrengen van twee werelden. De fans van de Nederlandse iconen en de achterban van de rappers 'vinden elkaar' in Paradiso.  In twee compilaties neemt Ali B de kijker voor en achter de schermen mee in de voorbereidingen naar het concert. En daarnaast natuurlijk heel veel optredens en exclusieve beelden van de backstage Crib in ALI B OP VOLLE TOEREN IN CONCERT.  (Maart 2012)</media:description>
+            <media:description owner="MIS" type="SHORT">Na het succes van ali b op volle toeren staan de muziekiconen van toen en de rappers van nu op het podium van de Amsterdamse poptempel Paradiso.</media:description>
+            <media:description owner="CERES" type="SHORT">Na het succes van ali b op volle toeren staan de muziekiconen van toen en de rappers van nu op het podium van de Amsterdamse poptempel Paradiso.</media:description>
+            <media:avAttributes>
+              <media:videoAttributes>
+                <media:color>BLACK AND WHITE AND COLOR</media:color>
+                <media:aspectRatio>16:9</media:aspectRatio>
+              </media:videoAttributes>
+              <media:audioAttributes>
+                <media:numberOfChannels>2</media:numberOfChannels>
+              </media:audioAttributes>
+            </media:avAttributes>
+            <media:duration>P0DT1H5M0.000S</media:duration>
+            <media:credits/>
+            <media:descendantOf urnRef="urn:vpro:media:group:14683553" midRef="POMS_S_VPRO_171668" type="ARCHIVE"/>
+            <media:descendantOf urnRef="urn:vpro:media:group:14686295" midRef="TROS_1324805" type="SEASON"/>
+            <media:descendantOf urnRef="urn:vpro:media:group:14921825" midRef="POMS_S_VPRO_218686" type="ARCHIVE"/>
+            <media:descendantOf urnRef="urn:vpro:media:group:20347947" midRef="POMS_S_VPRO_117474" type="PLAYLIST"/>
+            <media:descendantOf urnRef="urn:vpro:media:group:21134666" midRef="POMS_S_TROS_123291" type="SERIES"/>
+            <media:prediction state="REALIZED" publishStart="2013-01-01T05:09:11+01:00">INTERNETVOD</media:prediction>
+            <media:locations>
+              <media:location owner="CERES" creationDate="2013-01-01T06:21:07.742+01:00" lastModified="2013-01-01T06:21:07.921+01:00" publishStart="2013-01-01T05:09:11+01:00" urn="urn:vpro:media:location:17401926" workflow="PUBLISHED">
+                <media:programUrl>odip+http://odi.omroep.nl/video/adaptive/TROS_1334756</media:programUrl>
+                <media:avAttributes>
+                  <media:avFileFormat>HASP</media:avFileFormat>
+                </media:avAttributes>
+              </media:location>
+              <media:location owner="NEBO" platform="INTERNETVOD" creationDate="2013-02-16T17:11:17.939+01:00" lastModified="2013-02-16T17:11:18.100+01:00" publishStart="2013-01-01T05:09:11+01:00" urn="urn:vpro:media:location:21134645" workflow="PUBLISHED">
+                <media:programUrl>odi+http://odi.omroep.nl/video/h264_sb/TROS_1334756</media:programUrl>
+                <media:avAttributes>
+                  <media:bitrate>204800</media:bitrate>
+                  <media:avFileFormat>MP4</media:avFileFormat>
+                  <media:videoAttributes>
+                    <media:videoCoding>WM</media:videoCoding>
+                    <media:aspectRatio>16:9</media:aspectRatio>
+                  </media:videoAttributes>
+                </media:avAttributes>
+              </media:location>
+              <media:location owner="NEBO" platform="INTERNETVOD" creationDate="2013-02-16T17:11:17.940+01:00" lastModified="2013-02-16T17:11:18.101+01:00" publishStart="2013-01-01T05:09:11+01:00" urn="urn:vpro:media:location:21134648" workflow="PUBLISHED">
+                <media:programUrl>odi+http://odi.omroep.nl/video/h264_bb/TROS_1334756</media:programUrl>
+                <media:avAttributes>
+                  <media:bitrate>512000</media:bitrate>
+                  <media:avFileFormat>MP4</media:avFileFormat>
+                  <media:videoAttributes>
+                    <media:videoCoding>WM</media:videoCoding>
+                    <media:aspectRatio>16:9</media:aspectRatio>
+                  </media:videoAttributes>
+                </media:avAttributes>
+              </media:location>
+              <media:location owner="NEBO" platform="INTERNETVOD" creationDate="2013-02-16T17:11:17.940+01:00" lastModified="2013-02-16T17:11:18.103+01:00" publishStart="2013-01-01T05:09:11+01:00" urn="urn:vpro:media:location:21134651" workflow="PUBLISHED">
+                <media:programUrl>odi+http://odi.omroep.nl/video/h264_std/TROS_1334756</media:programUrl>
+                <media:avAttributes>
+                  <media:bitrate>1024000</media:bitrate>
+                  <media:avFileFormat>MP4</media:avFileFormat>
+                  <media:videoAttributes>
+                    <media:videoCoding>WM</media:videoCoding>
+                    <media:aspectRatio>16:9</media:aspectRatio>
+                  </media:videoAttributes>
+                </media:avAttributes>
+              </media:location>
+              <media:location owner="NEBO" platform="INTERNETVOD" creationDate="2013-02-16T17:11:17.940+01:00" lastModified="2013-02-16T17:11:18.104+01:00" publishStart="2013-01-01T05:09:11+01:00" urn="urn:vpro:media:location:21134654" workflow="PUBLISHED">
+                <media:programUrl>odi+http://odi.omroep.nl/video/wvc1_std/TROS_1334756</media:programUrl>
+                <media:avAttributes>
+                  <media:bitrate>1024000</media:bitrate>
+                  <media:avFileFormat>WVC1</media:avFileFormat>
+                  <media:videoAttributes>
+                    <media:videoCoding>WM</media:videoCoding>
+                    <media:aspectRatio>16:9</media:aspectRatio>
+                  </media:videoAttributes>
+                </media:avAttributes>
+              </media:location>
+              <media:location owner="NEBO" platform="INTERNETVOD" creationDate="2013-02-16T17:11:17.939+01:00" lastModified="2013-02-16T17:11:18.106+01:00" publishStart="2013-01-01T05:09:11+01:00" urn="urn:vpro:media:location:21134657" workflow="PUBLISHED">
+                <media:programUrl>odi+http://odi.omroep.nl/video/wmv_sb/TROS_1334756</media:programUrl>
+                <media:avAttributes>
+                  <media:bitrate>204800</media:bitrate>
+                  <media:avFileFormat>WM</media:avFileFormat>
+                  <media:videoAttributes>
+                    <media:videoCoding>WM</media:videoCoding>
+                    <media:aspectRatio>16:9</media:aspectRatio>
+                  </media:videoAttributes>
+                </media:avAttributes>
+              </media:location>
+              <media:location owner="NEBO" platform="INTERNETVOD" creationDate="2013-02-16T17:11:17.939+01:00" lastModified="2013-02-16T17:11:18.107+01:00" publishStart="2013-01-01T05:09:11+01:00" urn="urn:vpro:media:location:21134660" workflow="PUBLISHED">
+                <media:programUrl>odi+http://odi.omroep.nl/video/wmv_bb/TROS_1334756</media:programUrl>
+                <media:avAttributes>
+                  <media:bitrate>512000</media:bitrate>
+                  <media:avFileFormat>WM</media:avFileFormat>
+                  <media:videoAttributes>
+                    <media:videoCoding>WM</media:videoCoding>
+                    <media:aspectRatio>16:9</media:aspectRatio>
+                  </media:videoAttributes>
+                </media:avAttributes>
+              </media:location>
+            </media:locations>
+            <media:scheduleEvents>
+              <media:scheduleEvent channel="NED3" midRef="TROS_1334756" urnRef="urn:vpro:media:program:16780147">
+                <media:repeat isRerun="true"/>
+                <media:avAttributes>
+                  <media:bitrate>0</media:bitrate>
+                  <media:avFileFormat>WM</media:avFileFormat>
+                  <media:videoAttributes>
+                    <media:videoCoding>WM</media:videoCoding>
+                    <media:aspectRatio>16:9</media:aspectRatio>
+                  </media:videoAttributes>
+                </media:avAttributes>
+                <media:textSubtitles>Teletekst ondertitels</media:textSubtitles>
+                <media:start>2013-01-01T03:20:00+01:00</media:start>
+                <media:duration>P0DT1H5M0.000S</media:duration>
+                <media:poProgID>TROS_1334756</media:poProgID>
+              </media:scheduleEvent>
+            </media:scheduleEvents>
+            <media:images>
+              <shared:image owner="NEBO" type="STILL" highlighted="false" creationDate="2013-01-01T05:30:04.388+01:00" lastModified="2013-01-01T05:30:09.960+01:00" urn="urn:vpro:media:image:17401892" workflow="PUBLISHED">
+                <shared:title>Ali B op volle toeren in concert</shared:title>
+                <shared:description>Na het succes van ali b op volle toeren staan de muziekiconen van toen en de rappers van nu op het podium van de Amsterdamse poptempel Paradiso.</shared:description>
+                <shared:imageUri>urn:vpro:image:125775</shared:imageUri>
+              </shared:image>
+              <shared:image owner="NEBO" type="STILL" highlighted="false" creationDate="2013-01-01T05:30:06.677+01:00" lastModified="2013-01-01T05:30:09.961+01:00" urn="urn:vpro:media:image:17401893" workflow="PUBLISHED">
+                <shared:title>Ali B op volle toeren in concert</shared:title>
+                <shared:description>Na het succes van ali b op volle toeren staan de muziekiconen van toen en de rappers van nu op het podium van de Amsterdamse poptempel Paradiso.</shared:description>
+                <shared:imageUri>urn:vpro:image:125776</shared:imageUri>
+              </shared:image>
+              <shared:image owner="NEBO" type="STILL" highlighted="false" creationDate="2013-01-01T05:30:09.850+01:00" lastModified="2013-01-01T05:30:09.961+01:00" urn="urn:vpro:media:image:17401894" workflow="PUBLISHED">
+                <shared:title>Ali B op volle toeren in concert</shared:title>
+                <shared:description>Na het succes van ali b op volle toeren staan de muziekiconen van toen en de rappers van nu op het podium van de Amsterdamse poptempel Paradiso.</shared:description>
+                <shared:imageUri>urn:vpro:image:125777</shared:imageUri>
+              </shared:image>
+            </media:images>
+            <media:episodeOf added="2012-12-07T06:45:55.817+01:00" highlighted="false" midRef="TROS_1324805" index="1" type="SEASON" urnRef="urn:vpro:media:group:14686295"/>
+            <media:segments/>
+          </media:program>
+        </pages:embed>
+        <pages:images>
+          <pages:image type="PICTURE" url="http://images.poms.omroep.nl/image/s360/125775.jpg">
+            <pages:title>Ali B op volle toeren in concert</pages:title>
+            <pages:description>Na het succes van ali b op volle toeren staan de muziekiconen van toen en de rappers van nu op het podium van de Amsterdamse poptempel Paradiso.</pages:description>
           </pages:image>
         </pages:images>
       </api:result>
@@ -38,7 +230,7 @@
   </api:items>
   <api:facets>
     <api:sortDates value="2013">
-      <api:count>2383</api:count>
+      <api:count>29782</api:count>
       <api:begin>2013-01-01T01:00:00+01:00</api:begin>
       <api:end>2014-01-01T01:00:00+01:00</api:end>
     </api:sortDates>

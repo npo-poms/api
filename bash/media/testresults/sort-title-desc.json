@@ -1,17 +1,20 @@
 {
-  "total" : 637912,
+  "total" : 767738,
   "offset" : 0,
   "max" : 2,
   "items" : [ {
-    "score" : 1.5030634,
+    "score" : 1.2974172,
     "highlights" : [ ],
     "result" : {
       "objectType" : "program",
       "mid" : "POMS_VPRO_1242544",
+      "type" : "CLIP",
+      "avType" : "VIDEO",
+      "workflow" : "PUBLISHED",
+      "sortDate" : 1309460408000,
       "creationDate" : 1404490912485,
       "lastModified" : 1406685301787,
       "publishStart" : 1309460408000,
-      "sortDate" : 1309460408000,
       "urn" : "urn:vpro:media:program:42952594",
       "embeddable" : true,
       "crids" : [ "crid://metropolistv.nl/program/1010" ],
@@ -111,7 +114,6 @@
       } ],
       "images" : [ {
         "title" : "���Grote dingen��� in Australie",
-        "description" : "",
         "imageUri" : "urn:vpro:image:476699",
         "owner" : "BROADCASTER",
         "type" : "PICTURE",
@@ -120,21 +122,21 @@
         "lastModified" : 1406659337764,
         "workflow" : "PUBLISHED",
         "urn" : "urn:vpro:media:image:42952596"
-      } ],
-      "workflow" : "PUBLISHED",
-      "type" : "CLIP",
-      "avType" : "VIDEO"
+      } ]
     }
   }, {
-    "score" : 1.5160718,
+    "score" : 1.3112721,
     "highlights" : [ ],
     "result" : {
       "objectType" : "program",
       "mid" : "POMS_VPRO_1242067",
+      "type" : "CLIP",
+      "avType" : "VIDEO",
+      "workflow" : "PUBLISHED",
+      "sortDate" : 1311252604000,
       "creationDate" : 1404482093541,
       "lastModified" : 1406685637582,
       "publishStart" : 1311252604000,
-      "sortDate" : 1311252604000,
       "urn" : "urn:vpro:media:program:42943907",
       "embeddable" : true,
       "crids" : [ "crid://metropolistv.nl/program/1045" ],
@@ -234,7 +236,6 @@
       } ],
       "images" : [ {
         "title" : "���Chambres de passe��� in Burkina Faso",
-        "description" : "",
         "imageUri" : "urn:vpro:image:476336",
         "owner" : "BROADCASTER",
         "type" : "PICTURE",
@@ -243,10 +244,7 @@
         "lastModified" : 1406639335758,
         "workflow" : "PUBLISHED",
         "urn" : "urn:vpro:media:image:42943909"
-      } ],
-      "workflow" : "PUBLISHED",
-      "type" : "CLIP",
-      "avType" : "VIDEO"
+      } ]
     }
   } ]
 }

@@ -1,8 +1,1168 @@
 {
   "facets" : { },
   "selectedFacets" : { },
-  "total" : 0,
+  "total" : 1,
   "offset" : 0,
   "max" : 2,
-  "items" : [ ]
+  "items" : [ {
+    "highlights" : [ ],
+    "result" : {
+      "objectType" : "page",
+      "type" : "ARTICLE",
+      "url" : "http://www-acc.cultura.nl/genres/theater/2014/zomergasten_freek_de_jonge_vpro.html",
+      "sortDate" : 1407404040000,
+      "crids" : [ "crid://vpro/website/d43c36de-985a-47cb-9909-7f949299fae9" ],
+      "broadcasters" : [ {
+        "id" : "VPRO",
+        "value" : "VPRO"
+      } ],
+      "portal" : {
+        "id" : "CULTURA24",
+        "url" : "http://www-acc.cultura.nl",
+        "value" : "NPO Cultura"
+      },
+      "title" : "Zomergasten: Freek de Jonge",
+      "subTitle" : "20 juli 2014",
+      "summary" : "De eerste Zomergast, Freek de Jonge (Eenrum, 1944) is theatermaker.",
+      "paragraphs" : [ {
+        "body" : "Al in zijn studententijd maakte hij samen met Bram Vermeulen furore als het cabaretduo Neerlands Hoop, het boegbeeld van links Nederland in de jaren zeventig. Na tien jaar ging Freek alleen verder. De komiek was zijn eerste solovoorstelling en er volgden nog meer dan vijftig shows. De Jonge was een vernieuwer door in zijn voorstellingen een doorlopend verhaal te houden en daarin cabareteske zijsprongen te maken. Daarmee is hij de grondlegger van het huidige cabaret in Nederland. Naast zijn werk in het theater maakte De Jonge twee speelfilms, verschillende televisieprogramma’s, scoorde een nummer een-hit met het nummer 'Leven na de dood' en schreef drie romans.  NEDERLAND 2 Zondag 20 juli om 20:15 uur  10 dagen na uitzending online terug te zien"
+      }, {
+        "title" : "Meer Zomergasten"
+      }, {
+        "body" : "Zomergasten 2014 - VPRO"
+      }, {
+        "body" : "Zomergasten: Jim Taihuttu"
+      }, {
+        "body" : "Zomergasten: Reinbert de Leeuw"
+      }, {
+        "body" : "Zomergasten: David van Reybrouck"
+      }, {
+        "body" : "Zomergastfilms"
+      }, {
+        "body" : "Freek de Jonge - officiële site"
+      }, {
+        "title" : "Kijk ook"
+      }, {
+        "title" : "Auteur",
+        "body" : "VPRO"
+      } ],
+      "embeds" : [ {
+        "media" : {
+          "objectType" : "program",
+          "mid" : "NPS_1217492",
+          "type" : "BROADCAST",
+          "avType" : "VIDEO",
+          "workflow" : "PUBLISHED",
+          "sortDate" : 1356040500000,
+          "creationDate" : 1353908782986,
+          "lastModified" : 1404824463675,
+          "urn" : "urn:vpro:media:program:16495554",
+          "embeddable" : true,
+          "episodeOf" : [ {
+            "midRef" : "NPS_1217487",
+            "urnRef" : "urn:vpro:media:group:16495557",
+            "type" : "SEASON",
+            "index" : 1,
+            "highlighted" : false,
+            "added" : 1353908783052
+          } ],
+          "crids" : [ "crid://tmp.program.omroep.nl/15041615" ],
+          "broadcasters" : [ {
+            "id" : "NPS",
+            "value" : "NPS"
+          }, {
+            "id" : "NTR",
+            "value" : "NTR"
+          } ],
+          "titles" : [ {
+            "value" : "5 Jaar later",
+            "owner" : "NEBO",
+            "type" : "MAIN"
+          }, {
+            "value" : "5 Jaar later",
+            "owner" : "MIS",
+            "type" : "MAIN"
+          }, {
+            "value" : "5 Jaar later",
+            "owner" : "CERES",
+            "type" : "MAIN"
+          }, {
+            "value" : "Freek de Jonge",
+            "owner" : "WHATS_ON",
+            "type" : "MAIN"
+          }, {
+            "value" : "Freek de Jonge",
+            "owner" : "NEBO",
+            "type" : "SUB"
+          }, {
+            "value" : "Freek de Jonge",
+            "owner" : "MIS",
+            "type" : "SUB"
+          }, {
+            "value" : "Freek de Jonge",
+            "owner" : "CERES",
+            "type" : "SUB"
+          }, {
+            "value" : "FREEK DE JONGE",
+            "owner" : "WHATS_ON",
+            "type" : "ORIGINAL"
+          } ],
+          "descriptions" : [ {
+            "value" : "Vijf jaar geleden voerde Jeroen Pauw gesprekken met spraakmakende bekende Nederlanders. Persoonlijke gesprekken over de toekomst. Over heimelijke verlangens, serieuze angsten, keiharde ambities en zuivere voorspellingen. Over de grote en kleine bewegingen in Nederland, de wereld en het leven. Van G8- tot nachtkastjesniveau. Al die tijd zijn deze interviews bewaard in een kluis. Nu is het moment aangebroken om de mensen terug te vragen. Fragmenten uit het gesprek van toen vormen de leidraad voor dit nieuwe gesprek. Resultaat is het programma 5 Jaar Later; een persoonlijk gesprek, afgewisseld met quotes uit het interview van vijf jaar geleden en fragmenten van (nieuws)gebeurtenissen en film- en televisiebeelden die voor de gast de afgelopen vijf jaar zo bepalend waren.",
+            "owner" : "NEBO",
+            "type" : "MAIN"
+          }, {
+            "value" : "'Ik geloof in mijn talent, ik heb altijd het idee gehad dat het wel heel bijzonder is. Er is nu niemand die een maatschappelijk inzicht heeft en dat koppelt aan zijn talent.' Dit zei Freek de Jonge vijf jaar geleden. Wat zegt hij nu? Vijf jaar geleden heeft Jeroen Pauw gesprekken gevoerd met spraakmakende bekende Nederlanders. Persoonlijke gesprekken over de toekomst. Over heimelijke verlangens, serieuze angsten, keiharde ambities en zuivere voorspellingen. Al die tijd zijn deze interviews bewaard in een kluis. Nu is het moment aangebroken de mensen terug te vragen.",
+            "owner" : "MIS",
+            "type" : "MAIN"
+          }, {
+            "value" : "Vijf jaar geleden voerde Jeroen Pauw gesprekken met spraakmakende bekende Nederlanders. Persoonlijke gesprekken over de toekomst. Over heimelijke verlangens, serieuze angsten, keiharde ambities en zuivere voorspellingen. Over de grote en kleine bewegingen in Nederland, de wereld en het leven. Van G8- tot nachtkastjesniveau. Al die tijd zijn deze interviews bewaard in een kluis. Nu is het moment aangebroken om de mensen terug te vragen. Fragmenten uit het gesprek van toen vormen de leidraad voor dit nieuwe gesprek. Resultaat is het programma 5 Jaar Later; een persoonlijk gesprek, afgewisseld met quotes uit het interview van vijf jaar geleden en fragmenten van (nieuws)gebeurtenissen en film- en televisiebeelden die voor de gast de afgelopen vijf jaar zo bepalend waren.",
+            "owner" : "CERES",
+            "type" : "MAIN"
+          }, {
+            "value" : "Jeroen Pauw spreekt met Freek de Jonge: 'Ik geloof in mijn talent, ik heb altijd het idee gehad dat het wel heel bijzonder is. Er is nu niemand die een maatschappelijk inzicht heeft en dat koppelt aan zijn talent.' Dit zei Freek de Jonge vijf jaar geleden. Wat zegt hij nu?  Vijf jaar geleden heeft Jeroen Pauw gesprekken gevoerd met spraakmakende bekende Nederlanders. Persoonlijke gesprekken over de toekomst. Over heimelijke verlangens, serieuze angsten, keiharde ambities en zuivere voorspellingen. Al die tijd zijn deze interviews bewaard in een kluis. Nu is het moment aangebroken de mensen terug te vragen.   www.ntr.nl/5jaarlater",
+            "owner" : "WHATS_ON",
+            "type" : "MAIN"
+          }, {
+            "value" : "Vijf jaar geleden voerde Jeroen Pauw gesprekken met spraakmakende bekende Nederlanders. Fragmenten uit de interviews van toen vormen de leidraad voor een nieuw persoonlijk gesprek.",
+            "owner" : "NEBO",
+            "type" : "SHORT"
+          }, {
+            "value" : "Vijf jaar geleden voerde Jeroen Pauw gesprekken met spraakmakende bekende Nederlanders. Fragmenten uit de interviews van toen vormen de leidraad voor een nieuw persoonlijk gesprek.",
+            "owner" : "MIS",
+            "type" : "SHORT"
+          }, {
+            "value" : "Vijf jaar geleden voerde Jeroen Pauw gesprekken met spraakmakende bekende Nederlanders. Fragmenten uit de interviews van toen vormen de leidraad voor een nieuw persoonlijk gesprek.",
+            "owner" : "CERES",
+            "type" : "SHORT"
+          }, {
+            "value" : "'Ik geloof in mijn talent, ik heb altijd het idee gehad dat het wel heel bijzonder is. Er is nu niemand die een maatschappelijk inzicht heeft en dat koppelt aan zijn talent.' Dit zei Freek de Jonge vijf jaar geleden. Wat zegt hij nu? Vijf jaar geleden heeft Jeroen Pauw gesprekken gevoerd met spraakmakende bekende Nederlanders. Persoonlijke gesprekken over de toekomst. Over heimelijke verlangens, serieuze angsten, keiharde ambities en zuivere voorspellingen. Al die tijd zijn deze interviews bewaard in een kluis. Nu is het moment aangebroken de mensen terug te vragen.",
+            "owner" : "NEBO",
+            "type" : "SUB"
+          }, {
+            "value" : "'Ik geloof in mijn talent, ik heb altijd het idee gehad dat het wel heel bijzonder is. Er is nu niemand die een maatschappelijk inzicht heeft en dat koppelt aan zijn talent.' Dit zei Freek de Jonge vijf jaar geleden. Wat zegt hij nu? Vijf jaar geleden heeft Jeroen Pauw gesprekken gevoerd met spraakmakende bekende Nederlanders. Persoonlijke gesprekken over de toekomst. Over heimelijke verlangens, serieuze angsten, keiharde ambities en zuivere voorspellingen. Al die tijd zijn deze interviews bewaard in een kluis. Nu is het moment aangebroken de mensen terug te vragen.",
+            "owner" : "CERES",
+            "type" : "SUB"
+          }, {
+            "value" : "Vijf jaar geleden voerde Jeroen Pauw gesprekken met spraakmakende bekende Nederlanders. Persoonlijke gesprekken over de toekomst. Over heimelijke verlangens, serieuze angsten, keiharde ambities en zuivere voorspellingen. Over de grote en kleine bewegingen in Nederland, de wereld en het leven. Van G8- tot nachtkastjesniveau. Al die tijd zijn deze interviews bewaard in een kluis. Nu is het moment aangebroken om de mensen terug te vragen. Fragmenten uit het gesprek van toen vormen de leidraad voor dit nieuwe gesprek. Resultaat is het programma 5 Jaar Later; een persoonlijk gesprek, afgewisseld met quotes uit het interview van vijf jaar geleden en fragmenten van (nieuws)gebeurtenissen en film- en televisiebeelden die voor de gast de afgelopen vijf jaar zo bepalend waren. Afl.: Freek de Jonge. 'Ik geloof in mijn talent, ik heb altijd het idee gehad dat het wel heel bijzonder is. Er is nu niemand die een maatschappelijk inzicht heeft en dat koppelt aan zijn talent.' Dit zei Freek de Jonge vijf jaar geleden. Wat zegt hij nu? Vijf jaar geleden heeft Jeroen Pauw gesprekken gevoerd met spraakmakende bekende Nederlanders. Persoonlijke gesprekken over de toekomst. Over heimelijke verlangens, serieuze angsten, keiharde ambities en zuivere voorspellingen. Al die tijd zijn deze interviews bewaard in een kluis. Nu is het moment aangebroken de mensen terug te vragen. Presentatie: Jeroen Pauw.",
+            "owner" : "NEBO",
+            "type" : "EPISODE"
+          } ],
+          "genres" : [ {
+            "id" : "3.0.1.7",
+            "terms" : [ "Informatief" ]
+          } ],
+          "hasSubtitles" : true,
+          "countries" : [ ],
+          "languages" : [ ],
+          "avAttributes" : {
+            "videoAttributes" : {
+              "color" : "BLACK_AND_WHITE_AND_COLOR",
+              "aspectRatio" : "16:9"
+            },
+            "audioAttributes" : {
+              "numberOfChannels" : 2
+            }
+          },
+          "duration" : 3000000,
+          "credits" : [ {
+            "givenName" : "Jeroen",
+            "familyName" : "Pauw",
+            "role" : "PRESENTER"
+          } ],
+          "descendantOf" : [ {
+            "midRef" : "POMS_S_VPRO_171668",
+            "urnRef" : "urn:vpro:media:group:14683553",
+            "type" : "ARCHIVE"
+          }, {
+            "midRef" : "POMS_S_NTR_168998",
+            "urnRef" : "urn:vpro:media:group:15043946",
+            "type" : "ARCHIVE"
+          }, {
+            "midRef" : "NPS_1217487",
+            "urnRef" : "urn:vpro:media:group:16495557",
+            "type" : "SEASON"
+          }, {
+            "midRef" : "POMS_S_NTR_103385",
+            "urnRef" : "urn:vpro:media:group:7488353",
+            "type" : "SERIES"
+          } ],
+          "memberOf" : [ {
+            "midRef" : "POMS_S_NTR_168998",
+            "urnRef" : "urn:vpro:media:group:15043946",
+            "type" : "ARCHIVE",
+            "index" : 207,
+            "highlighted" : false,
+            "added" : 1404824463056
+          } ],
+          "websites" : [ {
+            "value" : "http://www.ntr.nl/5jaarlater"
+          } ],
+          "predictions" : [ {
+            "state" : "REALIZED",
+            "publishStart" : 1356044079000,
+            "platform" : "INTERNETVOD"
+          } ],
+          "locations" : [ {
+            "programUrl" : "odip+http://odi.omroep.nl/video/adaptive/NPS_1217492",
+            "avAttributes" : {
+              "avFileFormat" : "HASP"
+            },
+            "owner" : "CERES",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1356046270777,
+            "lastModified" : 1356046271087,
+            "publishStart" : 1356044079000,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:17179317"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_sb/NPS_1217492",
+            "avAttributes" : {
+              "bitrate" : 204800,
+              "avFileFormat" : "MP4",
+              "videoAttributes" : {
+                "videoCoding" : "WM",
+                "aspectRatio" : "16:9"
+              }
+            },
+            "owner" : "NEBO",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1361123158760,
+            "lastModified" : 1361123158888,
+            "publishStart" : 1356044079000,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:21421919"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_bb/NPS_1217492",
+            "avAttributes" : {
+              "bitrate" : 512000,
+              "avFileFormat" : "MP4",
+              "videoAttributes" : {
+                "videoCoding" : "WM",
+                "aspectRatio" : "16:9"
+              }
+            },
+            "owner" : "NEBO",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1361123158761,
+            "lastModified" : 1361123158889,
+            "publishStart" : 1356044079000,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:21421922"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_std/NPS_1217492",
+            "avAttributes" : {
+              "bitrate" : 1024000,
+              "avFileFormat" : "MP4",
+              "videoAttributes" : {
+                "videoCoding" : "WM",
+                "aspectRatio" : "16:9"
+              }
+            },
+            "owner" : "NEBO",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1361123158760,
+            "lastModified" : 1361123158890,
+            "publishStart" : 1356044079000,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:21421925"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/wvc1_std/NPS_1217492",
+            "avAttributes" : {
+              "bitrate" : 1024000,
+              "avFileFormat" : "WVC1",
+              "videoAttributes" : {
+                "videoCoding" : "WM",
+                "aspectRatio" : "16:9"
+              }
+            },
+            "owner" : "NEBO",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1361123158760,
+            "lastModified" : 1361123158891,
+            "publishStart" : 1356044079000,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:21421928"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/wmv_sb/NPS_1217492",
+            "avAttributes" : {
+              "bitrate" : 204800,
+              "avFileFormat" : "WM",
+              "videoAttributes" : {
+                "videoCoding" : "WM",
+                "aspectRatio" : "16:9"
+              }
+            },
+            "owner" : "NEBO",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1361123158760,
+            "lastModified" : 1361123158892,
+            "publishStart" : 1356044079000,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:21421931"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/wmv_bb/NPS_1217492",
+            "avAttributes" : {
+              "bitrate" : 512000,
+              "avFileFormat" : "WM",
+              "videoAttributes" : {
+                "videoCoding" : "WM",
+                "aspectRatio" : "16:9"
+              }
+            },
+            "owner" : "NEBO",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1361123158760,
+            "lastModified" : 1361123158893,
+            "publishStart" : 1356044079000,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:21421934"
+          } ],
+          "scheduleEvents" : [ {
+            "avAttributes" : {
+              "bitrate" : 0,
+              "avFileFormat" : "WM",
+              "videoAttributes" : {
+                "videoCoding" : "WM",
+                "aspectRatio" : "16:9"
+              }
+            },
+            "textSubtitles" : "Teletekst ondertitels",
+            "guideDay" : 1355958000000,
+            "start" : 1356040500000,
+            "duration" : 3000000,
+            "poProgID" : "NPS_1217492",
+            "channel" : "NED1",
+            "urnRef" : "urn:vpro:media:program:16495554",
+            "midRef" : "NPS_1217492"
+          }, {
+            "avAttributes" : {
+              "bitrate" : 0,
+              "avFileFormat" : "WM",
+              "videoAttributes" : {
+                "videoCoding" : "WM",
+                "aspectRatio" : "16:9"
+              }
+            },
+            "guideDay" : 1356217200000,
+            "start" : 1356248100000,
+            "duration" : 3300000,
+            "poProgID" : "NPS_1217492",
+            "channel" : "NED1",
+            "urnRef" : "urn:vpro:media:program:16495554",
+            "midRef" : "NPS_1217492"
+          } ],
+          "images" : [ {
+            "title" : "5 Jaar later",
+            "description" : "'Ik geloof in mijn talent, ik heb altijd het idee gehad dat het wel heel bijzonder is. Er is nu niemand die een maatschappelijk inzicht heeft en dat koppelt aan zijn talent.' Wat zegt Freek de Jonge nu?",
+            "imageUri" : "urn:vpro:image:123665",
+            "owner" : "NEBO",
+            "type" : "STILL",
+            "highlighted" : false,
+            "creationDate" : 1356046224587,
+            "lastModified" : 1356046229768,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:17179313"
+          }, {
+            "title" : "5 Jaar later",
+            "description" : "'Ik geloof in mijn talent, ik heb altijd het idee gehad dat het wel heel bijzonder is. Er is nu niemand die een maatschappelijk inzicht heeft en dat koppelt aan zijn talent.' Wat zegt Freek de Jonge nu?",
+            "imageUri" : "urn:vpro:image:123666",
+            "owner" : "NEBO",
+            "type" : "STILL",
+            "highlighted" : false,
+            "creationDate" : 1356046227106,
+            "lastModified" : 1356046229769,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:17179314"
+          }, {
+            "title" : "5 Jaar later",
+            "description" : "'Ik geloof in mijn talent, ik heb altijd het idee gehad dat het wel heel bijzonder is. Er is nu niemand die een maatschappelijk inzicht heeft en dat koppelt aan zijn talent.' Wat zegt Freek de Jonge nu?",
+            "imageUri" : "urn:vpro:image:123667",
+            "owner" : "NEBO",
+            "type" : "STILL",
+            "highlighted" : false,
+            "creationDate" : 1356046229578,
+            "lastModified" : 1356046229769,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:17179315"
+          } ],
+          "publishDate" : 1434482511550
+        }
+      }, {
+        "media" : {
+          "objectType" : "program",
+          "mid" : "VPRO_1130356",
+          "type" : "BROADCAST",
+          "avType" : "VIDEO",
+          "workflow" : "PUBLISHED",
+          "sortDate" : 1230325800000,
+          "creationDate" : 1359368227272,
+          "lastModified" : 1404831111184,
+          "urn" : "urn:vpro:media:program:18226542",
+          "embeddable" : true,
+          "episodeOf" : [ {
+            "midRef" : "AUTO_FREEKDEJONGEDELAATSTELACH",
+            "urnRef" : "urn:vpro:media:group:18226558",
+            "type" : "SEASON",
+            "index" : 1,
+            "highlighted" : false,
+            "added" : 1359368227378
+          } ],
+          "crids" : [ "crid://tmp.program.omroep.nl/8507094" ],
+          "broadcasters" : [ {
+            "id" : "VPRO",
+            "value" : "VPRO"
+          } ],
+          "titles" : [ {
+            "value" : "Freek de Jonge: De laatste lach",
+            "owner" : "NEBO",
+            "type" : "MAIN"
+          } ],
+          "descriptions" : [ {
+            "value" : "Freek de Jonge noemt De laatste lach nadrukkelijk geen cabaret, maar theater. Maar ook in deze arena valt er, zoals in de titel ligt besloten, genoeg te lachen. In De laatste lach richt Freek de Jonge zich tot een man in coma, Het Hogere en de man in de zaal. Hij gebruikt de techniek van een conferencier om de zaal aan te spreken. Ik zit tegenover 250 mensen. Of beeld ik mij dat in? In ieder geval kan ik me niet aan de indruk onttrekken dat ik bekeken word. Voor mij ligt een cd met als titel Losse Invallen. Er blijkt een tekstbestand met aantekeningen voor een theaterprogramma op te staan. Zijn het mijn aantekeningen? Ik kan me niet herinneren ze gemaakt te hebben. De eerste luidt: Het is voorbij. Vlieland. Eerste rij. Ik ben nog nooit op Vlieland geweest. Aantekening twee: Een lach is een oordeel. Gordon. Hondenkennel. Er komen geen associaties. Er wordt gehoest. Dat duidt op publiek, ik zie tussen de coulissen iemand wilde gebaren maken. Wordt er iets van mij verwacht?",
+            "owner" : "NEBO",
+            "type" : "MAIN"
+          }, {
+            "value" : "Freek de Jonge noemt De laatste lach nadrukkelijk geen cabaret, maar theater. Maar ook in deze arena valt er, zoals in de titel ligt besloten, genoeg te lachen.",
+            "owner" : "NEBO",
+            "type" : "SHORT"
+          } ],
+          "genres" : [ {
+            "id" : "3.0.1.6",
+            "terms" : [ "Amusement" ]
+          }, {
+            "id" : "3.0.1.6.9",
+            "terms" : [ "Amusement", "Komisch" ]
+          }, {
+            "id" : "3.0.1.7.24",
+            "terms" : [ "Informatief", "Kunst/cultuur" ]
+          } ],
+          "countries" : [ ],
+          "languages" : [ ],
+          "avAttributes" : {
+            "bitrate" : 0,
+            "avFileFormat" : "WM",
+            "videoAttributes" : {
+              "videoCoding" : "WM",
+              "aspectRatio" : "16:9"
+            }
+          },
+          "duration" : 7500000,
+          "descendantOf" : [ {
+            "midRef" : "POMS_S_VPRO_171668",
+            "urnRef" : "urn:vpro:media:group:14683553",
+            "type" : "ARCHIVE"
+          }, {
+            "midRef" : "POMS_S_NTR_168998",
+            "urnRef" : "urn:vpro:media:group:15043946",
+            "type" : "ARCHIVE"
+          }, {
+            "midRef" : "AUTO_FREEKDEJONGEDELAATSTELACH",
+            "urnRef" : "urn:vpro:media:group:18226558",
+            "type" : "SEASON"
+          }, {
+            "midRef" : "POMS_S_VPRO_084152",
+            "urnRef" : "urn:vpro:media:group:18226564",
+            "type" : "SERIES"
+          } ],
+          "memberOf" : [ {
+            "midRef" : "POMS_S_NTR_168998",
+            "urnRef" : "urn:vpro:media:group:15043946",
+            "type" : "ARCHIVE",
+            "index" : 209,
+            "highlighted" : false,
+            "added" : 1404824463527
+          } ],
+          "predictions" : [ {
+            "state" : "REALIZED",
+            "publishStart" : 1230333300000,
+            "platform" : "INTERNETVOD"
+          } ],
+          "locations" : [ {
+            "programUrl" : "http://cgi.omroep.nl/cgi-bin/streams?/id/VPRO/serie/AUTO_FREEKDEJONGEDELAATSTELACH/VPRO_1130356/sb.20081226.asf",
+            "avAttributes" : {
+              "bitrate" : 204800,
+              "avFileFormat" : "WM",
+              "videoAttributes" : {
+                "videoCoding" : "WM",
+                "aspectRatio" : "16:9"
+              }
+            },
+            "owner" : "NEBO",
+            "creationDate" : 1359368227274,
+            "lastModified" : 1359368227290,
+            "publishStart" : 1230333300000,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:18226553"
+          }, {
+            "programUrl" : "http://cgi.omroep.nl/cgi-bin/streams?/id/VPRO/serie/AUTO_FREEKDEJONGEDELAATSTELACH/VPRO_1130356/bb.20081226.asf",
+            "avAttributes" : {
+              "bitrate" : 512000,
+              "avFileFormat" : "WM",
+              "videoAttributes" : {
+                "videoCoding" : "WM",
+                "aspectRatio" : "16:9"
+              }
+            },
+            "owner" : "NEBO",
+            "creationDate" : 1359368227274,
+            "lastModified" : 1359368227292,
+            "publishStart" : 1230333300000,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:18226556"
+          } ],
+          "scheduleEvents" : [ {
+            "avAttributes" : {
+              "bitrate" : 0,
+              "avFileFormat" : "WM",
+              "videoAttributes" : {
+                "videoCoding" : "WM",
+                "aspectRatio" : "16:9"
+              }
+            },
+            "textSubtitles" : "Teletekst ondertitels",
+            "start" : 1230325800000,
+            "duration" : 7500000,
+            "poProgID" : "VPRO_1130356",
+            "channel" : "NED2",
+            "urnRef" : "urn:vpro:media:program:18226542",
+            "midRef" : "VPRO_1130356"
+          } ],
+          "images" : [ {
+            "title" : "aoe",
+            "description" : "aoe",
+            "imageUri" : "urn:vpro:image:486461",
+            "height" : 298,
+            "width" : 531,
+            "owner" : "BROADCASTER",
+            "type" : "STILL",
+            "highlighted" : false,
+            "creationDate" : 1404831110961,
+            "lastModified" : 1404831111178,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:43605659"
+          } ]
+        }
+      }, {
+        "media" : {
+          "objectType" : "program",
+          "mid" : "VPRO_1125070",
+          "type" : "BROADCAST",
+          "avType" : "VIDEO",
+          "workflow" : "PUBLISHED",
+          "sortDate" : 1201726500000,
+          "creationDate" : 1359366426592,
+          "lastModified" : 1404831230911,
+          "urn" : "urn:vpro:media:program:18210558",
+          "embeddable" : true,
+          "episodeOf" : [ {
+            "midRef" : "AUTO_UURMET",
+            "urnRef" : "urn:vpro:media:group:18210001",
+            "type" : "SEASON",
+            "index" : 8,
+            "highlighted" : false,
+            "added" : 1359366426631
+          } ],
+          "crids" : [ "crid://tmp.program.omroep.nl/6404976" ],
+          "broadcasters" : [ {
+            "id" : "VPRO",
+            "value" : "VPRO"
+          } ],
+          "titles" : [ {
+            "value" : "24 uur met...",
+            "owner" : "NEBO",
+            "type" : "MAIN"
+          }, {
+            "value" : "Freek de Jonge.",
+            "owner" : "NEBO",
+            "type" : "SUB"
+          } ],
+          "descriptions" : [ {
+            "value" : "Eén ruimte. Eén gast. Eén interviewer. De tijd doet zijn werk. Wilfried de Jong brengt 24 uur in één ruimte door met één gast. Er staan twee comfortabele stoelen en in de keuken is eten en drank. De twee aanwezigen zijn een heel etmaal tot elkaar veroordeeld. Hierdoor ontstaat vanzelf een ongewone band tussen gast en gastheer. Als ze niet praten, zijn ze stil. Soms eten ze wat, of er wordt even geslapen. De tijd zal zijn werk doen: gasten die nooit eerder het achterste van hun tong lieten zien worden spraakzaam.",
+            "owner" : "NEBO",
+            "type" : "MAIN"
+          }, {
+            "value" : "Eén ruimte. Eén gast. Eén interviewer. De tijd doet zijn werk. Wilfried de Jong brengt 24 uur in één ruimte door met één gast. Laatste gast is cabaretier Freek de Jonge.",
+            "owner" : "NEBO",
+            "type" : "SHORT"
+          }, {
+            "value" : "Laatste gast is cabaretier Freek de Jonge. Geboren in 1944 als zoon van een predikant.",
+            "owner" : "NEBO",
+            "type" : "SUB"
+          }, {
+            "value" : "Eén ruimte. Eén gast. Eén interviewer. De tijd doet zijn werk. Wilfried de Jong brengt 24 uur in één ruimte door met één gast. Er staan twee comfortabele stoelen en in de keuken is eten en drank. De twee aanwezigen zijn een heel etmaal tot elkaar veroordeeld. Hierdoor ontstaat vanzelf een ongewone band tussen gast en gastheer. Als ze niet praten, zijn ze stil. Soms eten ze wat, of er wordt even geslapen. De tijd zal zijn werk doen: gasten die nooit eerder het achterste van hun tong lieten zien worden spraakzaam. Afl.: Freek de Jonge. Laatste gast is cabaretier Freek de Jonge. Geboren in 1944 als zoon van een predikant. Presentatie: Wilfried de Jong.",
+            "owner" : "NEBO",
+            "type" : "EPISODE"
+          } ],
+          "genres" : [ {
+            "id" : "3.0.1.7",
+            "terms" : [ "Informatief" ]
+          } ],
+          "countries" : [ ],
+          "languages" : [ ],
+          "avAttributes" : {
+            "bitrate" : 0,
+            "avFileFormat" : "WM",
+            "videoAttributes" : {
+              "videoCoding" : "WM",
+              "aspectRatio" : "16:9"
+            }
+          },
+          "duration" : 2100000,
+          "credits" : [ {
+            "givenName" : "Wilfried",
+            "familyName" : "de Jong",
+            "role" : "PRESENTER"
+          } ],
+          "descendantOf" : [ {
+            "midRef" : "POMS_S_VPRO_171668",
+            "urnRef" : "urn:vpro:media:group:14683553",
+            "type" : "ARCHIVE"
+          }, {
+            "midRef" : "POMS_S_NTR_168998",
+            "urnRef" : "urn:vpro:media:group:15043946",
+            "type" : "ARCHIVE"
+          }, {
+            "midRef" : "AUTO_UURMET",
+            "urnRef" : "urn:vpro:media:group:18210001",
+            "type" : "SEASON"
+          }, {
+            "midRef" : "POMS_S_VPRO_377774",
+            "urnRef" : "urn:vpro:media:group:27392246",
+            "type" : "PLAYLIST"
+          }, {
+            "midRef" : "POMS_S_VPRO_084079",
+            "urnRef" : "urn:vpro:media:group:72833",
+            "type" : "SERIES"
+          } ],
+          "memberOf" : [ {
+            "midRef" : "POMS_S_NTR_168998",
+            "urnRef" : "urn:vpro:media:group:15043946",
+            "type" : "ARCHIVE",
+            "index" : 206,
+            "highlighted" : false,
+            "added" : 1404824175343
+          } ],
+          "predictions" : [ {
+            "state" : "REALIZED",
+            "publishStart" : 1201728600000,
+            "platform" : "INTERNETVOD"
+          } ],
+          "locations" : [ {
+            "programUrl" : "http://cgi.omroep.nl/cgi-bin/streams?/id/VPRO/serie/AUTO_UURMET/VPRO_1125070/sb.20080130.asf",
+            "avAttributes" : {
+              "bitrate" : 204800,
+              "avFileFormat" : "WM",
+              "videoAttributes" : {
+                "videoCoding" : "WM",
+                "aspectRatio" : "16:9"
+              }
+            },
+            "owner" : "NEBO",
+            "creationDate" : 1359366426595,
+            "lastModified" : 1359366426606,
+            "publishStart" : 1201728600000,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:18210565"
+          }, {
+            "programUrl" : "http://cgi.omroep.nl/cgi-bin/streams?/id/VPRO/serie/AUTO_UURMET/VPRO_1125070/bb.20080130.asf",
+            "avAttributes" : {
+              "bitrate" : 512000,
+              "avFileFormat" : "WM",
+              "videoAttributes" : {
+                "videoCoding" : "WM",
+                "aspectRatio" : "16:9"
+              }
+            },
+            "owner" : "NEBO",
+            "creationDate" : 1359366426594,
+            "lastModified" : 1359366426607,
+            "publishStart" : 1201728600000,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:18210568"
+          } ],
+          "scheduleEvents" : [ {
+            "avAttributes" : {
+              "bitrate" : 0,
+              "avFileFormat" : "WM",
+              "videoAttributes" : {
+                "videoCoding" : "WM",
+                "aspectRatio" : "16:9"
+              }
+            },
+            "textSubtitles" : "Teletekst ondertitels",
+            "start" : 1201726500000,
+            "duration" : 2100000,
+            "poProgID" : "VPRO_1125070",
+            "channel" : "NED3",
+            "urnRef" : "urn:vpro:media:program:18210558",
+            "midRef" : "VPRO_1125070"
+          } ],
+          "images" : [ {
+            "title" : "aoe",
+            "description" : "aoe",
+            "imageUri" : "urn:vpro:image:486462",
+            "height" : 298,
+            "width" : 530,
+            "owner" : "BROADCASTER",
+            "type" : "STILL",
+            "highlighted" : false,
+            "creationDate" : 1404831230635,
+            "lastModified" : 1404831230907,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:43605664"
+          } ]
+        }
+      }, {
+        "media" : {
+          "objectType" : "program",
+          "mid" : "POMS_NTR_395938",
+          "type" : "BROADCAST",
+          "avType" : "AUDIO",
+          "workflow" : "PUBLISHED",
+          "sortDate" : 1353952800000,
+          "creationDate" : 1377774176898,
+          "lastModified" : 1404809471371,
+          "publishStart" : 1353952800000,
+          "urn" : "urn:vpro:media:program:29049069",
+          "embeddable" : true,
+          "episodeOf" : [ {
+            "midRef" : "POMS_S_VPRO_386797",
+            "urnRef" : "urn:vpro:media:group:28349205",
+            "type" : "SEASON",
+            "index" : 1,
+            "highlighted" : false,
+            "added" : 1377774177227
+          } ],
+          "crids" : [ "crid://ntr.abc/6000002009" ],
+          "broadcasters" : [ {
+            "id" : "NTR",
+            "value" : "NTR"
+          } ],
+          "titles" : [ {
+            "value" : "Kunststof",
+            "owner" : "BROADCASTER",
+            "type" : "MAIN"
+          }, {
+            "value" : "Freek de Jonge - cabaretier ",
+            "owner" : "BROADCASTER",
+            "type" : "SUB"
+          }, {
+            "value" : "Freek de Jonge - cabaretier",
+            "owner" : "BROADCASTER",
+            "type" : "EPISODE"
+          } ],
+          "descriptions" : [ {
+            "value" : "Hij is de grootmeester van het Nederlandse cabaret en zoals het de ware grootmeester betaamt doet Freek de Jonge nooit wat zijn publiek van hem verwacht: geen onemanshow maar een kerstvertelling. Hij trekt op dit moment langs de theaters met de Circus Kribbe waarin clown Job Kribbe - de eerste clown in zes generaties Kribbe die niet van nature leuk is - op zoek gaat naar het waarom.\nPresentatie: Frénk van der Linden\n",
+            "owner" : "BROADCASTER",
+            "type" : "MAIN"
+          }, {
+            "value" : "Hij is de grootmeester van het Nederlandse cabaret en zoals het de ware grootmeester betaamt doet Freek de Jonge nooit wat zijn publiek van hem verwacht: geen onemanshow maar een kerstvertelling. Hij trekt op dit moment langs de theaters met de Circus Kribbe waarin clown Job Kribbe - de eerste clown in zes generaties Kribbe die niet van nature leuk is - op zoek gaat naar het waarom.\nPresentatie: Frénk van der Linden",
+            "owner" : "BROADCASTER",
+            "type" : "SHORT"
+          } ],
+          "genres" : [ ],
+          "countries" : [ ],
+          "languages" : [ ],
+          "duration" : 3540000,
+          "credits" : [ {
+            "givenName" : "Freek",
+            "familyName" : "de Jonge",
+            "role" : "GUEST"
+          } ],
+          "descendantOf" : [ {
+            "midRef" : "POMS_S_VPRO_195283",
+            "urnRef" : "urn:vpro:media:group:11887617",
+            "type" : "ARCHIVE"
+          }, {
+            "midRef" : "POMS_S_VPRO_386797",
+            "urnRef" : "urn:vpro:media:group:28349205",
+            "type" : "SEASON"
+          }, {
+            "midRef" : "POMS_S_VPRO_417554",
+            "urnRef" : "urn:vpro:media:group:30800916",
+            "type" : "COLLECTION"
+          }, {
+            "midRef" : "RBX_S_NTR_553927",
+            "urnRef" : "urn:vpro:media:group:43015083",
+            "type" : "SERIES"
+          } ],
+          "email" : [ "kunststof@ntr.nl" ],
+          "websites" : [ {
+            "value" : "http://www.radiokunststof.nl"
+          } ],
+          "predictions" : [ {
+            "state" : "REALIZED",
+            "platform" : "INTERNETVOD"
+          } ],
+          "locations" : [ {
+            "programUrl" : "http://audio.omroep.nl/radio1/nps/kunststof/20121126-19.mp3",
+            "avAttributes" : {
+              "bitrate" : 128000,
+              "avFileFormat" : "MP3",
+              "videoAttributes" : { }
+            },
+            "owner" : "BROADCASTER",
+            "creationDate" : 1377774174981,
+            "lastModified" : 1377774177202,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:29049074"
+          } ],
+          "images" : [ {
+            "title" : "fdj",
+            "description" : "fdj",
+            "imageUri" : "urn:vpro:image:486246",
+            "height" : 360,
+            "width" : 640,
+            "owner" : "BROADCASTER",
+            "type" : "STILL",
+            "highlighted" : false,
+            "creationDate" : 1404809471154,
+            "lastModified" : 1404809471368,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:43599490"
+          } ],
+          "publishDate" : 1426770966213
+        }
+      }, {
+        "media" : {
+          "objectType" : "program",
+          "mid" : "POW_00442773",
+          "type" : "BROADCAST",
+          "avType" : "VIDEO",
+          "workflow" : "PUBLISHED",
+          "sortDate" : 1326914700000,
+          "creationDate" : 1325554791500,
+          "lastModified" : 1394156114849,
+          "urn" : "urn:vpro:media:program:12215310",
+          "embeddable" : true,
+          "episodeOf" : [ {
+            "midRef" : "POW_00442767",
+            "urnRef" : "urn:vpro:media:group:20009212",
+            "type" : "SEASON",
+            "index" : 3,
+            "highlighted" : false,
+            "added" : 1360078392325
+          } ],
+          "crids" : [ "crid://bds.tv/37744917", "crid://tmp.program.omroep.nl/13675897" ],
+          "broadcasters" : [ {
+            "id" : "MAX",
+            "value" : "MAX"
+          } ],
+          "titles" : [ {
+            "value" : "Sterren op het doek",
+            "owner" : "BROADCASTER",
+            "type" : "MAIN"
+          }, {
+            "value" : "Sterren op het doek",
+            "owner" : "NEBO",
+            "type" : "MAIN"
+          }, {
+            "value" : "Sterren op het doek",
+            "owner" : "MIS",
+            "type" : "MAIN"
+          }, {
+            "value" : "Freek de Jonge",
+            "owner" : "BROADCASTER",
+            "type" : "SUB"
+          }, {
+            "value" : "Freek de Jonge",
+            "owner" : "NEBO",
+            "type" : "SUB"
+          } ],
+          "descriptions" : [ {
+            "value" : "Al jaren houdt Freek de Jonge ons een spiegel voor en hij is daardoor niet bij iedereen geliefd, maar wel geroemd. Welke Freek zullen de kunstenaars op het doek vangen? Kunstenares Marissa Oosterlee heeft wat moeite met de afstand, maar weet Freek toch aardig pakkend neer te zetten. Edwin heeft al gelijk een idee voor zijn portret en vraagt Freek enkele poses aan te nemen. Thea Zweerink gaat aan de hand van jeugdfoto’s van Freek op zoek naar de levensloop van deze bijzondere man. Presentatie: Hanneke Groenteman",
+            "owner" : "BROADCASTER",
+            "type" : "MAIN"
+          }, {
+            "value" : "Hanneke Groenteman interviewt een bekende Nederlander, die tegelijkertijd wordt geportretteerd door drie kunstenaars. De hoofdpersoon mag een van de kunstwerken uitkiezen en mee naar huis nemen. De overige schilderijen worden na iedere aflevering geveild voor het goede doel op www.wiebiedtermeer.nl.",
+            "owner" : "MIS",
+            "type" : "MAIN"
+          }, {
+            "value" : "Op de theatervloer van Stadschouwburg Haarlem spreekt Hanneke Groenteman met Freek de Jonge",
+            "owner" : "BROADCASTER",
+            "type" : "SHORT"
+          }, {
+            "value" : "In zijn tweede huis, op de theatervloer van Stadschouwburg Haarlem, spreekt Hanneke met Freek de Jonge. Al jaren houdt hij ons een spiegel voor en is daardoor niet bij iedereen geliefd.",
+            "owner" : "NEBO",
+            "type" : "SHORT"
+          }, {
+            "value" : "Hanneke Groenteman interviewt een bekende Nederlander, die tegelijkertijd wordt geportretteerd door drie kunstenaars. De hoofdpersoon mag een van de kunstwerken uitkiezen en mee naar huis nemen.",
+            "owner" : "MIS",
+            "type" : "SHORT"
+          }, {
+            "value" : "In zijn tweede huis, op de theatervloer van Stadschouwburg Haarlem, spreekt Hanneke met Freek de Jonge. Al jaren houdt hij ons een spiegel voor en is daardoor niet bij iedereen geliefd, maar wel geroemd. Welke Freek zullen de kunstenaars op het doek vangen? Kunstenares Marissa Oosterlee heeft wat moeite met de afstand, maar weet Freek toch aardig te pakkend neer te zetten. Edwin heeft al gelijk een idee voor zijn portret en vraagt Freek enkele poses aan te nemen. Thea Zweerink gaat aan de hand van jeugdfoto's van Freek op zoek naar de levensloop van deze bijzondere man.",
+            "owner" : "NEBO",
+            "type" : "SUB"
+          }, {
+            "value" : "Serie reportages. Hanneke Groenteman interviewt een bekende Nederlander, die tegelijkertijd wordt geportretteerd door drie kunstenaars. De hoofdpersoon mag een van de kunstwerken uitkiezen en mee naar huis nemen. De overige schilderijen worden na iedere aflevering geveild voor het goede doel op www.wiebiedtermeer.nl. Afl.: Freek de Jonge. In zijn tweede huis, op de theatervloer van Stadschouwburg Haarlem, spreekt Hanneke met Freek de Jonge. Al jaren houdt hij ons een spiegel voor en is daardoor niet bij iedereen geliefd, maar wel geroemd. Welke Freek zullen de kunstenaars op het doek vangen? Kunstenares Marissa Oosterlee heeft wat moeite met de afstand, maar weet Freek toch aardig te pakkend neer te zetten. Edwin heeft al gelijk een idee voor zijn portret en vraagt Freek enkele poses aan te nemen. Thea Zweerink gaat aan de hand van jeugdfoto's van Freek op zoek naar de levensloop van deze bijzondere man. Presentatie: Hanneke Groenteman.",
+            "owner" : "NEBO",
+            "type" : "EPISODE"
+          } ],
+          "genres" : [ {
+            "id" : "3.0.1.6",
+            "terms" : [ "Amusement" ]
+          }, {
+            "id" : "3.0.1.7.24",
+            "terms" : [ "Informatief", "Kunst/cultuur" ]
+          } ],
+          "hasSubtitles" : true,
+          "countries" : [ ],
+          "languages" : [ ],
+          "avAttributes" : {
+            "bitrate" : 0,
+            "avFileFormat" : "WM",
+            "videoAttributes" : {
+              "videoCoding" : "WM",
+              "aspectRatio" : "16:9"
+            }
+          },
+          "duration" : 2400000,
+          "credits" : [ {
+            "givenName" : "Hanneke",
+            "familyName" : "Groenteman",
+            "role" : "PRESENTER"
+          } ],
+          "descendantOf" : [ {
+            "midRef" : "POMS_S_VPRO_171668",
+            "urnRef" : "urn:vpro:media:group:14683553",
+            "type" : "ARCHIVE"
+          }, {
+            "midRef" : "POMS_S_VPRO_170138",
+            "urnRef" : "urn:vpro:media:group:14921822",
+            "type" : "ARCHIVE"
+          }, {
+            "midRef" : "POW_00442767",
+            "urnRef" : "urn:vpro:media:group:20009212",
+            "type" : "SEASON"
+          }, {
+            "midRef" : "POMS_S_MAX_082880",
+            "urnRef" : "urn:vpro:media:group:3732390",
+            "type" : "SERIES"
+          } ],
+          "predictions" : [ {
+            "state" : "REALIZED",
+            "publishStart" : 1325411100000,
+            "publishStop" : 1483177620000,
+            "platform" : "INTERNETVOD"
+          } ],
+          "locations" : [ {
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_sb/POW_00442773",
+            "avAttributes" : {
+              "bitrate" : 204800,
+              "avFileFormat" : "MP4",
+              "videoAttributes" : {
+                "videoCoding" : "WM",
+                "aspectRatio" : "16:9"
+              }
+            },
+            "owner" : "NEBO",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1326917705066,
+            "lastModified" : 1360078392294,
+            "publishStart" : 1325411100000,
+            "publishStop" : 1483177620000,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:12428563"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_bb/POW_00442773",
+            "avAttributes" : {
+              "bitrate" : 512000,
+              "avFileFormat" : "MP4",
+              "videoAttributes" : {
+                "videoCoding" : "WM",
+                "aspectRatio" : "16:9"
+              }
+            },
+            "owner" : "NEBO",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1326917705310,
+            "lastModified" : 1360078392294,
+            "publishStart" : 1325411100000,
+            "publishStop" : 1483177620000,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:12428565"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_std/POW_00442773",
+            "avAttributes" : {
+              "bitrate" : 1024000,
+              "avFileFormat" : "MP4",
+              "videoAttributes" : {
+                "videoCoding" : "WM",
+                "aspectRatio" : "16:9"
+              }
+            },
+            "owner" : "NEBO",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1326917707584,
+            "lastModified" : 1360078392294,
+            "publishStart" : 1325411100000,
+            "publishStop" : 1483177620000,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:12428569"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/wvc1_std/POW_00442773",
+            "avAttributes" : {
+              "bitrate" : 1024000,
+              "avFileFormat" : "WVC1",
+              "videoAttributes" : {
+                "videoCoding" : "WM",
+                "aspectRatio" : "16:9"
+              }
+            },
+            "owner" : "NEBO",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1326917707752,
+            "lastModified" : 1360078392294,
+            "publishStart" : 1325411100000,
+            "publishStop" : 1483177620000,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:12428571"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/wmv_sb/POW_00442773",
+            "avAttributes" : {
+              "bitrate" : 204800,
+              "avFileFormat" : "WM",
+              "videoAttributes" : {
+                "videoCoding" : "WM",
+                "aspectRatio" : "16:9"
+              }
+            },
+            "owner" : "NEBO",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1326917440985,
+            "lastModified" : 1360078392294,
+            "publishStart" : 1325411100000,
+            "publishStop" : 1483177620000,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:12428559"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/wmv_bb/POW_00442773",
+            "avAttributes" : {
+              "bitrate" : 512000,
+              "avFileFormat" : "WM",
+              "videoAttributes" : {
+                "videoCoding" : "WM",
+                "aspectRatio" : "16:9"
+              }
+            },
+            "owner" : "NEBO",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1326917705411,
+            "lastModified" : 1360078392294,
+            "publishStart" : 1325411100000,
+            "publishStop" : 1483177620000,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:12428567"
+          } ],
+          "scheduleEvents" : [ {
+            "avAttributes" : {
+              "bitrate" : 0,
+              "avFileFormat" : "WM",
+              "videoAttributes" : {
+                "videoCoding" : "WM",
+                "aspectRatio" : "16:9"
+              }
+            },
+            "textSubtitles" : "Teletekst ondertitels",
+            "guideDay" : 1326841200000,
+            "start" : 1326914700000,
+            "duration" : 2100000,
+            "poProgID" : "POW_00442773",
+            "channel" : "NED2",
+            "urnRef" : "urn:vpro:media:program:12215310",
+            "midRef" : "POW_00442773"
+          } ],
+          "images" : [ {
+            "title" : "Sterren op het doek",
+            "description" : "Hanneke Groenteman interviewt een bekende Nederlander, die tegelijkertijd wordt geportretteerd door drie kunstenaars. De hoofdpersoon mag een van de kunstwerken uitkiezen en mee naar huis nemen.",
+            "imageUri" : "urn:vpro.image:39596",
+            "owner" : "NEBO",
+            "type" : "STILL",
+            "highlighted" : false,
+            "creationDate" : 1326918601692,
+            "lastModified" : 1326918601996,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:12428589"
+          }, {
+            "title" : "Sterren op het doek",
+            "description" : "Hanneke Groenteman interviewt een bekende Nederlander, die tegelijkertijd wordt geportretteerd door drie kunstenaars. De hoofdpersoon mag een van de kunstwerken uitkiezen en mee naar huis nemen.",
+            "imageUri" : "urn:vpro.image:39597",
+            "owner" : "NEBO",
+            "type" : "STILL",
+            "highlighted" : false,
+            "creationDate" : 1326918601830,
+            "lastModified" : 1326918601996,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:12428590"
+          }, {
+            "title" : "Sterren op het doek",
+            "description" : "Hanneke Groenteman interviewt een bekende Nederlander, die tegelijkertijd wordt geportretteerd door drie kunstenaars. De hoofdpersoon mag een van de kunstwerken uitkiezen en mee naar huis nemen.",
+            "imageUri" : "urn:vpro.image:39598",
+            "owner" : "NEBO",
+            "type" : "STILL",
+            "highlighted" : false,
+            "creationDate" : 1326918601941,
+            "lastModified" : 1326918601996,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:12428591"
+          }, {
+            "title" : "Sterren op het doek",
+            "description" : "Sterren op het doek",
+            "imageUri" : "urn:vpro:image:135880",
+            "owner" : "BROADCASTER",
+            "type" : "PICTURE",
+            "highlighted" : false,
+            "creationDate" : 1360078396181,
+            "lastModified" : 1360078396186,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:20010083"
+          }, {
+            "title" : "Sterren op het doek",
+            "description" : "Op de theatervloer van Stadschouwburg Haarlem spreekt Hanneke Groenteman met Freek de Jonge",
+            "imageUri" : "urn:vpro:image:427724",
+            "owner" : "NEBO",
+            "type" : "STILL",
+            "highlighted" : false,
+            "creationDate" : 1394156082308,
+            "lastModified" : 1394156114848,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:38267181"
+          }, {
+            "title" : "Sterren op het doek",
+            "description" : "Op de theatervloer van Stadschouwburg Haarlem spreekt Hanneke Groenteman met Freek de Jonge",
+            "imageUri" : "urn:vpro:image:427725",
+            "owner" : "NEBO",
+            "type" : "STILL",
+            "highlighted" : false,
+            "creationDate" : 1394156098070,
+            "lastModified" : 1394156114848,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:38267182"
+          }, {
+            "title" : "Sterren op het doek",
+            "description" : "Op de theatervloer van Stadschouwburg Haarlem spreekt Hanneke Groenteman met Freek de Jonge",
+            "imageUri" : "urn:vpro:image:427726",
+            "owner" : "NEBO",
+            "type" : "STILL",
+            "highlighted" : false,
+            "creationDate" : 1394156114716,
+            "lastModified" : 1394156114849,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:38267183"
+          } ],
+          "publishDate" : 1436873136544
+        }
+      } ],
+      "images" : [ {
+        "type" : "PICTURE",
+        "url" : "http://www-acc.cultura.nl/.imaging/stk/cultura/search/media/cultura/theater/FreekdeJongeZG/original/FreekdeJongeZG.jpg",
+        "title" : "/cultura/genres/theater/2014/zomergasten_freek_de_jonge_vpro"
+      } ],
+      "publishStart" : 1407404040000,
+      "creationDate" : 1420561010483,
+      "lastModified" : 1443606175042,
+      "refCount" : 0
+    }
+  } ]
 }

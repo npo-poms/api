@@ -1,99 +1,91 @@
 {
   "facets" : { },
   "selectedFacets" : { },
-  "total" : 4,
+  "total" : 30,
   "offset" : 0,
   "max" : 2,
   "items" : [ {
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",
-      "type" : "VIDEO",
-      "url" : "http://npodoc.localhost/speel.KN_1657739.html",
-      "sortDate" : 1397854800000,
-      "crids" : [ "crid://vpro/media/npodoc/KN_1657739" ],
+      "type" : "PLAYER",
+      "url" : "http://omroep-acc.human.nl/speel.AVRO_1656036.html",
+      "sortDate" : 1392500523000,
+      "crids" : [ "crid://vpro/media/human/AVRO_1656036" ],
       "broadcasters" : [ {
-        "id" : "NCRV",
-        "value" : "NCRV"
+        "id" : "AVRO",
+        "value" : "AVRO"
       } ],
       "portal" : {
-        "id" : "HOLLANDDOC24",
-        "url" : "http://npodoc.localhost",
-        "value" : "NPO Doc"
+        "id" : "HUMANNL",
+        "url" : "http://omroep-acc.human.nl",
+        "value" : "Human.nl"
       },
-      "title" : "2Doc",
+      "title" : "Opium",
       "genres" : [ {
-        "id" : "3.0.6.4.5",
-        "terms" : [ "Kunst en cultuur", "Muziek" ],
-        "displayName" : "Kunst en cultuur - Muziek"
+        "id" : "3.0.1.7.24",
+        "terms" : [ "Informatief", "Kunst/cultuur" ],
+        "displayName" : "Informatief - Kunst/cultuur"
       } ],
       "embeds" : [ {
-        "title" : "2Doc",
-        "description" : "Documentaire over toewijding en passie voor klassieke muziek. De getalenteerde Nederlandse countertenor Oscar Verhaar wordt op zijn twaalfde ontdekt door dirigent Geert van den Dungen. Als Verhaar gaat studeren aan het Koninklijk Conservatorium in Den Haag moeten leraar en leerling elkaar loslaten.",
+        "title" : "Opium",
+        "description" : "Culturele live talkshow met commentaar op het actuele culturele nieuws en bijzondere gasten uit de wereld van theater, film en literatuur en aandacht voor beeldende kunst en live jazz.",
         "media" : {
           "objectType" : "program",
-          "mid" : "KN_1657739",
-          "creationDate" : 1395813132767,
-          "lastModified" : 1404480673646,
-          "hasSubtitles" : true,
-          "sortDate" : 1397854800000,
-          "urn" : "urn:vpro:media:program:39169953",
+          "mid" : "AVRO_1656036",
+          "type" : "BROADCAST",
+          "avType" : "VIDEO",
+          "workflow" : "PUBLISHED",
+          "sortDate" : 1392500523000,
+          "creationDate" : 1390369756611,
+          "lastModified" : 1395923170565,
+          "urn" : "urn:vpro:media:program:35846134",
           "embeddable" : true,
           "episodeOf" : [ {
-            "midRef" : "POMS_S_NCRV_487977",
-            "urnRef" : "urn:vpro:media:group:37408650",
+            "midRef" : "AVRO_1655995",
+            "urnRef" : "urn:vpro:media:group:34582358",
             "type" : "SEASON",
-            "index" : 10,
+            "index" : 5,
             "highlighted" : false,
-            "added" : 1398328208795
+            "added" : 1390369756748
           } ],
           "broadcasters" : [ {
-            "id" : "NCRV",
-            "value" : "NCRV"
+            "id" : "AVRO",
+            "value" : "AVRO"
           } ],
+          "regions" : [ "NL" ],
           "titles" : [ {
-            "value" : "2Doc",
-            "owner" : "BROADCASTER",
-            "type" : "MAIN"
-          }, {
-            "value" : "2doc: De stem van de meester",
+            "value" : "Opium",
             "owner" : "MIS",
             "type" : "MAIN"
           }, {
-            "value" : "2doc: De stem van de meester",
+            "value" : "Opium",
             "owner" : "WHATS_ON",
             "type" : "MAIN"
-          }, {
-            "value" : "De stem van de meester",
-            "owner" : "BROADCASTER",
-            "type" : "SUB"
-          }, {
-            "value" : "NCRV DOKUMENT DE STEM VAN DE MEESTER",
-            "owner" : "WHATS_ON",
-            "type" : "ORIGINAL"
           } ],
           "descriptions" : [ {
-            "value" : "Documentaire over toewijding en passie voor klassieke muziek. De getalenteerde Nederlandse countertenor Oscar Verhaar wordt op zijn twaalfde ontdekt door dirigent Geert van den Dungen. Als Verhaar gaat studeren aan het Koninklijk Conservatorium in Den Haag moeten leraar en leerling elkaar loslaten.",
+            "value" : "Culturele live talkshow met commentaar op het actuele culturele nieuws en bijzondere gasten uit de wereld van theater, film en literatuur en aandacht voor beeldende kunst en live jazz.",
             "owner" : "MIS",
             "type" : "MAIN"
           }, {
-            "value" : "Meeslepende documentaire over toewijding en passie voor klassieke muziek. De getalenteerde Nederlandse countertenor Oscar Verhaar wordt op zijn twaalfde ontdekt door dirigent Geert van den Dungen. Als Verhaar gaat studeren aan het Koninklijk Conservatorium in Den Haag moeten leraar en leerling elkaar loslaten.",
+            "value" : "Culturele live talkshow met commentaar op het actuele culturele nieuws en bijzondere gasten uit de wereld van theater, film, literatuur, beeldende kunst en muziek. Presentatie Cornald Maas.",
             "owner" : "WHATS_ON",
             "type" : "MAIN"
           }, {
-            "value" : "Documentaire over toewijding en passie voor klassieke muziek. De getalenteerde Nederlandse countertenor Oscar Verhaar wordt op zijn twaalfde ontdekt door dirigent Geert van den Dungen.",
-            "owner" : "MIS",
+            "value" : "Zaterdag 15 februari in Opium: de 3JS, acteurs Carine Crutzen, Marie-Louise Stheins, Renée Fokker en Tim Teunissen, journalist Wouke van Scherrenburg en violiste Lisa Jacobs!",
+            "owner" : "BROADCASTER",
             "type" : "SHORT"
           }, {
-            "value" : "Documentaire over toewijding en passie voor klassieke muziek. De getalenteerde Nederlandse countertenor Oscar Verhaar wordt op zijn twaalfde ontdekt door dirigent Geert van den Dungen.",
-            "owner" : "BROADCASTER",
-            "type" : "EPISODE"
+            "value" : "Culturele live talkshow met commentaar op het actuele culturele nieuws en bijzondere gasten uit de wereld van theater, film en literatuur en aandacht voor beeldende kunst en live jazz.",
+            "owner" : "MIS",
+            "type" : "SHORT"
           } ],
           "genres" : [ {
-            "id" : "3.0.1.8",
-            "terms" : [ "Documentaire" ]
+            "id" : "3.0.1.7.24",
+            "terms" : [ "Informatief", "Kunst/cultuur" ]
           } ],
-          "tags" : [ "conservatorium", "dirigent", "klassieke muziek" ],
+          "tags" : [ "DeLaMar Theater", "klassieke muziek", "Muziek", "Theater", "Volendam" ],
+          "hasSubtitles" : true,
           "countries" : [ ],
           "languages" : [ ],
           "avAttributes" : {
@@ -105,276 +97,491 @@
               "numberOfChannels" : 2
             }
           },
-          "duration" : 4872290,
+          "duration" : 3000000,
           "descendantOf" : [ {
-            "midRef" : "POMS_S_VPRO_174707",
-            "urnRef" : "urn:vpro:media:group:14363857",
-            "type" : "PLAYLIST"
-          }, {
             "midRef" : "POMS_S_VPRO_171668",
             "urnRef" : "urn:vpro:media:group:14683553",
             "type" : "ARCHIVE"
           }, {
-            "midRef" : "POMS_S_VPRO_170117",
-            "urnRef" : "urn:vpro:media:group:14921910",
+            "midRef" : "POMS_S_VPRO_170116",
+            "urnRef" : "urn:vpro:media:group:14921818",
             "type" : "ARCHIVE"
           }, {
-            "midRef" : "POMS_S_VPRO_216767",
-            "urnRef" : "urn:vpro:media:group:2981744",
+            "midRef" : "POMS_S_VPRO_170138",
+            "urnRef" : "urn:vpro:media:group:14921822",
+            "type" : "ARCHIVE"
+          }, {
+            "midRef" : "POMS_S_VPRO_218686",
+            "urnRef" : "urn:vpro:media:group:14921825",
+            "type" : "ARCHIVE"
+          }, {
+            "midRef" : "POMS_S_VPRO_117474",
+            "urnRef" : "urn:vpro:media:group:20347947",
             "type" : "PLAYLIST"
           }, {
-            "midRef" : "POMS_S_VPRO_472240",
-            "urnRef" : "urn:vpro:media:group:36114396",
-            "type" : "SERIES"
-          }, {
-            "midRef" : "POMS_S_VPRO_478241",
-            "urnRef" : "urn:vpro:media:group:36564324",
-            "type" : "PLAYLIST"
-          }, {
-            "midRef" : "POMS_S_NCRV_487977",
-            "urnRef" : "urn:vpro:media:group:37408650",
+            "midRef" : "AVRO_1655995",
+            "urnRef" : "urn:vpro:media:group:34582358",
             "type" : "SEASON"
           }, {
-            "midRef" : "POMS_S_VPRO_522139",
-            "urnRef" : "urn:vpro:media:group:40914217",
+            "midRef" : "POMS_S_AVRO_501459",
+            "urnRef" : "urn:vpro:media:group:38230019",
             "type" : "COLLECTION"
           }, {
-            "midRef" : "POMS_S_VPRO_522208",
-            "urnRef" : "urn:vpro:media:group:40917007",
-            "type" : "COLLECTION"
-          }, {
-            "midRef" : "POMS_S_NCRV_059862",
-            "urnRef" : "urn:vpro:media:group:4446058",
+            "midRef" : "POMS_S_AVRO_096997",
+            "urnRef" : "urn:vpro:media:group:4446737",
             "type" : "SERIES"
           } ],
           "memberOf" : [ {
-            "midRef" : "POMS_S_VPRO_174707",
-            "urnRef" : "urn:vpro:media:group:14363857",
-            "type" : "PLAYLIST",
-            "highlighted" : false,
-            "added" : 1397889064334
-          }, {
-            "midRef" : "POMS_S_VPRO_170117",
-            "urnRef" : "urn:vpro:media:group:14921910",
+            "midRef" : "POMS_S_VPRO_170116",
+            "urnRef" : "urn:vpro:media:group:14921818",
             "type" : "ARCHIVE",
-            "index" : 357,
+            "index" : 361,
             "highlighted" : false,
-            "added" : 1396949275906
+            "added" : 1392284016877
           }, {
-            "midRef" : "POMS_S_VPRO_216767",
-            "urnRef" : "urn:vpro:media:group:2981744",
-            "type" : "PLAYLIST",
+            "midRef" : "POMS_S_VPRO_218686",
+            "urnRef" : "urn:vpro:media:group:14921825",
+            "type" : "ARCHIVE",
+            "index" : 518,
             "highlighted" : false,
-            "added" : 1397889064606
-          }, {
-            "midRef" : "POMS_S_VPRO_472240",
-            "urnRef" : "urn:vpro:media:group:36114396",
-            "type" : "SERIES",
-            "index" : 35,
-            "highlighted" : false,
-            "added" : 1397745456657
-          }, {
-            "midRef" : "POMS_S_VPRO_478241",
-            "urnRef" : "urn:vpro:media:group:36564324",
-            "type" : "PLAYLIST",
-            "highlighted" : false,
-            "added" : 1397889064641
+            "added" : 1392284017078
           } ],
           "predictions" : [ {
             "state" : "REALIZED",
             "platform" : "INTERNETVOD"
           }, {
             "state" : "REALIZED",
-            "publishStart" : 1397859645000,
-            "publishStop" : 1429482045000,
+            "publishStart" : 1392502620000,
+            "publishStop" : 1395958620000,
             "platform" : "PLUSVOD"
           } ],
           "locations" : [ {
-            "programUrl" : "odip+http://odi.omroep.nl/video/adaptive/KN_1657739",
+            "programUrl" : "odip+http://odi.omroep.nl/video/adaptive/AVRO_1656036",
             "avAttributes" : {
               "avFileFormat" : "HASP"
             },
             "owner" : "CERES",
-            "creationDate" : 1397862371574,
-            "lastModified" : 1397862371732,
-            "workflow" : "PUBLISHED",
             "platform" : "INTERNETVOD",
-            "urn" : "urn:vpro:media:location:40397051"
+            "creationDate" : 1392504368475,
+            "lastModified" : 1392504368724,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:37118326"
           }, {
-            "programUrl" : "odi+http://odi.omroep.nl/video/h264_sb/KN_1657739",
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_sb/AVRO_1656036",
             "avAttributes" : {
               "bitrate" : 200000,
               "avFileFormat" : "H264"
             },
             "owner" : "CERES",
-            "creationDate" : 1397859971128,
-            "lastModified" : 1397859971282,
-            "workflow" : "PUBLISHED",
             "platform" : "INTERNETVOD",
-            "urn" : "urn:vpro:media:location:40397028"
+            "creationDate" : 1392504068678,
+            "lastModified" : 1392504068956,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:37118321"
           }, {
-            "programUrl" : "odi+http://odi.omroep.nl/video/h264_bb/KN_1657739",
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_bb/AVRO_1656036",
             "avAttributes" : {
               "bitrate" : 500000,
               "avFileFormat" : "H264"
             },
             "owner" : "CERES",
-            "creationDate" : 1397859971532,
-            "lastModified" : 1397859971733,
-            "workflow" : "PUBLISHED",
             "platform" : "INTERNETVOD",
-            "urn" : "urn:vpro:media:location:40397030"
+            "creationDate" : 1392504068158,
+            "lastModified" : 1392504068412,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:37118319"
           }, {
-            "programUrl" : "odi+http://odi.omroep.nl/video/h264_std/KN_1657739",
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_std/AVRO_1656036",
             "avAttributes" : {
               "bitrate" : 1000000,
               "avFileFormat" : "H264"
             },
             "owner" : "CERES",
-            "creationDate" : 1397860265784,
-            "lastModified" : 1397860266022,
-            "workflow" : "PUBLISHED",
             "platform" : "INTERNETVOD",
-            "urn" : "urn:vpro:media:location:40397039"
+            "creationDate" : 1392503767831,
+            "lastModified" : 1392503768131,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:37118317"
           }, {
-            "programUrl" : "sub+http//npoplus.nl/video/mpeg2_hr/KN_1657739",
+            "programUrl" : "sub+http//npoplus.nl/video/mpeg2_hr/AVRO_1656036",
             "avAttributes" : {
               "bitrate" : 3500000,
               "avFileFormat" : "MPEG2"
             },
             "owner" : "CERES",
-            "creationDate" : 1397860565700,
-            "lastModified" : 1397860565980,
-            "publishStart" : 1397859645000,
-            "publishStop" : 1429482045000,
-            "workflow" : "PUBLISHED",
             "platform" : "PLUSVOD",
-            "urn" : "urn:vpro:media:location:40397041"
+            "creationDate" : 1392503467786,
+            "lastModified" : 1392503468191,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:37118310"
           } ],
           "scheduleEvents" : [ {
-            "avAttributes" : {
-              "videoAttributes" : {
-                "aspectRatio" : "16:9"
-              }
-            },
-            "start" : 1397854800000,
-            "offset" : -27000,
-            "duration" : 4800000,
-            "poProgID" : "KN_1657739",
+            "start" : 1392500523000,
+            "duration" : 2374000,
+            "poProgID" : "AVRO_1656036",
             "channel" : "NED2",
-            "imi" : "imi:18613",
-            "urnRef" : "urn:vpro:media:program:39169953",
-            "midRef" : "KN_1657739"
+            "urnRef" : "urn:vpro:media:program:35846134",
+            "midRef" : "AVRO_1656036"
+          }, {
+            "start" : 1392850659000,
+            "duration" : 2375000,
+            "poProgID" : "AVRO_1656036",
+            "channel" : "NED2",
+            "urnRef" : "urn:vpro:media:program:35846134",
+            "midRef" : "AVRO_1656036"
           } ],
           "images" : [ {
-            "title" : "de stem van de meester",
-            "description" : "de stem van de meester",
-            "imageUri" : "urn:vpro:image:453302",
-            "height" : 1329,
-            "width" : 2362,
-            "owner" : "BROADCASTER",
-            "type" : "PICTURE",
+            "title" : "Opium",
+            "description" : "Zaterdag 15 februari in Opium: de 3JS, acteurs Carine Crutzen, Marie-Louise Stheins, Renée Fokker en Tim Teunissen, journalist Wouke van Scherrenburg en violiste Lisa Jacobs!",
+            "imageUri" : "urn:vpro:image:407638",
+            "owner" : "NEBO",
+            "type" : "STILL",
             "highlighted" : false,
-            "creationDate" : 1397889145420,
-            "lastModified" : 1397889145794,
+            "creationDate" : 1392504315945,
+            "lastModified" : 1392504346836,
             "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:image:40427559"
-          } ],
-          "workflow" : "PUBLISHED",
-          "type" : "BROADCAST",
-          "avType" : "VIDEO"
+            "urn" : "urn:vpro:media:image:37118322"
+          }, {
+            "title" : "Opium",
+            "description" : "Zaterdag 15 februari in Opium: de 3JS, acteurs Carine Crutzen, Marie-Louise Stheins, Renée Fokker en Tim Teunissen, journalist Wouke van Scherrenburg en violiste Lisa Jacobs!",
+            "imageUri" : "urn:vpro:image:407639",
+            "owner" : "NEBO",
+            "type" : "STILL",
+            "highlighted" : false,
+            "creationDate" : 1392504331195,
+            "lastModified" : 1392504346837,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:37118323"
+          }, {
+            "title" : "Opium",
+            "description" : "Zaterdag 15 februari in Opium: de 3JS, acteurs Carine Crutzen, Marie-Louise Stheins, Renée Fokker en Tim Teunissen, journalist Wouke van Scherrenburg en violiste Lisa Jacobs!",
+            "imageUri" : "urn:vpro:image:407640",
+            "owner" : "NEBO",
+            "type" : "STILL",
+            "highlighted" : false,
+            "creationDate" : 1392504346603,
+            "lastModified" : 1392504346837,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:37118324"
+          } ]
         }
       } ],
       "images" : [ {
         "type" : "PICTURE",
-        "url" : "http://images.poms.omroep.nl/image/s360/453302.jpg",
-        "title" : "de stem van de meester",
-        "description" : "de stem van de meester"
+        "url" : "http://images.poms.omroep.nl/image/s360/407638.jpg",
+        "title" : "Opium",
+        "description" : "Zaterdag 15 februari in Opium: de 3JS, acteurs Carine Crutzen, Marie-Louise Stheins, Renée Fokker en Tim Teunissen, journalist Wouke van Scherrenburg en violiste Lisa Jacobs!"
       } ],
-      "publishStart" : 1397854800000,
-      "creationDate" : 1425989709437,
-      "lastModified" : 1426071529520,
+      "publishStart" : 1392500523000,
+      "creationDate" : 1418872830064,
+      "lastModified" : 1419290731250,
       "refCount" : 0
     }
   }, {
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",
-      "type" : "AUDIO",
-      "url" : "http://woord-sample.localhost/luister.POMS_VPRO_475859.html",
-      "sortDate" : 1296338580000,
-      "crids" : [ "crid://vpro/media/woord/POMS_VPRO_475859" ],
+      "type" : "ARTICLE",
+      "url" : "http://www-acc.npodoc.nl/projecten/nrcdoc/tip17.html",
+      "sortDate" : 1432936800000,
+      "crids" : [ "crid://vpro/website/68532f04-395f-4887-b705-1bc04a7b39bb" ],
       "broadcasters" : [ {
-        "id" : "NTR",
-        "value" : "NTR"
+        "id" : "VPRO",
+        "value" : "VPRO"
       } ],
       "portal" : {
-        "id" : "WOORD",
-        "url" : "http://woord-sample.localhost",
-        "value" : "Woord.nl"
+        "id" : "HOLLANDDOC24",
+        "url" : "http://www-acc.npodoc.nl",
+        "value" : "NPO Doc"
       },
-      "title" : "De Bedding",
-      "genres" : [ {
-        "id" : "3.0.4.1",
-        "terms" : [ "Documentaire" ],
-        "displayName" : "Documentaire"
+      "title" : "Philip Glass - On the road & Over Canto",
+      "summary" : "Tv-recensent Hans Beerekamp selecteert elke zaterdag twee documentaires en schrijft daarover in NRC Handelsblad. Deze week documentaires Philip Glass - On the road & Over Canto.",
+      "paragraphs" : [ {
+        "title" : "Meer documentaires over muiziek",
+        "image" : {
+          "type" : "PICTURE",
+          "url" : "http://images.poms.omroep.nl/image/s360/195138.jpg",
+          "title" : "muziek",
+          "description" : "muziek"
+        }
+      } ],
+      "referrals" : [ {
+        "referrer" : "http://www-acc.npodoc.nl/documentaires/series/2doc/2015/juni/die-ellende-is-een-goudmijn.html",
+        "title" : "Philip Glass - On the road & Over Canto"
       } ],
       "embeds" : [ {
-        "title" : "De Bedding",
-        "description" : "Wekelijks programma met muziekdocumentaires, klankbeelden, muziekessays, hoorspelen en verhalen van musici en muziekliefhebbers.\nPresentatie: Cees van Ede.\nDe documentaire ‘Prins, componist, moordenaar’ van regisseur Wouter Pleijsier. In 1590 vermoordde de componist Carlo Gesualdo, prins van Venosa, zijn overspelige vrouw Donna Maria en haar minaar. Het was een moord die tot in de puntjes was voorbereid en die koelbloedig werd voltrokken. De bloedige tragedie ging al snel een eigen leven leiden en werd het onderwerp van een eindeloze reeks populaire verhalen, vertellingen en gedichten. Onvermijdelijk dus, dat Carlo Gesualdo voor altijd het etiket ‘componist-moordenaar’ kreeg opgeplakt. Maar dat Gesualdo tot op de dag van vandaag blijft boeien, dankt hij in de eerste plaats aan zijn muziek.\nActeur Jérôme Reehuis leest het zogenoemde ‘Corona manuscript’ voor. In deze kleurrijke chronique scandaleuse uit de vroege 17de eeuw wordt de moord op Donna Maria en haar minnaar op gedetailleerde wijze uit de doeken gedaan.",
         "media" : {
           "objectType" : "program",
-          "mid" : "POMS_VPRO_475859",
-          "creationDate" : 1391436748085,
-          "lastModified" : 1391605521645,
-          "publishStart" : 1296338580000,
-          "sortDate" : 1296338580000,
-          "urn" : "urn:vpro:media:program:36501621",
+          "mid" : "AT_2020478",
+          "type" : "BROADCAST",
+          "avType" : "VIDEO",
+          "workflow" : "PUBLISHED",
+          "sortDate" : 1432241700000,
+          "creationDate" : 1430110018391,
+          "lastModified" : 1432640794155,
+          "urn" : "urn:vpro:media:program:54620988",
           "embeddable" : true,
-          "episodeOf" : [ {
-            "midRef" : "AUTO_DEBEDDING",
-            "urnRef" : "urn:vpro:media:group:15711402",
-            "type" : "SERIES",
-            "index" : 11,
-            "highlighted" : false,
-            "added" : 1391436901836
-          } ],
           "broadcasters" : [ {
-            "id" : "NTR",
-            "value" : "NTR"
+            "id" : "AVTR",
+            "value" : "AVROTROS"
           } ],
           "titles" : [ {
-            "value" : "De Bedding",
-            "owner" : "BROADCASTER",
+            "value" : "Close Up: Philip Glass - On the road",
+            "owner" : "MIS",
             "type" : "MAIN"
           }, {
-            "value" : "Prins, componist, moordenaar",
-            "owner" : "BROADCASTER",
-            "type" : "SUB"
+            "value" : "Close Up: Philip Glass - On the road",
+            "owner" : "WHATS_ON",
+            "type" : "MAIN"
+          }, {
+            "value" : "AVRO CLOSE UP: A DAY AND A NIGHT IN THE LIFE OF PHILIP GLASS",
+            "owner" : "WHATS_ON",
+            "type" : "ORIGINAL"
           } ],
           "descriptions" : [ {
-            "value" : "Wekelijks programma met muziekdocumentaires, klankbeelden, muziekessays, hoorspelen en verhalen van musici en muziekliefhebbers.\nPresentatie: Cees van Ede.\nDe documentaire ‘Prins, componist, moordenaar’ van regisseur Wouter Pleijsier. In 1590 vermoordde de componist Carlo Gesualdo, prins van Venosa, zijn overspelige vrouw Donna Maria en haar minaar. Het was een moord die tot in de puntjes was voorbereid en die koelbloedig werd voltrokken. De bloedige tragedie ging al snel een eigen leven leiden en werd het onderwerp van een eindeloze reeks populaire verhalen, vertellingen en gedichten. Onvermijdelijk dus, dat Carlo Gesualdo voor altijd het etiket ‘componist-moordenaar’ kreeg opgeplakt. Maar dat Gesualdo tot op de dag van vandaag blijft boeien, dankt hij in de eerste plaats aan zijn muziek.\nActeur Jérôme Reehuis leest het zogenoemde ‘Corona manuscript’ voor. In deze kleurrijke chronique scandaleuse uit de vroege 17de eeuw wordt de moord op Donna Maria en haar minnaar op gedetailleerde wijze uit de doeken gedaan.",
+            "value" : "Componist van hedendaagse muziek Philip Glass is inmiddels achtenzeventig jaar oud, maar lijkt niet te stoppen. Hij is altijd aan het werk én altijd op reis en heeft het succes na vele jaren nog steeds aan zijn zijde. In de grote internationale muziektempels trekt Glass uitverkochte zalen. Die zalen vullen zich niet alleen met Glass-liefhebbers van het eerste uur, maar ook met vele nieuwe en jonge fans.",
+            "owner" : "MIS",
+            "type" : "MAIN"
+          }, {
+            "value" : "Componist van hedendaagse muziek Philip Glass is inmiddels achtenzeventig jaar oud maar lijkt niet te stoppen. Hij is altijd aan het werk én altijd op reis en heeft het succes na vele jaren nog steeds aan zijn zijde. In de grote internationale muziektempels trekt Glass uitverkochte zalen. Die zalen vullen zich niet alleen met Glass-liefhebbers van het eerste uur, maar ook met vele nieuwe en jonge fans.",
+            "owner" : "WHATS_ON",
+            "type" : "MAIN"
+          }, {
+            "value" : "Componist van hedendaagse muziek Philip Glass is inmiddels achtenzeventig jaar oud, maar lijkt niet te stoppen. Hij heeft het succes na vele jaren nog steeds aan zijn zijde.",
+            "owner" : "MIS",
+            "type" : "SHORT"
+          }, {
+            "value" : "Componist van hedendaagse muziek Philip Glass is inmiddels achtenzeventig jaar oud, maar lijkt niet te stoppen.",
+            "owner" : "MIS",
+            "type" : "KICKER"
+          } ],
+          "genres" : [ {
+            "id" : "3.0.1.8.24",
+            "terms" : [ "Documentaire", "Kunst/cultuur" ]
+          } ],
+          "hasSubtitles" : true,
+          "countries" : [ {
+            "code" : "NL",
+            "value" : "Nederland"
+          } ],
+          "languages" : [ {
+            "code" : "en",
+            "value" : "Engels"
+          } ],
+          "avAttributes" : {
+            "videoAttributes" : {
+              "color" : "BLACK_AND_WHITE_AND_COLOR"
+            },
+            "audioAttributes" : {
+              "numberOfChannels" : 2
+            }
+          },
+          "releaseYear" : 2013,
+          "duration" : 3175630,
+          "ageRating" : "ALL",
+          "predictions" : [ {
+            "state" : "REALIZED",
+            "platform" : "INTERNETVOD"
+          }, {
+            "state" : "REALIZED",
+            "platform" : "TVVOD"
+          }, {
+            "state" : "REALIZED",
+            "publishStart" : 1432245067000,
+            "publishStop" : 1463867467000,
+            "platform" : "PLUSVOD"
+          } ],
+          "locations" : [ {
+            "programUrl" : "odip+http://odi.omroep.nl/video/adaptive/AT_2020478",
+            "avAttributes" : {
+              "avFileFormat" : "HASP"
+            },
+            "owner" : "CERES",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1432247643500,
+            "lastModified" : 1432247643848,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:56225182"
+          }, {
+            "programUrl" : "sub+http://tvvod.omroep.nl/video/h264_hr/AT_2020478",
+            "avAttributes" : {
+              "bitrate" : 2500000,
+              "avFileFormat" : "H264"
+            },
+            "owner" : "CERES",
+            "platform" : "TVVOD",
+            "creationDate" : 1432245851102,
+            "lastModified" : 1432245851184,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:56225076"
+          }, {
+            "programUrl" : "sub+http://npoplus.nl/video/mpeg2_hr/AT_2020478",
+            "avAttributes" : {
+              "bitrate" : 3500000,
+              "avFileFormat" : "MPEG2"
+            },
+            "owner" : "CERES",
+            "platform" : "PLUSVOD",
+            "creationDate" : 1432245850155,
+            "lastModified" : 1432245850262,
+            "publishStart" : 1432245067000,
+            "publishStop" : 1463867467000,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:56225073"
+          }, {
+            "programUrl" : "sub+http://tvvod.omroep.nl/video/mpeg2_hr/AT_2020478",
+            "avAttributes" : {
+              "bitrate" : 3500000,
+              "avFileFormat" : "MPEG2"
+            },
+            "owner" : "CERES",
+            "platform" : "TVVOD",
+            "creationDate" : 1432246149604,
+            "lastModified" : 1432246149742,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:56225079"
+          } ],
+          "scheduleEvents" : [ {
+            "textSubtitles" : "Teletekst ondertitels",
+            "guideDay" : 1432159200000,
+            "start" : 1432241700000,
+            "offset" : 307000,
+            "duration" : 3165000,
+            "poProgID" : "AT_2020478",
+            "channel" : "NED2",
+            "urnRef" : "urn:vpro:media:program:54620988",
+            "midRef" : "AT_2020478"
+          }, {
+            "repeat" : {
+              "isRerun" : true
+            },
+            "textSubtitles" : "Teletekst ondertitels",
+            "guideDay" : 1432418400000,
+            "start" : 1432469100000,
+            "offset" : -39000,
+            "duration" : 3165000,
+            "poProgID" : "AT_2020478",
+            "channel" : "NED2",
+            "urnRef" : "urn:vpro:media:program:54620988",
+            "midRef" : "AT_2020478"
+          } ],
+          "images" : [ {
+            "title" : "Close Up: Philip Glass - On the road",
+            "description" : "Componist van hedendaagse muziek Philip Glass is inmiddels achtenzeventig jaar oud, maar lijkt niet te stoppen. Hij heeft het succes na vele jaren nog steeds aan zijn zijde.",
+            "imageUri" : "urn:vpro:image:561749",
+            "owner" : "NEBO",
+            "type" : "STILL",
+            "highlighted" : false,
+            "creationDate" : 1432249218998,
+            "lastModified" : 1432249220372,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:56225218"
+          }, {
+            "title" : "Close Up: Philip Glass - On the road",
+            "description" : "Componist van hedendaagse muziek Philip Glass is inmiddels achtenzeventig jaar oud, maar lijkt niet te stoppen. Hij heeft het succes na vele jaren nog steeds aan zijn zijde.",
+            "imageUri" : "urn:vpro:image:561750",
+            "owner" : "NEBO",
+            "type" : "STILL",
+            "highlighted" : false,
+            "creationDate" : 1432249219690,
+            "lastModified" : 1432249220372,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:56225219"
+          }, {
+            "title" : "Close Up: Philip Glass - On the road",
+            "description" : "Componist van hedendaagse muziek Philip Glass is inmiddels achtenzeventig jaar oud, maar lijkt niet te stoppen. Hij heeft het succes na vele jaren nog steeds aan zijn zijde.",
+            "imageUri" : "urn:vpro:image:561751",
+            "owner" : "NEBO",
+            "type" : "STILL",
+            "highlighted" : false,
+            "creationDate" : 1432249220306,
+            "lastModified" : 1432249220372,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:56225220"
+          } ],
+          "publishDate" : 1434411805692
+        }
+      }, {
+        "media" : {
+          "objectType" : "program",
+          "mid" : "POW_00491285",
+          "type" : "BROADCAST",
+          "avType" : "VIDEO",
+          "workflow" : "PUBLISHED",
+          "sortDate" : 1338736200000,
+          "creationDate" : 1337470451781,
+          "lastModified" : 1423045811396,
+          "urn" : "urn:vpro:media:program:14191762",
+          "embeddable" : true,
+          "episodeOf" : [ {
+            "midRef" : "AUTO_OVERCANTO",
+            "urnRef" : "urn:vpro:media:group:14373865",
+            "type" : "SEASON",
+            "index" : 1,
+            "highlighted" : false,
+            "added" : 1338835873585
+          } ],
+          "crids" : [ "crid://bds.tv/43686198", "crid://tmp.program.omroep.nl/14303449" ],
+          "broadcasters" : [ {
+            "id" : "BOS",
+            "value" : "BOS"
+          } ],
+          "titles" : [ {
+            "value" : "Over Canto",
             "owner" : "BROADCASTER",
             "type" : "MAIN"
           }, {
-            "value" : "De documentaire ‘Prins, componist, moordenaar’ van regisseur Wouter Pleijsier. In 1590 vermoordde de componist Carlo Gesualdo, prins van Venosa, zijn overspelige vrouw Donna Maria en haar minaar. Het was een moord die tot in de puntjes was voorbereid en die koelbloedig werd voltrokken. De bloedige tragedie ging al snel een eigen leven leiden en werd het onderwerp van een eindeloze reeks populaire verhalen, vertellingen en gedichten. Onvermijdelijk dus, dat Carlo Gesualdo voor altijd het etiket ‘componist-moordenaar’ kreeg opgeplakt. Maar dat Gesualdo tot op de dag van vandaag blijft boeien, dankt hij in de eerste plaats aan zijn muziek. ",
+            "value" : "Over Canto",
+            "owner" : "NEBO",
+            "type" : "MAIN"
+          }, {
+            "value" : "Over Canto",
+            "owner" : "MIS",
+            "type" : "MAIN"
+          } ],
+          "descriptions" : [ {
+            "value" : "Maar heel af en toe is muziek, net als de ware liefde, in staat een radicale verandering in iemand teweeg te brengen. Een goed voorbeeld is Canto Ostinato van Simeon ten Holt. Hij componeerde het wel drie uur durende stuk tussen 1976 en 1979. Vanaf het eerste moment riep het felle controverses op. De officiële muziekwereld veroordeelde het stuk als te mooi en zonder vernieuwing. Inmiddels is 'de Canto' door een zeer grote groep luisteraars omarmd, en veel meer geworden dan een muzikale compositie voor vier piano's. Pianist Kees Wieringa, muziekwetenschapper Henkjan Honing en actrice Halina Reijn vertellen over hun fascinatie voor het stuk. Een vrouw vertelt hoe zij haar kind baarde op Canto, een man heeft een deel van de partituur op zijn arm getatoeëerd. Regisseur Ramon Gieling vraagt hen over de soms verstrekkende invloed die dit muziekstuk op hun leven heeft gehad.",
+            "owner" : "BROADCASTER",
+            "type" : "MAIN"
+          }, {
+            "value" : "Maar heel af en toe is muziek, net als de ware liefde, in staat een radicale verandering in iemand teweeg te brengen. Een goed voorbeeld is Canto Ostinato van Simeon ten Holt. Hij componeerde het wel drie uur durende stuk tussen 1976 en 1979. Vanaf het eerste moment riep het felle controverses op. De officiële muziekwereld veroordeelde het stuk als te mooi en zonder vernieuwing. Inmiddels is 'de Canto' door een zeer grote groep luisteraars omarmd, en veel meer geworden dan een muzikale compositie voor vier piano's. Pianist Kees Wieringa, muziekwetenschapper Henkjan Honing en actrice Halina Reijn vertellen over hun fascinatie voor het stuk. Een vrouw vertelt hoe zij haar kind baarde op Canto, een man heeft een deel van de partituur op zijn arm getatoeëerd. Regisseur Ramon Gieling vraagt hen over de soms verstrekkende invloed die dit muziekstuk op hun leven heeft gehad.",
+            "owner" : "MIS",
+            "type" : "MAIN"
+          }, {
+            "value" : "Maar heel af en toe is muziek, net als de ware liefde, in staat een radicale verandering in iemand teweeg te brengen. Een goed voorbeeld is Canto Ostinato van Simeon ten Holt.",
             "owner" : "BROADCASTER",
             "type" : "SHORT"
+          }, {
+            "value" : "Maar heel af en toe is muziek, net als de ware liefde, in staat een radicale verandering in iemand teweeg te brengen. Een goed voorbeeld is Canto Ostinato van Simeon ten Holt.",
+            "owner" : "MIS",
+            "type" : "SHORT"
           } ],
-          "genres" : [ ],
-          "tags" : [ "componist", "klassieke muziek", "moord", "ontrouw" ],
+          "genres" : [ {
+            "id" : "3.0.1.7.26",
+            "terms" : [ "Informatief", "Religieus" ]
+          } ],
+          "tags" : [ "componisten", "hedendaagse muziek", "klassieke muziek", "muziekstukken", "Simeon ten Holt" ],
+          "hasSubtitles" : true,
           "countries" : [ ],
           "languages" : [ ],
-          "releaseYear" : 2011,
-          "duration" : 3599000,
+          "avAttributes" : {
+            "videoAttributes" : {
+              "aspectRatio" : "16:9"
+            }
+          },
+          "duration" : 3900000,
           "descendantOf" : [ {
-            "midRef" : "POMS_S_VPRO_195283",
-            "urnRef" : "urn:vpro:media:group:11887617",
+            "midRef" : "POMS_S_EO_179634",
+            "urnRef" : "urn:vpro:media:group:13712191",
             "type" : "ARCHIVE"
           }, {
-            "midRef" : "AUTO_NTRDEBEDDING",
-            "urnRef" : "urn:vpro:media:group:13405611",
-            "type" : "SERIES"
+            "midRef" : "AUTO_OVERCANTO",
+            "urnRef" : "urn:vpro:media:group:14373865",
+            "type" : "SEASON"
+          }, {
+            "midRef" : "POMS_S_NCRV_171924",
+            "urnRef" : "urn:vpro:media:group:14665646",
+            "type" : "ARCHIVE"
           }, {
             "midRef" : "POMS_S_VPRO_171668",
             "urnRef" : "urn:vpro:media:group:14683553",
@@ -384,53 +591,345 @@
             "urnRef" : "urn:vpro:media:group:14921910",
             "type" : "ARCHIVE"
           }, {
-            "midRef" : "AUTO_DEBEDDING",
-            "urnRef" : "urn:vpro:media:group:15711402",
+            "midRef" : "POMS_S_BOS_169461",
+            "urnRef" : "urn:vpro:media:group:14997768",
+            "type" : "PLAYLIST"
+          }, {
+            "midRef" : "POMS_S_BOS_126312",
+            "urnRef" : "urn:vpro:media:group:21652661",
             "type" : "SERIES"
           }, {
-            "midRef" : "POMS_S_VPRO_417553",
-            "urnRef" : "urn:vpro:media:group:30800911",
+            "midRef" : "POMS_S_VPRO_216767",
+            "urnRef" : "urn:vpro:media:group:2981744",
+            "type" : "PLAYLIST"
+          }, {
+            "midRef" : "POMS_S_NCRV_507432",
+            "urnRef" : "urn:vpro:media:group:38939260",
             "type" : "COLLECTION"
           }, {
-            "midRef" : "POMS_S_NTR_479013",
-            "urnRef" : "urn:vpro:media:group:36636806",
-            "type" : "SEASON"
+            "midRef" : "POMS_S_NCRV_508001",
+            "urnRef" : "urn:vpro:media:group:38990674",
+            "type" : "SERIES"
+          }, {
+            "midRef" : "POMS_S_VPRO_522139",
+            "urnRef" : "urn:vpro:media:group:40914217",
+            "type" : "COLLECTION"
+          }, {
+            "midRef" : "POMS_S_VPRO_522144",
+            "urnRef" : "urn:vpro:media:group:40914247",
+            "type" : "COLLECTION"
+          }, {
+            "midRef" : "POMS_S_VPRO_522145",
+            "urnRef" : "urn:vpro:media:group:40914257",
+            "type" : "COLLECTION"
+          }, {
+            "midRef" : "POMS_S_VPRO_522147",
+            "urnRef" : "urn:vpro:media:group:40914315",
+            "type" : "COLLECTION"
+          }, {
+            "midRef" : "POMS_S_VPRO_545664",
+            "urnRef" : "urn:vpro:media:group:42455330",
+            "type" : "COLLECTION"
+          }, {
+            "midRef" : "POMS_S_VPRO_782254",
+            "urnRef" : "urn:vpro:media:group:51058256",
+            "type" : "PLAYLIST"
+          }, {
+            "midRef" : "POMS_S_VPRO_215770",
+            "urnRef" : "urn:vpro:media:group:5750465",
+            "type" : "PLAYLIST"
           } ],
           "memberOf" : [ {
-            "midRef" : "POMS_S_VPRO_417553",
-            "urnRef" : "urn:vpro:media:group:30800911",
-            "type" : "COLLECTION",
-            "index" : 22,
+            "midRef" : "POMS_S_VPRO_170117",
+            "urnRef" : "urn:vpro:media:group:14921910",
+            "type" : "ARCHIVE",
+            "index" : 351,
             "highlighted" : false,
-            "added" : 1391605423565
+            "added" : 1396359949153
           }, {
-            "midRef" : "POMS_S_NTR_479013",
-            "urnRef" : "urn:vpro:media:group:36636806",
-            "type" : "SEASON",
-            "index" : 1,
+            "midRef" : "POMS_S_BOS_169461",
+            "urnRef" : "urn:vpro:media:group:14997768",
+            "type" : "PLAYLIST",
+            "index" : 44,
             "highlighted" : false,
-            "added" : 1391605521479
+            "added" : 1344252035482
+          }, {
+            "midRef" : "POMS_S_VPRO_216767",
+            "urnRef" : "urn:vpro:media:group:2981744",
+            "type" : "PLAYLIST",
+            "highlighted" : false,
+            "added" : 1423045572900
+          }, {
+            "midRef" : "POMS_S_VPRO_782254",
+            "urnRef" : "urn:vpro:media:group:51058256",
+            "type" : "PLAYLIST",
+            "highlighted" : false,
+            "added" : 1423045811381
+          }, {
+            "midRef" : "POMS_S_VPRO_215770",
+            "urnRef" : "urn:vpro:media:group:5750465",
+            "type" : "PLAYLIST",
+            "highlighted" : false,
+            "added" : 1423045638896
+          } ],
+          "websites" : [ {
+            "value" : "http://www.boeddhistischeomroep.nl/over_canto"
+          } ],
+          "predictions" : [ {
+            "state" : "REALIZED",
+            "publishStart" : 1338835509000,
+            "platform" : "INTERNETVOD"
           } ],
           "locations" : [ {
-            "programUrl" : "http://download.omroep.nl/vpro/algemeen/woord/woord_radio/NTR_De_Bedding_Gesualdo_2011012923.mp3",
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_sb/POW_00491285",
             "avAttributes" : {
-              "avFileFormat" : "MP3"
+              "bitrate" : 204800,
+              "avFileFormat" : "MP4",
+              "videoAttributes" : {
+                "videoCoding" : "MP4",
+                "aspectRatio" : "16:9"
+              }
             },
-            "owner" : "BROADCASTER",
-            "creationDate" : 1391436901665,
-            "lastModified" : 1391436901782,
+            "owner" : "NEBO",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1338837063285,
+            "lastModified" : 1361180897363,
+            "publishStart" : 1338835509000,
             "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:location:36501656"
+            "urn" : "urn:vpro:media:location:14373947"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_bb/POW_00491285",
+            "avAttributes" : {
+              "bitrate" : 512000,
+              "avFileFormat" : "MP4",
+              "videoAttributes" : {
+                "videoCoding" : "MP4",
+                "aspectRatio" : "16:9"
+              }
+            },
+            "owner" : "NEBO",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1338835862285,
+            "lastModified" : 1361180897363,
+            "publishStart" : 1338835509000,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:14373856"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_std/POW_00491285",
+            "avAttributes" : {
+              "bitrate" : 1024000,
+              "avFileFormat" : "MP4",
+              "videoAttributes" : {
+                "videoCoding" : "MP4",
+                "aspectRatio" : "16:9"
+              }
+            },
+            "owner" : "NEBO",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1338839465713,
+            "lastModified" : 1361180897363,
+            "publishStart" : 1338835509000,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:14373977"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/wvc1_std/POW_00491285",
+            "avAttributes" : {
+              "bitrate" : 1024000,
+              "avFileFormat" : "WVC1",
+              "videoAttributes" : {
+                "videoCoding" : "MP4",
+                "aspectRatio" : "16:9"
+              }
+            },
+            "owner" : "NEBO",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1338836763005,
+            "lastModified" : 1361180897363,
+            "publishStart" : 1338835509000,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:14373945"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/wmv_sb/POW_00491285",
+            "avAttributes" : {
+              "bitrate" : 204800,
+              "avFileFormat" : "WM",
+              "videoAttributes" : {
+                "videoCoding" : "MP4",
+                "aspectRatio" : "16:9"
+              }
+            },
+            "owner" : "NEBO",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1338838264825,
+            "lastModified" : 1361180897363,
+            "publishStart" : 1338835509000,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:14373975"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/wmv_bb/POW_00491285",
+            "avAttributes" : {
+              "bitrate" : 512000,
+              "avFileFormat" : "WM",
+              "videoAttributes" : {
+                "videoCoding" : "MP4",
+                "aspectRatio" : "16:9"
+              }
+            },
+            "owner" : "NEBO",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1338837663794,
+            "lastModified" : 1361180897363,
+            "publishStart" : 1338835509000,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:14373949"
           } ],
-          "workflow" : "PUBLISHED",
-          "type" : "BROADCAST",
-          "avType" : "AUDIO"
+          "scheduleEvents" : [ {
+            "avAttributes" : {
+              "bitrate" : 0,
+              "avFileFormat" : "MP4",
+              "videoAttributes" : {
+                "videoCoding" : "MP4",
+                "aspectRatio" : "16:9"
+              }
+            },
+            "guideDay" : 1338674400000,
+            "start" : 1338736200000,
+            "duration" : 3900000,
+            "poProgID" : "POW_00491285",
+            "channel" : "NED2",
+            "urnRef" : "urn:vpro:media:program:14191762",
+            "midRef" : "POW_00491285"
+          }, {
+            "avAttributes" : {
+              "bitrate" : 0,
+              "avFileFormat" : "MP4",
+              "videoAttributes" : {
+                "videoCoding" : "MP4",
+                "aspectRatio" : "16:9"
+              }
+            },
+            "guideDay" : 1339192800000,
+            "start" : 1339226700000,
+            "duration" : 3900000,
+            "poProgID" : "POW_00491285",
+            "channel" : "NED2",
+            "urnRef" : "urn:vpro:media:program:14191762",
+            "midRef" : "POW_00491285"
+          } ],
+          "images" : [ {
+            "title" : "Over Canto",
+            "description" : "Maar heel af en toe is muziek, net als de ware liefde, in staat een radicale verandering in iemand teweeg te brengen. Een goed voorbeeld is Canto Ostinato van Simeon ten Holt.",
+            "imageUri" : "urn:vpro:image:80505",
+            "owner" : "BROADCASTER",
+            "type" : "PICTURE",
+            "highlighted" : false,
+            "creationDate" : 1338835870663,
+            "lastModified" : 1342005244030,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:14373863"
+          }, {
+            "title" : "Over Canto",
+            "description" : "Maar heel af en toe is muziek, net als de ware liefde, in staat een radicale verandering in iemand teweeg te brengen. Een goed voorbeeld is Canto Ostinato van Simeon ten Holt.",
+            "imageUri" : "urn:vpro:image:80512",
+            "owner" : "BROADCASTER",
+            "type" : "STILL",
+            "highlighted" : false,
+            "creationDate" : 1338836400795,
+            "lastModified" : 1342005244030,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:14373932"
+          }, {
+            "title" : "Over Canto",
+            "description" : "Maar heel af en toe is muziek, net als de ware liefde, in staat een radicale verandering in iemand teweeg te brengen. Een goed voorbeeld is Canto Ostinato van Simeon ten Holt.",
+            "imageUri" : "urn:vpro:image:80513",
+            "owner" : "BROADCASTER",
+            "type" : "STILL",
+            "highlighted" : false,
+            "creationDate" : 1338836400990,
+            "lastModified" : 1342005244030,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:14373933"
+          }, {
+            "title" : "Over Canto",
+            "description" : "Maar heel af en toe is muziek, net als de ware liefde, in staat een radicale verandering in iemand teweeg te brengen. Een goed voorbeeld is Canto Ostinato van Simeon ten Holt.",
+            "imageUri" : "urn:vpro:image:80514",
+            "owner" : "BROADCASTER",
+            "type" : "STILL",
+            "highlighted" : false,
+            "creationDate" : 1338836401251,
+            "lastModified" : 1342005244030,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:14373934"
+          }, {
+            "title" : "canto",
+            "description" : "canto",
+            "imageUri" : "urn:vpro:image:87174",
+            "height" : 406,
+            "width" : 720,
+            "owner" : "BROADCASTER",
+            "type" : "STILL",
+            "highlighted" : true,
+            "creationDate" : 1342005244001,
+            "lastModified" : 1342005244009,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:14733165"
+          }, {
+            "title" : "Over Canto",
+            "description" : "Over Canto",
+            "imageUri" : "urn:vpro:image:140189",
+            "owner" : "BROADCASTER",
+            "type" : "PICTURE",
+            "highlighted" : false,
+            "creationDate" : 1361180906270,
+            "lastModified" : 1361180906274,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:21652668"
+          }, {
+            "title" : "Over Canto",
+            "description" : "Maar heel af en toe is muziek, net als de ware liefde, in staat een radicale verandering in iemand teweeg te brengen. Een goed voorbeeld is Canto Ostinato van Simeon ten Holt.",
+            "imageUri" : "urn:vpro:image:433005",
+            "owner" : "NEBO",
+            "type" : "STILL",
+            "highlighted" : false,
+            "creationDate" : 1394347545757,
+            "lastModified" : 1394347577666,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:38367308"
+          }, {
+            "title" : "Over Canto",
+            "description" : "Maar heel af en toe is muziek, net als de ware liefde, in staat een radicale verandering in iemand teweeg te brengen. Een goed voorbeeld is Canto Ostinato van Simeon ten Holt.",
+            "imageUri" : "urn:vpro:image:433006",
+            "owner" : "NEBO",
+            "type" : "STILL",
+            "highlighted" : false,
+            "creationDate" : 1394347561508,
+            "lastModified" : 1394347577667,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:38367309"
+          }, {
+            "title" : "Over Canto",
+            "description" : "Maar heel af en toe is muziek, net als de ware liefde, in staat een radicale verandering in iemand teweeg te brengen. Een goed voorbeeld is Canto Ostinato van Simeon ten Holt.",
+            "imageUri" : "urn:vpro:image:433007",
+            "owner" : "NEBO",
+            "type" : "STILL",
+            "highlighted" : false,
+            "creationDate" : 1394347577482,
+            "lastModified" : 1394347577667,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:38367310"
+          } ],
+          "publishDate" : 1429864165552
         }
       } ],
-      "publishStart" : 1296338580000,
-      "creationDate" : 1421877969057,
-      "lastModified" : 1425947654071,
-      "refCount" : 0
+      "images" : [ {
+        "type" : "PICTURE",
+        "url" : "http://www-acc.npodoc.nl/.imaging/stk/npodoc/search/dam/npodoc/2012/november/Over-Canto/jcr:content/Over_Canto.jpg",
+        "title" : "/npodoc/projecten/nrcdoc/tip17"
+      } ],
+      "publishStart" : 1432936800000,
+      "creationDate" : 1454404744489,
+      "lastModified" : 1454405969814,
+      "refCount" : 1
     }
   } ]
 }

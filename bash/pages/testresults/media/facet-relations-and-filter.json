@@ -3,12 +3,11 @@
   "selectedFacets" : { },
   "mediaFacets" : {
     "relations" : [ {
-      "name" : "labels",
-      "facet" : [ ]
+      "name" : "labels"
     } ]
   },
   "mediaSelectedFacets" : { },
-  "total" : 41612,
+  "total" : 141250,
   "offset" : 0,
   "max" : 2,
   "items" : [ {
@@ -16,73 +15,1415 @@
     "result" : {
       "objectType" : "page",
       "type" : "HOME",
-      "url" : "http://www-test.vpro.nl/jeugd/programmas/nwq-jr.html",
-      "sortDate" : 1417182685019,
-      "crids" : [ "crid://vpro/website/631544ec-4362-4652-9cb5-fe86c70f4cc7" ],
+      "url" : "http://www-acc.npodoc.nl/documentaires/series/de-school.html",
+      "sortDate" : 1415958097490,
+      "crids" : [ "crid://vpro/website/9e49ae5a-c5e4-4b46-978f-fc7d3457b56a" ],
       "broadcasters" : [ {
         "id" : "VPRO",
         "value" : "VPRO"
       } ],
       "portal" : {
-        "id" : "VPRONL",
-        "url" : "http://www-test.vpro.nl",
-        "value" : "VPRO.nl",
-        "section" : {
-          "path" : "/vpronl/jeugd",
-          "id" : "VPRONL./vpronl/jeugd"
-        }
+        "id" : "HOLLANDDOC24",
+        "url" : "http://www-acc.npodoc.nl",
+        "value" : "NPO Doc"
       },
-      "title" : "Nationale Wetenschapsquiz Junior",
-      "keywords" : [ "nationale wetenschapsquiz junior", "kandidaten", "freek vonk", "rob van hattum" ],
-      "summary" : "Kan je drinkwater maken van je plas? En waarom dondert het bij onweer? Bioloog Freek Vonk presenteert de 17de editie van de Nationale Wetenschapsquiz Junior. Hij wordt geassisteerd door Rob van Hattum die de proeven voor zijn rekening neemt. Uitzending: vrijdag 26 december om 17:00 uur op NPO Zapp",
+      "title" : "De school",
+      "summary" : "Zevendelige serie over liefde en seks voor jongeren vanaf veertien jaar. Jongeren in heel Nederland vertellen openhartig, grappig en ontroerend over hun liefdesleven. Zijn ze preuts of ruimdenkend? Onzeker of zelfbewust? Laten ze zich beïnvloeden door de media of weten ze zelf wel wat goed, slecht, vies of prettig is?",
       "paragraphs" : [ {
-        "title" : "extra's"
-      } ],
-      "links" : [ {
-        "text" : "wie wordt de knapste kop van Nederland?.",
-        "pageRef" : "http://www-test.vpro.nl/jeugd/programmas/nwq-jr/kandidaten.html"
-      }, {
-        "text" : "nationale wetenschapsquiz junior 2014.",
-        "pageRef" : "http://www-test.vpro.nl/jeugd/nieuws/2014/nationale-wetenschapsquiz-junior.html"
-      }, {
-        "text" : "jeugd",
-        "pageRef" : "http://www-test.vpro.nl/jeugd.html"
+        "title" : "Afleveringen"
       } ],
       "embeds" : [ {
         "media" : {
           "objectType" : "group",
-          "mid" : "POMS_S_VPRO_460313",
-          "creationDate" : 1387814391312,
-          "lastModified" : 1387814557961,
-          "sortDate" : 1389503400000,
-          "urn" : "urn:vpro:media:group:34503919",
+          "mid" : "POMS_S_BNN_461728",
+          "type" : "SERIES",
+          "avType" : "VIDEO",
+          "workflow" : "PUBLISHED",
+          "sortDate" : 1408670400000,
+          "creationDate" : 1388656968238,
+          "lastModified" : 1389091783143,
+          "urn" : "urn:vpro:media:group:34888795",
           "embeddable" : true,
           "broadcasters" : [ {
-            "id" : "VPRO",
-            "value" : "VPRO"
+            "id" : "BNN",
+            "value" : "BNN"
           } ],
           "titles" : [ {
-            "value" : "De Nationale Wetenschapsquiz junior 2013",
+            "value" : "De School",
             "owner" : "BROADCASTER",
             "type" : "MAIN"
           } ],
           "descriptions" : [ {
-            "value" : "Op donderdag 26 december is de Nationale Wetenschapsquiz Junior te zien, om 16.40 uur op Nederland 3. Wetenschapsjournalist Diederik Jekel presenteert de quiz. De Nationale Wetenschapsquiz Junior zit weer vol met vliegende, natte en bliksemgoede vragen die worden afgewisseld met pittige doordenkers. In de zinderende finale strijden zes kinderen om de titel de ‘Knapste kop van Nederland’ en een bijzondere prijs. Dj St. Paul verzorgt de muziek.",
+            "value" : "Met maar liefst veertig camera's in en rondom De School laten we zien hoe het er écht aan toe gaat op een middelbare school. Niet eerder werd het schoolleven zo direct en volledig in beeld gebracht. ",
             "owner" : "BROADCASTER",
             "type" : "MAIN"
+          }, {
+            "value" : "Met maar liefst veertig camera's in en rondom De School laten we zien hoe het er écht aan toe gaat op een middelbare school. Niet eerder werd het schoolleven zo direct en volledig in beeld gebracht. ",
+            "owner" : "BROADCASTER",
+            "type" : "SHORT"
           } ],
           "genres" : [ ],
           "countries" : [ ],
           "languages" : [ ],
+          "websites" : [ {
+            "value" : "http://deschool.bnn.nl"
+          } ],
+          "images" : [ {
+            "title" : "thumb de school",
+            "description" : "thumb de school",
+            "imageUri" : "urn:vpro:image:325648",
+            "height" : 150,
+            "width" : 265,
+            "owner" : "BROADCASTER",
+            "type" : "LOGO",
+            "highlighted" : false,
+            "creationDate" : 1388665749975,
+            "lastModified" : 1388665750031,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:34889937"
+          } ],
+          "isOrdered" : true
+        }
+      }, {
+        "title" : "Aflevering 1",
+        "media" : {
+          "objectType" : "program",
+          "mid" : "BNN_101344299",
+          "type" : "BROADCAST",
+          "avType" : "VIDEO",
           "workflow" : "PUBLISHED",
-          "type" : "SERIES",
-          "isOrdered" : true,
-          "avType" : "VIDEO"
+          "sortDate" : 1389122727000,
+          "creationDate" : 1388727275639,
+          "lastModified" : 1405503137320,
+          "urn" : "urn:vpro:media:program:34924022",
+          "embeddable" : true,
+          "episodeOf" : [ {
+            "midRef" : "BNN_101344290",
+            "urnRef" : "urn:vpro:media:group:34092073",
+            "type" : "SEASON",
+            "index" : 1,
+            "highlighted" : false,
+            "added" : 1389015249435
+          } ],
+          "broadcasters" : [ {
+            "id" : "BNN",
+            "value" : "BNN"
+          } ],
+          "regions" : [ "NL" ],
+          "titles" : [ {
+            "value" : "De School",
+            "owner" : "MIS",
+            "type" : "MAIN"
+          }, {
+            "value" : "De School",
+            "owner" : "WHATS_ON",
+            "type" : "MAIN"
+          } ],
+          "descriptions" : [ {
+            "value" : "School is de plek waar jongeren een groot deel van hun tijd doorbrengen, waar ze verliefd worden, keten, vriendschappen sluiten, ruzie krijgen en het weer goed maken. Ze ontdekken er wie ze zijn en hoe de wereld in elkaar steekt. Tegelijkertijd werken leerkrachten keihard om hun leerlingen 'bij de les' te houden, door met hen een band op te bouwen, maar ook streng te zijn als het moet. Door midden tussen de leerlingen te filmen, met maar liefst veertig camera's door het gebouw en erbuiten, laat De School zien hoe het er écht aan toe gaat op een middelbare school. Niet eerder werd het schoolleven zo direct en volledig in beeld gebracht. BNN volgde voor deze zesdelige documentaireserie de 4-havoleerlingen van CSG Jan Arentsz in Alkmaar in de laatste maanden van het afgelopen schooljaar.",
+            "owner" : "MIS",
+            "type" : "MAIN"
+          }, {
+            "value" : "School is de plek waar jongeren een groot deel van hun tijd doorbrengen, waar ze verliefd worden, keten, vriendschappen sluiten, ruzie krijgen en het weer goed maken. Ze ontdekken er wie ze zijn en hoe de wereld in elkaar steekt. Tegelijkertijd werken leerkrachten keihard om hun leerlingen 'bij de les' te houden, door met hen een band op te bouwen, maar ook streng te zijn als het moet. Door midden tussen de leerlingen te filmen, met maar liefst veertig camera's door het gebouw en erbuiten, laat De School zien hoe het er écht aan toe gaat op een middelbare school. Niet eerder werd het schoolleven zo direct en volledig in beeld gebracht. BNN volgde voor deze zesdelige documentaireserie de 4-havoleerlingen van CSG Jan Arentsz in Alkmaar in de laatste maanden van het afgelopen schooljaar.",
+            "owner" : "WHATS_ON",
+            "type" : "MAIN"
+          }, {
+            "value" : " ",
+            "owner" : "MIS",
+            "type" : "SHORT"
+          }, {
+            "value" : "Mathijs spijbelt regelmatig en maakt geen huiswerk. Meneer Verkuil maakt zich zorgen of hij wel over gaat. Op het eerste gezicht denk je dat Isabelle meer aandacht voor het uiterlijk dan voor school heeft. Maar 't tegendeel is waar!",
+            "owner" : "BROADCASTER",
+            "type" : "EPISODE"
+          } ],
+          "genres" : [ ],
+          "hasSubtitles" : true,
+          "countries" : [ {
+            "code" : "NL",
+            "value" : "Nederland"
+          } ],
+          "languages" : [ {
+            "code" : "nl",
+            "value" : "Nederlands"
+          } ],
+          "avAttributes" : {
+            "videoAttributes" : { },
+            "audioAttributes" : { }
+          },
+          "releaseYear" : 2013,
+          "duration" : 2780000,
+          "descendantOf" : [ {
+            "midRef" : "BNN_101344290",
+            "urnRef" : "urn:vpro:media:group:34092073",
+            "type" : "SEASON"
+          }, {
+            "midRef" : "POMS_S_BNN_461728",
+            "urnRef" : "urn:vpro:media:group:34888795",
+            "type" : "SERIES"
+          } ],
+          "predictions" : [ {
+            "state" : "REALIZED",
+            "publishStart" : 1389125409000,
+            "publishStop" : 1420747809000,
+            "platform" : "INTERNETVOD"
+          }, {
+            "state" : "REALIZED",
+            "publishStart" : 1389125400000,
+            "publishStop" : 1395432600000,
+            "platform" : "PLUSVOD"
+          } ],
+          "locations" : [ {
+            "programUrl" : "odip+http://odi.omroep.nl/video/adaptive/BNN_101344299",
+            "avAttributes" : {
+              "avFileFormat" : "HASP"
+            },
+            "owner" : "CERES",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1389134772236,
+            "lastModified" : 1389134772380,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:35115270"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_sb/BNN_101344299",
+            "avAttributes" : {
+              "bitrate" : 200000,
+              "avFileFormat" : "H264"
+            },
+            "owner" : "CERES",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1389132969393,
+            "lastModified" : 1389132969530,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:35115241"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_bb/BNN_101344299",
+            "avAttributes" : {
+              "bitrate" : 500000,
+              "avFileFormat" : "H264"
+            },
+            "owner" : "CERES",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1389132969733,
+            "lastModified" : 1389132969835,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:35115243"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_std/BNN_101344299",
+            "avAttributes" : {
+              "bitrate" : 1000000,
+              "avFileFormat" : "H264"
+            },
+            "owner" : "CERES",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1389133269949,
+            "lastModified" : 1389133270054,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:35115254"
+          } ],
+          "scheduleEvents" : [ {
+            "guideDay" : 1389049200000,
+            "start" : 1389122727000,
+            "duration" : 2731000,
+            "poProgID" : "BNN_101344299",
+            "channel" : "NED3",
+            "urnRef" : "urn:vpro:media:program:34924022",
+            "midRef" : "BNN_101344299"
+          }, {
+            "repeat" : {
+              "isRerun" : true
+            },
+            "textSubtitles" : "Teletekst ondertitels",
+            "guideDay" : 1405548000000,
+            "start" : 1405603200000,
+            "duration" : 2780000,
+            "poProgID" : "BNN_101344299",
+            "channel" : "BVNT",
+            "urnRef" : "urn:vpro:media:program:34924022",
+            "midRef" : "BNN_101344299"
+          }, {
+            "repeat" : {
+              "isRerun" : true
+            },
+            "textSubtitles" : "Teletekst ondertitels",
+            "guideDay" : 1405548000000,
+            "start" : 1405646400000,
+            "duration" : 2780000,
+            "poProgID" : "BNN_101344299",
+            "channel" : "BVNT",
+            "urnRef" : "urn:vpro:media:program:34924022",
+            "midRef" : "BNN_101344299"
+          } ],
+          "images" : [ {
+            "title" : "De School",
+            "imageUri" : "urn:vpro:image:330341",
+            "owner" : "NEBO",
+            "type" : "STILL",
+            "highlighted" : false,
+            "creationDate" : 1389133814457,
+            "lastModified" : 1389133839370,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:35115255"
+          }, {
+            "title" : "De School",
+            "imageUri" : "urn:vpro:image:330342",
+            "owner" : "NEBO",
+            "type" : "STILL",
+            "highlighted" : false,
+            "creationDate" : 1389133825755,
+            "lastModified" : 1389133839370,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:35115256"
+          }, {
+            "title" : "De School",
+            "imageUri" : "urn:vpro:image:330343",
+            "owner" : "NEBO",
+            "type" : "STILL",
+            "highlighted" : false,
+            "creationDate" : 1389133839230,
+            "lastModified" : 1389133839371,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:35115257"
+          } ],
+          "publishDate" : 1434482837672
+        }
+      }, {
+        "title" : "Aflevering 2",
+        "media" : {
+          "objectType" : "program",
+          "mid" : "BNN_101344297",
+          "type" : "BROADCAST",
+          "avType" : "VIDEO",
+          "workflow" : "PUBLISHED",
+          "sortDate" : 1389727547000,
+          "creationDate" : 1388727537863,
+          "lastModified" : 1406125715328,
+          "urn" : "urn:vpro:media:program:34924064",
+          "embeddable" : true,
+          "episodeOf" : [ {
+            "midRef" : "BNN_101344290",
+            "urnRef" : "urn:vpro:media:group:34092073",
+            "type" : "SEASON",
+            "index" : 2,
+            "highlighted" : false,
+            "added" : 1389073042346
+          } ],
+          "broadcasters" : [ {
+            "id" : "BNN",
+            "value" : "BNN"
+          } ],
+          "regions" : [ "NL" ],
+          "titles" : [ {
+            "value" : "De School",
+            "owner" : "MIS",
+            "type" : "MAIN"
+          }, {
+            "value" : "De School",
+            "owner" : "WHATS_ON",
+            "type" : "MAIN"
+          } ],
+          "descriptions" : [ {
+            "value" : " ",
+            "owner" : "MIS",
+            "type" : "MAIN"
+          }, {
+            "value" : "School is de plek waar jongeren een groot deel van hun tijd doorbrengen, waar ze verliefd worden, keten, vriendschappen sluiten, ruzie krijgen en het weer goed maken. Ze ontdekken er wie ze zijn en hoe de wereld in elkaar steekt. Tegelijkertijd werken leerkrachten keihard om hun leerlingen 'bij de les' te houden, door met hen een band op te bouwen, maar ook streng te zijn als het moet. Door midden tussen de leerlingen te filmen, met maar liefst veertig camera's door het gebouw en erbuiten, laat De School zien hoe het er écht aan toe gaat op een middelbare school. Niet eerder werd het schoolleven zo direct en volledig in beeld gebracht. BNN volgde voor deze zesdelige documentaireserie de 4-havoleerlingen van CSG Jan Arentsz in Alkmaar in de laatste maanden van het afgelopen schooljaar.",
+            "owner" : "WHATS_ON",
+            "type" : "MAIN"
+          }, {
+            "value" : "Zesdelige documentaireserie waarin de 4-havoleerlingen van CSG Jan Arentsz in Alkmaar in de laatste maanden van het afgelopen schooljaar worden gevolgd.",
+            "owner" : "MIS",
+            "type" : "SHORT"
+          }, {
+            "value" : "Jordy's vader is onlangs overleden. Hij vindt het moeilijk zich te concentreren. Maar zet alles op alles om het jaar te halen. Een belofte aan zijn vader. Tegelijkertijd hebben de docenten hun handen vol aan Ingena en Femmie, twee leerlingen die niet op hun mondje zijn gevallen. Lukt het de school om deze puberende meisjes bij de les te houden?",
+            "owner" : "BROADCASTER",
+            "type" : "EPISODE"
+          }, {
+            "value" : "De 4-havoleerlingen van CSG Jan Arentsz in Alkmaar worden in de laatste maanden van het afgelopen schooljaar gevolgd.",
+            "owner" : "MIS",
+            "type" : "KICKER"
+          } ],
+          "genres" : [ {
+            "id" : "3.0.1.8",
+            "terms" : [ "Documentaire" ]
+          } ],
+          "hasSubtitles" : true,
+          "countries" : [ {
+            "code" : "NL",
+            "value" : "Nederland"
+          } ],
+          "languages" : [ {
+            "code" : "nl",
+            "value" : "Nederlands"
+          } ],
+          "avAttributes" : {
+            "videoAttributes" : { },
+            "audioAttributes" : { }
+          },
+          "releaseYear" : 2013,
+          "duration" : 2777000,
+          "descendantOf" : [ {
+            "midRef" : "BNN_101344290",
+            "urnRef" : "urn:vpro:media:group:34092073",
+            "type" : "SEASON"
+          }, {
+            "midRef" : "POMS_S_BNN_461728",
+            "urnRef" : "urn:vpro:media:group:34888795",
+            "type" : "SERIES"
+          } ],
+          "predictions" : [ {
+            "state" : "REALIZED",
+            "platform" : "INTERNETVOD"
+          }, {
+            "state" : "REALIZED",
+            "publishStart" : 1389730200000,
+            "publishStop" : 1395432600000,
+            "platform" : "PLUSVOD"
+          } ],
+          "locations" : [ {
+            "programUrl" : "odip+http://odi.omroep.nl/video/adaptive/BNN_101344297",
+            "avAttributes" : {
+              "avFileFormat" : "HASP"
+            },
+            "owner" : "CERES",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1389732363355,
+            "lastModified" : 1389732363506,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:35475371"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_sb/BNN_101344297",
+            "avAttributes" : {
+              "bitrate" : 200000,
+              "avFileFormat" : "H264"
+            },
+            "owner" : "CERES",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1389731171734,
+            "lastModified" : 1389731171839,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:35475267"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_bb/BNN_101344297",
+            "avAttributes" : {
+              "bitrate" : 500000,
+              "avFileFormat" : "H264"
+            },
+            "owner" : "CERES",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1389731171231,
+            "lastModified" : 1389731171358,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:35475265"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_std/BNN_101344297",
+            "avAttributes" : {
+              "bitrate" : 1000000,
+              "avFileFormat" : "H264"
+            },
+            "owner" : "CERES",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1389731172036,
+            "lastModified" : 1389731172171,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:35475269"
+          }, {
+            "programUrl" : "sub+http://npoplus.nl/video/mpeg2_hr/BNN_101344297",
+            "avAttributes" : {
+              "bitrate" : 3500000,
+              "avFileFormat" : "MPEG2"
+            },
+            "owner" : "CERES",
+            "platform" : "PLUSVOD",
+            "creationDate" : 1389730867610,
+            "lastModified" : 1389730867810,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:35475222"
+          } ],
+          "scheduleEvents" : [ {
+            "guideDay" : 1389654000000,
+            "start" : 1389727547000,
+            "duration" : 2728000,
+            "poProgID" : "BNN_101344297",
+            "channel" : "NED3",
+            "urnRef" : "urn:vpro:media:program:34924064",
+            "midRef" : "BNN_101344297"
+          }, {
+            "repeat" : {
+              "isRerun" : true
+            },
+            "textSubtitles" : "Teletekst ondertitels",
+            "guideDay" : 1406152800000,
+            "start" : 1406208000000,
+            "duration" : 2777000,
+            "poProgID" : "BNN_101344297",
+            "channel" : "BVNT",
+            "urnRef" : "urn:vpro:media:program:34924064",
+            "midRef" : "BNN_101344297"
+          }, {
+            "repeat" : {
+              "isRerun" : true
+            },
+            "textSubtitles" : "Teletekst ondertitels",
+            "guideDay" : 1406152800000,
+            "start" : 1406251200000,
+            "duration" : 2777000,
+            "poProgID" : "BNN_101344297",
+            "channel" : "BVNT",
+            "urnRef" : "urn:vpro:media:program:34924064",
+            "midRef" : "BNN_101344297"
+          } ],
+          "images" : [ {
+            "title" : "De School",
+            "imageUri" : "urn:vpro:image:345402",
+            "owner" : "NEBO",
+            "type" : "STILL",
+            "highlighted" : false,
+            "creationDate" : 1389732395839,
+            "lastModified" : 1389732433824,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:35475375"
+          }, {
+            "title" : "De School",
+            "imageUri" : "urn:vpro:image:345403",
+            "owner" : "NEBO",
+            "type" : "STILL",
+            "highlighted" : false,
+            "creationDate" : 1389732415084,
+            "lastModified" : 1389732433824,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:35475376"
+          }, {
+            "title" : "De School",
+            "imageUri" : "urn:vpro:image:345404",
+            "owner" : "NEBO",
+            "type" : "STILL",
+            "highlighted" : false,
+            "creationDate" : 1389732433732,
+            "lastModified" : 1389732433825,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:35475377"
+          } ],
+          "publishDate" : 1434482447538
+        }
+      }, {
+        "title" : "Aflevering 3",
+        "media" : {
+          "objectType" : "program",
+          "mid" : "BNN_101344295",
+          "type" : "BROADCAST",
+          "avType" : "VIDEO",
+          "workflow" : "PUBLISHED",
+          "sortDate" : 1390332300000,
+          "creationDate" : 1388727797413,
+          "lastModified" : 1406715016570,
+          "urn" : "urn:vpro:media:program:34924364",
+          "embeddable" : true,
+          "episodeOf" : [ {
+            "midRef" : "BNN_101344290",
+            "urnRef" : "urn:vpro:media:group:34092073",
+            "type" : "SEASON",
+            "index" : 3,
+            "highlighted" : false,
+            "added" : 1389677906260
+          } ],
+          "broadcasters" : [ {
+            "id" : "BNN",
+            "value" : "BNN"
+          } ],
+          "regions" : [ "NL" ],
+          "titles" : [ {
+            "value" : "De School",
+            "owner" : "MIS",
+            "type" : "MAIN"
+          }, {
+            "value" : "De School",
+            "owner" : "WHATS_ON",
+            "type" : "MAIN"
+          } ],
+          "descriptions" : [ {
+            "value" : " ",
+            "owner" : "MIS",
+            "type" : "MAIN"
+          }, {
+            "value" : "School is de plek waar jongeren een groot deel van hun tijd doorbrengen, waar ze verliefd worden, keten, vriendschappen sluiten, ruzie krijgen en het weer goed maken. Ze ontdekken er wie ze zijn en hoe de wereld in elkaar steekt. Tegelijkertijd werken leerkrachten keihard om hun leerlingen 'bij de les' te houden, door met hen een band op te bouwen, maar ook streng te zijn als het moet. Door midden tussen de leerlingen te filmen, met maar liefst veertig camera's door het gebouw en erbuiten, laat De School zien hoe het er écht aan toe gaat op een middelbare school. Niet eerder werd het schoolleven zo direct en volledig in beeld gebracht. BNN volgde voor deze zesdelige documentaireserie de 4-havoleerlingen van CSG Jan Arentsz in Alkmaar in de laatste maanden van het afgelopen schooljaar.",
+            "owner" : "WHATS_ON",
+            "type" : "MAIN"
+          }, {
+            "value" : "Zesdelige documentaireserie waarin de 4-havoleerlingen van CSG Jan Arentsz in Alkmaar in de laatste maanden van het afgelopen schooljaar worden gevolgd.",
+            "owner" : "MIS",
+            "type" : "SHORT"
+          }, {
+            "value" : "6-delige documentaireserie waarin de 4-havoleerlingen van CSG Jan Arentsz in Alkmaar de laatste maanden van het schooljaar worden gevolgd.",
+            "owner" : "MIS",
+            "type" : "KICKER"
+          } ],
+          "genres" : [ {
+            "id" : "3.0.1.7",
+            "terms" : [ "Informatief" ]
+          } ],
+          "hasSubtitles" : true,
+          "countries" : [ {
+            "code" : "NL",
+            "value" : "Nederland"
+          } ],
+          "languages" : [ {
+            "code" : "nl",
+            "value" : "Nederlands"
+          } ],
+          "avAttributes" : {
+            "videoAttributes" : { },
+            "audioAttributes" : { }
+          },
+          "releaseYear" : 2013,
+          "duration" : 3300000,
+          "descendantOf" : [ {
+            "midRef" : "BNN_101344290",
+            "urnRef" : "urn:vpro:media:group:34092073",
+            "type" : "SEASON"
+          }, {
+            "midRef" : "POMS_S_BNN_461728",
+            "urnRef" : "urn:vpro:media:group:34888795",
+            "type" : "SERIES"
+          } ],
+          "predictions" : [ {
+            "state" : "REALIZED",
+            "platform" : "INTERNETVOD"
+          }, {
+            "state" : "REALIZED",
+            "publishStart" : 1390334940000,
+            "publishStop" : 1395432540000,
+            "platform" : "PLUSVOD"
+          } ],
+          "locations" : [ {
+            "programUrl" : "odip+http://odi.omroep.nl/video/adaptive/BNN_101344295",
+            "avAttributes" : {
+              "avFileFormat" : "HASP"
+            },
+            "owner" : "CERES",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1390337170338,
+            "lastModified" : 1390337170621,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:35817557"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_sb/BNN_101344295",
+            "avAttributes" : {
+              "bitrate" : 200000,
+              "avFileFormat" : "H264"
+            },
+            "owner" : "CERES",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1390335963726,
+            "lastModified" : 1390335963897,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:35817463"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_bb/BNN_101344295",
+            "avAttributes" : {
+              "bitrate" : 500000,
+              "avFileFormat" : "H264"
+            },
+            "owner" : "CERES",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1390335964162,
+            "lastModified" : 1390335964294,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:35817465"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_std/BNN_101344295",
+            "avAttributes" : {
+              "bitrate" : 1000000,
+              "avFileFormat" : "H264"
+            },
+            "owner" : "CERES",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1390335964529,
+            "lastModified" : 1390335964676,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:35817467"
+          } ],
+          "scheduleEvents" : [ {
+            "memberOf" : "crid://bds.tv/17400359",
+            "avAttributes" : {
+              "videoAttributes" : {
+                "aspectRatio" : "16:9"
+              }
+            },
+            "textSubtitles" : "Teletekst ondertitels",
+            "guideDay" : 1390258800000,
+            "start" : 1390332300000,
+            "offset" : -3000,
+            "duration" : 3300000,
+            "poProgID" : "BNN_101344295",
+            "channel" : "NED3",
+            "imi" : "imi:49111",
+            "urnRef" : "urn:vpro:media:program:34924364",
+            "midRef" : "BNN_101344295"
+          }, {
+            "repeat" : {
+              "isRerun" : true
+            },
+            "textSubtitles" : "Teletekst ondertitels",
+            "guideDay" : 1406757600000,
+            "start" : 1406812500000,
+            "duration" : 2766000,
+            "poProgID" : "BNN_101344295",
+            "channel" : "BVNT",
+            "urnRef" : "urn:vpro:media:program:34924364",
+            "midRef" : "BNN_101344295"
+          }, {
+            "repeat" : {
+              "isRerun" : true
+            },
+            "textSubtitles" : "Teletekst ondertitels",
+            "guideDay" : 1406757600000,
+            "start" : 1406855700000,
+            "duration" : 2766000,
+            "poProgID" : "BNN_101344295",
+            "channel" : "BVNT",
+            "urnRef" : "urn:vpro:media:program:34924364",
+            "midRef" : "BNN_101344295"
+          } ],
+          "images" : [ {
+            "title" : "De School",
+            "description" : "School is de plek waar jongeren een groot deel van hun tijd doorbrengen. Door tussen de leerlingen te filmen zien we hoe het er écht aan toe gaat bij de 4-havoleerlingen van CSG Jan Arentsz in Alkmaar.",
+            "imageUri" : "urn:vpro:image:360558",
+            "owner" : "NEBO",
+            "type" : "STILL",
+            "highlighted" : false,
+            "creationDate" : 1390337160973,
+            "lastModified" : 1390337190286,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:35817558"
+          }, {
+            "title" : "De School",
+            "description" : "School is de plek waar jongeren een groot deel van hun tijd doorbrengen. Door tussen de leerlingen te filmen zien we hoe het er écht aan toe gaat bij de 4-havoleerlingen van CSG Jan Arentsz in Alkmaar.",
+            "imageUri" : "urn:vpro:image:360559",
+            "owner" : "NEBO",
+            "type" : "STILL",
+            "highlighted" : false,
+            "creationDate" : 1390337176065,
+            "lastModified" : 1390337190286,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:35817559"
+          }, {
+            "title" : "De School",
+            "description" : "School is de plek waar jongeren een groot deel van hun tijd doorbrengen. Door tussen de leerlingen te filmen zien we hoe het er écht aan toe gaat bij de 4-havoleerlingen van CSG Jan Arentsz in Alkmaar.",
+            "imageUri" : "urn:vpro:image:360560",
+            "owner" : "NEBO",
+            "type" : "STILL",
+            "highlighted" : false,
+            "creationDate" : 1390337190197,
+            "lastModified" : 1390337190287,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:35817560"
+          } ],
+          "publishDate" : 1434482189578
+        }
+      }, {
+        "title" : "Aflevering 4",
+        "media" : {
+          "objectType" : "program",
+          "mid" : "BNN_101344293",
+          "type" : "BROADCAST",
+          "avType" : "VIDEO",
+          "workflow" : "PUBLISHED",
+          "sortDate" : 1390937100000,
+          "creationDate" : 1388209558499,
+          "lastModified" : 1406900504012,
+          "urn" : "urn:vpro:media:program:34693670",
+          "embeddable" : true,
+          "episodeOf" : [ {
+            "midRef" : "BNN_101344290",
+            "urnRef" : "urn:vpro:media:group:34092073",
+            "type" : "SEASON",
+            "index" : 4,
+            "highlighted" : false,
+            "added" : 1388209558594
+          } ],
+          "broadcasters" : [ {
+            "id" : "BNN",
+            "value" : "BNN"
+          } ],
+          "regions" : [ "NL" ],
+          "titles" : [ {
+            "value" : "De School",
+            "owner" : "MIS",
+            "type" : "MAIN"
+          }, {
+            "value" : "De School",
+            "owner" : "WHATS_ON",
+            "type" : "MAIN"
+          } ],
+          "descriptions" : [ {
+            "value" : " ",
+            "owner" : "MIS",
+            "type" : "MAIN"
+          }, {
+            "value" : "School is de plek waar jongeren een groot deel van hun tijd doorbrengen, waar ze verliefd worden, keten, vriendschappen sluiten, ruzie krijgen en het weer goed maken. Ze ontdekken er wie ze zijn en hoe de wereld in elkaar steekt. Tegelijkertijd werken leerkrachten keihard om hun leerlingen 'bij de les' te houden, door met hen een band op te bouwen, maar ook streng te zijn als het moet. Door midden tussen de leerlingen te filmen, met maar liefst veertig camera's door het gebouw en erbuiten, laat De School zien hoe het er écht aan toe gaat op een middelbare school. Niet eerder werd het schoolleven zo direct en volledig in beeld gebracht. BNN volgde voor deze zesdelige documentaireserie de 4-havoleerlingen van CSG Jan Arentsz in Alkmaar in de laatste maanden van het afgelopen schooljaar.",
+            "owner" : "WHATS_ON",
+            "type" : "MAIN"
+          }, {
+            "value" : "Met maar liefst veertig camera's in en rondom De School laten we zien hoe het er écht aan toe gaat op een middelbare school. Niet eerder werd het schoolleven zo direct en volledig in beeld gebracht. ",
+            "owner" : "BROADCASTER",
+            "type" : "SHORT"
+          }, {
+            "value" : "BNN volgde voor deze zesdelige documentaireserie de 4-havoleerlingen van CSG Jan Arentsz in Alkmaar in de laatste maanden van het afgelopen schooljaar.",
+            "owner" : "MIS",
+            "type" : "SHORT"
+          }, {
+            "value" : "BNN volgde de 4-havoleerlingen van CSG Jan Arentsz in Alkmaar in de laatste maanden van het afgelopen schooljaar.",
+            "owner" : "MIS",
+            "type" : "KICKER"
+          } ],
+          "genres" : [ {
+            "id" : "3.0.1.7",
+            "terms" : [ "Informatief" ]
+          } ],
+          "hasSubtitles" : true,
+          "countries" : [ {
+            "code" : "NL",
+            "value" : "Nederland"
+          } ],
+          "languages" : [ {
+            "code" : "nl",
+            "value" : "Nederlands"
+          } ],
+          "avAttributes" : {
+            "videoAttributes" : {
+              "color" : "BLACK_AND_WHITE_AND_COLOR",
+              "aspectRatio" : "16:9"
+            },
+            "audioAttributes" : {
+              "numberOfChannels" : 2
+            }
+          },
+          "releaseYear" : 2013,
+          "duration" : 3600000,
+          "descendantOf" : [ {
+            "midRef" : "BNN_101344290",
+            "urnRef" : "urn:vpro:media:group:34092073",
+            "type" : "SEASON"
+          }, {
+            "midRef" : "POMS_S_BNN_461728",
+            "urnRef" : "urn:vpro:media:group:34888795",
+            "type" : "SERIES"
+          } ],
+          "predictions" : [ {
+            "state" : "REALIZED",
+            "platform" : "INTERNETVOD"
+          }, {
+            "state" : "REALIZED",
+            "publishStart" : 1390939800000,
+            "publishStop" : 1395432600000,
+            "platform" : "PLUSVOD"
+          } ],
+          "locations" : [ {
+            "programUrl" : "odip+http://odi.omroep.nl/video/adaptive/BNN_101344293",
+            "avAttributes" : {
+              "avFileFormat" : "HASP"
+            },
+            "owner" : "CERES",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1390941363300,
+            "lastModified" : 1390941363517,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:36194065"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_sb/BNN_101344293",
+            "avAttributes" : {
+              "bitrate" : 200000,
+              "avFileFormat" : "H264"
+            },
+            "owner" : "CERES",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1390940468470,
+            "lastModified" : 1390940468644,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:36193984"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_bb/BNN_101344293",
+            "avAttributes" : {
+              "bitrate" : 500000,
+              "avFileFormat" : "H264"
+            },
+            "owner" : "CERES",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1390940468012,
+            "lastModified" : 1390940468194,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:36193982"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_std/BNN_101344293",
+            "avAttributes" : {
+              "bitrate" : 1000000,
+              "avFileFormat" : "H264"
+            },
+            "owner" : "CERES",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1390940172124,
+            "lastModified" : 1390940172321,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:36193947"
+          } ],
+          "scheduleEvents" : [ {
+            "memberOf" : "crid://bds.tv/17400359",
+            "avAttributes" : {
+              "videoAttributes" : {
+                "aspectRatio" : "16:9"
+              }
+            },
+            "textSubtitles" : "Teletekst ondertitels",
+            "guideDay" : 1390863600000,
+            "start" : 1390937100000,
+            "offset" : -6000,
+            "duration" : 3300000,
+            "poProgID" : "BNN_101344293",
+            "channel" : "NED3",
+            "imi" : "imi:51214",
+            "urnRef" : "urn:vpro:media:program:34693670",
+            "midRef" : "BNN_101344293"
+          }, {
+            "repeat" : {
+              "isRerun" : true
+            },
+            "memberOf" : "crid://bds.tv/17400359",
+            "avAttributes" : {
+              "videoAttributes" : {
+                "aspectRatio" : "16:9"
+              }
+            },
+            "textSubtitles" : "Teletekst ondertitels",
+            "guideDay" : 1391036400000,
+            "start" : 1391119800000,
+            "offset" : 37000,
+            "duration" : 3000000,
+            "poProgID" : "BNN_101344293",
+            "channel" : "NED3",
+            "imi" : "imi:51476",
+            "urnRef" : "urn:vpro:media:program:34693670",
+            "midRef" : "BNN_101344293"
+          }, {
+            "repeat" : {
+              "isRerun" : true
+            },
+            "textSubtitles" : "Teletekst ondertitels",
+            "guideDay" : 1407362400000,
+            "start" : 1407417600000,
+            "duration" : 2739000,
+            "poProgID" : "BNN_101344293",
+            "channel" : "BVNT",
+            "urnRef" : "urn:vpro:media:program:34693670",
+            "midRef" : "BNN_101344293"
+          }, {
+            "repeat" : {
+              "isRerun" : true
+            },
+            "textSubtitles" : "Teletekst ondertitels",
+            "guideDay" : 1407362400000,
+            "start" : 1407460800000,
+            "duration" : 2739000,
+            "poProgID" : "BNN_101344293",
+            "channel" : "BVNT",
+            "urnRef" : "urn:vpro:media:program:34693670",
+            "midRef" : "BNN_101344293"
+          } ],
+          "images" : [ {
+            "title" : "De School",
+            "description" : "Met maar liefst veertig camera's in en rondom De School laten we zien hoe het er écht aan toe gaat op een middelbare school. Niet eerder werd het schoolleven zo direct en volledig in beeld gebracht. ",
+            "imageUri" : "urn:vpro:image:369890",
+            "owner" : "NEBO",
+            "type" : "STILL",
+            "highlighted" : false,
+            "creationDate" : 1390941025723,
+            "lastModified" : 1390941051690,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:36194029"
+          }, {
+            "title" : "De School",
+            "description" : "Met maar liefst veertig camera's in en rondom De School laten we zien hoe het er écht aan toe gaat op een middelbare school. Niet eerder werd het schoolleven zo direct en volledig in beeld gebracht. ",
+            "imageUri" : "urn:vpro:image:369891",
+            "owner" : "NEBO",
+            "type" : "STILL",
+            "highlighted" : false,
+            "creationDate" : 1390941038884,
+            "lastModified" : 1390941051691,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:36194030"
+          }, {
+            "title" : "De School",
+            "description" : "Met maar liefst veertig camera's in en rondom De School laten we zien hoe het er écht aan toe gaat op een middelbare school. Niet eerder werd het schoolleven zo direct en volledig in beeld gebracht. ",
+            "imageUri" : "urn:vpro:image:369892",
+            "owner" : "NEBO",
+            "type" : "STILL",
+            "highlighted" : false,
+            "creationDate" : 1390941051545,
+            "lastModified" : 1390941051692,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:36194031"
+          } ],
+          "publishDate" : 1434481955890
+        }
+      }, {
+        "title" : "Aflevering 5",
+        "media" : {
+          "objectType" : "program",
+          "mid" : "BNN_101344291",
+          "type" : "BROADCAST",
+          "avType" : "VIDEO",
+          "workflow" : "PUBLISHED",
+          "sortDate" : 1391541755000,
+          "creationDate" : 1387604817442,
+          "lastModified" : 1407407812856,
+          "urn" : "urn:vpro:media:program:34426780",
+          "embeddable" : true,
+          "episodeOf" : [ {
+            "midRef" : "BNN_101344290",
+            "urnRef" : "urn:vpro:media:group:34092073",
+            "type" : "SEASON",
+            "index" : 5,
+            "highlighted" : false,
+            "added" : 1387604817527
+          } ],
+          "broadcasters" : [ {
+            "id" : "BNN",
+            "value" : "BNN"
+          } ],
+          "regions" : [ "NL" ],
+          "titles" : [ {
+            "value" : "De School",
+            "owner" : "MIS",
+            "type" : "MAIN"
+          }, {
+            "value" : "De School",
+            "owner" : "WHATS_ON",
+            "type" : "MAIN"
+          } ],
+          "descriptions" : [ {
+            "value" : " ",
+            "owner" : "MIS",
+            "type" : "MAIN"
+          }, {
+            "value" : "School is de plek waar jongeren een groot deel van hun tijd doorbrengen, waar ze verliefd worden, keten, vriendschappen sluiten, ruzie krijgen en het weer goed maken. Ze ontdekken er wie ze zijn en hoe de wereld in elkaar steekt. Tegelijkertijd werken leerkrachten keihard om hun leerlingen 'bij de les' te houden, door met hen een band op te bouwen, maar ook streng te zijn als het moet. Door midden tussen de leerlingen te filmen, met maar liefst veertig camera's door het gebouw en erbuiten, laat De School zien hoe het er écht aan toe gaat op een middelbare school. Niet eerder werd het schoolleven zo direct en volledig in beeld gebracht. BNN volgde voor deze zesdelige documentaireserie de 4-havoleerlingen van CSG Jan Arentsz in Alkmaar in de laatste maanden van het afgelopen schooljaar.",
+            "owner" : "WHATS_ON",
+            "type" : "MAIN"
+          }, {
+            "value" : "Zesdelige documentaireserie over de 4-havoleerlingen van CSG Jan Arentsz in Alkmaar",
+            "owner" : "MIS",
+            "type" : "SHORT"
+          }, {
+            "value" : "Zesdelige documentaireserie over de 4-havoleerlingen van CSG Jan Arentsz in Alkmaar",
+            "owner" : "MIS",
+            "type" : "KICKER"
+          } ],
+          "genres" : [ {
+            "id" : "3.0.1.8",
+            "terms" : [ "Documentaire" ]
+          } ],
+          "hasSubtitles" : true,
+          "countries" : [ {
+            "code" : "NL",
+            "value" : "Nederland"
+          } ],
+          "languages" : [ {
+            "code" : "nl",
+            "value" : "Nederlands"
+          } ],
+          "avAttributes" : {
+            "videoAttributes" : {
+              "color" : "BLACK_AND_WHITE_AND_COLOR",
+              "aspectRatio" : "16:9"
+            },
+            "audioAttributes" : {
+              "numberOfChannels" : 2
+            }
+          },
+          "releaseYear" : 2013,
+          "duration" : 3000000,
+          "descendantOf" : [ {
+            "midRef" : "BNN_101344290",
+            "urnRef" : "urn:vpro:media:group:34092073",
+            "type" : "SEASON"
+          }, {
+            "midRef" : "POMS_S_BNN_461728",
+            "urnRef" : "urn:vpro:media:group:34888795",
+            "type" : "SERIES"
+          } ],
+          "predictions" : [ {
+            "state" : "REALIZED",
+            "platform" : "INTERNETVOD"
+          }, {
+            "state" : "REALIZED",
+            "publishStart" : 1391544480000,
+            "publishStop" : 1395432480000,
+            "platform" : "PLUSVOD"
+          } ],
+          "locations" : [ {
+            "programUrl" : "odip+http://odi.omroep.nl/video/adaptive/BNN_101344291",
+            "avAttributes" : {
+              "avFileFormat" : "HASP"
+            },
+            "owner" : "CERES",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1391545864019,
+            "lastModified" : 1391545864216,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:36584460"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_sb/BNN_101344291",
+            "avAttributes" : {
+              "bitrate" : 200000,
+              "avFileFormat" : "H264"
+            },
+            "owner" : "CERES",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1391545271384,
+            "lastModified" : 1391545271518,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:36584450"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_bb/BNN_101344291",
+            "avAttributes" : {
+              "bitrate" : 500000,
+              "avFileFormat" : "H264"
+            },
+            "owner" : "CERES",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1391545270984,
+            "lastModified" : 1391545271131,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:36584448"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_std/BNN_101344291",
+            "avAttributes" : {
+              "bitrate" : 1000000,
+              "avFileFormat" : "H264"
+            },
+            "owner" : "CERES",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1391545271752,
+            "lastModified" : 1391545271908,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:36584452"
+          } ],
+          "scheduleEvents" : [ {
+            "guideDay" : 1391468400000,
+            "start" : 1391541755000,
+            "duration" : 2709000,
+            "poProgID" : "BNN_101344291",
+            "channel" : "NED3",
+            "urnRef" : "urn:vpro:media:program:34426780",
+            "midRef" : "BNN_101344291"
+          }, {
+            "guideDay" : 1391641200000,
+            "start" : 1391724605000,
+            "duration" : 2709000,
+            "poProgID" : "BNN_101344291",
+            "channel" : "NED3",
+            "urnRef" : "urn:vpro:media:program:34426780",
+            "midRef" : "BNN_101344291"
+          }, {
+            "repeat" : {
+              "isRerun" : true
+            },
+            "textSubtitles" : "Teletekst ondertitels",
+            "guideDay" : 1407967200000,
+            "start" : 1408022400000,
+            "duration" : 2758000,
+            "poProgID" : "BNN_101344291",
+            "channel" : "BVNT",
+            "urnRef" : "urn:vpro:media:program:34426780",
+            "midRef" : "BNN_101344291"
+          }, {
+            "repeat" : {
+              "isRerun" : true
+            },
+            "textSubtitles" : "Teletekst ondertitels",
+            "guideDay" : 1407967200000,
+            "start" : 1408065600000,
+            "duration" : 2758000,
+            "poProgID" : "BNN_101344291",
+            "channel" : "BVNT",
+            "urnRef" : "urn:vpro:media:program:34426780",
+            "midRef" : "BNN_101344291"
+          } ],
+          "images" : [ {
+            "title" : "De School",
+            "description" : "School is de plek waar jongeren een groot deel van hun tijd doorbrengen. Door tussen de leerlingen te filmen zien we hoe het er écht aan toe gaat bij de 4-havoleerlingen van CSG Jan Arentsz in Alkmaar.",
+            "imageUri" : "urn:vpro:image:399613",
+            "owner" : "NEBO",
+            "type" : "STILL",
+            "highlighted" : false,
+            "creationDate" : 1391545816663,
+            "lastModified" : 1391545848401,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:36584456"
+          }, {
+            "title" : "De School",
+            "description" : "School is de plek waar jongeren een groot deel van hun tijd doorbrengen. Door tussen de leerlingen te filmen zien we hoe het er écht aan toe gaat bij de 4-havoleerlingen van CSG Jan Arentsz in Alkmaar.",
+            "imageUri" : "urn:vpro:image:399614",
+            "owner" : "NEBO",
+            "type" : "STILL",
+            "highlighted" : false,
+            "creationDate" : 1391545831843,
+            "lastModified" : 1391545848402,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:36584457"
+          }, {
+            "title" : "De School",
+            "description" : "School is de plek waar jongeren een groot deel van hun tijd doorbrengen. Door tussen de leerlingen te filmen zien we hoe het er écht aan toe gaat bij de 4-havoleerlingen van CSG Jan Arentsz in Alkmaar.",
+            "imageUri" : "urn:vpro:image:399615",
+            "owner" : "NEBO",
+            "type" : "STILL",
+            "highlighted" : false,
+            "creationDate" : 1391545848245,
+            "lastModified" : 1391545848404,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:36584458"
+          } ],
+          "publishDate" : 1434481769361
+        }
+      }, {
+        "title" : "Aflevering 6",
+        "media" : {
+          "objectType" : "program",
+          "mid" : "BNN_101344288",
+          "type" : "BROADCAST",
+          "avType" : "VIDEO",
+          "workflow" : "PUBLISHED",
+          "sortDate" : 1392146700000,
+          "creationDate" : 1387000215172,
+          "lastModified" : 1407233728405,
+          "urn" : "urn:vpro:media:program:34092070",
+          "embeddable" : true,
+          "episodeOf" : [ {
+            "midRef" : "BNN_101344290",
+            "urnRef" : "urn:vpro:media:group:34092073",
+            "type" : "SEASON",
+            "index" : 6,
+            "highlighted" : false,
+            "added" : 1387000215333
+          } ],
+          "broadcasters" : [ {
+            "id" : "BNN",
+            "value" : "BNN"
+          } ],
+          "regions" : [ "NL" ],
+          "titles" : [ {
+            "value" : "De School",
+            "owner" : "MIS",
+            "type" : "MAIN"
+          }, {
+            "value" : "De School",
+            "owner" : "WHATS_ON",
+            "type" : "MAIN"
+          } ],
+          "descriptions" : [ {
+            "value" : " ",
+            "owner" : "MIS",
+            "type" : "MAIN"
+          }, {
+            "value" : "School is de plek waar jongeren een groot deel van hun tijd doorbrengen, waar ze verliefd worden, keten, vriendschappen sluiten, ruzie krijgen en het weer goed maken. Ze ontdekken er wie ze zijn en hoe de wereld in elkaar steekt. Tegelijkertijd werken leerkrachten keihard om hun leerlingen 'bij de les' te houden, door met hen een band op te bouwen, maar ook streng te zijn als het moet. Door midden tussen de leerlingen te filmen, met maar liefst veertig camera's door het gebouw en erbuiten, laat De School zien hoe het er écht aan toe gaat op een middelbare school. Niet eerder werd het schoolleven zo direct en volledig in beeld gebracht. BNN volgde voor deze zesdelige documentaireserie de 4-havoleerlingen van CSG Jan Arentsz in Alkmaar in de laatste maanden van het afgelopen schooljaar.",
+            "owner" : "WHATS_ON",
+            "type" : "MAIN"
+          }, {
+            "value" : "Zesdelige documentaireserie over de 4-havoleerlingen van CSG Jan Arentsz in Alkmaar in de laatste maanden van het afgelopen schooljaar.",
+            "owner" : "MIS",
+            "type" : "SHORT"
+          }, {
+            "value" : "Zesdelige documentaireserie over de 4-havoleerlingen van CSG Jan Arentsz in Alkmaar in de laatste maanden van het afgelopen schooljaar.",
+            "owner" : "MIS",
+            "type" : "KICKER"
+          } ],
+          "genres" : [ {
+            "id" : "3.0.1.1.8",
+            "terms" : [ "Jeugd", "Documentaire" ]
+          } ],
+          "hasSubtitles" : true,
+          "countries" : [ {
+            "code" : "NL",
+            "value" : "Nederland"
+          } ],
+          "languages" : [ {
+            "code" : "nl",
+            "value" : "Nederlands"
+          } ],
+          "avAttributes" : {
+            "videoAttributes" : {
+              "color" : "BLACK_AND_WHITE_AND_COLOR",
+              "aspectRatio" : "16:9"
+            },
+            "audioAttributes" : {
+              "numberOfChannels" : 2
+            }
+          },
+          "releaseYear" : 2013,
+          "duration" : 3180000,
+          "descendantOf" : [ {
+            "midRef" : "BNN_101344290",
+            "urnRef" : "urn:vpro:media:group:34092073",
+            "type" : "SEASON"
+          }, {
+            "midRef" : "POMS_S_BNN_461728",
+            "urnRef" : "urn:vpro:media:group:34888795",
+            "type" : "SERIES"
+          } ],
+          "predictions" : [ {
+            "state" : "REALIZED",
+            "platform" : "INTERNETVOD"
+          }, {
+            "state" : "REALIZED",
+            "publishStart" : 1392149340000,
+            "publishStop" : 1395432540000,
+            "platform" : "PLUSVOD"
+          } ],
+          "locations" : [ {
+            "programUrl" : "odip+http://odi.omroep.nl/video/adaptive/BNN_101344288",
+            "avAttributes" : {
+              "avFileFormat" : "HASP"
+            },
+            "owner" : "CERES",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1392154285697,
+            "lastModified" : 1392154285832,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:36917613"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_sb/BNN_101344288",
+            "avAttributes" : {
+              "bitrate" : 200000,
+              "avFileFormat" : "H264"
+            },
+            "owner" : "CERES",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1392153089505,
+            "lastModified" : 1392153089687,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:36917579"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_bb/BNN_101344288",
+            "avAttributes" : {
+              "bitrate" : 500000,
+              "avFileFormat" : "H264"
+            },
+            "owner" : "CERES",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1392152797725,
+            "lastModified" : 1392152797865,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:36917567"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_std/BNN_101344288",
+            "avAttributes" : {
+              "bitrate" : 1000000,
+              "avFileFormat" : "H264"
+            },
+            "owner" : "CERES",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1392153089945,
+            "lastModified" : 1392153090079,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:36917581"
+          } ],
+          "scheduleEvents" : [ {
+            "repeat" : {
+              "isRerun" : true
+            },
+            "memberOf" : "crid://bds.tv/17400359",
+            "avAttributes" : {
+              "videoAttributes" : {
+                "aspectRatio" : "16:9"
+              }
+            },
+            "textSubtitles" : "Teletekst ondertitels",
+            "guideDay" : 1392073200000,
+            "start" : 1392146700000,
+            "offset" : 62000,
+            "duration" : 3300000,
+            "poProgID" : "BNN_101344288",
+            "channel" : "NED3",
+            "imi" : "imi:53105",
+            "urnRef" : "urn:vpro:media:program:34092070",
+            "midRef" : "BNN_101344288"
+          }, {
+            "guideDay" : 1392246000000,
+            "start" : 1392329409000,
+            "duration" : 2654000,
+            "poProgID" : "BNN_101344288",
+            "channel" : "NED3",
+            "urnRef" : "urn:vpro:media:program:34092070",
+            "midRef" : "BNN_101344288"
+          }, {
+            "repeat" : {
+              "isRerun" : true
+            },
+            "textSubtitles" : "Teletekst ondertitels",
+            "guideDay" : 1408572000000,
+            "start" : 1408627200000,
+            "duration" : 2704000,
+            "poProgID" : "BNN_101344288",
+            "channel" : "BVNT",
+            "urnRef" : "urn:vpro:media:program:34092070",
+            "midRef" : "BNN_101344288"
+          }, {
+            "repeat" : {
+              "isRerun" : true
+            },
+            "textSubtitles" : "Teletekst ondertitels",
+            "guideDay" : 1408572000000,
+            "start" : 1408670400000,
+            "duration" : 2704000,
+            "poProgID" : "BNN_101344288",
+            "channel" : "BVNT",
+            "urnRef" : "urn:vpro:media:program:34092070",
+            "midRef" : "BNN_101344288"
+          } ],
+          "images" : [ {
+            "title" : "De School",
+            "description" : "School is de plek waar jongeren een groot deel van hun tijd doorbrengen. Door tussen de leerlingen te filmen zien we hoe het er écht aan toe gaat bij de 4-havoleerlingen van CSG Jan Arentsz in Alkmaar.",
+            "imageUri" : "urn:vpro:image:404955",
+            "owner" : "NEBO",
+            "type" : "STILL",
+            "highlighted" : false,
+            "creationDate" : 1392168293721,
+            "lastModified" : 1392168324449,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:36943965"
+          }, {
+            "title" : "De School",
+            "description" : "School is de plek waar jongeren een groot deel van hun tijd doorbrengen. Door tussen de leerlingen te filmen zien we hoe het er écht aan toe gaat bij de 4-havoleerlingen van CSG Jan Arentsz in Alkmaar.",
+            "imageUri" : "urn:vpro:image:404956",
+            "owner" : "NEBO",
+            "type" : "STILL",
+            "highlighted" : false,
+            "creationDate" : 1392168308521,
+            "lastModified" : 1392168324450,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:36943966"
+          }, {
+            "title" : "De School",
+            "description" : "School is de plek waar jongeren een groot deel van hun tijd doorbrengen. Door tussen de leerlingen te filmen zien we hoe het er écht aan toe gaat bij de 4-havoleerlingen van CSG Jan Arentsz in Alkmaar.",
+            "imageUri" : "urn:vpro:image:404957",
+            "owner" : "NEBO",
+            "type" : "STILL",
+            "highlighted" : false,
+            "creationDate" : 1392168324369,
+            "lastModified" : 1392168324451,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:36943967"
+          } ],
+          "publishDate" : 1434482078197
         }
       } ],
-      "publishStart" : 1417182685019,
-      "creationDate" : 1420712016968,
-      "lastModified" : 1422552493528,
+      "images" : [ {
+        "type" : "PICTURE",
+        "url" : "http://images.poms.omroep.nl/image/s360/325648.jpg",
+        "title" : "thumb de school",
+        "description" : "thumb de school"
+      } ],
+      "publishStart" : 1415958097490,
+      "creationDate" : 1454405687864,
+      "lastModified" : 1454405739302,
       "refCount" : 0
     }
   }, {
@@ -90,99 +1431,93 @@
     "result" : {
       "objectType" : "page",
       "type" : "HOME",
-      "url" : "http://www-test.vpro.nl/jeugd.html",
-      "sortDate" : 1416307332859,
-      "crids" : [ "crid://vpro/website/da693cd8-89cc-4686-be0a-f83ba5d551d8" ],
+      "url" : "http://www-acc.npodoc.nl/documentaires/series/land-van-aankomst.html",
+      "sortDate" : 1454404659860,
+      "crids" : [ "crid://vpro/website/e51d793d-609f-40b8-96a8-f5309583936e" ],
       "broadcasters" : [ {
         "id" : "VPRO",
         "value" : "VPRO"
       } ],
       "portal" : {
-        "id" : "VPRONL",
-        "url" : "http://www-test.vpro.nl",
-        "value" : "VPRO.nl",
-        "section" : {
-          "path" : "/vpronl/jeugd",
-          "id" : "VPRONL./vpronl/jeugd"
-        }
+        "id" : "HOLLANDDOC24",
+        "url" : "http://www-acc.npodoc.nl",
+        "value" : "NPO Doc"
       },
-      "title" : "jeugd",
-      "paragraphs" : [ {
-        "title" : "meer vpro jeugd"
-      }, {
-        "title" : "altijd online"
-      }, {
-        "title" : "extra's"
-      } ],
+      "title" : "Land van aankomst",
+      "summary" : "Documentaireserie die laat zien hoe de immigratie vanaf de jaren vijftig tot in onze tijd Europa onomkeerbaar veranderde. Hoe beleven Europese samenlevingen de moderne immigratie? Hoe gaan we om met alle verschillen en conflicten? En hoe verwerken we het 'verlies van onze vertrouwde wereld'?",
       "referrals" : [ {
-        "referrer" : "http://www-test.vpro.nl/jeugd/programmas/pieter-in-de-prehistorie.html",
-        "title" : "jeugd"
-      }, {
-        "referrer" : "http://www-test.vpro.nl/jeugd/programmas/olliehartmoed.html",
-        "title" : "jeugd"
-      }, {
-        "referrer" : "http://www-test.vpro.nl/jeugd/programmas/bikkels.html",
-        "title" : "jeugd"
-      }, {
-        "referrer" : "http://www-test.vpro.nl/jeugd/programmas/taart.html",
-        "title" : "jeugd"
-      }, {
-        "referrer" : "http://www-test.vpro.nl/jeugd/programmas/tijd-van-je-leven-wij-zijn-14.html",
-        "title" : "jeugd"
-      }, {
-        "referrer" : "http://www-test.vpro.nl/jeugd/programmas/freek-in-het-wild.html",
-        "title" : "jeugd"
-      }, {
-        "referrer" : "http://www-test.vpro.nl/jeugd/programmas/roos-en-haar-mannen.html",
-        "title" : "jeugd"
-      }, {
-        "referrer" : "http://www-test.vpro.nl/jeugd/programmas/mooiboys.html",
-        "title" : "jeugd"
-      }, {
-        "referrer" : "http://www-test.vpro.nl/jeugd/programmas/freeks-wilde-wereld.html",
-        "title" : "jeugd"
-      }, {
-        "referrer" : "http://www-test.vpro.nl/jeugd/programmas/taarten-van-abel.html",
-        "title" : "jeugd"
-      }, {
-        "referrer" : "http://www-test.vpro.nl/jeugd/programmas/nwq-jr.html",
-        "title" : "jeugd"
-      }, {
-        "referrer" : "http://www-test.vpro.nl/jeugd/programmas/gek-op-jou.html",
-        "title" : "jeugd"
-      }, {
-        "referrer" : "http://www-test.vpro.nl/jeugd/programmas/beestieboys.html",
-        "title" : "jeugd"
-      }, {
-        "referrer" : "http://www-test.vpro.nl/jeugd/programmas/vrolijke-kerst.html",
-        "title" : "jeugd"
+        "referrer" : "http://www-acc.npodoc.nl/documentaires/series-overzicht.html",
+        "title" : "Land van aankomst"
       } ],
-      "links" : [ {
-        "text" : "gekke familie?. het gordijnpaleis van ollie hartmoed",
-        "pageRef" : "http://www-test.vpro.nl/jeugd/programmas/olliehartmoed/bonusmateriaal.html"
-      }, {
-        "text" : "liefde is...",
-        "pageRef" : "http://www-test.vpro.nl/jeugd/programmas/gek-op-jou.html"
-      }, {
-        "text" : "errol verzorgt oma",
-        "pageRef" : "http://www-test.vpro.nl/jeugd/programmas/bikkels/errol.html"
-      }, {
-        "text" : "kijk terug",
-        "pageRef" : "http://www-test.vpro.nl/jeugd/programmas/taart.html"
-      }, {
-        "text" : "filmpjes",
-        "pageRef" : "http://www-test.vpro.nl/jeugd/programmas.html"
-      }, {
-        "text" : "Zapp Echt Gebeurd",
-        "pageRef" : "http://www.zappechtgebeurd.nl/"
-      }, {
-        "text" : "shop",
-        "pageRef" : "http://winkel.vpro.nl/jeugd/"
+      "embeds" : [ {
+        "media" : {
+          "objectType" : "group",
+          "mid" : "POMS_S_NTR_462369",
+          "type" : "SERIES",
+          "avType" : "VIDEO",
+          "workflow" : "PUBLISHED",
+          "sortDate" : 1390659300000,
+          "creationDate" : 1388798382024,
+          "lastModified" : 1399897245064,
+          "urn" : "urn:vpro:media:group:34971139",
+          "embeddable" : true,
+          "broadcasters" : [ {
+            "id" : "NTR",
+            "value" : "NTR"
+          }, {
+            "id" : "IKON",
+            "value" : "IKON"
+          } ],
+          "titles" : [ {
+            "value" : "Land van Aankomst",
+            "owner" : "BROADCASTER",
+            "type" : "MAIN"
+          } ],
+          "descriptions" : [ {
+            "value" : "Documentaireserie die laat zien hoe de immigratie vanaf de jaren vijftig tot in onze tijd Europa onomkeerbaar veranderde. Hoe beleven Europese samenlevingen de moderne immigratie? Hoe gaan we om met alle verschillen en conflicten? En hoe verwerken we het 'verlies van onze vertrouwde wereld'?",
+            "owner" : "BROADCASTER",
+            "type" : "MAIN"
+          }, {
+            "value" : "Documentaireserie die laat zien hoe de immigratie vanaf de jaren vijftig tot in onze tijd Europa onomkeerbaar veranderde. Hoe beleven Europese samenlevingen de moderne immigratie? Hoe gaan we om met alle verschillen en conflicten? En hoe verwerken we het 'verlies van onze vertrouwde wereld'?",
+            "owner" : "BROADCASTER",
+            "type" : "SHORT"
+          } ],
+          "genres" : [ ],
+          "countries" : [ ],
+          "languages" : [ ],
+          "descendantOf" : [ {
+            "midRef" : "POMS_S_NCRV_171924",
+            "urnRef" : "urn:vpro:media:group:14665646",
+            "type" : "ARCHIVE"
+          }, {
+            "midRef" : "POMS_S_EO_171555",
+            "urnRef" : "urn:vpro:media:group:14698239",
+            "type" : "ARCHIVE"
+          }, {
+            "midRef" : "POMS_S_NTR_508719",
+            "urnRef" : "urn:vpro:media:group:39092434",
+            "type" : "COLLECTION"
+          } ],
+          "memberOf" : [ {
+            "midRef" : "POMS_S_NTR_508719",
+            "urnRef" : "urn:vpro:media:group:39092434",
+            "type" : "COLLECTION",
+            "index" : 10,
+            "highlighted" : false,
+            "added" : 1395670907030
+          } ],
+          "publishDate" : 1429865389226,
+          "isOrdered" : true
+        }
       } ],
-      "publishStart" : 1416307332859,
-      "creationDate" : 1420712010766,
-      "lastModified" : 1422552491715,
-      "refCount" : 14
+      "images" : [ {
+        "type" : "PICTURE",
+        "url" : "http://www-acc.npodoc.nl/.imaging/stk/npodoc/search/dam/npodoc/2014/Zee-van-verhalen/land-van-aankomst-crop/jcr:content/land_van_aankomst_crop.jpg",
+        "title" : "/npodoc/documentaires/series/land-van-aankomst"
+      } ],
+      "creationDate" : 1454404659860,
+      "lastModified" : 1454405551355,
+      "refCount" : 1
     }
   } ]
 }

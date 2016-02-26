@@ -1,364 +1,248 @@
 {
-  "total" : 5119,
+  "total" : 5387,
   "offset" : 0,
   "max" : 2,
   "items" : [ {
-    "score" : 4.272536,
+    "score" : 3.1919146,
     "highlights" : [ ],
     "result" : {
       "objectType" : "program",
-      "mid" : "RBX_NTR_556749",
-      "creationDate" : 1418918692935,
-      "lastModified" : 1419479944043,
-      "sortDate" : 1419188400000,
-      "urn" : "urn:vpro:media:program:45130511",
+      "mid" : "POMS_NTR_113560",
+      "type" : "BROADCAST",
+      "avType" : "AUDIO",
+      "workflow" : "PUBLISHED",
+      "sortDate" : 1360173600000,
+      "creationDate" : 1360177455813,
+      "lastModified" : 1388672013137,
+      "urn" : "urn:vpro:media:program:20305146",
       "embeddable" : true,
       "episodeOf" : [ {
-        "midRef" : "RBX_S_NTR_553911",
-        "urnRef" : "urn:vpro:media:group:33646332",
-        "type" : "SERIES",
-        "index" : 4,
+        "midRef" : "POMS_S_VPRO_137918",
+        "urnRef" : "urn:vpro:media:group:22372311",
+        "type" : "SEASON",
+        "index" : 20,
         "highlighted" : false,
-        "added" : 1418918693279
+        "added" : 1376051296185
       } ],
-      "crids" : [ "crid://broadcast.radiobox2/284422" ],
+      "crids" : [ "crid://broadcast.radiobox2/229647" ],
       "broadcasters" : [ {
         "id" : "NTR",
         "value" : "NTR"
       } ],
       "titles" : [ {
-        "value" : "De Kennis van Nu",
+        "value" : "Kunststof",
         "owner" : "RADIOBOX",
         "type" : "MAIN"
+      }, {
+        "value" : "Michel Szulc Krzyzanowski - fotograaf",
+        "owner" : "BROADCASTER",
+        "type" : "SUB"
       } ],
       "descriptions" : [ {
-        "value" : "Ze is econoom en politica. Ze stelt dat wij geen gecalculeerde economische keuzes maken, maar dat we gestuurd worden door irrationeel en impulsief gedrag. Ze is een veelgevraagd commentator in de media, zit namens de PvdA in de Eerste kamer en is hoogleraar economische theorie en economisch beleid aan de Radboud Universiteit Nijmegen. \n\nAanstaande zondag praat Karin van den Boogaert in De Kennis van Nu met Esther-Mirjam Sent. Een gesprek over de beperkingen van economische modellen en voorspellingen, over de vraag of de crisis voorkomen had kunnen worden als de beursvloeren niet gedomineerd werd door mannen en over manieren waarop je mensen zonder financiële prikkels zo ver krijgt dat ze zich gezonder en verstandiger gedragen. \n\nFoto: Erik van ’t Hullenaar",
-        "owner" : "RADIOBOX",
+        "value" : "Het begon in 1976 als portret van een werkende jongere in de koekjesfabriek, inmiddels is Henny een 52-jarige moeder van zes kinderen met een zeer bewogen leven. Henny - Het zit best wel tegen is het zesde fotoboek van Michel Szulc Krzyzanowski over het leven van Henny, waarin we volgens de fotograaf kunnen zien hoe de maatschappij verandert.\n\nPresentatie: Petra Possel",
+        "owner" : "BROADCASTER",
         "type" : "MAIN"
       } ],
       "genres" : [ ],
+      "tags" : [ "fotograaf" ],
       "countries" : [ ],
       "languages" : [ ],
       "duration" : 3600000,
       "credits" : [ {
-        "givenName" : "Karin",
-        "familyName" : "van den Boogaert",
-        "role" : "PRESENTER"
+        "givenName" : "Michel",
+        "familyName" : "Szulc Krzyzanowski ",
+        "role" : "GUEST"
       } ],
       "descendantOf" : [ {
         "midRef" : "POMS_S_VPRO_195283",
         "urnRef" : "urn:vpro:media:group:11887617",
         "type" : "ARCHIVE"
       }, {
-        "midRef" : "POMS_S_NTR_160161",
-        "urnRef" : "urn:vpro:media:group:16357199",
+        "midRef" : "POMS_S_VPRO_171668",
+        "urnRef" : "urn:vpro:media:group:14683553",
         "type" : "ARCHIVE"
+      }, {
+        "midRef" : "POMS_S_VPRO_170138",
+        "urnRef" : "urn:vpro:media:group:14921822",
+        "type" : "ARCHIVE"
+      }, {
+        "midRef" : "POMS_S_VPRO_137918",
+        "urnRef" : "urn:vpro:media:group:22372311",
+        "type" : "SEASON"
+      }, {
+        "midRef" : "RBX_S_NTR_553927",
+        "urnRef" : "urn:vpro:media:group:3034792",
+        "type" : "SERIES"
       }, {
         "midRef" : "POMS_S_VPRO_417554",
         "urnRef" : "urn:vpro:media:group:30800916",
         "type" : "COLLECTION"
-      }, {
-        "midRef" : "RBX_S_NTR_553911",
-        "urnRef" : "urn:vpro:media:group:33646332",
-        "type" : "SERIES"
       } ],
-      "email" : [ "dekennisvannu@ntr.nl" ],
+      "email" : [ "kunststof@ntr.nl" ],
       "websites" : [ {
-        "value" : "http://www.npowetenschap.nl/programmas/dekennisvannu.html"
+        "value" : "http://www.ntr.nl/kunststof"
+      } ],
+      "predictions" : [ {
+        "state" : "REALIZED",
+        "platform" : "INTERNETVOD"
       } ],
       "locations" : [ {
-        "programUrl" : "http://download.omroep.nl/audiologging/r1/2014/12/21/2000_2100_de_kennis_van_nu_20141221.mp3",
+        "programUrl" : "http://download.omroep.nl/audiologging/r1/2013/02/06/1900_2000_kunststof.mp3",
         "avAttributes" : {
           "avFileFormat" : "MP3"
         },
         "duration" : 3600000,
         "owner" : "RADIOBOX",
-        "creationDate" : 1419192847584,
-        "lastModified" : 1419192883793,
+        "creationDate" : 1360177450739,
+        "lastModified" : 1360177455870,
         "workflow" : "PUBLISHED",
-        "urn" : "urn:vpro:media:location:45151101"
+        "urn" : "urn:vpro:media:location:20305149"
       } ],
       "scheduleEvents" : [ {
-        "start" : 1419188400000,
+        "start" : 1360173600000,
         "duration" : 3600000,
-        "poProgID" : "RBX_NTR_556749",
+        "poProgID" : "POMS_NTR_113560",
         "channel" : "RAD1",
-        "urnRef" : "urn:vpro:media:program:45130511",
-        "midRef" : "RBX_NTR_556749"
+        "urnRef" : "urn:vpro:media:program:20305146",
+        "midRef" : "POMS_NTR_113560"
       } ],
       "images" : [ {
-        "title" : "Esther-Mirjam Sent.jpg",
-        "description" : "De Kennis van Nu",
-        "imageUri" : "urn:vpro:image:376194",
+        "title" : "Kunststof",
+        "description" : "Kunststof",
+        "imageUri" : "urn:vpro:image:120700",
         "owner" : "RADIOBOX",
         "type" : "PICTURE",
         "highlighted" : false,
-        "creationDate" : 1418918690707,
-        "lastModified" : 1418918692941,
+        "creationDate" : 1360177454520,
+        "lastModified" : 1360177455869,
         "workflow" : "PUBLISHED",
-        "urn" : "urn:vpro:media:image:45130513"
-      } ],
-      "workflow" : "PUBLISHED",
-      "segments" : [ {
-        "objectType" : "segment",
-        "mid" : "RBX_NTR_748426",
-        "creationDate" : 1419479943812,
-        "lastModified" : 1419479944038,
-        "sortDate" : 1419188400000,
-        "urn" : "urn:vpro:media:segment:45214329",
-        "embeddable" : true,
-        "crids" : [ "crid://audiofragment.radiobox2/169706" ],
-        "broadcasters" : [ {
-          "id" : "NTR",
-          "value" : "NTR"
-        } ],
-        "titles" : [ {
-          "value" : "Econome, politica en feministe",
-          "owner" : "RADIOBOX",
-          "type" : "MAIN"
-        } ],
-        "descriptions" : [ {
-          "value" : "Ze is econoom en politica. Ze stelt dat wij geen gecalculeerde economische keuzes maken, maar dat we gestuurd worden door irrationeel en impulsief gedrag. Ze is een veelgevraagd commentator in de media, zit namens de PvdA in de Eerste kamer en is hoogleraar economische theorie en economisch beleid aan de Radboud Universiteit Nijmegen. Aanstaande zondag praat Karin van den Boogaert in De Kennis van Nu met Esther-Mirjam Sent. Een gesprek over de beperkingen van economische modellen en voorspellingen, over de vraag of de crisis voorkomen had kunnen worden als de beursvloeren niet gedomineerd werd door mannen en over manieren waarop je mensen zonder financiële prikkels zo ver krijgt dat ze zich gezonder en verstandiger gedragen. Foto: Erik van ’t Hullenaar",
-          "owner" : "RADIOBOX",
-          "type" : "MAIN"
-        } ],
-        "genres" : [ ],
-        "countries" : [ ],
-        "languages" : [ ],
-        "duration" : 3236000,
-        "descendantOf" : [ {
-          "midRef" : "POMS_S_VPRO_195283",
-          "urnRef" : "urn:vpro:media:group:11887617",
-          "type" : "ARCHIVE"
-        }, {
-          "midRef" : "POMS_S_NTR_160161",
-          "urnRef" : "urn:vpro:media:group:16357199",
-          "type" : "ARCHIVE"
-        }, {
-          "midRef" : "POMS_S_VPRO_417554",
-          "urnRef" : "urn:vpro:media:group:30800916",
-          "type" : "COLLECTION"
-        }, {
-          "midRef" : "RBX_S_NTR_553911",
-          "urnRef" : "urn:vpro:media:group:33646332",
-          "type" : "SERIES"
-        }, {
-          "midRef" : "RBX_NTR_556749",
-          "urnRef" : "urn:vpro:media:program:45130511",
-          "type" : "BROADCAST"
-        } ],
-        "locations" : [ {
-          "programUrl" : "http://radiobox2.omroep.nl/audiofragment/file/169706/fragment.mp3",
-          "avAttributes" : {
-            "avFileFormat" : "MP3"
-          },
-          "duration" : 3236000,
-          "owner" : "RADIOBOX",
-          "creationDate" : 1419479466788,
-          "lastModified" : 1419479944040,
-          "workflow" : "PUBLISHED",
-          "urn" : "urn:vpro:media:location:45214333"
-        } ],
-        "images" : [ {
-          "title" : "Esther-Mirjam Sent.jpg",
-          "description" : "Econome, politica en feministe",
-          "imageUri" : "urn:vpro:image:376194",
-          "owner" : "RADIOBOX",
-          "type" : "PICTURE",
-          "highlighted" : false,
-          "creationDate" : 1419479941588,
-          "lastModified" : 1419479944039,
-          "workflow" : "PUBLISHED",
-          "urn" : "urn:vpro:media:image:45214331"
-        } ],
-        "workflow" : "PUBLISHED",
-        "start" : 209000,
-        "urnRef" : "urn:vpro:media:program:45130511",
-        "midRef" : "RBX_NTR_556749",
-        "type" : "SEGMENT",
-        "avType" : "AUDIO"
-      } ],
-      "type" : "BROADCAST",
-      "avType" : "AUDIO"
+        "urn" : "urn:vpro:media:image:20305147"
+      } ]
     }
   }, {
-    "score" : 4.27067,
+    "score" : 3.1919146,
     "highlights" : [ ],
     "result" : {
       "objectType" : "program",
-      "mid" : "RBX_NTR_556751",
-      "creationDate" : 1417617308282,
-      "lastModified" : 1418037895771,
-      "sortDate" : 1417978800000,
-      "urn" : "urn:vpro:media:program:44928484",
+      "mid" : "POMS_VPRO_381641",
+      "type" : "BROADCAST",
+      "avType" : "AUDIO",
+      "workflow" : "PUBLISHED",
+      "sortDate" : 1376852400000,
+      "creationDate" : 1374458644864,
+      "lastModified" : 1392808416198,
+      "urn" : "urn:vpro:media:program:27882343",
       "embeddable" : true,
       "episodeOf" : [ {
-        "midRef" : "RBX_S_NTR_553911",
-        "urnRef" : "urn:vpro:media:group:33646332",
-        "type" : "SERIES",
-        "index" : 2,
+        "midRef" : "POMS_S_VPRO_484582",
+        "urnRef" : "urn:vpro:media:group:37330373",
+        "type" : "SEASON",
+        "index" : 33,
         "highlighted" : false,
-        "added" : 1417617309029
+        "added" : 1392808416183
       } ],
-      "crids" : [ "crid://broadcast.radiobox2/284420" ],
+      "crids" : [ "crid://broadcast.radiobox2/246982" ],
       "broadcasters" : [ {
+        "id" : "VPRO",
+        "value" : "VPRO"
+      }, {
         "id" : "NTR",
         "value" : "NTR"
+      }, {
+        "id" : "KRO",
+        "value" : "KRO"
       } ],
       "titles" : [ {
-        "value" : "De Kennis van Nu",
+        "value" : "Holland Doc Radio",
+        "owner" : "BROADCASTER",
+        "type" : "MAIN"
+      }, {
+        "value" : "Holland Doc Radio",
         "owner" : "RADIOBOX",
         "type" : "MAIN"
+      }, {
+        "value" : "NTR Radioprijs 2013 - aflevering 3",
+        "owner" : "BROADCASTER",
+        "type" : "SUB"
       } ],
       "descriptions" : [ {
-        "value" : "Hij promoveerde op onderzoek naar elementaire deeltjes en werkte daarna voor Shell, Ernst & Young en de Rabobank. Bij de Nederlandse mededingingsautoriteit nam hij de bouwfraude onder de loep en vervolgens hervormde hij het Nederlands Forensisch Instituut. \n\nAanstaande zondag praat Coen Verbraak met Tjark Tjin-A-Tsoi, die sinds april directeur-generaal is van het Centraal Bureau voor de Statistiek. Een gesprek over het CBS als nieuwsorganisatie, over het hervormen van logge instituten en over het wetenschappelijke klimaat in Nederland.",
-        "owner" : "RADIOBOX",
-        "type" : "MAIN"
+        "value" : "De genomineerden voor de NTR Radioprijs 2013 zijn bekend. De aanmoedigingsprijs voor jonge Radiomakers uit Nederland en Vlaanderen wordt dit jaar voor de 23-ste maal uitgereikt. Alle makers van de genomineerde programma’s zijn te gast bij Winfried Baijens in Holland Doc Radio. Zij praten over de totstandkoming van hun programma en laten hun documentaire horen. Deze week praten Rick Kraus en Menne Dorland over hun programma 'Protest in de polder' en Guus Beenhakker over zijn documentaire 'De smid'. ",
+        "owner" : "BROADCASTER",
+        "type" : "SHORT"
       } ],
       "genres" : [ ],
       "countries" : [ ],
       "languages" : [ ],
       "duration" : 3600000,
-      "credits" : [ {
-        "givenName" : "Coen",
-        "familyName" : "Verbraak",
-        "role" : "PRESENTER"
-      } ],
       "descendantOf" : [ {
         "midRef" : "POMS_S_VPRO_195283",
         "urnRef" : "urn:vpro:media:group:11887617",
         "type" : "ARCHIVE"
       }, {
-        "midRef" : "POMS_S_NTR_160161",
-        "urnRef" : "urn:vpro:media:group:16357199",
-        "type" : "ARCHIVE"
+        "midRef" : "POMS_S_VPRO_075862",
+        "urnRef" : "urn:vpro:media:group:17752055",
+        "type" : "PLAYLIST"
       }, {
-        "midRef" : "POMS_S_VPRO_417554",
-        "urnRef" : "urn:vpro:media:group:30800916",
+        "midRef" : "POMS_S_VPRO_417553",
+        "urnRef" : "urn:vpro:media:group:30800911",
         "type" : "COLLECTION"
       }, {
-        "midRef" : "RBX_S_NTR_553911",
-        "urnRef" : "urn:vpro:media:group:33646332",
+        "midRef" : "POMS_S_VPRO_484582",
+        "urnRef" : "urn:vpro:media:group:37330373",
+        "type" : "SEASON"
+      }, {
+        "midRef" : "POMS_S_VPRO_485107",
+        "urnRef" : "urn:vpro:media:group:37344070",
         "type" : "SERIES"
       } ],
-      "email" : [ "dekennisvannu@ntr.nl" ],
+      "memberOf" : [ {
+        "midRef" : "POMS_S_VPRO_075862",
+        "urnRef" : "urn:vpro:media:group:17752055",
+        "type" : "PLAYLIST",
+        "highlighted" : false,
+        "added" : 1376917187250
+      } ],
       "websites" : [ {
-        "value" : "http://www.npowetenschap.nl/programmas/dekennisvannu.html"
+        "value" : "redactie@hollanddoc.nl"
+      } ],
+      "predictions" : [ {
+        "state" : "REALIZED",
+        "platform" : "INTERNETVOD"
       } ],
       "locations" : [ {
-        "programUrl" : "http://download.omroep.nl/audiologging/r1/2014/12/07/2000_2100_de_kennis_van_nu_20141207.mp3",
+        "programUrl" : "http://download.omroep.nl/audiologging/r1/2013/08/18/2100_2200_holland_doc_radio.mp3",
         "avAttributes" : {
           "avFileFormat" : "MP3"
         },
         "duration" : 3600000,
         "owner" : "RADIOBOX",
-        "creationDate" : 1417983243420,
-        "lastModified" : 1417983282299,
+        "creationDate" : 1376856261759,
+        "lastModified" : 1376856270549,
         "workflow" : "PUBLISHED",
-        "urn" : "urn:vpro:media:location:44958989"
+        "urn" : "urn:vpro:media:location:28666095"
       } ],
       "scheduleEvents" : [ {
-        "start" : 1417978800000,
+        "start" : 1376852400000,
         "duration" : 3600000,
-        "poProgID" : "RBX_NTR_556751",
+        "poProgID" : "POMS_VPRO_381641",
         "channel" : "RAD1",
-        "urnRef" : "urn:vpro:media:program:44928484",
-        "midRef" : "RBX_NTR_556751"
+        "urnRef" : "urn:vpro:media:program:27882343",
+        "midRef" : "POMS_VPRO_381641"
       } ],
       "images" : [ {
-        "title" : "Tjark Tjin-A-Tsoi.jpg",
-        "description" : "De Kennis van Nu",
-        "imageUri" : "urn:vpro:image:372138",
-        "owner" : "RADIOBOX",
+        "title" : "radiop",
+        "description" : "radiop",
+        "imageUri" : "urn:vpro:image:204959",
+        "height" : 364,
+        "width" : 589,
+        "owner" : "BROADCASTER",
         "type" : "PICTURE",
         "highlighted" : false,
-        "creationDate" : 1417617306332,
-        "lastModified" : 1417617308287,
+        "creationDate" : 1375100427177,
+        "lastModified" : 1375100427268,
         "workflow" : "PUBLISHED",
-        "urn" : "urn:vpro:media:image:44928486"
-      } ],
-      "workflow" : "PUBLISHED",
-      "segments" : [ {
-        "objectType" : "segment",
-        "mid" : "RBX_NTR_726780",
-        "creationDate" : 1418037895642,
-        "lastModified" : 1418037895766,
-        "sortDate" : 1417978800000,
-        "urn" : "urn:vpro:media:segment:44978347",
-        "embeddable" : true,
-        "crids" : [ "crid://audiofragment.radiobox2/167521" ],
-        "broadcasters" : [ {
-          "id" : "NTR",
-          "value" : "NTR"
-        } ],
-        "titles" : [ {
-          "value" : "Manager, theoretisch natuurkundige en tennisser",
-          "owner" : "RADIOBOX",
-          "type" : "MAIN"
-        } ],
-        "descriptions" : [ {
-          "value" : "Hij promoveerde op onderzoek naar elementaire deeltjes en werkte daarna voor Shell, Ernst & Young en de Rabobank. Bij de Nederlandse mededingingsautoriteit nam hij de bouwfraude onder de loep en vervolgens hervormde hij het Nederlands Forensisch Instituut. Aanstaande zondag praat Coen Verbraak met Tjark Tjin-A-Tsoi, die sinds april directeur-generaal is van het Centraal Bureau voor de Statistiek. Een gesprek over het CBS als nieuwsorganisatie, over het hervormen van logge instituten en over het wetenschappelijke klimaat in Nederland.",
-          "owner" : "RADIOBOX",
-          "type" : "MAIN"
-        } ],
-        "genres" : [ ],
-        "countries" : [ ],
-        "languages" : [ ],
-        "duration" : 3286000,
-        "descendantOf" : [ {
-          "midRef" : "POMS_S_VPRO_195283",
-          "urnRef" : "urn:vpro:media:group:11887617",
-          "type" : "ARCHIVE"
-        }, {
-          "midRef" : "POMS_S_NTR_160161",
-          "urnRef" : "urn:vpro:media:group:16357199",
-          "type" : "ARCHIVE"
-        }, {
-          "midRef" : "POMS_S_VPRO_417554",
-          "urnRef" : "urn:vpro:media:group:30800916",
-          "type" : "COLLECTION"
-        }, {
-          "midRef" : "RBX_S_NTR_553911",
-          "urnRef" : "urn:vpro:media:group:33646332",
-          "type" : "SERIES"
-        }, {
-          "midRef" : "RBX_NTR_556751",
-          "urnRef" : "urn:vpro:media:program:44928484",
-          "type" : "BROADCAST"
-        } ],
-        "locations" : [ {
-          "programUrl" : "http://radiobox2.omroep.nl/audiofragment/file/167521/fragment.mp3",
-          "avAttributes" : {
-            "avFileFormat" : "MP3"
-          },
-          "duration" : 3286000,
-          "owner" : "RADIOBOX",
-          "creationDate" : 1418037849558,
-          "lastModified" : 1418037895768,
-          "workflow" : "PUBLISHED",
-          "urn" : "urn:vpro:media:location:44978351"
-        } ],
-        "images" : [ {
-          "title" : "Tjark Tjin-A-Tsoi.jpg",
-          "description" : "Manager, theoretisch natuurkundige en tennisser",
-          "imageUri" : "urn:vpro:image:372138",
-          "owner" : "RADIOBOX",
-          "type" : "PICTURE",
-          "highlighted" : false,
-          "creationDate" : 1418037892806,
-          "lastModified" : 1418037895767,
-          "workflow" : "PUBLISHED",
-          "urn" : "urn:vpro:media:image:44978349"
-        } ],
-        "workflow" : "PUBLISHED",
-        "start" : 250000,
-        "urnRef" : "urn:vpro:media:program:44928484",
-        "midRef" : "RBX_NTR_556751",
-        "type" : "SEGMENT",
-        "avType" : "AUDIO"
-      } ],
-      "type" : "BROADCAST",
-      "avType" : "AUDIO"
+        "urn" : "urn:vpro:media:image:28091520"
+      } ]
     }
   } ]
 }

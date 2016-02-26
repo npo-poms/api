@@ -1,125 +1,124 @@
 {
   "facets" : { },
   "selectedFacets" : { },
-  "total" : 348,
+  "total" : 2637,
   "offset" : 0,
   "max" : 2,
   "items" : [ {
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",
-      "type" : "HOME",
-      "url" : "http://www-test.vpro.nl/luister/cafe-sonore.html",
-      "sortDate" : 1364466903830,
-      "crids" : [ "crid://vpro/website/cbabe6c4-5495-4c3b-82be-b407d75b355d" ],
+      "type" : "PLAYER",
+      "url" : "http://www-acc.cultura.nl/speel.POMS_AVRO_398362.html",
+      "sortDate" : 1378191600000,
+      "crids" : [ "crid://vpro/media/cultura/POMS_AVRO_398362" ],
       "broadcasters" : [ {
-        "id" : "VPRO",
-        "value" : "VPRO"
+        "id" : "AVRO",
+        "value" : "AVRO"
       } ],
       "portal" : {
-        "id" : "VPRONL",
-        "url" : "http://www-test.vpro.nl",
-        "value" : "VPRO.nl"
+        "id" : "CULTURA24",
+        "url" : "http://www-acc.cultura.nl",
+        "value" : "NPO Cultura"
       },
-      "title" : "café sonore",
-      "summary" : "Café Sonore is VPRO’s Radio 6 platform voor de experimentele jazz en impro, de electroakoestische muziek, Radio Art en een groeiend aantal geluidsbronnen.",
+      "title" : "Alphons Diepenbrock - Ouverture voor orkest, \"De vogels\"",
+      "genres" : [ {
+        "id" : "3.0.3.5",
+        "terms" : [ "Klassiek" ],
+        "displayName" : "Klassiek"
+      } ],
       "embeds" : [ {
+        "title" : "Alphons Diepenbrock - Ouverture voor orkest, \"De vogels\"",
+        "description" : "Alphons DiepenbrockOuverture voor orkest, \"De vogels\"\nLuister en lees meer",
         "media" : {
-          "objectType" : "group",
-          "mid" : "AUTO_CAFSONORE",
-          "creationDate" : 1266434442207,
-          "lastModified" : 1393624246970,
-          "sortDate" : 1388271600000,
-          "urn" : "urn:vpro:media:group:73298",
+          "objectType" : "segment",
+          "mid" : "POMS_AVRO_398362",
+          "type" : "SEGMENT",
+          "avType" : "AUDIO",
+          "workflow" : "PUBLISHED",
+          "sortDate" : 1378191600000,
+          "creationDate" : 1378202845875,
+          "lastModified" : 1378202846207,
+          "urn" : "urn:vpro:media:segment:29220468",
           "embeddable" : true,
-          "crids" : [ "crid://tmp.serie.omroep.nl/4329", "crid://programme.radiobox2/355" ],
+          "crids" : [ "crid://fragment.radiobox2/115605" ],
           "broadcasters" : [ {
-            "id" : "VPRO",
-            "value" : "VPRO"
+            "id" : "AVRO",
+            "value" : "AVRO"
           } ],
           "titles" : [ {
-            "value" : "Cafe Sonore",
+            "value" : "Alphons Diepenbrock - Ouverture voor orkest, \"De vogels\"",
             "owner" : "RADIOBOX",
-            "type" : "MAIN"
-          }, {
-            "value" : "Café Sonore",
-            "owner" : "NEBO",
             "type" : "MAIN"
           } ],
           "descriptions" : [ {
-            "value" : "Cafe Sonore",
+            "value" : "Alphons DiepenbrockOuverture voor orkest, \"De vogels\"\nLuister en lees meer",
             "owner" : "RADIOBOX",
             "type" : "MAIN"
-          }, {
-            "value" : "Café Sonore is VPRO’s Radio 6 platform voor de experimentele jazz en impro, de electroakoestische muziek, Radio Art en een groeiend aantal geluidsbronnen.Presentator/samensteller is Armeno Alberts",
-            "owner" : "NEBO",
-            "type" : "EPISODE"
           } ],
           "genres" : [ ],
           "countries" : [ ],
           "languages" : [ ],
+          "duration" : 687000,
           "descendantOf" : [ {
+            "midRef" : "AUTO_DEKLASSIEKEN",
+            "urnRef" : "urn:vpro:media:group:13405534",
+            "type" : "SERIES"
+          }, {
             "midRef" : "POMS_S_VPRO_171668",
             "urnRef" : "urn:vpro:media:group:14683553",
             "type" : "ARCHIVE"
           }, {
-            "midRef" : "POMS_S_VPRO_218686",
-            "urnRef" : "urn:vpro:media:group:14921825",
+            "midRef" : "POMS_S_VPRO_170117",
+            "urnRef" : "urn:vpro:media:group:14921910",
             "type" : "ARCHIVE"
           }, {
-            "midRef" : "POMS_S_VPRO_117474",
-            "urnRef" : "urn:vpro:media:group:20347947",
-            "type" : "PLAYLIST"
+            "midRef" : "POMS_AVRO_378606",
+            "urnRef" : "urn:vpro:media:program:27508418",
+            "type" : "BROADCAST"
           } ],
-          "memberOf" : [ {
-            "midRef" : "POMS_S_VPRO_218686",
-            "urnRef" : "urn:vpro:media:group:14921825",
-            "type" : "ARCHIVE",
-            "index" : 67,
-            "highlighted" : false,
-            "added" : 1377179136934
+          "predictions" : [ {
+            "state" : "REALIZED",
+            "platform" : "INTERNETVOD"
+          } ],
+          "locations" : [ {
+            "programUrl" : "http://radiobox2.omroep.nl/audiofragment/file/115605/fragment.mp3",
+            "avAttributes" : {
+              "avFileFormat" : "MP3"
+            },
+            "duration" : 687000,
+            "owner" : "RADIOBOX",
+            "creationDate" : 1378202817510,
+            "lastModified" : 1378202846209,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:29220472"
           } ],
           "images" : [ {
-            "title" : "armeno_alberts.jpg",
-            "description" : "Cafe Sonore",
-            "imageUri" : "urn:vpro:image:120813",
+            "title" : "diepenbrock2.jpg",
+            "description" : "Alphons Diepenbrock - Ouverture voor orkest, \"De vogels\"",
+            "imageUri" : "urn:vpro:image:149106",
             "owner" : "RADIOBOX",
             "type" : "PICTURE",
             "highlighted" : false,
-            "creationDate" : 1361434839780,
-            "lastModified" : 1361434841288,
+            "creationDate" : 1378202834325,
+            "lastModified" : 1378202846208,
             "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:image:22069710"
-          }, {
-            "title" : "Cafe Sonore",
-            "imageUri" : "urn:vpro.image:7594",
-            "owner" : "BROADCASTER",
-            "type" : "PICTURE",
-            "highlighted" : false,
-            "creationDate" : 1269458417384,
-            "lastModified" : 1306253745339,
-            "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:image:531788"
-          }, {
-            "title" : "Cafe Sonore",
-            "imageUri" : "urn:vpro.image:7740",
-            "owner" : "NEBO",
-            "type" : "PICTURE",
-            "highlighted" : false,
-            "creationDate" : 1306261421372,
-            "lastModified" : 1306261421372,
-            "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:image:9670769"
+            "urn" : "urn:vpro:media:image:29220470"
           } ],
-          "workflow" : "PUBLISHED",
-          "type" : "SERIES",
-          "isOrdered" : false,
-          "avType" : "AUDIO"
+          "start" : 1870000,
+          "urnRef" : "urn:vpro:media:program:27508418",
+          "midRef" : "POMS_AVRO_378606"
         }
       } ],
-      "publishStart" : 1364466903830,
-      "creationDate" : 1412266700519,
-      "lastModified" : 1422550068971,
+      "images" : [ {
+        "type" : "PICTURE",
+        "url" : "http://images.poms.omroep.nl/image/s360/149106.jpg",
+        "title" : "diepenbrock2.jpg",
+        "description" : "Alphons Diepenbrock - Ouverture voor orkest, \"De vogels\""
+      } ],
+      "publishStart" : 1378191600000,
+      "creationDate" : 1414775633274,
+      "lastModified" : 1417468013868,
       "refCount" : 0
     }
   }, {
@@ -127,193 +126,116 @@
     "result" : {
       "objectType" : "page",
       "type" : "PLAYER",
-      "url" : "http://www-test.npogeschiedenis.nl/andere-tijden/afleveringen/2005-2006/Verolme.html",
-      "sortDate" : 1289994585299,
-      "crids" : [ "crid://vpro/website/8a0406a2-af85-45ec-8a82-def14f338dc5" ],
+      "url" : "http://www-acc.cultura.nl/speel.POMS_AVRO_268170.html",
+      "sortDate" : 1329206400000,
+      "crids" : [ "crid://vpro/media/cultura/POMS_AVRO_268170" ],
       "broadcasters" : [ {
-        "id" : "VPRO",
-        "value" : "VPRO"
+        "id" : "AVRO",
+        "value" : "AVRO"
       } ],
       "portal" : {
-        "id" : "GESCHIEDENIS24",
-        "url" : "http://www-test.npogeschiedenis.nl",
-        "value" : "NPO Geschiedenis",
-        "section" : {
-          "path" : "/geschiedenis/andere-tijden",
-          "id" : "GESCHIEDENIS24./geschiedenis/andere-tijden"
-        }
+        "id" : "CULTURA24",
+        "url" : "http://www-acc.cultura.nl",
+        "value" : "NPO Cultura"
       },
-      "title" : "Verolme",
-      "summary" : "‘Cornelis Verolme. Opkomst en ondergang van een scheepsbouwer’ heet het onlangs verschenen boek van Ariëtte Dekker – het boek dat de aanleiding vormde voor deze uitzending over Verolme. De grootste scheepsbouwer uit onze geschiedenis was hij, en zijn val was dan ook peilloos diep. Een man van allure, en van grote projecten. Er is weinig van over. Maar toch, in Brazilië, daar waar Verolme ooit een werf had, wordt hij nog altijd op handen gedragen.",
-      "paragraphs" : [ {
-        "title" : "Een paradijs in het oerwoud",
-        "body" : "Op 8 februari 1959 opent prins Bernhard Verolme Estalieros Reunidos do Brasil, de Braziliaanse werf van Cornelis Verolme in de baai van Jacuacanga. In de schaduw is het 40 graden en een volledig geüniformeerde Bernhard trekt ceremonieel de laatste boom omver. Dit om eraan te herinneren dat deze plek niet lang daarvoor nog volledig oerwoud was. De Braziliaanse president en de 1500 genodigden applaudisseren. Cornelis Verolme glundert, het is zijn dag. Negen dagen eerder is het contract met de Braziliaanse regering definitief gesloten en is hij eigenaar geworden van een enorm stuk oerwoud voor een periode van 99 jaar.  Verolme heeft het voor elkaar. Hier, op 100 kilometer van Rio de Janeiro, kan hij zonder belemmeringen, zonder regels en zonder politiek economische bemoeienis van de Nederlandse overheid een werf bouwen. Een werf die met veertig hectare en de mogelijkheid om schepen van 100 duizend ton te bouwen in zijn gedachte spoedig de grootste van Zuid Amerika zal worden en een uitgelezen kans om zijn eigen paradijs te scheppen."
-      }, {
-        "title" : "Poets de stichter",
-        "body" : "Het is zaterdag 9 uur in de ochtend en nog niet zo warm. Fernande Candido Nasciomento steekt de straat over. Zijn winkel in speelgoed en huishoudelijke apparatuur laat hij even onbemand achter. De weinige mensen op straat hebben geen aandacht voor de man die met een rode poetsdoek met liefdevolle bewegingen het goudgeverfde beeld in het parkje begint schoon te vegen. Alleen het meisje in het krantenstalletje kijkt een weinig verveeld naar de man die staand op zijn tenen met grote toewijding nek, oren, ogen van het borstbeeld poetst. De plaquette halverwege de 1meter 80 hoge sokkel vermeldt dat het hier om Cornelis Verolme gaat, de stichter van de gelijknamige werf in Jacuacanga. Het beeld is geschonken door een dankbare gemeenteraad van Angra dos Reis in 1982. Verolme is dan al een jaar dood.",
-        "image" : {
-          "type" : "PICTURE",
-          "url" : "http://www-test.npogeschiedenis.nl/.imaging/stk/geschiedenis/search/media/geschiedenis/andere-tijden/2005/October/24412706/original/24412706.jpg",
-          "title" : "Verolme"
-        }
-      }, {
-        "title" : "Een eigen zaak",
-        "body" : "Cornelis Verolme wordt in 1900 geboren als zevende zoon van een boerengezin in het dorpje Nieuwe-Tonge op het Zuid-Hollandse eiland Goeree-Overflakkee. Hij doorloopt de Ambachtsschool in Middelharnis en vindt emplooi bij machinefabriek Stork als hoofdingenieur. Na de oorlog schrijft hij een interne notitie waarin hij pleit voor een ingrijpende productievernieuwing om de 5700 schepen die tijdens de oorlog vernietigd zijn te vervangen. Het stuk valt niet op vanwege de inhoud maar des te meer door zijn aanbeveling hem op te nemen in de hoofddirectie. Als hem dit geweigerd wordt begint hij in 1946 in IJsselmonde een machinefabriek. Naar eigen zeggen met een startkapitaal van 15.000 dollar, zo vertelt hij aan interviewster Phyllis Night in het Amerikaanse praatprogramma Smalltalk, maar hardnekkig is het gerucht dat hij tijdens de oorlog scheepsmotoren voor de bezetter had verstopt om deze na de oorlog met veel winst en een even ruime persoonlijke courtage door te verkopen.  Economisch heeft hij de wind mee en zijn bedrijf groeit snel. In de eerste helft van de jaren ‘50 koopt hij werven in Alblasserdam en Heusden en in 1956 wordt de eerste paal geslagen voor de werf in de Botlek die zal uitgroeien tot de grootste en modernste van Europa. Het adagium van Verolme is: groot, groter, grootst en het tonnage van zijn schepen loopt op van 10.000 ton naar 30.000 ton. Maar bij Verolme moet het altijd groter. Hij voorziet dat er vraag zal ontstaan naar schepen van 100 en zelfs 250 duizend ton. Hij wil in de Botlek een superdok bouwen waar hij supertankers kan maken en op een gegeven moment heeft hij 80% van de Nederlandse scheepsbouw in handen. Verolme heeft lef en een neus voor innovatieve oplossingen. Een helling bouwt hij gelijk met een schip en het ene schip wordt gefinancierd met het andere. In de jaren ‘50 haalt hij de prestigieuze opdracht, om een Braziliaans vliegkampschip te moderniseren, binnen. Drie jaar lang wordt er op de Botlek aan de Minas Gerais geschaafd, geschuurd en gelast - een tijd die Verolme gebruikt om de contacten met de Braziliaanse minister president Kubichek nauwer aan te halen. Deze wil een eigen koopvaardijvloot oprichten met in Brazilië geproduceerde schepen en Verolme wil dolgraag voet aan de grond krijgen in Latijns Amerika. Al in 1936 reist hij voor Stork naar Brazilië en wordt verliefd op het land. De inspanningen van Verolme bij Kubichek hebben succes: net als een Japans en een klein Braziliaans bedrijf krijgt het Verolme concern een voorlopige vergunning voor de bouw van een werf in Brazilië.",
-        "image" : {
-          "type" : "PICTURE",
-          "url" : "http://www-test.npogeschiedenis.nl/.imaging/stk/geschiedenis/search/media/geschiedenis/andere-tijden/2005/October/24488817/original/24488817.jpg",
-          "title" : "Verolme"
-        }
-      }, {
-        "title" : "‘Niemand heeft iets in dit plekje gezien’",
-        "body" : "‘Ik had reeds enig succes, maar nu stond ik voor de vraag: waar moet die werf komen’, schrijft Verolme in zijn memoires. Per boot onderneemt hij een oriëntatietocht die hem langs de oceaankust voert en in de baai van Jacuacanga valt hem de uitzonderlijke schoonheid van het gebied op. Hij vindt het hier zo mooi dat hij beslist aan land wil gaan.  ‘ De zee was kalmer geworden en samen met twee anderen zwom ik naar het strand om op onderzoek uit te gaan (...) en reeds gedurende deze korte inspectie raakte ik er meer en meer van overtuigd dat dit een geschikt oord voor onze eerste buitenlandse vestiging van ons concern kon zijn. Tenslotte waren onze indrukken zo gunstig dat wij, terug in Rio, de stoute schoenen aantrokken en in beginsel de regering het voorstel deden aan de baai van Jacuacanga een werf te vestigen, Op deze voorslag wilde men wel ingaan’, aldus Verolme in zijn memoires.  In de bedrijfsfilm ‘Werf in de Wildernis’ wordt de keuze van de plaats nog heroïscher voorgesteld. Op het achterschip staat Verolme in tropenuniform de blik een weinig omhoog gericht, de begeleidende tekst luidt:’niemand heeft iets in dit plekje gezien, alleen een Nederlander, een scheepsbouwer. 100 kilometer is hij langs de kust gevaren en tot hij zag wat hij zocht. Hij zag een baai ruim genoeg om een werf te bouwen en een nieuwe stad. Hij zag een werf in volle werking op de plaats van het oerwoud.’  De waarheid omtrent de vestiging is helaas minder romantisch dan Verolme wil doen voorkomen. Manager op de werf Jan Broekhoven: ’Ik denk dat dit tot de legendes behoort want niet Verolme besliste waar die werf kwam maar de Braziliaanse overheid en de Brazilianen wilden hun zware industrie spreiden. De Japanners hadden net al een plek in Rio gekregen dus Verolme heeft deze plek gewoon toegewezen gekregen. Het is een prima plek zo aan diep vaarwater maar het was een slechte keuze voor een zakenman want alles moest aangevoerd worden over weg en water’, aldus Broekhoven.  ‘Hij was een handig zakenman maar ook zeer naïef’, zegt zijn vriend Ferry Hoogendijk thuis in zijn serre. ‘Hij had met president Kubichek afgesproken dat de regering een weg van Angra dos Reis naar de werf zou aanleggen, 25 kilometer lang, en hij gelooft dat en vervolgens gebeurt dat pas in de jaren ‘70. Hij was gewoon te goedgelovig.’ Zo kwam het dat voedsel en voorraden uit Angra dos Reis, staalplaten uit Villa Redonda, en onderdelen uit Sao Paulo worden ingevaren. Daarnaast laat hij voor de bouw van de werf 2 miljoen kilo staal vanuit Angra naar Jacuacanga vervoeren. Kranen en persen komen uit Nederland net als de werknemers.",
-        "image" : {
-          "type" : "PICTURE",
-          "url" : "http://www-test.npogeschiedenis.nl/.imaging/stk/geschiedenis/search/media/geschiedenis/andere-tijden/2005/October/24412718/original/24412718.jpg",
-          "title" : "Broekhoven"
-        }
-      }, {
-        "title" : "Pionieren in de rimboe ",
-        "body" : "Zeventig Nederlandse werknemers en hun gezinnen vertrekken dat eerste jaar naar Jacuacanga. Voor de mannen is het een uitgelezen kans. Het is een avontuur en er is goed geld te verdienen. Maar als de mannen en masse bezwijken voor de verlokkingen van de Braziliaanse vrouwen die volgens oud lerares Ria Cruijssen lief, dienstig en zeer heet zijn, is het besluit om ook de gezinnen te laten overkomen snel gemaakt. Maar aangezien er wel een werf is en geen nederzetting, levert dit veel problemen op. Er zijn geen wegen, overal ligt modder, er is geen school en geen vertier. De gebouwde, A-, B-, C-huizen zijn status afhankelijk. De C-huizen zijn voor de ingenieurs bestemd. De B-huizen zijn voor de voormannen en de A-huizen zijn voor de arbeiders. Alle huizen hebben hetzelfde interieur. Alleen de kleur wisselt soms. Waren de vrouwen bij elkaar op de koffie zaten ze toch in hetzelfde huis. A home away from home.  Voor de kinderen is Brazilië het paradijs. Altijd mooi weer, het hele jaar door zwemmen in zee. Spijkers zoeken op de werf en…geen school tot wanhoop van de moeders die steeds meer problemen krijgen met de vrijheid van hun kinderen. ‘Ze kwamen in de tropen met kinderen van 12, 13, 14 jaar oud, weet Tine Reesink, die er een jaar verbleef. ‘Ze kwamen in de tropen met kinderen die in de pubertijd waren en dan die mooie Braziliaanse mannen en dat mooie weer, houd dat maar eens in bedwang.’ Pas als er een school wordt gebouwd en een lerares wordt aangesteld gaat het beter. Zes klassen van gemiddeld 4 kinderen per klas. Kinderen van leeftijden van 6 tot 12 jaar zitten in een lokaal. De een leert lezen terwijl de ander al in de brugklas zit. Bij toerbuurt krijgen ze les van de lerares. De kinderen volgen het lesprogramma van de Nederlandse school zodat ze terug in Nederland gelijk weer de draad konden oppakken."
-      }, {
-        "title" : "Werkschool voor lokale arbeiders",
-        "body" : "Leo van Steijn en Kor Verburgh werken sinds 1960 op de werf. Van Steijn (74) werkte de eerste 6 jaar op de helling voor hij de leiding kreeg van de leerschool op de werf, het opleidingscentrum van de arbeiders. Kor Verburgh (62) heeft gelast, stellingen gebouwd en aan de draaibank gestaan voordat hij als leerling-werkvoorbereider in de werkschool terechtkwam. De werkschool is een ruim schoolgebouw met leslokalen en een praktijkruimte. Vier gangen met kleine werkplaatsjes waar een paar Braziliaanse studenten leren solderen en lassen. Fonteinen van vuur geven aan waar leerlingen aan het werk zijn. ‘Vroeger gaven we les aan 85 man tegelijk nu mogen we blij zijn als het er 20 zijn’, zegt Leo van Steijn. Aan het eind van de gang heeft hij een kantoor waar aan de muur het statieportret van Verolme hangt. In de rechterhoek van de lijst is een klein bloemetje van lasdraad gestoken. Het portret is het beroemde statie portret van Verolme dat in de hoogtijdagen overal ter wereld op elk kantoor hing. Verolme -strak in pak- kijkt schuin omhoog, schipper naast God. ‘Ome Cor’, zegt Verburgh met ontzag in zijn stem. ‘Als Leo met pensioen gaat of wordt ontslagen dan neemt hij dit portret mee naar huis’, vervolgt hij. Het portret is niet het enige dat nog aan de oprichter doet denken. In het dorp naast de werf zijn twee winkels naar Verolme genoemd. Het zijn een sportwinkel en een café. Tandarts Paulo, boven de apotheek, afficheert zich nog steeds als ex-werknemer van Verolme en in de Avenida Cornelis Verolme staan de leukste huizen van Jacuacanga. Maar sinds de werf in buitenlandse handen is overgegaan worden de huizen niet meer geverfd en de werkgelegenheid is ook minder.  Als Bernhard in 1959 de werf opent wordt de verwachting uitgesproken dat binnen twee jaar het eerste schip van stapel zal lopen. Door werknemers wordt vreselijk hard gewerkt om dat te halen. Nederlandse en Braziliaanse arbeiders beginnen om 6 uur ‘s ochtends en gaan door tot 10, 11 uur ‘s avonds om dan midden in de nacht weer opgehaald te worden om een probleem op te lossen. Er zijn onvoldoende kranen en meermalen komt het voor dat een groot stuk metaal door meerdere mannen opgetild moet worden. Ook zijn de wegen na regenbuien onbegaanbaar en worden de mannen in de bak van een shovel van huis naar de werf vervoerd.  Er zijn ook grote tegenslagen. Het is in eerste instantie de bedoeling de hellingen op het strand te bouwen maar als blijkt dat dit één groot moeras is, waar heipalen spoorloos verdwijnen, besluit Verolme het eiland Ilha de Moreno dat voor de kust ligt met dynamiet tot de grond toe gelijk te maken en de baai met het puin te dempen. Het dagelijks leven op de werf wordt de eerste jaren bepaald door twee maal daags een doffe klap voorafgegaan door een luide sirene.’Na de explosie doken die gasten in het water en haalden de vissen, door de klap verdoofd, naar boven. Zo hielden ze er een lekker maaltje vis aan over’, weet Kor Verburgh nog. Zoals toen gebruikelijk worden bij Verolme helling en schip tegelijk gebouwd. Vanuit het midden werden schip en helling naar voren en achteren afgebouwd. Waarbij de explosies natuurlijk een complicerende factor zijn. Oud-directeur Ton Resink: ‘Het is natuurlijk wel een beetje lawaaierig en je moet ook wel oppassen, want bij elke ontploffing springt het steen in het rond en dan moesten we het schip weer steenvrij maken.’Af en toe zijn de springladingen een beetje te zwaar en wordt de net gelaste dubbele romp van een schip door luchtdruk uit elkaar geblazen. Persoonlijke ongelukken doen zich niet voor.   De werf groeit naar 40 hectare en op de plaats van het eiland verreizen twee hellingen. Op de grootste kunnen schepen van 100.000 ton gebouwd worden, terwijl op dat moment in Alblasserdam het grootste schip slechts 35.000 ton meet. Dagelijks zijn er 5000 arbeiders aan het werk en de hele streek profiteert van de werkgelegenheid. Economisch gaat het goed in Jacuacanga maar voor Verolme is de scheepsbouw slechts van de inkomensstromen. Jan Broekhoven zegt: ’Misschien is er in sommige jaren meer verdiend op de geldmarkt dan op het bouwen van schepen want door de enorme inflatie en speculeren op de overnight markt konden er kapitalen mee verdiend worden. Kijk, de betaling van een schip gaat in delen. Als de romp ligt, als de spanten staan en als je zoveel ton staal bestelt dan krijg je geld en dan werd er vaak gezegd ‘Dit target mogen we pas over een paar weken realiseren want dan komt er een correctie op de financiering’ en zo werd er handel gedreven. En daarom denk ik dat de werf gedurende een paar jaar secundair was terwijl het verdienen op de termijnmarkt primair was’, aldus Broekhoven.  Hoewel de dagelijkse leiding van de werf in handen is van een Nederlandse en een Braziliaanse directeur komt Verolme 2 maal per jaar voor zes weken langs om zijn investering te bekijken. Niet alleen voor zaken maar ook voor zijn eigen plezier. Hij heeft een prachtige villa in Camorin, een kilometer of zes van de werf en bijna dagelijks gaat hij met gasten varen.‘Aan boord waren dan een aantal kelners en eten en veel drank’ weet Ria Cruijssen. ‘Dan gingen we zwemmen en barbecuen op een van de 365 eilandjes in de buurt’. Hoewel Kor Verburgh nooit mee is geweest bij zo’n ‘natte lunch’, zoals hij het met Rotterdams accent noemt weet hij dat Verolme dan altijd veel vis ving. ‘Die werden door een Braziliaan aan zijn haak gehangen om Ome Kor het idee te geven dat hij veel gevangen had’, lacht hij.  Bijna dagelijks maakte Verolme een inspectierondje over de werf. Gekleed in licht tropenkostuum met pet op het hoofd liep hij over de werf. Altijd een paar passen voor de rest van zijn entourage uit. Als hij langsliep stopten de arbeiders met werken, Verburgh: ‘Ze gingen nog net niet in de houding staan maar ze hadden respect voor de man’. Hij sprak met de mensen in het Nederlands maar ook in gebroken Portugees. ‘Ik kende hem wel,’ zegt een man die leeft onder de bijnaam Canella Pretto, ‘zwart scheenbeen’. ‘Hij praatte met ons en vroeg of de lunch lekker was en dat we hem moesten waarschuwen als dat niet zo was.’ Verolme genoot van deze contacten en volgens vriend Ferry Hoogendijk was hij zeer gesteld op de werknemers die in meerderheid in het dorp naast de werf woonden. De eerste jaren betalen ze huur noch elektriciteit en zijn scholing en gezondheidszorg gratis. Door dit soort voordeeltjes dragen de (oud-)werknemers hem nog steeds op handen en tussen het poetsen van de buste door geeft Fernando Nacsiamento aan dat hij alles aan Verolme te danken heeft. ’Als hij hier niet naartoe was gekomen zouden we allemaal nog vissers zijn.’ Verolme brengt welvaart in de regio. Duizenden zijn financieel afhankelijk van de werf en zelfs nu nog, ruim 20 jaar na de verkoop van de werf heeft Verolme de status van halfgod onder de ouderen. ‘niemand zal iets negatiefs over Verolme zeggen’, waarschuwt Leo van Steijn: ’Werknemers zeggen niet ik werk bij Brasfels, zoals de werf nu heet, maar nog steeds zeggen ze ik werk bij Verolme en vroeger kon je zelfs op krediet kopen als je zei dat je bij Verolme werkte.’En bij het standbeeld in het centrum van Angra dos Reis treft Nasciamento regelmatig kaarsjes aan. ‘Er zijn mensen die hem vereren, hier komen bidden en hem zelfs om werk vragen.’ En op de werf wijst Ribeiro lachend naar het borstbeeld, dat bij het 25 jarig bestaan van de werf in 1974 is opgericht. ‘Papa,’ dat is papa Verolme.’",
-        "image" : {
-          "type" : "PICTURE",
-          "url" : "http://www-test.npogeschiedenis.nl/.imaging/stk/geschiedenis/search/media/geschiedenis/andere-tijden/2005/October/24488874/original/24488874.jpg",
-          "title" : "Van Steijn en Verburgh"
-        }
-      }, {
-        "title" : " ‘God geeft de vogels eten maar ze moeten er wel voor vliegen’ ",
-        "body" : "Het motto van Verolme heeft een duidelijk christelijke signatuur. Voor de buitenwereld leeft hij naar de bijbel en verwijst er regelmatig naar maar volgens Ferry Hoogendijk wist hij zijn geloof te koppelen aan een gezonde dosis pragmatisme. Zijn relatie met zijn secretaresse, Anneke, zette hij na twaalf jaar om in een huwelijk waardoor het volgens Hoogendijk ‘wel mocht’ en ook het zakendoen in Brazilië gaat hem goed af.  Jan Broekhoven: ’Zaken doen op bijbelse gronden in Brazilië is onmogelijk zeker niet in een bedrijf zoals hij dat had. Want omkopen is volgens mij niet bijbels.’ Maar voor zichzelf kan hij verantwoorden omdat hij het over ‘favoras’, voordeeltjes, heeft. Maar volgens Broekhoven moet hij overal van geweten hebben want hij was alleen eigenaar waarbij ik niet denk dat hij persoonlijk geld, of iets anders, in de hand van een minister heeft gestopt, dat zal door iemand anders gedaan zijn.’",
-        "image" : {
-          "type" : "PICTURE",
-          "url" : "http://www-test.npogeschiedenis.nl/.imaging/stk/geschiedenis/search/media/geschiedenis/andere-tijden/2005/October/24412753/original/24412753.jpg",
-          "title" : " "
-        }
-      }, {
-        "title" : "Het einde van een droom",
-        "body" : "Verolme is trots op zijn werf en zeer blij met zichzelf en tijdens een interview begin jaren 60 voor de Amerikaanse televisie somt hij in luttele seconden al zijn bezittingen op. ‘Ik heb 3 werven in Holland, en werven in Ierland, Brazilië en Noorwegen. Ik startte in 1946 helemaal alleen en nu werken er 12.000 mensen voor me en is het bedrijf tussen 100 en 120 miljoen dollar waard en ik ben de enige eigenaar’, zegt hij zonder een spoor van bescheidenheid. Een paar jaar is er van zijn imperium weinig meer over. De internationale scheepsbouw stort volledig in er is geen markt meer voor zijn schepen.  Verolme denkt het tij nog te kunnen keren en wil een reusachtig dok in de Botlek realiseren. Een dok groot genoeg om schepen van 250.000 ton te kunnen bouwen en repareren, maar daar heeft hij geld voor nodig. Veel geld, en hij weet in de jaren ‘70 miljoenen aan staatskredieten los te weken. Maar op een gegeven moment besluit de regering voorwaarden te stellen. In ruil voor een laatste krediet wordt Verolme gedwongen twee slecht renderende Amsterdamse werven over te nemen. Hiermee wordt de werkgelegenheid op de werven in Amsterdam behouden, hoewel deze werven niet meer mee kunnen komen omdat ze te kleine schepen produceren. Eigenlijk is er in Nederland slechts ruimte voor één scheepsbouwer, terwijl de markt op dat moment vooral wordt beheerst door de concurrenten Verolme en het Rijn-Schelde-concern. De overheid dringt aan op een samenwerking en dwingt Verolme min of meer in de fusie Rijn-Schelde-Verolme. Ariëtte Dekker toont in haar boek aan dat dit niet op alle punten eerlijk is verlopen. Verolmes aandeel in de fusie wordt bewust ondergewaardeerd, zodat hij minder te zeggen krijgt. Daarna wordt hij ceremonieel president-commissaris, maar mag zich in steeds mindere mate met het bedrijf bemoeien. Uiteindelijk wordt hij uitgekocht en weggestuurd. Hij mag zich onder zijn eigen naam niet meer met scheepsbouw bezig houden. De RSV gaat in de jaren ’80 ten onder, omdat het met de scheepsbouw in Nederland niet meer goed komt. Het bedrijf slokt miljoenen aan overheidssteun op, maar gaat toch ten onder. Een parlementaire enquête volgt.  De werf in Brazilië wordt in eerste instantie, samen met Verolmes experimentele bedrijven die niets met scheepsbouw te maken hebben, buiten de fusie gehouden. Niemand heeft een idee wat ze met de bedrijven moeten. Maar de scheepswerf in Brazilië begint in de jaren ’80 goed te lopen en wordt op dat moment alsnog –en voor een behoorlijke som geld- verkocht aan de RSV.  Tekst: Hein Hoffmann en Rob Bruins Slot  Samenstelling en regie: Hein Hoffmann  Research: Rob Bruins Slot"
-      }, {
-        "title" : "Bronnen",
-        "body" : "ARCHIEFMATERIAAL Beeld & Geluid, Hilversum  Maritiem Museum Rotterdam"
-      }, {
-        "title" : "Literatuur",
-        "body" : "Ariette Dekker, Cornelis Verolme. Opkomst en ondergang van een scheepsbouwer (Amsterdam 2005)  Cornelis Verolme, Verolme: memoires (Rotterdam 1971)  Cornelis Verolme, Verolme: memoires 2 (Rotterdam 1980)"
+      "title" : "Diepenbrock - Ouverture voor orkest \"De Vogels\"",
+      "genres" : [ {
+        "id" : "3.0.3.5",
+        "terms" : [ "Klassiek" ],
+        "displayName" : "Klassiek"
       } ],
       "embeds" : [ {
+        "title" : "Diepenbrock - Ouverture voor orkest \"De Vogels\"",
+        "description" : "Diepenbrock - Ouverture voor orkest \"De Vogels\"Lees meer en beluister alle variaties op dit thema.",
         "media" : {
-          "objectType" : "program",
-          "mid" : "POMS_VPRO_215261",
-          "creationDate" : 1292343230001,
-          "lastModified" : 1306243637771,
-          "sortDate" : 1129056900000,
-          "urn" : "urn:vpro:media:program:6938155",
+          "objectType" : "segment",
+          "mid" : "POMS_AVRO_268170",
+          "type" : "SEGMENT",
+          "avType" : "AUDIO",
+          "workflow" : "PUBLISHED",
+          "sortDate" : 1329206400000,
+          "creationDate" : 1363414306467,
+          "lastModified" : 1363414306503,
+          "urn" : "urn:vpro:media:segment:23072442",
           "embeddable" : true,
-          "episodeOf" : [ {
-            "midRef" : "POMS_S_VPRO_215397",
-            "urnRef" : "urn:vpro:media:group:6935307",
-            "type" : "SEASON",
-            "index" : 7,
-            "highlighted" : false,
-            "added" : 1292343230499
-          } ],
-          "crids" : [ "crid://tmp.episode.mmbase.vpro.nl/24321752", "crid://tmp.fragment.mmbase.vpro.nl/24413000" ],
+          "crids" : [ "crid://fragment.radiobox2/34341" ],
           "broadcasters" : [ {
-            "id" : "VPRO",
-            "value" : "VPRO"
+            "id" : "AVRO",
+            "value" : "AVRO"
           } ],
           "titles" : [ {
-            "value" : "Verolme",
-            "owner" : "BROADCASTER",
+            "value" : "Diepenbrock - Ouverture voor orkest \"De Vogels\"",
+            "owner" : "RADIOBOX",
             "type" : "MAIN"
           } ],
           "descriptions" : [ {
-            "value" : "‘Cornelis Verolme. Opkomst en ondergang van een scheepsbouwer’ heet het onlangs verschenen boek van Ariëtte Dekker – het boek dat de aanleiding vormde voor deze uitzending over Verolme. De grootste scheepsbouwer uit onze geschiedenis was hij, en zijn val was dan ook peilloos diep. Een man van allure, en van grote projecten. Er is weinig van over. Maar toch, in Brazilië, daar waar Verolme ooit een werf had, wordt hij nog altijd op handen gedragen.",
-            "owner" : "BROADCASTER",
-            "type" : "SUB"
+            "value" : "Diepenbrock - Ouverture voor orkest \"De Vogels\"Lees meer en beluister alle variaties op dit thema.",
+            "owner" : "RADIOBOX",
+            "type" : "MAIN"
           } ],
           "genres" : [ ],
           "countries" : [ ],
           "languages" : [ ],
+          "duration" : 681000,
           "descendantOf" : [ {
-            "midRef" : "POMS_S_VPRO_215397",
-            "urnRef" : "urn:vpro:media:group:6935307",
-            "type" : "SEASON"
+            "midRef" : "AUTO_DEKLASSIEKEN",
+            "urnRef" : "urn:vpro:media:group:13405534",
+            "type" : "SERIES"
+          }, {
+            "midRef" : "POMS_S_VPRO_171668",
+            "urnRef" : "urn:vpro:media:group:14683553",
+            "type" : "ARCHIVE"
+          }, {
+            "midRef" : "POMS_S_VPRO_170117",
+            "urnRef" : "urn:vpro:media:group:14921910",
+            "type" : "ARCHIVE"
+          }, {
+            "midRef" : "POMS_AVRO_147532",
+            "urnRef" : "urn:vpro:media:program:12593719",
+            "type" : "BROADCAST"
           } ],
           "predictions" : [ {
             "state" : "REALIZED",
             "platform" : "INTERNETVOD"
           } ],
           "locations" : [ {
-            "programUrl" : "http://cgi.omroep.nl/cgi-bin/streams?/tv/nps/anderetijden/sb.20051011.rm?title=Andere Tijden - Verolme",
+            "programUrl" : "http://radiobox2.omroep.nl/audiofragment/file/34341/fragment.mp3",
             "avAttributes" : {
-              "bitrate" : 100000,
-              "avFileFormat" : "RM"
+              "avFileFormat" : "MP3"
             },
-            "owner" : "BROADCASTER",
-            "creationDate" : 1128981600000,
-            "lastModified" : 1293455420844,
+            "duration" : 681000,
+            "owner" : "RADIOBOX",
+            "creationDate" : 1363414293617,
+            "lastModified" : 1363414306504,
             "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:location:6938159"
-          }, {
-            "programUrl" : "http://cgi.omroep.nl/cgi-bin/streams?/tv/nps/anderetijden/bb.20051011.rm?title=Andere Tijden - Verolme",
-            "avAttributes" : {
-              "bitrate" : 500000,
-              "avFileFormat" : "RM"
-            },
-            "owner" : "BROADCASTER",
-            "creationDate" : 1128981600000,
-            "lastModified" : 1293455420844,
-            "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:location:6938161"
-          } ],
-          "scheduleEvents" : [ {
-            "start" : 1129056900000,
-            "duration" : 2040,
-            "poProgID" : "POMS_VPRO_215261",
-            "channel" : "NED3",
-            "urnRef" : "urn:vpro:media:program:6938155",
-            "midRef" : "POMS_VPRO_215261"
-          }, {
-            "repeat" : {
-              "value" : "Eerste Herhaling",
-              "isRerun" : true
-            },
-            "start" : 1155063300000,
-            "duration" : 2160,
-            "poProgID" : "POMS_VPRO_215261",
-            "channel" : "NED3",
-            "urnRef" : "urn:vpro:media:program:6938155",
-            "midRef" : "POMS_VPRO_215261"
+            "urn" : "urn:vpro:media:location:23072445"
           } ],
           "images" : [ {
-            "title" : "Andere Tijden Verolme verolme_klein",
-            "description" : "Verolme",
-            "imageUri" : "urn:vpro.image:4506",
-            "height" : 216,
-            "width" : 150,
-            "owner" : "BROADCASTER",
+            "title" : "Vogels",
+            "description" : "Diepenbrock - Ouverture voor orkest \"De Vogels\"",
+            "imageUri" : "urn:vpro:image:150353",
+            "owner" : "RADIOBOX",
             "type" : "PICTURE",
             "highlighted" : false,
-            "creationDate" : 1128376800000,
-            "lastModified" : 1306243637771,
+            "creationDate" : 1363414305147,
+            "lastModified" : 1363414306504,
             "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:image:6938157"
+            "urn" : "urn:vpro:media:image:23072444"
           } ],
-          "workflow" : "PUBLISHED",
-          "type" : "BROADCAST",
-          "avType" : "VIDEO"
+          "start" : 9269000,
+          "urnRef" : "urn:vpro:media:program:12593719",
+          "midRef" : "POMS_AVRO_147532"
         }
       } ],
       "images" : [ {
         "type" : "PICTURE",
-        "url" : "http://www-test.npogeschiedenis.nl/.imaging/stk/geschiedenis/search/media/geschiedenis/andere-tijden/2005/October/24321799/original/24321799.jpg",
-        "title" : "Verolme"
+        "url" : "http://images.poms.omroep.nl/image/s360/150353.jpg",
+        "title" : "Vogels",
+        "description" : "Diepenbrock - Ouverture voor orkest \"De Vogels\""
       } ],
-      "publishStart" : 1289994585299,
-      "creationDate" : 1417524571058,
-      "lastModified" : 1422551021922,
+      "publishStart" : 1329206400000,
+      "creationDate" : 1414779447054,
+      "lastModified" : 1417478309353,
       "refCount" : 0
     }
   } ]

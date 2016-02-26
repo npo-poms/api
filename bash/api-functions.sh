@@ -42,7 +42,7 @@ getUrl() {
         echo "Not recognized $ENV. Use one of ${environments[@]}" 1>&2
         kill -s TERM $TOP_PID
     fi
-    if [ -z "$baseUrl"] ; then
+    if [ -z "$baseUrl" ] ; then
         ENV=prod getUrl
     else
         echo $baseUrl
@@ -216,6 +216,7 @@ get() {
     fi
     if [ "$status" == "200" ] ; then
         exitcode=0
+        echo -e "\n${headersandstatus[@]}, $baseUrl$call?${parameters} @$3"  1>&2
     else
         exitcode=$status
     fi

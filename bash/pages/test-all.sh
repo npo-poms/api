@@ -11,23 +11,9 @@ parameters="max=2" # make sure they are ordered!
 
 mkdir -p testresults
 for form in `ls ../../examples/pages` ; do
-    target=testresults/$form
-    echo "$form -> $target"
-    post "api/pages" $parameters ../../examples/pages/$form | $(formatter $target) | $(scorefilter $target) > $target
-done
-
-#also embed entire media forms
-mkdir -p testresults/media
-mkdir -p testresults/forms
-for mediaForm in `ls ../../examples/media` ; do
-    if [[ "$mediaForm" == *.json ]] ; then
-        target=testresults/media/$mediaForm
-        echo "$mediaForm -> $target"
-        pageForm=testresults/forms/$mediaForm
-        echo " {\"mediaForm\" :" >  $pageForm
-        cat ../../examples/media/$mediaForm >> $pageForm
-        echo "}" >> $pageForm
-        echo "Using $pageForm";
-        post "api/pages" $parameters $pageForm | $(formatter $target) | $(scorefilter $target)  > $target
+    if [[ $form = search-with-media** ]] ; then
+        target=testresults/$form
+        echo "$form -> $target"
+        post "api/pages" $parameters ../../examples/pages/$form | $(formatter $target) | $(scorefilter $target) > $target
     fi
 done

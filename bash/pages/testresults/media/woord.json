@@ -1,7 +1,7 @@
 {
   "facets" : { },
   "selectedFacets" : { },
-  "total" : 3747,
+  "total" : 10442,
   "offset" : 0,
   "max" : 2,
   "items" : [ {
@@ -9,66 +9,92 @@
     "result" : {
       "objectType" : "page",
       "type" : "PLAYER",
-      "url" : "http://www-test.woord.nl/luister.RBX_NTR_708014.html",
-      "sortDate" : 1427652000000,
-      "crids" : [ "crid://vpro/media/woord/RBX_NTR_708014" ],
+      "url" : "http://wetenschap-acc.ntr.nl/site/media/Poezie-sociale-computers-en-natuurbeschermers-in-Congo-/707",
+      "sortDate" : 1444090227521,
       "broadcasters" : [ {
         "id" : "NTR",
         "value" : "NTR"
       } ],
       "portal" : {
-        "id" : "WOORD",
-        "url" : "http://www-test.woord.nl",
-        "value" : "Woord.nl"
+        "id" : "NTRWETENSCHAP",
+        "url" : "http://wetenschap-acc.ntr.nl",
+        "value" : "Portal NTR Wetenschap"
       },
-      "title" : "De Kennis van Nu",
-      "genres" : [ {
-        "id" : "3.0.4.2",
-        "terms" : [ "Interview" ],
-        "displayName" : "Interview"
+      "title" : "Poëzie, sociale computers en natuurbeschermers in Congo ",
+      "keywords" : [ "subtype_media" ],
+      "summary" : "Te gast zijn: ecologen Corneille Ewango en Frans Bongers, wetenschapshistorici Anne Kox en Dirk van Delft en computerdeskundige Peter-Paul van Maanen.",
+      "paragraphs" : [ {
+        "body" : "\nDappere onderzoeker in Congo\nIn Labyrint hoort u dit keer hoe een natuurbeschermer in Congolees oorlogsgebied overleefde. Corneille Ewango deed onderzoek naar lianen in het Ituri-woud in Noordoost-Congo. Dat deed hij te midden van politieke corruptie, economische instabiliteit en een burgeroorlog (1996-2002). Hij riskeerde er zijn leven mee. Hij begon zijn carrière overigens als hulpje van een stroper. Een gesprek met Corneille Ewango en zijn Nederlandse begeleider hoogleraar tropische bosbouw Frans Bongers van de Wageningen Universiteit.\n\n\nEvolutie in het lab\nHoe zijn wij ontstaan - hoe zijn al die ontzettend verschillende planten en beesten er gekomen? Ja door evolutie, maar hóe ging die evolutie precies? Waardoor kregen libellen vier vleugels en vliegen maar twee en kregen spinnen acht poten en kevers maar zes? Maurijn van der Zee, evolutiebioloog aan de universiteit in Leiden, zoekt het uit. Hij knutselt met genen en probeert verschillen te verklaren tussen fruitvliegen, lieveheersbeestjes, libellen en meelkevers. Verslaggever Remy van den Brand toog naar het Leidse lab.\n\n\nSociale computers\nHulpvaardige, meedenkende - en het liefst ook nog gezellige, begrijpende computers, die je bovendien nog af en toe een complimentje geven ook. Zeker voor de mensen die soms tierend achter hun computer zitten, kllinkt dit wellicht als een sprookje. Peter-Paul van Maanen denkt dat het best eens werkelijkheid kan worden. Hij onderzocht hoe je computers socialer kunt maken en promoveerde eerder deze maand aan de Vrije Universiteit in Amsterdam.\n\n\nDe onbekende poëzie van J.D. van der Waals\nPrecies 100 jaar geleden ontving de Leidse natuurkundige Johannes Diederik van der Waals de Nobelprijs. Uit recent opgedoken archiefstukken blijkt dat deze natuurkundige ook dichtte. Aan tafel wetenschapshistoricus Anne Kox, die de gedichten vond en Dirk van Delft, directeur van het Boerhaave Museum in Leiden.\n\n\nStaatspapegaai - wetenschap in 1 minuut\nUltrakorte verhalen uit de wetenschap in ca 60 seconden. Luister naar het verhaal van historicus en schrijver Luc Panhuysen. Maker: Frederique Melman.\n\n"
       } ],
       "embeds" : [ {
-        "title" : "De Kennis van Nu",
-        "description" : "Ze is geboren in Tsjecho-Slowakije en kwam op haar 14e naar Nederland. Haar beide ouders waren patholoog en inmiddels heeft ze zelf ook het mes in duizenden lijken gezet, op zoek naar ziekten en onnatuurlijke doodsoorzaken. Haar grote hobby's zijn werken en motorrijden. Coen Verbraak praat met Bela Kubat, forensisch patholoog bij het Nederlands Forensisch Instituut en sinds 1 januari 2015 bijzonder hoogleraar forensische pathologie aan de Universiteit Maastricht. Een gesprek over de zoektocht naar de waarheid, respect voor de doden en ontwikkelingen in de forensische pathologie.",
         "media" : {
           "objectType" : "program",
-          "mid" : "RBX_NTR_708014",
-          "creationDate" : 1416959163899,
-          "lastModified" : 1427722308056,
-          "sortDate" : 1427652000000,
-          "urn" : "urn:vpro:media:program:44764588",
+          "mid" : "POMS_VPRO_215581",
+          "type" : "BROADCAST",
+          "avType" : "AUDIO",
+          "workflow" : "PUBLISHED",
+          "sortDate" : 1292785440000,
+          "creationDate" : 1291577293945,
+          "lastModified" : 1423166202534,
+          "urn" : "urn:vpro:media:program:6710545",
           "embeddable" : true,
           "episodeOf" : [ {
-            "midRef" : "RBX_S_NTR_553911",
-            "urnRef" : "urn:vpro:media:group:33646332",
+            "midRef" : "AUTO_LABYRINTRADIO",
+            "urnRef" : "urn:vpro:media:group:5670608",
             "type" : "SERIES",
-            "index" : 1,
+            "index" : 9,
             "highlighted" : false,
-            "added" : 1416959164096
+            "added" : 1291577294371
           } ],
-          "crids" : [ "crid://broadcast.radiobox2/338050" ],
+          "crids" : [ "crid://tmp.program.omroep.nl/11872079" ],
           "broadcasters" : [ {
+            "id" : "VPRO",
+            "value" : "VPRO"
+          }, {
             "id" : "NTR",
             "value" : "NTR"
           } ],
           "titles" : [ {
-            "value" : "De Kennis van Nu",
-            "owner" : "RADIOBOX",
+            "value" : "Labyrint radio",
+            "owner" : "BROADCASTER",
+            "type" : "MAIN"
+          }, {
+            "value" : "Labyrint radio",
+            "owner" : "NEBO",
+            "type" : "MAIN"
+          }, {
+            "value" : "Labyrint radio",
+            "owner" : "MIS",
             "type" : "MAIN"
           } ],
           "descriptions" : [ {
-            "value" : "Ze is geboren in Tsjecho-Slowakije en kwam op haar 14e naar Nederland. Haar beide ouders waren patholoog en inmiddels heeft ze zelf ook het mes in duizenden lijken gezet, op zoek naar ziekten en onnatuurlijke doodsoorzaken. Haar grote hobby's zijn werken en motorrijden. Coen Verbraak praat met Bela Kubat, forensisch patholoog bij het Nederlands Forensisch Instituut en sinds 1 januari 2015 bijzonder hoogleraar forensische pathologie aan de Universiteit Maastricht. Een gesprek over de zoektocht naar de waarheid, respect voor de doden en ontwikkelingen in de forensische pathologie.",
-            "owner" : "RADIOBOX",
+            "value" : "Wetenschap en wetenschapsnieuws.",
+            "owner" : "BROADCASTER",
             "type" : "MAIN"
+          }, {
+            "value" : "Wetenschap en wetenschapsnieuws.",
+            "owner" : "NEBO",
+            "type" : "MAIN"
+          }, {
+            "value" : "Wetenschap en wetenschapsnieuws.",
+            "owner" : "MIS",
+            "type" : "MAIN"
+          }, {
+            "value" : "In Labyrint radio van zondag 19 december hoorde u deze zondag hoe een natuurbeschermer overleefde in Congolees oorlogsgebied, over onbekende poëzie van de Nederlandse natuurkundige en Nobelprijswinnaar J.D. van der Waals en waarom computers socialer moeten zijn.",
+            "owner" : "BROADCASTER",
+            "type" : "SHORT"
+          }, {
+            "value" : "Wetenschap en wetenschapsnieuws.",
+            "owner" : "NEBO",
+            "type" : "SHORT"
+          }, {
+            "value" : "Wetenschap en wetenschapsnieuws.",
+            "owner" : "MIS",
+            "type" : "SHORT"
           } ],
           "genres" : [ ],
           "countries" : [ ],
           "languages" : [ ],
-          "credits" : [ {
-            "givenName" : "Coen",
-            "familyName" : "Verbraak",
-            "role" : "PRESENTER"
-          } ],
           "descendantOf" : [ {
             "midRef" : "POMS_S_VPRO_195283",
             "urnRef" : "urn:vpro:media:group:11887617",
@@ -82,73 +108,66 @@
             "urnRef" : "urn:vpro:media:group:30800916",
             "type" : "COLLECTION"
           }, {
-            "midRef" : "RBX_S_NTR_553911",
-            "urnRef" : "urn:vpro:media:group:33646332",
+            "midRef" : "POMS_S_VPRO_417557",
+            "urnRef" : "urn:vpro:media:group:30800931",
+            "type" : "COLLECTION"
+          }, {
+            "midRef" : "AUTO_LABYRINTRADIO",
+            "urnRef" : "urn:vpro:media:group:5670608",
             "type" : "SERIES"
           } ],
+          "predictions" : [ {
+            "state" : "REALIZED",
+            "publishStart" : 1292791740000,
+            "platform" : "INTERNETVOD"
+          } ],
           "locations" : [ {
-            "programUrl" : "http://radiobox2.omroep.nl/broadcaststream/file/430560.mp3",
+            "programUrl" : "http://cgi.omroep.nl/cgi-bin/streams?/radio1/vpro/labyrintradio/20101219-20.wma",
             "avAttributes" : {
-              "avFileFormat" : "MP3"
+              "bitrate" : 96000,
+              "avFileFormat" : "WM"
             },
-            "owner" : "RADIOBOX",
-            "creationDate" : 1427722301063,
-            "lastModified" : 1427722308046,
+            "duration" : 3600000,
+            "owner" : "NEBO",
+            "creationDate" : 1292786845470,
+            "lastModified" : 1292786845470,
+            "publishStart" : 1292791740000,
             "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:location:46791821"
+            "urn" : "urn:vpro:media:location:6977782"
           } ],
           "scheduleEvents" : [ {
-            "guideDay" : 1427583600000,
-            "start" : 1427652000000,
+            "start" : 1292785440000,
             "duration" : 3600000,
-            "poProgID" : "RBX_NTR_708014",
+            "poProgID" : "POMS_VPRO_215581",
             "channel" : "RAD1",
-            "urnRef" : "urn:vpro:media:program:44764588",
-            "midRef" : "RBX_NTR_708014"
+            "imi" : "imi:35700",
+            "urnRef" : "urn:vpro:media:program:6710545",
+            "midRef" : "POMS_VPRO_215581"
           } ],
-          "images" : [ {
-            "title" : "Bela Kubat.jpg",
-            "imageUri" : "urn:vpro:image:399865",
-            "height" : 1624,
-            "width" : 2416,
-            "owner" : "RADIOBOX",
-            "type" : "PICTURE",
-            "highlighted" : false,
-            "creationDate" : 1427518152510,
-            "lastModified" : 1427722308056,
-            "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:image:46776045"
-          } ],
-          "publishDate" : 1427722582218,
-          "workflow" : "PUBLISHED",
           "segments" : [ {
             "objectType" : "segment",
-            "mid" : "RBX_NTR_823216",
-            "creationDate" : 1427722307804,
-            "lastModified" : 1427722308047,
-            "sortDate" : 1427652000000,
-            "urn" : "urn:vpro:media:segment:46791823",
+            "mid" : "POMS_VPRO_200752",
+            "type" : "SEGMENT",
+            "avType" : "AUDIO",
+            "workflow" : "PUBLISHED",
+            "sortDate" : 1292785440000,
+            "creationDate" : 1310475852931,
+            "lastModified" : 1423486946127,
+            "urn" : "urn:vpro:media:segment:10239541",
             "embeddable" : true,
-            "crids" : [ "crid://audiofragment.radiobox2/179902" ],
             "broadcasters" : [ {
-              "id" : "NTR",
-              "value" : "NTR"
+              "id" : "VPRO",
+              "value" : "VPRO"
             } ],
             "titles" : [ {
-              "value" : "Forensisch patholoog & motorrijder",
-              "owner" : "RADIOBOX",
-              "type" : "MAIN"
-            } ],
-            "descriptions" : [ {
-              "value" : "Ze is geboren in Tsjecho-Slowakije en kwam op haar 14e naar Nederland. Haar beide ouders waren patholoog en inmiddels heeft ze zelf ook het mes in duizenden lijken gezet, op zoek naar ziekten en onnatuurlijke doodsoorzaken. Haar grote hobby's zijn werken en motorrijden. Coen Verbraak praat met Bela Kubat, forensisch patholoog bij het Nederlands Forensisch Instituut en sinds 1 januari 2015 bijzonder hoogleraar forensische pathologie aan de Universiteit Maastricht. Een gesprek over de zoektocht naar de waarheid, respect voor de doden en ontwikkelingen in de forensische pathologie.",
-              "owner" : "RADIOBOX",
+              "value" : "Dappere onderzoeker in Congo",
+              "owner" : "BROADCASTER",
               "type" : "MAIN"
             } ],
             "genres" : [ ],
-            "tags" : [ "Bela Kubat" ],
             "countries" : [ ],
             "languages" : [ ],
-            "duration" : 3222000,
+            "duration" : 723000,
             "descendantOf" : [ {
               "midRef" : "POMS_S_VPRO_195283",
               "urnRef" : "urn:vpro:media:group:11887617",
@@ -162,125 +181,378 @@
               "urnRef" : "urn:vpro:media:group:30800916",
               "type" : "COLLECTION"
             }, {
-              "midRef" : "RBX_S_NTR_553911",
-              "urnRef" : "urn:vpro:media:group:33646332",
+              "midRef" : "POMS_S_VPRO_417557",
+              "urnRef" : "urn:vpro:media:group:30800931",
+              "type" : "COLLECTION"
+            }, {
+              "midRef" : "AUTO_LABYRINTRADIO",
+              "urnRef" : "urn:vpro:media:group:5670608",
               "type" : "SERIES"
             }, {
-              "midRef" : "RBX_NTR_708014",
-              "urnRef" : "urn:vpro:media:program:44764588",
+              "midRef" : "POMS_VPRO_215581",
+              "urnRef" : "urn:vpro:media:program:6710545",
               "type" : "BROADCAST"
             } ],
+            "start" : 352000,
+            "urnRef" : "urn:vpro:media:program:6710545",
+            "midRef" : "POMS_VPRO_215581"
+          }, {
+            "objectType" : "segment",
+            "mid" : "POMS_VPRO_200751",
+            "type" : "SEGMENT",
+            "avType" : "AUDIO",
+            "workflow" : "PUBLISHED",
+            "sortDate" : 1292785440000,
+            "creationDate" : 1310475852951,
+            "lastModified" : 1423486946127,
+            "urn" : "urn:vpro:media:segment:10239543",
+            "embeddable" : true,
+            "broadcasters" : [ {
+              "id" : "VPRO",
+              "value" : "VPRO"
+            } ],
+            "titles" : [ {
+              "value" : "Evolutie in het lab",
+              "owner" : "BROADCASTER",
+              "type" : "MAIN"
+            } ],
+            "genres" : [ ],
+            "countries" : [ ],
+            "languages" : [ ],
+            "duration" : 1454000,
+            "descendantOf" : [ {
+              "midRef" : "POMS_S_VPRO_195283",
+              "urnRef" : "urn:vpro:media:group:11887617",
+              "type" : "ARCHIVE"
+            }, {
+              "midRef" : "POMS_S_NTR_160161",
+              "urnRef" : "urn:vpro:media:group:16357199",
+              "type" : "ARCHIVE"
+            }, {
+              "midRef" : "POMS_S_VPRO_417554",
+              "urnRef" : "urn:vpro:media:group:30800916",
+              "type" : "COLLECTION"
+            }, {
+              "midRef" : "POMS_S_VPRO_417557",
+              "urnRef" : "urn:vpro:media:group:30800931",
+              "type" : "COLLECTION"
+            }, {
+              "midRef" : "AUTO_LABYRINTRADIO",
+              "urnRef" : "urn:vpro:media:group:5670608",
+              "type" : "SERIES"
+            }, {
+              "midRef" : "POMS_VPRO_215581",
+              "urnRef" : "urn:vpro:media:program:6710545",
+              "type" : "BROADCAST"
+            } ],
+            "start" : 1075000,
+            "urnRef" : "urn:vpro:media:program:6710545",
+            "midRef" : "POMS_VPRO_215581"
+          }, {
+            "objectType" : "segment",
+            "mid" : "POMS_VPRO_200753",
+            "type" : "SEGMENT",
+            "avType" : "AUDIO",
+            "workflow" : "PUBLISHED",
+            "sortDate" : 1292785440000,
+            "creationDate" : 1310475852981,
+            "lastModified" : 1423486946128,
+            "urn" : "urn:vpro:media:segment:10239547",
+            "embeddable" : true,
+            "broadcasters" : [ {
+              "id" : "VPRO",
+              "value" : "VPRO"
+            } ],
+            "titles" : [ {
+              "value" : "De onbekende poëzie van J.D. van der Waals",
+              "owner" : "BROADCASTER",
+              "type" : "MAIN"
+            } ],
+            "genres" : [ ],
+            "countries" : [ ],
+            "languages" : [ ],
+            "duration" : 788000,
+            "descendantOf" : [ {
+              "midRef" : "POMS_S_VPRO_195283",
+              "urnRef" : "urn:vpro:media:group:11887617",
+              "type" : "ARCHIVE"
+            }, {
+              "midRef" : "POMS_S_NTR_160161",
+              "urnRef" : "urn:vpro:media:group:16357199",
+              "type" : "ARCHIVE"
+            }, {
+              "midRef" : "POMS_S_VPRO_417554",
+              "urnRef" : "urn:vpro:media:group:30800916",
+              "type" : "COLLECTION"
+            }, {
+              "midRef" : "POMS_S_VPRO_417557",
+              "urnRef" : "urn:vpro:media:group:30800931",
+              "type" : "COLLECTION"
+            }, {
+              "midRef" : "AUTO_LABYRINTRADIO",
+              "urnRef" : "urn:vpro:media:group:5670608",
+              "type" : "SERIES"
+            }, {
+              "midRef" : "POMS_VPRO_215581",
+              "urnRef" : "urn:vpro:media:program:6710545",
+              "type" : "BROADCAST"
+            } ],
+            "start" : 1424000,
+            "urnRef" : "urn:vpro:media:program:6710545",
+            "midRef" : "POMS_VPRO_215581"
+          }, {
+            "objectType" : "segment",
+            "mid" : "POMS_VPRO_200754",
+            "type" : "SEGMENT",
+            "avType" : "AUDIO",
+            "workflow" : "PUBLISHED",
+            "sortDate" : 1292785440000,
+            "creationDate" : 1310475853001,
+            "lastModified" : 1423486946128,
+            "urn" : "urn:vpro:media:segment:10239549",
+            "embeddable" : true,
+            "broadcasters" : [ {
+              "id" : "VPRO",
+              "value" : "VPRO"
+            } ],
+            "titles" : [ {
+              "value" : "Wetenschap in 1 minuut",
+              "owner" : "BROADCASTER",
+              "type" : "MAIN"
+            }, {
+              "value" : "Staatspapegaai",
+              "owner" : "BROADCASTER",
+              "type" : "SUB"
+            } ],
+            "descriptions" : [ {
+              "value" : "'Staatspapegaai' met historicus Luc Panhuysen in een minuut gemaakt door Frederique Melman.\n\nDe rubriek ‘Wetenschap in 1 minuut’ is een verzameling korte verhalen uit de wetenschap in ca. 60 seconden.",
+              "owner" : "BROADCASTER",
+              "type" : "MAIN"
+            } ],
+            "genres" : [ ],
+            "tags" : [ "gebroeders de wit", "johan de wit", "panhuysen", "papegaai", "regenten", "wetenschap", "wetenschap in 1 minuut" ],
+            "countries" : [ ],
+            "languages" : [ ],
+            "duration" : 94000,
+            "credits" : [ {
+              "givenName" : "Frederique",
+              "familyName" : "Melman",
+              "role" : "REPORTER"
+            } ],
+            "descendantOf" : [ {
+              "midRef" : "POMS_S_VPRO_195283",
+              "urnRef" : "urn:vpro:media:group:11887617",
+              "type" : "ARCHIVE"
+            }, {
+              "midRef" : "POMS_S_NTR_160161",
+              "urnRef" : "urn:vpro:media:group:16357199",
+              "type" : "ARCHIVE"
+            }, {
+              "midRef" : "POMS_S_VPRO_417553",
+              "urnRef" : "urn:vpro:media:group:30800911",
+              "type" : "COLLECTION"
+            }, {
+              "midRef" : "POMS_S_VPRO_417554",
+              "urnRef" : "urn:vpro:media:group:30800916",
+              "type" : "COLLECTION"
+            }, {
+              "midRef" : "POMS_S_VPRO_417557",
+              "urnRef" : "urn:vpro:media:group:30800931",
+              "type" : "COLLECTION"
+            }, {
+              "midRef" : "AUTO_LABYRINTRADIO",
+              "urnRef" : "urn:vpro:media:group:5670608",
+              "type" : "SERIES"
+            }, {
+              "midRef" : "POMS_NOS_583461",
+              "urnRef" : "urn:vpro:media:program:43659132",
+              "type" : "BROADCAST"
+            }, {
+              "midRef" : "POMS_VPRO_215581",
+              "urnRef" : "urn:vpro:media:program:6710545",
+              "type" : "BROADCAST"
+            } ],
+            "memberOf" : [ {
+              "midRef" : "POMS_S_VPRO_417553",
+              "urnRef" : "urn:vpro:media:group:30800911",
+              "type" : "COLLECTION",
+              "index" : 370,
+              "highlighted" : false,
+              "added" : 1408697296412
+            } ],
             "locations" : [ {
-              "programUrl" : "http://radiobox2.omroep.nl/audiofragment/file/179902/fragment.mp3",
+              "programUrl" : "http://download.omroep.nl/vpro/algemeen/woord/woord_radio/minuut_papegaai.mp3",
               "avAttributes" : {
                 "avFileFormat" : "MP3"
               },
-              "owner" : "RADIOBOX",
-              "creationDate" : 1427722301064,
-              "lastModified" : 1427722308050,
+              "owner" : "BROADCASTER",
+              "creationDate" : 1395920453807,
+              "lastModified" : 1395920453937,
               "workflow" : "PUBLISHED",
-              "urn" : "urn:vpro:media:location:46791827"
+              "urn" : "urn:vpro:media:location:39233273"
             } ],
             "images" : [ {
-              "title" : "Bela Kubat.jpg",
-              "imageUri" : "urn:vpro:image:399865",
-              "height" : 1624,
-              "width" : 2416,
-              "owner" : "RADIOBOX",
+              "title" : "papegaai",
+              "description" : "papegaai",
+              "imageUri" : "urn:vpro:image:443977",
+              "height" : 685,
+              "width" : 1024,
+              "owner" : "BROADCASTER",
               "type" : "PICTURE",
               "highlighted" : false,
-              "creationDate" : 1427722303866,
-              "lastModified" : 1427722308049,
+              "creationDate" : 1395920453811,
+              "lastModified" : 1395920453948,
+              "publishStart" : 1395874800000,
               "workflow" : "PUBLISHED",
-              "urn" : "urn:vpro:media:image:46791825"
+              "urn" : "urn:vpro:media:image:39233274"
             } ],
-            "publishDate" : 1427722509183,
-            "workflow" : "PUBLISHED",
-            "start" : 240000,
-            "urnRef" : "urn:vpro:media:program:44764588",
-            "midRef" : "RBX_NTR_708014",
+            "start" : 2436000,
+            "urnRef" : "urn:vpro:media:program:6710545",
+            "midRef" : "POMS_VPRO_215581"
+          }, {
+            "objectType" : "segment",
+            "mid" : "POMS_VPRO_200755",
             "type" : "SEGMENT",
-            "avType" : "AUDIO"
-          } ],
-          "type" : "BROADCAST",
-          "avType" : "AUDIO"
+            "avType" : "AUDIO",
+            "workflow" : "PUBLISHED",
+            "sortDate" : 1292785440000,
+            "creationDate" : 1310475852970,
+            "lastModified" : 1423486946127,
+            "urn" : "urn:vpro:media:segment:10239545",
+            "embeddable" : true,
+            "broadcasters" : [ {
+              "id" : "VPRO",
+              "value" : "VPRO"
+            } ],
+            "titles" : [ {
+              "value" : "Sociale computers",
+              "owner" : "BROADCASTER",
+              "type" : "MAIN"
+            } ],
+            "genres" : [ ],
+            "countries" : [ ],
+            "languages" : [ ],
+            "duration" : 771000,
+            "descendantOf" : [ {
+              "midRef" : "POMS_S_VPRO_195283",
+              "urnRef" : "urn:vpro:media:group:11887617",
+              "type" : "ARCHIVE"
+            }, {
+              "midRef" : "POMS_S_NTR_160161",
+              "urnRef" : "urn:vpro:media:group:16357199",
+              "type" : "ARCHIVE"
+            }, {
+              "midRef" : "POMS_S_VPRO_417554",
+              "urnRef" : "urn:vpro:media:group:30800916",
+              "type" : "COLLECTION"
+            }, {
+              "midRef" : "POMS_S_VPRO_417557",
+              "urnRef" : "urn:vpro:media:group:30800931",
+              "type" : "COLLECTION"
+            }, {
+              "midRef" : "AUTO_LABYRINTRADIO",
+              "urnRef" : "urn:vpro:media:group:5670608",
+              "type" : "SERIES"
+            }, {
+              "midRef" : "POMS_VPRO_215581",
+              "urnRef" : "urn:vpro:media:program:6710545",
+              "type" : "BROADCAST"
+            } ],
+            "start" : 2746000,
+            "urnRef" : "urn:vpro:media:program:6710545",
+            "midRef" : "POMS_VPRO_215581"
+          } ]
         }
       } ],
       "images" : [ {
         "type" : "PICTURE",
-        "url" : "http://images.poms.omroep.nl/image/s360/399865.jpg",
-        "title" : "Bela Kubat.jpg"
+        "url" : "http://wetenschap-acc.ntr.nl/thumbs/i/3000/mod_media_image/3459.h374.0.fb8276e.jpg",
+        "title" : "ewango"
       } ],
-      "publishStart" : 1427652000000,
-      "creationDate" : 1427722582081,
-      "lastModified" : 1427722641472,
+      "creationDate" : 1444090227521,
+      "lastModified" : 1444172893660,
       "refCount" : 0
     }
   }, {
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",
-      "type" : "AUDIO",
-      "url" : "http://woord-sample.localhost/luister.RBX_NTR_704275.html",
-      "sortDate" : 1424026800000,
-      "crids" : [ "crid://vpro/media/woord/RBX_NTR_704275" ],
+      "type" : "PLAYER",
+      "url" : "http://wetenschap-acc.ntr.nl/site/media/Biologische-klok-fik-stoken-voor-de-wetenschap-en-waddenalgen/684",
+      "sortDate" : 1444090091639,
       "broadcasters" : [ {
         "id" : "NTR",
         "value" : "NTR"
       } ],
       "portal" : {
-        "id" : "WOORD",
-        "url" : "http://woord-sample.localhost",
-        "value" : "Woord.nl"
+        "id" : "NTRWETENSCHAP",
+        "url" : "http://wetenschap-acc.ntr.nl",
+        "value" : "Portal NTR Wetenschap"
       },
-      "title" : "De Kennis van Nu",
-      "genres" : [ {
-        "id" : "3.0.4.2",
-        "terms" : [ "Interview" ],
-        "displayName" : "Interview"
+      "title" : "Biologische klok, fik stoken voor de wetenschap en waddenalgen",
+      "keywords" : [ "subtype_media" ],
+      "summary" : "Wat je kunt leren van een flinke stuk Portugees heidebos in de fik steken, hoe algen het wad maken en hoe slechts een paar duizend cellen in het brein ons complexe dag- en nachtritme bepalen. Je hoort onder meer bodemonderzoeker Cathelijne Stoof, algenonderzoeker Katja Philippart en neurofysiologe Joke Meijer.",
+      "paragraphs" : [ {
+        "body" : "\n\n\n\n\n\n\n\n"
       } ],
       "embeds" : [ {
-        "title" : "De Kennis van Nu",
-        "description" : "Meer dan 10 jaar werkte ze in het Midden-Oosten. Ze was diplomaat op de Nederlandse ambassades in Caïro en Damascus. Vanaf het moment dat het begon te rommelen in de Arabische wereld is ze een veelgevraagd commentator in nieuwsprogramma's.\n\nAls achttienjarig meisje wist ze niet hoe snel ze Limburg achter zich moest laten, maar de laatste jaren komt ze graag terug in de Roermondse wijk waar ze is opgegroeid: de Donderberg. In haar onlangs verschenen boek 'Terug naar de Donderberg' beschrijft ze wat haar nu fascineert aan die wijk. Hoe gaan mensen daar om met verschillen in religie en afkomst? Waar liggen de kansen voor verbindingen? En welke parallellen zijn er tussen de Islamistische wereld en het katholieke Limburg? Daarover praat Coen Verbraak met arabiste Petra Stienen.\n\nFoto: Jeanette Schols",
         "media" : {
           "objectType" : "program",
-          "mid" : "RBX_NTR_704275",
-          "creationDate" : 1416939927875,
-          "lastModified" : 1424706227261,
-          "sortDate" : 1424026800000,
-          "urn" : "urn:vpro:media:program:44731529",
+          "mid" : "POMS_VPRO_202279",
+          "type" : "BROADCAST",
+          "avType" : "AUDIO",
+          "workflow" : "PUBLISHED",
+          "sortDate" : 1307297040000,
+          "creationDate" : 1306089219921,
+          "lastModified" : 1422640729872,
+          "urn" : "urn:vpro:media:program:9645519",
           "embeddable" : true,
           "episodeOf" : [ {
-            "midRef" : "RBX_S_NTR_553911",
-            "urnRef" : "urn:vpro:media:group:33646332",
+            "midRef" : "AUTO_LABYRINTRADIO",
+            "urnRef" : "urn:vpro:media:group:5670608",
             "type" : "SERIES",
-            "index" : 1,
+            "index" : 32,
             "highlighted" : false,
-            "added" : 1416939928210
+            "added" : 1306089220650
           } ],
-          "crids" : [ "crid://broadcast.radiobox2/309959" ],
+          "crids" : [ "crid://tmp.program.omroep.nl/12668280" ],
           "broadcasters" : [ {
+            "id" : "VPRO",
+            "value" : "VPRO"
+          }, {
             "id" : "NTR",
             "value" : "NTR"
           } ],
           "titles" : [ {
-            "value" : "De Kennis van Nu",
-            "owner" : "RADIOBOX",
+            "value" : "Labyrint radio",
+            "owner" : "NEBO",
+            "type" : "MAIN"
+          }, {
+            "value" : "Labyrint radio",
+            "owner" : "MIS",
             "type" : "MAIN"
           } ],
           "descriptions" : [ {
-            "value" : "Meer dan 10 jaar werkte ze in het Midden-Oosten. Ze was diplomaat op de Nederlandse ambassades in Caïro en Damascus. Vanaf het moment dat het begon te rommelen in de Arabische wereld is ze een veelgevraagd commentator in nieuwsprogramma's. Als achttienjarig meisje wist ze niet hoe snel ze Limburg achter zich moest laten, maar de laatste jaren komt ze graag terug in de Roermondse wijk waar ze is opgegroeid: de Donderberg. In haar onlangs verschenen boek 'Terug naar de Donderberg' beschrijft ze wat haar nu fascineert aan die wijk. Hoe gaan mensen daar om met verschillen in religie en afkomst? Waar liggen de kansen voor verbindingen? En welke parallellen zijn er tussen de Islamistische wereld en het katholieke Limburg? Daarover praat Coen Verbraak met arabiste Petra Stienen. Foto: Jeanette Schols",
-            "owner" : "RADIOBOX",
+            "value" : "Wetenschap en wetenschapsnieuws.",
+            "owner" : "NEBO",
             "type" : "MAIN"
+          }, {
+            "value" : "Wetenschap en wetenschapsnieuws.",
+            "owner" : "MIS",
+            "type" : "MAIN"
+          }, {
+            "value" : "Wetenschap en wetenschapsnieuws.",
+            "owner" : "NEBO",
+            "type" : "SHORT"
+          }, {
+            "value" : "Wetenschap en wetenschapsnieuws.",
+            "owner" : "MIS",
+            "type" : "SHORT"
           } ],
           "genres" : [ ],
           "countries" : [ ],
           "languages" : [ ],
-          "credits" : [ {
-            "givenName" : "Coen",
-            "familyName" : "Verbraak",
-            "role" : "PRESENTER"
-          } ],
+          "duration" : 3600000,
           "descendantOf" : [ {
             "midRef" : "POMS_S_VPRO_195283",
             "urnRef" : "urn:vpro:media:group:11887617",
@@ -294,73 +566,81 @@
             "urnRef" : "urn:vpro:media:group:30800916",
             "type" : "COLLECTION"
           }, {
-            "midRef" : "RBX_S_NTR_553911",
-            "urnRef" : "urn:vpro:media:group:33646332",
+            "midRef" : "POMS_S_VPRO_417557",
+            "urnRef" : "urn:vpro:media:group:30800931",
+            "type" : "COLLECTION"
+          }, {
+            "midRef" : "AUTO_LABYRINTRADIO",
+            "urnRef" : "urn:vpro:media:group:5670608",
             "type" : "SERIES"
           } ],
+          "predictions" : [ {
+            "state" : "REALIZED",
+            "publishStart" : 1307303340000,
+            "platform" : "INTERNETVOD"
+          } ],
           "locations" : [ {
-            "programUrl" : "http://radiobox2.omroep.nl/broadcaststream/file/427899.mp3",
+            "programUrl" : "http://download.omroep.nl/portal/radiomanager/archive/radio1/2011/06/05/15264-radio_1_labyrint_5_juni_2011.mp3",
             "avAttributes" : {
               "avFileFormat" : "MP3"
             },
-            "owner" : "RADIOBOX",
-            "creationDate" : 1424706223653,
-            "lastModified" : 1424706227248,
+            "owner" : "BROADCASTER",
+            "creationDate" : 1308323925006,
+            "lastModified" : 1308323925070,
             "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:location:46009206"
+            "urn" : "urn:vpro:media:location:9960097"
+          }, {
+            "programUrl" : "http://cgi.omroep.nl/cgi-bin/streams?/radio1/vpro/labyrintradio/20110605-20.wma",
+            "avAttributes" : {
+              "bitrate" : 96000,
+              "avFileFormat" : "WM"
+            },
+            "duration" : 3600000,
+            "owner" : "NEBO",
+            "creationDate" : 1307298774952,
+            "lastModified" : 1307385168842,
+            "publishStart" : 1307303340000,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:9815962"
           } ],
           "scheduleEvents" : [ {
-            "guideDay" : 1423954800000,
-            "start" : 1424026800000,
+            "start" : 1307297040000,
             "duration" : 3600000,
-            "poProgID" : "RBX_NTR_704275",
+            "poProgID" : "POMS_VPRO_202279",
             "channel" : "RAD1",
-            "urnRef" : "urn:vpro:media:program:44731529",
-            "midRef" : "RBX_NTR_704275"
+            "imi" : "imi:40898",
+            "urnRef" : "urn:vpro:media:program:9645519",
+            "midRef" : "POMS_VPRO_202279"
           } ],
-          "images" : [ {
-            "title" : "Petra Stienen.jpg",
-            "imageUri" : "urn:vpro:image:390054",
-            "height" : 614,
-            "width" : 798,
-            "owner" : "RADIOBOX",
-            "type" : "PICTURE",
-            "highlighted" : false,
-            "creationDate" : 1423821538398,
-            "lastModified" : 1424706227261,
-            "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:image:45878085"
-          } ],
-          "publishDate" : 1424706239215,
-          "workflow" : "PUBLISHED",
           "segments" : [ {
             "objectType" : "segment",
-            "mid" : "RBX_NTR_794009",
-            "creationDate" : 1424345409842,
-            "lastModified" : 1424345409968,
-            "sortDate" : 1424026800000,
-            "urn" : "urn:vpro:media:segment:45969198",
+            "mid" : "POMS_VPRO_200806",
+            "type" : "SEGMENT",
+            "avType" : "AUDIO",
+            "workflow" : "PUBLISHED",
+            "sortDate" : 1307297040000,
+            "creationDate" : 1308323562228,
+            "lastModified" : 1308323737679,
+            "urn" : "urn:vpro:media:segment:9960091",
             "embeddable" : true,
-            "crids" : [ "crid://audiofragment.radiobox2/175630" ],
             "broadcasters" : [ {
-              "id" : "NTR",
-              "value" : "NTR"
+              "id" : "VPRO",
+              "value" : "VPRO"
             } ],
             "titles" : [ {
-              "value" : "Arabiste, voormalig diplomate & publiciste",
-              "owner" : "RADIOBOX",
+              "value" : "Biologische klok, fik stoken voor de wetenschap en waddenalgen",
+              "owner" : "BROADCASTER",
               "type" : "MAIN"
             } ],
             "descriptions" : [ {
-              "value" : "Meer dan 10 jaar werkte ze in het Midden-Oosten. Ze was diplomaat op de Nederlandse ambassades in Caïro en Damascus. Vanaf het moment dat het begon te rommelen in de Arabische wereld is ze een veelgevraagd commentator in nieuwsprogramma's.Als achttienjarig meisje wist ze niet hoe snel ze Limburg achter zich moest laten, maar de laatste jaren komt ze graag terug in de Roermondse wijk waar ze is opgegroeid: de Donderberg. In haar onlangs verschenen boek 'Terug naar de Donderberg' beschrijft ze wat haar nu fascineert aan die wijk. Hoe gaan mensen daar om met verschillen in religie en afkomst? Waar liggen de kansen voor verbindingen? En welke parallellen zijn er tussen de Islamistische wereld en het katholieke Limburg? Daarover praat Coen Verbraak met arabiste Petra Stienen.Foto: Jeanette Schols",
-              "owner" : "RADIOBOX",
+              "value" : "Wat je kunt leren van een flinke stuk Portugees heidebos in de fik steken, hoe algen het wad maken en hoe slechts een paar duizend cellen in het brein ons complexe dag- en nachtritme bepalen. Je hoort onder meer bodemonderzoeker Cathelijne Stoof, algenonderzoeker Katja Philippart en neurofysiologe Joke Meijer.",
+              "owner" : "BROADCASTER",
               "type" : "MAIN"
             } ],
             "genres" : [ ],
-            "tags" : [ "Petra Stienen" ],
             "countries" : [ ],
             "languages" : [ ],
-            "duration" : 3255000,
+            "duration" : 840000,
             "descendantOf" : [ {
               "midRef" : "POMS_S_VPRO_195283",
               "urnRef" : "urn:vpro:media:group:11887617",
@@ -374,59 +654,259 @@
               "urnRef" : "urn:vpro:media:group:30800916",
               "type" : "COLLECTION"
             }, {
-              "midRef" : "RBX_S_NTR_553911",
-              "urnRef" : "urn:vpro:media:group:33646332",
+              "midRef" : "POMS_S_VPRO_417557",
+              "urnRef" : "urn:vpro:media:group:30800931",
+              "type" : "COLLECTION"
+            }, {
+              "midRef" : "AUTO_LABYRINTRADIO",
+              "urnRef" : "urn:vpro:media:group:5670608",
               "type" : "SERIES"
             }, {
-              "midRef" : "RBX_NTR_704275",
-              "urnRef" : "urn:vpro:media:program:44731529",
+              "midRef" : "POMS_VPRO_202279",
+              "urnRef" : "urn:vpro:media:program:9645519",
               "type" : "BROADCAST"
             } ],
+            "predictions" : [ {
+              "state" : "REALIZED",
+              "platform" : "INTERNETVOD"
+            } ],
             "locations" : [ {
-              "programUrl" : "http://radiobox2.omroep.nl/audiofragment/file/175630/fragment.mp3",
+              "programUrl" : "http://download.omroep.nl/portal/radiomanager/archive/radio1/2011/06/05/15264-radio_1_labyrint_5_juni_2011.mp3",
               "avAttributes" : {
                 "avFileFormat" : "MP3"
               },
-              "owner" : "RADIOBOX",
-              "creationDate" : 1424345345417,
-              "lastModified" : 1424706227261,
+              "owner" : "BROADCASTER",
+              "creationDate" : 1308323734676,
+              "lastModified" : 1308323734681,
               "workflow" : "PUBLISHED",
-              "urn" : "urn:vpro:media:location:45969202"
+              "urn" : "urn:vpro:media:location:9960095"
             } ],
-            "images" : [ {
-              "title" : "Petra Stienen.jpg",
-              "imageUri" : "urn:vpro:image:390054",
-              "height" : 614,
-              "width" : 798,
-              "owner" : "RADIOBOX",
-              "type" : "PICTURE",
-              "highlighted" : false,
-              "creationDate" : 1424345407342,
-              "lastModified" : 1424706227261,
-              "workflow" : "PUBLISHED",
-              "urn" : "urn:vpro:media:image:45969200"
-            } ],
-            "publishDate" : 1424345576047,
-            "workflow" : "PUBLISHED",
-            "start" : 234000,
-            "urnRef" : "urn:vpro:media:program:44731529",
-            "midRef" : "RBX_NTR_704275",
+            "start" : 0,
+            "urnRef" : "urn:vpro:media:program:9645519",
+            "midRef" : "POMS_VPRO_202279"
+          }, {
+            "objectType" : "segment",
+            "mid" : "POMS_VPRO_200807",
             "type" : "SEGMENT",
-            "avType" : "AUDIO"
-          } ],
-          "type" : "BROADCAST",
-          "avType" : "AUDIO"
+            "avType" : "AUDIO",
+            "workflow" : "PUBLISHED",
+            "sortDate" : 1307297040000,
+            "creationDate" : 1310567456333,
+            "lastModified" : 1310567456426,
+            "urn" : "urn:vpro:media:segment:10249821",
+            "embeddable" : true,
+            "broadcasters" : [ {
+              "id" : "VPRO",
+              "value" : "VPRO"
+            } ],
+            "titles" : [ {
+              "value" : "Fik stoken voor de wetenschap",
+              "owner" : "BROADCASTER",
+              "type" : "MAIN"
+            } ],
+            "genres" : [ ],
+            "countries" : [ ],
+            "languages" : [ ],
+            "duration" : 936000,
+            "descendantOf" : [ {
+              "midRef" : "POMS_S_VPRO_195283",
+              "urnRef" : "urn:vpro:media:group:11887617",
+              "type" : "ARCHIVE"
+            }, {
+              "midRef" : "POMS_S_NTR_160161",
+              "urnRef" : "urn:vpro:media:group:16357199",
+              "type" : "ARCHIVE"
+            }, {
+              "midRef" : "POMS_S_VPRO_417554",
+              "urnRef" : "urn:vpro:media:group:30800916",
+              "type" : "COLLECTION"
+            }, {
+              "midRef" : "POMS_S_VPRO_417557",
+              "urnRef" : "urn:vpro:media:group:30800931",
+              "type" : "COLLECTION"
+            }, {
+              "midRef" : "AUTO_LABYRINTRADIO",
+              "urnRef" : "urn:vpro:media:group:5670608",
+              "type" : "SERIES"
+            }, {
+              "midRef" : "POMS_VPRO_202279",
+              "urnRef" : "urn:vpro:media:program:9645519",
+              "type" : "BROADCAST"
+            } ],
+            "start" : 183000,
+            "urnRef" : "urn:vpro:media:program:9645519",
+            "midRef" : "POMS_VPRO_202279"
+          }, {
+            "objectType" : "segment",
+            "mid" : "POMS_VPRO_200808",
+            "type" : "SEGMENT",
+            "avType" : "AUDIO",
+            "workflow" : "PUBLISHED",
+            "sortDate" : 1307297040000,
+            "creationDate" : 1310567456344,
+            "lastModified" : 1311859765729,
+            "urn" : "urn:vpro:media:segment:10249823",
+            "embeddable" : true,
+            "broadcasters" : [ {
+              "id" : "VPRO",
+              "value" : "VPRO"
+            } ],
+            "titles" : [ {
+              "value" : "Wetenschap in 1 minuut",
+              "owner" : "BROADCASTER",
+              "type" : "MAIN"
+            } ],
+            "descriptions" : [ {
+              "value" : "Luister naar “Draken”, een nieuwe aflevering van “Wetenschap in 1 minuut”, verhalen uit de wetenschap in ca. 60 seconden. Met in de hoofdrol paleontoloog Bert Boekschoten. Maker: Frederique Melman.",
+              "owner" : "BROADCASTER",
+              "type" : "SHORT"
+            } ],
+            "genres" : [ ],
+            "countries" : [ ],
+            "languages" : [ ],
+            "duration" : 94000,
+            "descendantOf" : [ {
+              "midRef" : "POMS_S_VPRO_195283",
+              "urnRef" : "urn:vpro:media:group:11887617",
+              "type" : "ARCHIVE"
+            }, {
+              "midRef" : "POMS_S_NTR_160161",
+              "urnRef" : "urn:vpro:media:group:16357199",
+              "type" : "ARCHIVE"
+            }, {
+              "midRef" : "POMS_S_VPRO_417554",
+              "urnRef" : "urn:vpro:media:group:30800916",
+              "type" : "COLLECTION"
+            }, {
+              "midRef" : "POMS_S_VPRO_417557",
+              "urnRef" : "urn:vpro:media:group:30800931",
+              "type" : "COLLECTION"
+            }, {
+              "midRef" : "AUTO_LABYRINTRADIO",
+              "urnRef" : "urn:vpro:media:group:5670608",
+              "type" : "SERIES"
+            }, {
+              "midRef" : "POMS_VPRO_202279",
+              "urnRef" : "urn:vpro:media:program:9645519",
+              "type" : "BROADCAST"
+            } ],
+            "start" : 1129000,
+            "urnRef" : "urn:vpro:media:program:9645519",
+            "midRef" : "POMS_VPRO_202279"
+          }, {
+            "objectType" : "segment",
+            "mid" : "POMS_VPRO_200809",
+            "type" : "SEGMENT",
+            "avType" : "AUDIO",
+            "workflow" : "PUBLISHED",
+            "sortDate" : 1307297040000,
+            "creationDate" : 1310567456354,
+            "lastModified" : 1310567456426,
+            "urn" : "urn:vpro:media:segment:10249825",
+            "embeddable" : true,
+            "broadcasters" : [ {
+              "id" : "VPRO",
+              "value" : "VPRO"
+            } ],
+            "titles" : [ {
+              "value" : "Hoe minuscule algen het wad maken",
+              "owner" : "BROADCASTER",
+              "type" : "MAIN"
+            } ],
+            "genres" : [ ],
+            "countries" : [ ],
+            "languages" : [ ],
+            "duration" : 821000,
+            "descendantOf" : [ {
+              "midRef" : "POMS_S_VPRO_195283",
+              "urnRef" : "urn:vpro:media:group:11887617",
+              "type" : "ARCHIVE"
+            }, {
+              "midRef" : "POMS_S_NTR_160161",
+              "urnRef" : "urn:vpro:media:group:16357199",
+              "type" : "ARCHIVE"
+            }, {
+              "midRef" : "POMS_S_VPRO_417554",
+              "urnRef" : "urn:vpro:media:group:30800916",
+              "type" : "COLLECTION"
+            }, {
+              "midRef" : "POMS_S_VPRO_417557",
+              "urnRef" : "urn:vpro:media:group:30800931",
+              "type" : "COLLECTION"
+            }, {
+              "midRef" : "AUTO_LABYRINTRADIO",
+              "urnRef" : "urn:vpro:media:group:5670608",
+              "type" : "SERIES"
+            }, {
+              "midRef" : "POMS_VPRO_202279",
+              "urnRef" : "urn:vpro:media:program:9645519",
+              "type" : "BROADCAST"
+            } ],
+            "start" : 1223000,
+            "urnRef" : "urn:vpro:media:program:9645519",
+            "midRef" : "POMS_VPRO_202279"
+          }, {
+            "objectType" : "segment",
+            "mid" : "POMS_VPRO_200805",
+            "type" : "SEGMENT",
+            "avType" : "AUDIO",
+            "workflow" : "PUBLISHED",
+            "sortDate" : 1307297040000,
+            "creationDate" : 1310567456369,
+            "lastModified" : 1310567456426,
+            "urn" : "urn:vpro:media:segment:10249827",
+            "embeddable" : true,
+            "broadcasters" : [ {
+              "id" : "VPRO",
+              "value" : "VPRO"
+            } ],
+            "titles" : [ {
+              "value" : "Klompje cellen houdt leven in z’n greep",
+              "owner" : "BROADCASTER",
+              "type" : "MAIN"
+            } ],
+            "genres" : [ ],
+            "countries" : [ ],
+            "languages" : [ ],
+            "duration" : 931000,
+            "descendantOf" : [ {
+              "midRef" : "POMS_S_VPRO_195283",
+              "urnRef" : "urn:vpro:media:group:11887617",
+              "type" : "ARCHIVE"
+            }, {
+              "midRef" : "POMS_S_NTR_160161",
+              "urnRef" : "urn:vpro:media:group:16357199",
+              "type" : "ARCHIVE"
+            }, {
+              "midRef" : "POMS_S_VPRO_417554",
+              "urnRef" : "urn:vpro:media:group:30800916",
+              "type" : "COLLECTION"
+            }, {
+              "midRef" : "POMS_S_VPRO_417557",
+              "urnRef" : "urn:vpro:media:group:30800931",
+              "type" : "COLLECTION"
+            }, {
+              "midRef" : "AUTO_LABYRINTRADIO",
+              "urnRef" : "urn:vpro:media:group:5670608",
+              "type" : "SERIES"
+            }, {
+              "midRef" : "POMS_VPRO_202279",
+              "urnRef" : "urn:vpro:media:program:9645519",
+              "type" : "BROADCAST"
+            } ],
+            "start" : 2569000,
+            "urnRef" : "urn:vpro:media:program:9645519",
+            "midRef" : "POMS_VPRO_202279"
+          } ]
         }
       } ],
       "images" : [ {
         "type" : "PICTURE",
-        "url" : "http://images.poms.omroep.nl/image/s360/534053.jpg",
-        "title" : "Petra Stienen.jpg",
-        "description" : "De Kennis van Nu"
+        "url" : "http://wetenschap-acc.ntr.nl/thumbs/i/3000/mod_media_image/3436.h374.0.b4af4ee.jpg",
+        "title" : "033wubosbrand-fotocathelijnestoof1-120x90"
       } ],
-      "publishStart" : 1424026800000,
-      "creationDate" : 1426014081039,
-      "lastModified" : 1426584637603,
+      "creationDate" : 1444090091639,
+      "lastModified" : 1444172777699,
       "refCount" : 0
     }
   } ]

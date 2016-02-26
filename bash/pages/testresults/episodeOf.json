@@ -3,23 +3,23 @@
   "selectedFacets" : { },
   "mediaFacets" : {
     "episodeOf" : [ {
-      "count" : 58,
+      "count" : 116,
       "selected" : true,
       "id" : "POMS_S_VPRO_130712",
-      "value" : "Het Spoor 1985  klaar",
+      "value" : "Het Spoor 1985",
       "type" : "SEASON"
     } ]
   },
   "mediaSelectedFacets" : {
     "episodeOf" : [ {
-      "count" : 58,
+      "count" : 116,
       "selected" : true,
       "id" : "POMS_S_VPRO_130712",
-      "value" : "Het Spoor 1985  klaar",
+      "value" : "Het Spoor 1985",
       "type" : "SEASON"
     } ]
   },
-  "total" : 58,
+  "total" : 116,
   "offset" : 0,
   "max" : 2,
   "items" : [ {
@@ -27,72 +27,77 @@
     "result" : {
       "objectType" : "page",
       "type" : "AUDIO",
-      "url" : "http://woord-sample.localhost/luister.POMS_VPRO_223549.html",
-      "sortDate" : 504590400000,
-      "crids" : [ "crid://vpro/media/woord/POMS_VPRO_223549" ],
+      "url" : "http://www-acc.vpro.nl/speel.POMS_VPRO_132451.html",
+      "sortDate" : 487807200000,
+      "crids" : [ "crid://vpro/media/vpro/POMS_VPRO_132451" ],
       "broadcasters" : [ {
         "id" : "VPRO",
         "value" : "VPRO"
       } ],
       "portal" : {
-        "id" : "WOORD",
-        "url" : "http://woord-sample.localhost",
-        "value" : "Woord.nl"
+        "id" : "VPRONL",
+        "url" : "http://www-acc.vpro.nl",
+        "value" : "VPRO.nl"
       },
-      "title" : "Het Spoor ",
-      "genres" : [ {
-        "id" : "3.0.4.1",
-        "terms" : [ "Documentaire" ],
-        "displayName" : "Documentaire"
-      } ],
+      "title" : "Het Spoor",
       "embeds" : [ {
-        "title" : "Het Spoor ",
-        "description" : "Een documentaire over het gewijzigde kunstbeleid en de te verwachten gevolgen door de  verandering in de BKR. \nInterviews met o.a.:\nLia Gorter (beeldend kunstenares); \nPieter Ligthart (econoom Boekmanstichting);\nJoost Smiers (cultureel politicoloog); \nCas Smithuysen ( secretaris  Amsterdamse Kunstraad); \nHein van Haren (dir. Rotterdamse Kunstacademie); \nFrans Kolkman (Kunstenbond FNV).\n\n---\nUitgebreide beschrijving:\t\n'00\" Stationcall. Tune. Inleiding pres.\nna 1'00\" Gesprekje met beeldend kunstenares (\"Als er niks anders gebeurt, is dit het einde van mijn beroepspraktijk\"). Inleiding pres.: \"Drie jaar gezond verstand kunstbeleid. Wat heeft de nieuwe zakelijkheid opgeleverd voor de kunst en wat is er misgegaan?\". \nna 2'42\" Pres.: \"De beeldend kunstenaars hebben het meeste gemerkt van het veranderde kunstbeleid. Het ministerie van Sociale Zaken wil bezuinigen op de BKR\". Licht deze regeling toe en de\nveranderingen (\"Men moet in een jaar voor 8000 gulden verkopen, voordat men in aanmerking komt\").\nna 3'45\" Gesprek met beeldend kunstenares Lia Gorter, die al 16 jaar in de BKR zit. Denkt dat ze niet meer in aanmerking zal komen voor de BKR omdat de inkomensgrens is opgetrokken.\nPres.:  Minister Brinkman van WVC heeft gezegd dat kunstbegroting ontzien wordt. Is er nou wel of niet bezuinigd? Sinds 1979 is een steeds kleiner deel van de begroting naar kunst gegaan. Door overheveling is de begroting van dit jaar gestegen. Helaas laat de begroting van 1986 weer een daling zien. Hierbij is de bezuiniging op de BKR niet meegeteld\". Erg veel geld gaat niet rechtstreeks naar\nkunstenaars, maar naar instellingen.\nna 7'52\" Pieter Ligthart (econoom bij Boekmanstichting) probeert een verklaring te geven voor het feit dat er zo weinig geld rechtstreeks naar de scheppende kunst gaat. Zegt dat Koning Willem I veel gedaan heeft voor de scheppende kunst. Met de komst van de ministeries werd het moeilijker om rechtstreeks opdrachten te geven en werd de kunstbegroting een instellingenbegroting. Volgens hem zit er een grote discrepantie in de kunstbegroting tussen scheppende en uitvoerende kunst.\nna 11'18\" Vervolg gesprek Lia Gorter (op weg naar de gemeente om te informeren naar haar financiële  toekomst) en met een andere beeldend kunstenaar die ze tegenkomen. Laatstgenoemde uit veel kritiek op de wijze waarop de gemeente productiebudgetten verdeelt. Vertelt hoeveel moeite hij moet doen om nog in de BKR te kunnen blijven. Zou zich afgeschreven voelen als kunstenaar als hij in de bijstand terecht zou komen.\nna 15'37\" Pres.: \"Het is nu vanzelfsprekend en noodzakelijk dat de overheid de grootste verantwoordelijkheid draagt voor de kunst. In 1870 is de overheid begonnen een klein beetje geld aan kunst te besteden. Pas na de Tweede Wereldoorlog strekt de overheidssteun zich uit over alle takken van kunst\".\nna 16'06\" Ligthart: \"Toneel en de hele dramatische kunst werden tot aan de oorlog niet gesubsidieerd. De centrale overheid is in de oorlog onder dwang van de Duitsers begonnen met subsidiëren\".\nPres.: \"De schoonheid van de kunst in de jaren vijftig is voor overheid de traditionele kunst van vaak al lang overleden kunstenaars. Er is weinig over voor vernieuwing. Na de kunstenaarsacties in de jaren zestig wordt het begrip schoonheid vervangen door maatschappelijke relevantie\".\nna 17'48\" Joost Smiers (cultureel politicoloog) geeft een overzicht van de gebeurtenissen in de jaren zestig. (\"er was een ideologiestrijd\").\nna 19'20\" Rep.: \"We lopen nu door een modderbad van de Stopera in aanbouw.\" Geluiden van rondleiding voor de Kunstraad. Pres.: \"Het lijkt of er een nieuwe tegenstelling in het kunstbeleid de kop op steekt, tussen de grootschalige en de kleinschalige kunst. De Kunstraad waarschuwt voor het gevaar dat de kleinschalige, scheppende kunst in de verdrukking komt door grootschalige projecten, zoals de Stopera.\nna 21'56' Gesprekje met de secretaris  van de Amsterdamse Kunstraad, Cas Smithuysen: Het gaat goed met kunst, maar slecht met kunstbeleid.\nna 25'09\" Vervolg reportage over Lia Gorter, die bij de gemeente aanbelt en informeert naar een productiebudget. Een ambtenaar deelt haar mee dat ze geen budget krijgt. \nna 27'00\" Pres.: \"De Sociale Dienst verzorgt voor een belangrijk deel de financiering van de scheppende kunst.  Er komen nu nog meer kunstenaars bij, die uit de BKR zijn gevallen\".\nna 28'04\" Reportage over het NL-centrum in Amsterdam. (organisatie die jonge kunstenaars op weg probeert te helpen). Gesprekjes met medewerkers en kunstenaars over het kunstbeleid. \nna 34'09\" Pres.: \"De onduidelijke positie van de kunstenaar in de maatschappij levert voor de overheid problemen op. Er zijn veel mensen die zich niet of nauwelijks voor kunst\ninteresseren\".\nJoost Smiers over de kloof tussen de scheppend kunstenaar en het publiek. Vindt dat de kunstenaar zich minder moet opsluiten in zijn atelier.\nna 36'18\" Pres.: \"De overheid heeft een legitimering gevonden voor haar kunstbeleid. Dat is kwaliteit. Het probleem is wie maakt uit wat kwaliteit is. Volgens de overheid zouden BKR-kunstenaars onvoldoende kwaliteit leveren\".\nna 36'55' Hein van Haren (dir. Rotterdamse Kunstacademie) over de BKR. \"Binnen elke regeling gebeuren dingen, die de regeling niet beoogd heeft\". Vindt de beeldvorming van een BKR-kunstenaar\ndie niet werkt, vervalsend. Zegt dat kunstenaar geen beroep is dat je uit gemakzucht kiest.\nna 39'03\" Pres.: \"Je zou denken dat er niet meer veel mensen naar de Kunstacademie willen\".\nHein van Haren zegt dat hij maar 1 op de 4 kan toelaten. Volgens hem neemt de animo voor de Kunstacademie toe.\nna 41'46\" Vervolg reportage met  over Lia Gorter die bezig is om telefonisch werk te verkopen zodat ze misschien toch in aanmerking komt voor de BKR. (\"Ik word gedwongen in de positie van bedelaar\".\nna 43'58\" Pres.: \"Onlangs kreeg de VPRO een vertrouwelijke notitie over de BKR in handen, geschreven door de afd. beeldende kunst van WVC. Handelt grotendeels over overheveling van BKR-gelden van Soc. Zaken naar WVC. Men wil op het ministerie er nog niets over kwijt. Hier staat openhartig geschreven hoe men bij WVC denkt over BKR-kunstenaars\"- Geeft enige citaten uit de nota. \"Met deze notitie gingen we naar de Kunstenbond FNV\".\nna 46'18\" Frans Kolkman (Kunstenbond FNV) geeft reactie op de notitie, waarin te lezen valt dat BKR wordt opgeheven. Volgens hem schoof de overheid de oordeelvorming over de kunst af op deskundigen waarna ze nu het oordeel v.d. deskundigen in twijfel trekt.\nna 47'45\" Pres.: \"Dat de BKR zal verdwijnen is vrijwel zeker. Daarvoor in de plaats wil WVC een fonds instellen. De vraag is alleen op welke termijn\". Leest fragment uit de notitie voor, waaruit blijkt dat 1986 het laatste BKR-jaar zou zijn.\nna 49'30\"\nKolkman zegt dat volgens hem deze planning onhaalbaar is.\nna 50'50\" Pres.: \"Opvallend bij dit overheidsbeleid is de overdreven nadruk op kwaliteit en de neiging het oordeel van deskundigen in twijfel te trekken. Het rijksinkoopbeleid zou nogal trendmatig zijn\".\nVolgens Kolkman kun je je niet onttrekken aan trends. Kolkman vindt wel dat de groep die het aankoopbeleid en de uitreiking van stipendia bepaalt te klein is en te weinig wisselt van samenstelling. \nna 53'17\" Het lijkt Kolkman wenselijk dat de groep deskundigen zich verantwoordt voor de keuzes die zij maakt. \nna 54'56\"\nPres sluit af.\n\n",
+        "title" : "Het Spoor",
+        "description" : "Marjon van Royen en Hans Simonse reisden een maand door het land van de maffia en corruptie, van links en rechts terrorisme, van paus en fascisme, maar anderszins ook het land van toonaangevende cultuur en eurocommunisme; kortom het land van tegenstellingen en ongekende vitaliteit. \nIn deze eerste aflevering reizen we vanuit Rome naar het rode noorden. In de Fiatfabrieken in Turijn zoeken we naar de overblijfselen van jarenlange arbeidersstrijd. In Bologna zien we de effecten van fascistische bomaanslagen en bezoeken we autonome jongeren, voor zover ze niet in de gevangenis zitten.\n\nSamenstelling: Hans Simonse en Marjon van Royen, \npresentatie Philippe Scheltema, \nMuziekredactie: Richard Zeilstra\n\nDocumentatie in VPRO archief ",
         "media" : {
           "objectType" : "program",
-          "mid" : "POMS_VPRO_223549",
-          "creationDate" : 1363013035893,
-          "lastModified" : 1363271623998,
-          "publishStart" : 504590400000,
-          "sortDate" : 504590400000,
-          "urn" : "urn:vpro:media:program:22802169",
+          "mid" : "POMS_VPRO_132451",
+          "type" : "BROADCAST",
+          "avType" : "AUDIO",
+          "workflow" : "PUBLISHED",
+          "sortDate" : 487807200000,
+          "creationDate" : 1361200949052,
+          "lastModified" : 1361202739301,
+          "publishStart" : 487807200000,
+          "urn" : "urn:vpro:media:program:21772701",
           "embeddable" : true,
           "episodeOf" : [ {
             "midRef" : "POMS_S_VPRO_130712",
             "urnRef" : "urn:vpro:media:group:21741208",
             "type" : "SEASON",
-            "index" : 62,
+            "index" : 22,
             "highlighted" : false,
-            "added" : 1363013646109
+            "added" : 1361202739093
           } ],
           "broadcasters" : [ {
             "id" : "VPRO",
             "value" : "VPRO"
           } ],
           "titles" : [ {
-            "value" : "Het Spoor ",
+            "value" : "Het Spoor",
             "owner" : "BROADCASTER",
             "type" : "MAIN"
           }, {
-            "value" : "Het gezond verstand kunstbeleid van de overheid",
+            "value" : "Italië, een politiek reisverslag 1",
             "owner" : "BROADCASTER",
             "type" : "SUB"
           } ],
           "descriptions" : [ {
-            "value" : "Een documentaire over het gewijzigde kunstbeleid en de te verwachten gevolgen door de  verandering in de BKR. \nInterviews met o.a.:\nLia Gorter (beeldend kunstenares); \nPieter Ligthart (econoom Boekmanstichting);\nJoost Smiers (cultureel politicoloog); \nCas Smithuysen ( secretaris  Amsterdamse Kunstraad); \nHein van Haren (dir. Rotterdamse Kunstacademie); \nFrans Kolkman (Kunstenbond FNV).\n\n---\nUitgebreide beschrijving:\t\n'00\" Stationcall. Tune. Inleiding pres.\nna 1'00\" Gesprekje met beeldend kunstenares (\"Als er niks anders gebeurt, is dit het einde van mijn beroepspraktijk\"). Inleiding pres.: \"Drie jaar gezond verstand kunstbeleid. Wat heeft de nieuwe zakelijkheid opgeleverd voor de kunst en wat is er misgegaan?\". \nna 2'42\" Pres.: \"De beeldend kunstenaars hebben het meeste gemerkt van het veranderde kunstbeleid. Het ministerie van Sociale Zaken wil bezuinigen op de BKR\". Licht deze regeling toe en de\nveranderingen (\"Men moet in een jaar voor 8000 gulden verkopen, voordat men in aanmerking komt\").\nna 3'45\" Gesprek met beeldend kunstenares Lia Gorter, die al 16 jaar in de BKR zit. Denkt dat ze niet meer in aanmerking zal komen voor de BKR omdat de inkomensgrens is opgetrokken.\nPres.:  Minister Brinkman van WVC heeft gezegd dat kunstbegroting ontzien wordt. Is er nou wel of niet bezuinigd? Sinds 1979 is een steeds kleiner deel van de begroting naar kunst gegaan. Door overheveling is de begroting van dit jaar gestegen. Helaas laat de begroting van 1986 weer een daling zien. Hierbij is de bezuiniging op de BKR niet meegeteld\". Erg veel geld gaat niet rechtstreeks naar\nkunstenaars, maar naar instellingen.\nna 7'52\" Pieter Ligthart (econoom bij Boekmanstichting) probeert een verklaring te geven voor het feit dat er zo weinig geld rechtstreeks naar de scheppende kunst gaat. Zegt dat Koning Willem I veel gedaan heeft voor de scheppende kunst. Met de komst van de ministeries werd het moeilijker om rechtstreeks opdrachten te geven en werd de kunstbegroting een instellingenbegroting. Volgens hem zit er een grote discrepantie in de kunstbegroting tussen scheppende en uitvoerende kunst.\nna 11'18\" Vervolg gesprek Lia Gorter (op weg naar de gemeente om te informeren naar haar financiële  toekomst) en met een andere beeldend kunstenaar die ze tegenkomen. Laatstgenoemde uit veel kritiek op de wijze waarop de gemeente productiebudgetten verdeelt. Vertelt hoeveel moeite hij moet doen om nog in de BKR te kunnen blijven. Zou zich afgeschreven voelen als kunstenaar als hij in de bijstand terecht zou komen.\nna 15'37\" Pres.: \"Het is nu vanzelfsprekend en noodzakelijk dat de overheid de grootste verantwoordelijkheid draagt voor de kunst. In 1870 is de overheid begonnen een klein beetje geld aan kunst te besteden. Pas na de Tweede Wereldoorlog strekt de overheidssteun zich uit over alle takken van kunst\".\nna 16'06\" Ligthart: \"Toneel en de hele dramatische kunst werden tot aan de oorlog niet gesubsidieerd. De centrale overheid is in de oorlog onder dwang van de Duitsers begonnen met subsidiëren\".\nPres.: \"De schoonheid van de kunst in de jaren vijftig is voor overheid de traditionele kunst van vaak al lang overleden kunstenaars. Er is weinig over voor vernieuwing. Na de kunstenaarsacties in de jaren zestig wordt het begrip schoonheid vervangen door maatschappelijke relevantie\".\nna 17'48\" Joost Smiers (cultureel politicoloog) geeft een overzicht van de gebeurtenissen in de jaren zestig. (\"er was een ideologiestrijd\").\nna 19'20\" Rep.: \"We lopen nu door een modderbad van de Stopera in aanbouw.\" Geluiden van rondleiding voor de Kunstraad. Pres.: \"Het lijkt of er een nieuwe tegenstelling in het kunstbeleid de kop op steekt, tussen de grootschalige en de kleinschalige kunst. De Kunstraad waarschuwt voor het gevaar dat de kleinschalige, scheppende kunst in de verdrukking komt door grootschalige projecten, zoals de Stopera.\nna 21'56' Gesprekje met de secretaris  van de Amsterdamse Kunstraad, Cas Smithuysen: Het gaat goed met kunst, maar slecht met kunstbeleid.\nna 25'09\" Vervolg reportage over Lia Gorter, die bij de gemeente aanbelt en informeert naar een productiebudget. Een ambtenaar deelt haar mee dat ze geen budget krijgt. \nna 27'00\" Pres.: \"De Sociale Dienst verzorgt voor een belangrijk deel de financiering van de scheppende kunst.  Er komen nu nog meer kunstenaars bij, die uit de BKR zijn gevallen\".\nna 28'04\" Reportage over het NL-centrum in Amsterdam. (organisatie die jonge kunstenaars op weg probeert te helpen). Gesprekjes met medewerkers en kunstenaars over het kunstbeleid. \nna 34'09\" Pres.: \"De onduidelijke positie van de kunstenaar in de maatschappij levert voor de overheid problemen op. Er zijn veel mensen die zich niet of nauwelijks voor kunst\ninteresseren\".\nJoost Smiers over de kloof tussen de scheppend kunstenaar en het publiek. Vindt dat de kunstenaar zich minder moet opsluiten in zijn atelier.\nna 36'18\" Pres.: \"De overheid heeft een legitimering gevonden voor haar kunstbeleid. Dat is kwaliteit. Het probleem is wie maakt uit wat kwaliteit is. Volgens de overheid zouden BKR-kunstenaars onvoldoende kwaliteit leveren\".\nna 36'55' Hein van Haren (dir. Rotterdamse Kunstacademie) over de BKR. \"Binnen elke regeling gebeuren dingen, die de regeling niet beoogd heeft\". Vindt de beeldvorming van een BKR-kunstenaar\ndie niet werkt, vervalsend. Zegt dat kunstenaar geen beroep is dat je uit gemakzucht kiest.\nna 39'03\" Pres.: \"Je zou denken dat er niet meer veel mensen naar de Kunstacademie willen\".\nHein van Haren zegt dat hij maar 1 op de 4 kan toelaten. Volgens hem neemt de animo voor de Kunstacademie toe.\nna 41'46\" Vervolg reportage met  over Lia Gorter die bezig is om telefonisch werk te verkopen zodat ze misschien toch in aanmerking komt voor de BKR. (\"Ik word gedwongen in de positie van bedelaar\".\nna 43'58\" Pres.: \"Onlangs kreeg de VPRO een vertrouwelijke notitie over de BKR in handen, geschreven door de afd. beeldende kunst van WVC. Handelt grotendeels over overheveling van BKR-gelden van Soc. Zaken naar WVC. Men wil op het ministerie er nog niets over kwijt. Hier staat openhartig geschreven hoe men bij WVC denkt over BKR-kunstenaars\"- Geeft enige citaten uit de nota. \"Met deze notitie gingen we naar de Kunstenbond FNV\".\nna 46'18\" Frans Kolkman (Kunstenbond FNV) geeft reactie op de notitie, waarin te lezen valt dat BKR wordt opgeheven. Volgens hem schoof de overheid de oordeelvorming over de kunst af op deskundigen waarna ze nu het oordeel v.d. deskundigen in twijfel trekt.\nna 47'45\" Pres.: \"Dat de BKR zal verdwijnen is vrijwel zeker. Daarvoor in de plaats wil WVC een fonds instellen. De vraag is alleen op welke termijn\". Leest fragment uit de notitie voor, waaruit blijkt dat 1986 het laatste BKR-jaar zou zijn.\nna 49'30\"\nKolkman zegt dat volgens hem deze planning onhaalbaar is.\nna 50'50\" Pres.: \"Opvallend bij dit overheidsbeleid is de overdreven nadruk op kwaliteit en de neiging het oordeel van deskundigen in twijfel te trekken. Het rijksinkoopbeleid zou nogal trendmatig zijn\".\nVolgens Kolkman kun je je niet onttrekken aan trends. Kolkman vindt wel dat de groep die het aankoopbeleid en de uitreiking van stipendia bepaalt te klein is en te weinig wisselt van samenstelling. \nna 53'17\" Het lijkt Kolkman wenselijk dat de groep deskundigen zich verantwoordt voor de keuzes die zij maakt. \nna 54'56\"\nPres sluit af.\n\n",
+            "value" : "Marjon van Royen en Hans Simonse reisden een maand door het land van de maffia en corruptie, van links en rechts terrorisme, van paus en fascisme, maar anderszins ook het land van toonaangevende cultuur en eurocommunisme; kortom het land van tegenstellingen en ongekende vitaliteit. \nIn deze eerste aflevering reizen we vanuit Rome naar het rode noorden. In de Fiatfabrieken in Turijn zoeken we naar de overblijfselen van jarenlange arbeidersstrijd. In Bologna zien we de effecten van fascistische bomaanslagen en bezoeken we autonome jongeren, voor zover ze niet in de gevangenis zitten.\n\nSamenstelling: Hans Simonse en Marjon van Royen, \npresentatie Philippe Scheltema, \nMuziekredactie: Richard Zeilstra\n\nDocumentatie in VPRO archief ",
             "owner" : "BROADCASTER",
             "type" : "MAIN"
           } ],
           "genres" : [ ],
-          "tags" : [ "beeldend kunstenaars", "beeldende kunst" ],
+          "tags" : [ "arbeidersstrijd", "autonome jongeren", "bomaanslagen", "corruptie", "fascisme", "Fiatfabrieken", "Italië", "maffia", "terrorisme" ],
           "countries" : [ ],
           "languages" : [ ],
           "releaseYear" : 1985,
-          "duration" : 3600000,
           "credits" : [ {
-            "givenName" : "Caroline ",
-            "familyName" : "Hanken",
+            "givenName" : "Hans",
+            "familyName" : "Simonse",
             "role" : "UNDEFINED"
+          }, {
+            "givenName" : "Marjon",
+            "familyName" : "van Royen",
+            "role" : "UNDEFINED"
+          }, {
+            "givenName" : "Richard ",
+            "familyName" : "Zeilstra",
+            "role" : "COMPOSER"
           } ],
           "descendantOf" : [ {
             "midRef" : "POMS_S_VPRO_195283",
@@ -116,44 +121,67 @@
             "platform" : "INTERNETVOD"
           } ],
           "locations" : [ {
-            "programUrl" : "http://download.omroep.nl/vpro/algemeen/woord/het_spoor_terug/1985/Spoor_1985_12_28_Kunstbeleid.mp3",
+            "programUrl" : "http://download.omroep.nl/vpro/algemeen/woord/het_spoor_terug/1985/Spoor_1985_06_17_Italie_1_PS.mp3",
             "avAttributes" : {
               "avFileFormat" : "MP3"
             },
             "owner" : "BROADCASTER",
-            "creationDate" : 1363271623287,
-            "lastModified" : 1363271623993,
+            "creationDate" : 1361202710960,
+            "lastModified" : 1361202711064,
             "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:location:22963091"
+            "urn" : "urn:vpro:media:location:21780006"
           } ],
           "images" : [ {
-            "title" : "Gids over kunstbeleid",
-            "description" : "Gids over kunstbeleid",
-            "imageUri" : "urn:vpro:image:146767",
-            "height" : 1235,
-            "width" : 1076,
+            "title" : "Gids Italie 1.",
+            "description" : "Gids Italiï¿½ 1.",
+            "imageUri" : "urn:vpro:image:140367",
+            "height" : 1501,
+            "width" : 1065,
             "owner" : "BROADCASTER",
             "type" : "PICTURE",
             "highlighted" : false,
-            "creationDate" : 1363013635179,
-            "lastModified" : 1363013635255,
+            "creationDate" : 1361202612341,
+            "lastModified" : 1361202612444,
             "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:image:22802215"
-          } ],
-          "workflow" : "PUBLISHED",
-          "type" : "BROADCAST",
-          "avType" : "AUDIO"
+            "urn" : "urn:vpro:media:image:21779368"
+          }, {
+            "title" : "Gids Italie 1a",
+            "description" : "Gids Italie 1a",
+            "imageUri" : "urn:vpro:image:140368",
+            "height" : 1215,
+            "width" : 1644,
+            "owner" : "BROADCASTER",
+            "type" : "PICTURE",
+            "highlighted" : false,
+            "creationDate" : 1361202640989,
+            "lastModified" : 1361202641083,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:21779550"
+          }, {
+            "title" : "Gids Italie 1b",
+            "description" : "Gids Italie 1b",
+            "imageUri" : "urn:vpro:image:140369",
+            "height" : 1158,
+            "width" : 490,
+            "owner" : "BROADCASTER",
+            "type" : "PICTURE",
+            "highlighted" : false,
+            "creationDate" : 1361202667835,
+            "lastModified" : 1361202667931,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:21779739"
+          } ]
         }
       } ],
       "images" : [ {
         "type" : "PICTURE",
-        "url" : "http://images.poms.omroep.nl/image/s360/146767.jpg",
-        "title" : "Gids over kunstbeleid",
-        "description" : "Gids over kunstbeleid"
+        "url" : "http://images.poms.omroep.nl/image/s360/140367.jpg",
+        "title" : "Gids Italie 1.",
+        "description" : "Gids Italiï¿½ 1."
       } ],
-      "publishStart" : 504590400000,
-      "creationDate" : 1421915336907,
-      "lastModified" : 1425950494983,
+      "publishStart" : 487807200000,
+      "creationDate" : 1412013064910,
+      "lastModified" : 1430323778239,
       "refCount" : 0
     }
   }, {
@@ -161,75 +189,89 @@
     "result" : {
       "objectType" : "page",
       "type" : "AUDIO",
-      "url" : "http://woord-sample.localhost/luister.POMS_VPRO_221548.html",
-      "sortDate" : 499924800000,
-      "crids" : [ "crid://vpro/media/woord/POMS_VPRO_221548" ],
+      "url" : "http://www-acc.vpro.nl/speel.POMS_VPRO_126666.html",
+      "sortDate" : 486597600000,
+      "crids" : [ "crid://vpro/media/vpro/POMS_VPRO_126666" ],
       "broadcasters" : [ {
         "id" : "VPRO",
         "value" : "VPRO"
       } ],
       "portal" : {
-        "id" : "WOORD",
-        "url" : "http://woord-sample.localhost",
-        "value" : "Woord.nl"
+        "id" : "VPRONL",
+        "url" : "http://www-acc.vpro.nl",
+        "value" : "VPRO.nl"
       },
-      "title" : "Het Spoor ",
-      "genres" : [ {
-        "id" : "3.0.4.1",
-        "terms" : [ "Documentaire" ],
-        "displayName" : "Documentaire"
-      } ],
+      "title" : "Het Spoor",
       "embeds" : [ {
-        "title" : "Het Spoor ",
-        "description" : "Eerste aflevering van vierdelige serie over DNA en genetische manipulatie. Wat is er mogelijk en wat niet. Wat verwacht men in de toekomst?\nDeze aflevering gaat over wat DNA is. Hoever is men met de genetische manipulatie van planten en dieren? Wat zijn de risico’s van de vergaarde kennis en van de toepassingen?\nInterviews met o.a.:\n- prof. dr. ir. A. Rörsch, moleculair geneticus TNO Delft;\n- directeur Albert Eenink van de Stichting voor Plantenveredeling Wageningen;\n- Dr. Th. Kruip van de Faculteit Diergeneeskunde Utrecht;\n- Dr. Aart Gisolf, arts;\n- Dr. Huub Schellekens, directeur primatencentrum en microbioloog TNO;\n- Dr. L. Reijnders, Stichting Natuur en Milieu.\n\nUitgebreidere documentatie aanwezig in VPRO archief\n\n",
+        "title" : "Het Spoor",
+        "description" : "De Talkshows 3\n03-06-1985\nDerde en laatste aflevering van een driedelige serie over de huidige dertien praatprogramma's op de Nederlandse publieke televisie. \nTineke en Jan, Koos en Sonja, Ad en Adriaan, Hans en Henk, Karel, Wim, Ivo.\nIedere dag één of twee praatprogramma’s op televisie. Sommige zijn het gesprek van de dag en iedereen heeft er een mening over. Emanciperend en taboedoorbrekend of pretentieloos babbelamusement? En hoe lang duurt het nog totdat de ene helft van Nederland de andere zit te interviewen? \nSpoorverslaggevers kijken achter de schermen van de talkshows.\nMet in deze laatste aflevering aandacht voor de strijd om de gespreksonderwerpen die in Hilversum via het zogenaamde 'claimsysteem' wordt uitgevochten; voor de grens tussen amusement en informatie; voor de keuze van onderwerpen, die mede wordt bepaald door de kijkcijfers. \nMet fragmenten uit talkshows en interviews met de televisiepresentatoren Ivo Niehe ('TROS TV Show'), Wim Neijman ('Geloof, Hoop en Liefde Show' en 'Lasten en lusten' van de IKON), Koos Postema ('Bij Koos', 'Een groot uur U' van de VARA), Karel van de Graaf (AVRO), Ellen Blazer, Mies Bouwman ('In de hoofdrol') en Jan Lenferink ('RUR', VOO). \nVerder interviews met medewerkers van het Claimbureau; columns van correspondentes Lia van Bekhoven (GB) en Sandra van Beek (VS); een column van Harrie Jekkers en Koos Meinderts, de schrijvers van 'Tejo', dat door een optreden bij 'Sonja op Zaterdag' een kassucces werd; fragment uit 'Voorheen Barend en van Dorp' met van fraude verdachte Rienk K., die afgebeld werd door Ivo Niehe toen hij bij Barend en Van Dorp was geweest. \n\nSamenstelling: Kiki Amsberg,  Michal Citroen, Cees Grimbergen, Lida Iburg, Ger Jochems, Kees Slager\n\nDocumentatie in VPRO archief",
         "media" : {
           "objectType" : "program",
-          "mid" : "POMS_VPRO_221548",
-          "creationDate" : 1362760709490,
-          "lastModified" : 1363271129924,
-          "publishStart" : 499924800000,
-          "sortDate" : 499924800000,
-          "urn" : "urn:vpro:media:program:22722901",
+          "mid" : "POMS_VPRO_126666",
+          "type" : "BROADCAST",
+          "avType" : "AUDIO",
+          "workflow" : "PUBLISHED",
+          "sortDate" : 486597600000,
+          "creationDate" : 1361183415378,
+          "lastModified" : 1363270505166,
+          "publishStart" : 486597600000,
+          "urn" : "urn:vpro:media:program:21665611",
           "embeddable" : true,
           "episodeOf" : [ {
             "midRef" : "POMS_S_VPRO_130712",
             "urnRef" : "urn:vpro:media:group:21741208",
             "type" : "SEASON",
-            "index" : 46,
+            "index" : 20,
             "highlighted" : false,
-            "added" : 1362760880992
+            "added" : 1361199323615
           } ],
           "broadcasters" : [ {
             "id" : "VPRO",
             "value" : "VPRO"
           } ],
           "titles" : [ {
-            "value" : "Het Spoor ",
+            "value" : "Het Spoor",
             "owner" : "BROADCASTER",
             "type" : "MAIN"
           }, {
-            "value" : "Van Stamboekvee naar Stamboekmens  1",
+            "value" : "De Talkshows 3 ",
             "owner" : "BROADCASTER",
             "type" : "SUB"
           } ],
           "descriptions" : [ {
-            "value" : "Eerste aflevering van vierdelige serie over DNA en genetische manipulatie. Wat is er mogelijk en wat niet. Wat verwacht men in de toekomst?\nDeze aflevering gaat over wat DNA is. Hoever is men met de genetische manipulatie van planten en dieren? Wat zijn de risico’s van de vergaarde kennis en van de toepassingen?\nInterviews met o.a.:\n- prof. dr. ir. A. Rörsch, moleculair geneticus TNO Delft;\n- directeur Albert Eenink van de Stichting voor Plantenveredeling Wageningen;\n- Dr. Th. Kruip van de Faculteit Diergeneeskunde Utrecht;\n- Dr. Aart Gisolf, arts;\n- Dr. Huub Schellekens, directeur primatencentrum en microbioloog TNO;\n- Dr. L. Reijnders, Stichting Natuur en Milieu.\n\nUitgebreidere documentatie aanwezig in VPRO archief\n\n",
+            "value" : "De Talkshows 3\n03-06-1985\nDerde en laatste aflevering van een driedelige serie over de huidige dertien praatprogramma's op de Nederlandse publieke televisie. \nTineke en Jan, Koos en Sonja, Ad en Adriaan, Hans en Henk, Karel, Wim, Ivo.\nIedere dag één of twee praatprogramma’s op televisie. Sommige zijn het gesprek van de dag en iedereen heeft er een mening over. Emanciperend en taboedoorbrekend of pretentieloos babbelamusement? En hoe lang duurt het nog totdat de ene helft van Nederland de andere zit te interviewen? \nSpoorverslaggevers kijken achter de schermen van de talkshows.\nMet in deze laatste aflevering aandacht voor de strijd om de gespreksonderwerpen die in Hilversum via het zogenaamde 'claimsysteem' wordt uitgevochten; voor de grens tussen amusement en informatie; voor de keuze van onderwerpen, die mede wordt bepaald door de kijkcijfers. \nMet fragmenten uit talkshows en interviews met de televisiepresentatoren Ivo Niehe ('TROS TV Show'), Wim Neijman ('Geloof, Hoop en Liefde Show' en 'Lasten en lusten' van de IKON), Koos Postema ('Bij Koos', 'Een groot uur U' van de VARA), Karel van de Graaf (AVRO), Ellen Blazer, Mies Bouwman ('In de hoofdrol') en Jan Lenferink ('RUR', VOO). \nVerder interviews met medewerkers van het Claimbureau; columns van correspondentes Lia van Bekhoven (GB) en Sandra van Beek (VS); een column van Harrie Jekkers en Koos Meinderts, de schrijvers van 'Tejo', dat door een optreden bij 'Sonja op Zaterdag' een kassucces werd; fragment uit 'Voorheen Barend en van Dorp' met van fraude verdachte Rienk K., die afgebeld werd door Ivo Niehe toen hij bij Barend en Van Dorp was geweest. \n\nSamenstelling: Kiki Amsberg,  Michal Citroen, Cees Grimbergen, Lida Iburg, Ger Jochems, Kees Slager\n\nDocumentatie in VPRO archief",
             "owner" : "BROADCASTER",
             "type" : "MAIN"
           } ],
           "genres" : [ ],
-          "tags" : [ "genetische manipulatie" ],
+          "tags" : [ "Talkshows" ],
           "countries" : [ ],
           "languages" : [ ],
           "releaseYear" : 1985,
-          "duration" : 3600000,
+          "duration" : 7200000,
           "credits" : [ {
+            "givenName" : "Kees",
+            "familyName" : "Slager",
+            "role" : "UNDEFINED"
+          }, {
+            "givenName" : "Michal",
+            "familyName" : "Citroen",
+            "role" : "UNDEFINED"
+          }, {
+            "givenName" : "Kiki ",
+            "familyName" : "Amsberg",
+            "role" : "UNDEFINED"
+          }, {
+            "givenName" : "Cees ",
+            "familyName" : "Grimbergen",
+            "role" : "UNDEFINED"
+          }, {
             "givenName" : "Lida ",
             "familyName" : "Iburg",
             "role" : "UNDEFINED"
           }, {
-            "givenName" : "Michal ",
-            "familyName" : "Citroen",
+            "givenName" : "Ger ",
+            "familyName" : "Jochems",
             "role" : "UNDEFINED"
           } ],
           "descendantOf" : [ {
@@ -254,44 +296,41 @@
             "platform" : "INTERNETVOD"
           } ],
           "locations" : [ {
-            "programUrl" : "http://download.omroep.nl/vpro/algemeen/woord/het_spoor_terug/1985/Spoor_1985_11_04_DNA1_Immix.mp3",
+            "programUrl" : "http://download.omroep.nl/vpro/algemeen/woord/het_spoor_terug/1985/Spoor_1985_06_03_Talkshows_3_band.mp3",
             "avAttributes" : {
               "avFileFormat" : "MP3"
             },
             "owner" : "BROADCASTER",
-            "creationDate" : 1363271126234,
-            "lastModified" : 1363271126493,
+            "creationDate" : 1363270504927,
+            "lastModified" : 1363270505163,
             "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:location:22962991"
+            "urn" : "urn:vpro:media:location:22962899"
           } ],
           "images" : [ {
-            "title" : "DNA dubbele helix",
-            "description" : "DNA dubbele helix",
-            "imageUri" : "urn:vpro:image:146070",
-            "height" : 598,
-            "width" : 239,
+            "title" : "Gidstekst Talkshows 3",
+            "description" : "Gidstekst Talkshows 3",
+            "imageUri" : "urn:vpro:image:140246",
+            "height" : 1524,
+            "width" : 1090,
             "owner" : "BROADCASTER",
             "type" : "PICTURE",
             "highlighted" : false,
-            "creationDate" : 1362760880351,
-            "lastModified" : 1362760882611,
+            "creationDate" : 1361184080617,
+            "lastModified" : 1361184080707,
             "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:image:22722922"
-          } ],
-          "workflow" : "PUBLISHED",
-          "type" : "BROADCAST",
-          "avType" : "AUDIO"
+            "urn" : "urn:vpro:media:image:21669082"
+          } ]
         }
       } ],
       "images" : [ {
         "type" : "PICTURE",
-        "url" : "http://images.poms.omroep.nl/image/s360/146070.jpg",
-        "title" : "DNA dubbele helix",
-        "description" : "DNA dubbele helix"
+        "url" : "http://images.poms.omroep.nl/image/s360/140246.jpg",
+        "title" : "Gidstekst Talkshows 3",
+        "description" : "Gidstekst Talkshows 3"
       } ],
-      "publishStart" : 499924800000,
-      "creationDate" : 1421915703459,
-      "lastModified" : 1425950501328,
+      "publishStart" : 486597600000,
+      "creationDate" : 1412013071184,
+      "lastModified" : 1430323787472,
       "refCount" : 0
     }
   } ]

@@ -1,13 +1,13 @@
 {
   "facets" : {
     "sortDates" : [ {
-      "count" : 1,
+      "count" : 2,
       "selected" : false,
       "value" : "2012",
       "begin" : 1325376000000,
       "end" : 1356998400000
     }, {
-      "count" : 2383,
+      "count" : 29782,
       "selected" : false,
       "value" : "2013",
       "begin" : 1356998400000,
@@ -15,31 +15,31 @@
     } ]
   },
   "selectedFacets" : { },
-  "total" : 2384,
+  "total" : 29784,
   "offset" : 0,
   "max" : 2,
   "items" : [ {
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",
-      "type" : "AUDIO",
-      "url" : "http://woord-sample.localhost/luister.POMS_NTR_056759.html",
+      "type" : "PLAYER",
+      "url" : "http://www-acc.cultura.nl/speel.POMS_NTR_056759.html",
       "sortDate" : 1356997500000,
-      "crids" : [ "crid://vpro/media/woord/POMS_NTR_056759" ],
+      "crids" : [ "crid://vpro/media/cultura/POMS_NTR_056759" ],
       "broadcasters" : [ {
         "id" : "NTR",
         "value" : "NTR"
       } ],
       "portal" : {
-        "id" : "WOORD",
-        "url" : "http://woord-sample.localhost",
-        "value" : "Woord.nl"
+        "id" : "CULTURA24",
+        "url" : "http://www-acc.cultura.nl",
+        "value" : "NPO Cultura"
       },
       "title" : "Hoorspel De Moker",
       "genres" : [ {
-        "id" : "3.0.4.3",
-        "terms" : [ "Hoorspel" ],
-        "displayName" : "Hoorspel"
+        "id" : "3.0.3.2",
+        "terms" : [ "Film/Drama" ],
+        "displayName" : "Film/Drama"
       } ],
       "embeds" : [ {
         "title" : "Hoorspel De Moker",
@@ -47,9 +47,12 @@
         "media" : {
           "objectType" : "program",
           "mid" : "POMS_NTR_056759",
+          "type" : "BROADCAST",
+          "avType" : "AUDIO",
+          "workflow" : "PUBLISHED",
+          "sortDate" : 1356997500000,
           "creationDate" : 1355151621345,
           "lastModified" : 1391165914284,
-          "sortDate" : 1356997500000,
           "urn" : "urn:vpro:media:program:16878873",
           "embeddable" : true,
           "episodeOf" : [ {
@@ -151,10 +154,7 @@
             "lastModified" : 1355151621348,
             "workflow" : "PUBLISHED",
             "urn" : "urn:vpro:media:image:16878874"
-          } ],
-          "workflow" : "PUBLISHED",
-          "type" : "BROADCAST",
-          "avType" : "AUDIO"
+          } ]
         }
       } ],
       "images" : [ {
@@ -164,31 +164,166 @@
         "description" : "Hoorspel De Moker"
       } ],
       "publishStart" : 1356997500000,
-      "creationDate" : 1421942339190,
-      "lastModified" : 1425951571907,
+      "creationDate" : 1414773919445,
+      "lastModified" : 1417464455717,
       "refCount" : 0
     }
   }, {
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",
-      "type" : "VIDEO",
-      "url" : "http://human.localhost/speel.POMS_S_AVRO_578564.html",
-      "sortDate" : 1357028100000,
-      "crids" : [ "crid://vpro/media/human/POMS_S_AVRO_578564" ],
+      "type" : "AUDIO",
+      "url" : "http://www-acc.woord.nl/luister.POMS_NTR_056759.html",
+      "sortDate" : 1356997500000,
+      "crids" : [ "crid://vpro/media/woord/POMS_NTR_056759" ],
       "broadcasters" : [ {
-        "id" : "AVRO",
-        "value" : "AVRO"
+        "id" : "NTR",
+        "value" : "NTR"
       } ],
       "portal" : {
-        "id" : "HUMANNL",
-        "url" : "http://human.localhost",
-        "value" : "Human.nl"
+        "id" : "WOORD",
+        "url" : "http://www-acc.woord.nl",
+        "value" : "Woord.nl"
       },
-      "title" : "Hoe heurt het eigenlijk? Seizoen 2",
-      "publishStart" : 1357028100000,
-      "creationDate" : 1425653511133,
-      "lastModified" : 1425653511154,
+      "title" : "Hoorspel De Moker",
+      "genres" : [ {
+        "id" : "3.0.4.3",
+        "terms" : [ "Hoorspel" ],
+        "displayName" : "Hoorspel"
+      } ],
+      "embeds" : [ {
+        "title" : "Hoorspel De Moker",
+        "description" : "Strijd om de macht op de Wallen in de jaren zeventig. Harrie 'De Moker' Pruis is groot geworden in de ramenverhuur en probeert de drugs tegen te houden, die Rotterdammer Aad Bosman juist wil introduceren. Oude penoze tegen nieuwe penoze. Met een grote rol voor de kraakbeweging, die idealistisch begint maar snel verhardt, net als de maatschappij. Met o.a. Jack Wouterse, Nelly Frijda, Martin van Waardenberg, Cees Geel, Daniel Boissevain, Georgina Verbaan, Hadwych Menis en Jenny Arean.",
+        "media" : {
+          "objectType" : "program",
+          "mid" : "POMS_NTR_056759",
+          "type" : "BROADCAST",
+          "avType" : "AUDIO",
+          "workflow" : "PUBLISHED",
+          "sortDate" : 1356997500000,
+          "creationDate" : 1355151621345,
+          "lastModified" : 1391165914284,
+          "urn" : "urn:vpro:media:program:16878873",
+          "embeddable" : true,
+          "episodeOf" : [ {
+            "midRef" : "POMS_S_NTR_056499",
+            "urnRef" : "urn:vpro:media:group:16878690",
+            "type" : "SERIES",
+            "index" : 5,
+            "highlighted" : false,
+            "added" : 1363639665897
+          } ],
+          "crids" : [ "crid://broadcast.radiobox2/201976" ],
+          "broadcasters" : [ {
+            "id" : "NTR",
+            "value" : "NTR"
+          } ],
+          "titles" : [ {
+            "value" : "Hoorspel De Moker",
+            "owner" : "RADIOBOX",
+            "type" : "MAIN"
+          }, {
+            "value" : "Deel 16",
+            "owner" : "BROADCASTER",
+            "type" : "SUB"
+          } ],
+          "descriptions" : [ {
+            "value" : "Strijd om de macht op de Wallen in de jaren zeventig. Harrie 'De Moker' Pruis is groot geworden in de ramenverhuur en probeert de drugs tegen te houden, die Rotterdammer Aad Bosman juist wil introduceren. Oude penoze tegen nieuwe penoze. Met een grote rol voor de kraakbeweging, die idealistisch begint maar snel verhardt, net als de maatschappij. Met o.a. Jack Wouterse, Nelly Frijda, Martin van Waardenberg, Cees Geel, Daniel Boissevain, Georgina Verbaan, Hadwych Menis en Jenny Arean.",
+            "owner" : "BROADCASTER",
+            "type" : "MAIN"
+          }, {
+            "value" : "Strijd om de macht op de Wallen in de jaren zeventig. Harrie 'De Moker' Pruis is groot geworden in de ramenverhuur en probeert de drugs tegen te houden, die Rotterdammer Aad Bosman juist wil introduceren. Oude penoze tegen nieuwe penoze. Met een grote rol voor de kraakbeweging, die idealistisch begint maar snel verhardt, net als de maatschappij. Met o.a. Jack Wouterse, Nelly Frijda, Martin van Waardenberg, Cees Geel, Daniel Boissevain, Georgina Verbaan, Hadwych Menis en Jenny Arean. Herhaling.",
+            "owner" : "RADIOBOX",
+            "type" : "MAIN"
+          }, {
+            "value" : "De politie heeft werk gemaakt van Harrie's tip. Er zijn gestolen kleren en een lading vals geld gevonden, waaronder de voorraad van Sjon. Sjon is door het dolle heen en probeer te achterhalen wie de politie heeft getipt.",
+            "owner" : "BROADCASTER",
+            "type" : "SHORT"
+          } ],
+          "genres" : [ ],
+          "tags" : [ "drugs", "jaren zeventig", "kraakbeweging", "macht", "penoze", "Wallen" ],
+          "countries" : [ ],
+          "languages" : [ ],
+          "duration" : 900000,
+          "descendantOf" : [ {
+            "midRef" : "POMS_S_VPRO_195283",
+            "urnRef" : "urn:vpro:media:group:11887617",
+            "type" : "ARCHIVE"
+          }, {
+            "midRef" : "POMS_S_VPRO_171668",
+            "urnRef" : "urn:vpro:media:group:14683553",
+            "type" : "ARCHIVE"
+          }, {
+            "midRef" : "POMS_S_VPRO_170116",
+            "urnRef" : "urn:vpro:media:group:14921818",
+            "type" : "ARCHIVE"
+          }, {
+            "midRef" : "POMS_S_NTR_056499",
+            "urnRef" : "urn:vpro:media:group:16878690",
+            "type" : "SERIES"
+          }, {
+            "midRef" : "POMS_S_VPRO_417550",
+            "urnRef" : "urn:vpro:media:group:30800869",
+            "type" : "COLLECTION"
+          }, {
+            "midRef" : "POMS_S_VPRO_797458",
+            "urnRef" : "urn:vpro:media:group:51859566",
+            "type" : "PLAYLIST"
+          }, {
+            "midRef" : "POMS_VPRO_587608",
+            "urnRef" : "urn:vpro:media:program:43802272",
+            "type" : "BROADCAST"
+          } ],
+          "websites" : [ {
+            "value" : "http://www.ntr.nl/demoker"
+          } ],
+          "predictions" : [ {
+            "state" : "REALIZED",
+            "platform" : "INTERNETVOD"
+          } ],
+          "locations" : [ {
+            "programUrl" : "http://download.omroep.nl/ntr/demoker/mp3/16.mp3",
+            "avAttributes" : {
+              "avFileFormat" : "MP3"
+            },
+            "duration" : 900000,
+            "owner" : "BROADCASTER",
+            "creationDate" : 1363639659696,
+            "lastModified" : 1391165914224,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:23406965"
+          } ],
+          "scheduleEvents" : [ {
+            "start" : 1356997500000,
+            "duration" : 900000,
+            "poProgID" : "POMS_NTR_056759",
+            "channel" : "RAD1",
+            "urnRef" : "urn:vpro:media:program:16878873",
+            "midRef" : "POMS_NTR_056759"
+          } ],
+          "images" : [ {
+            "title" : "1873408018.jpg",
+            "description" : "Hoorspel De Moker",
+            "imageUri" : "urn:vpro:image:121024",
+            "owner" : "RADIOBOX",
+            "type" : "PICTURE",
+            "highlighted" : false,
+            "creationDate" : 1355151620568,
+            "lastModified" : 1355151621348,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:16878874"
+          } ]
+        }
+      } ],
+      "images" : [ {
+        "type" : "PICTURE",
+        "url" : "http://images.poms.omroep.nl/image/s360/121024.jpg",
+        "title" : "1873408018.jpg",
+        "description" : "Hoorspel De Moker"
+      } ],
+      "publishStart" : 1356997500000,
+      "creationDate" : 1415128960294,
+      "lastModified" : 1444859290566,
       "refCount" : 0
     }
   } ]

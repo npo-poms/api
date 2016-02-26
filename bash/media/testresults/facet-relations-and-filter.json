@@ -15,13 +15,17 @@
         "id" : "PIAS",
         "value" : "PIAS"
       }, {
-        "count" : 11,
+        "count" : 12,
         "id" : "Eigen beheer",
         "value" : "Eigen beheer"
       }, {
         "count" : 10,
         "id" : "Eigen beheer/ Winston Kingdom",
         "value" : "Eigen beheer/ Winston Kingdom"
+      }, {
+        "count" : 10,
+        "id" : "Suburban",
+        "value" : "Suburban"
       }, {
         "count" : 8,
         "id" : "Mute/PIAS",
@@ -30,10 +34,6 @@
         "count" : 7,
         "id" : "Chemikal Underground/Konkurrent",
         "value" : "Chemikal Underground/Konkurrent"
-      }, {
-        "count" : 7,
-        "id" : "Suburban",
-        "value" : "Suburban"
       }, {
         "count" : 7,
         "id" : "V2 Records",
@@ -102,192 +102,165 @@
     } ]
   },
   "selectedFacets" : { },
-  "total" : 637912,
+  "total" : 767738,
   "offset" : 0,
   "max" : 2,
   "items" : [ {
-    "score" : 5.0,
+    "score" : 2.0,
     "highlights" : [ ],
     "result" : {
-      "objectType" : "group",
-      "mid" : "POMS_S_VPRO_157807",
-      "creationDate" : 1352295543264,
-      "lastModified" : 1352295543579,
-      "urn" : "urn:vpro:media:group:16055794",
+      "objectType" : "program",
+      "mid" : "POMS_NOS_484885",
+      "type" : "BROADCAST",
+      "avType" : "AUDIO",
+      "workflow" : "PUBLISHED",
+      "sortDate" : 1393160400000,
+      "creationDate" : 1392813486546,
+      "lastModified" : 1393179684621,
+      "urn" : "urn:vpro:media:program:37336561",
       "embeddable" : true,
+      "episodeOf" : [ {
+        "midRef" : "RBX_S_NOS_552455",
+        "urnRef" : "urn:vpro:media:group:36184971",
+        "type" : "SERIES",
+        "index" : 1,
+        "highlighted" : false,
+        "added" : 1392813489107
+      } ],
+      "crids" : [ "crid://broadcast.radiobox2/276300" ],
       "broadcasters" : [ {
-        "id" : "VPRO",
-        "value" : "VPRO"
+        "id" : "NOS",
+        "value" : "NOS"
       } ],
       "titles" : [ {
-        "value" : "WOORD 27 oktober 2012: UUR 1",
-        "owner" : "BROADCASTER",
+        "value" : "RadiOlympia",
+        "owner" : "RADIOBOX",
         "type" : "MAIN"
       } ],
       "descriptions" : [ {
-        "value" : "Het Radiohistorisch Amsterdam",
-        "owner" : "BROADCASTER",
+        "value" : "Live verslag van de hoogtepunten van de Olympische Winterspelen in Sotsji.",
+        "owner" : "RADIOBOX",
         "type" : "MAIN"
       } ],
       "genres" : [ ],
       "countries" : [ ],
       "languages" : [ ],
-      "predictions" : [ {
-        "state" : "REALIZED",
-        "platform" : "INTERNETVOD"
+      "duration" : 18000000,
+      "descendantOf" : [ {
+        "midRef" : "RBX_S_NOS_552455",
+        "urnRef" : "urn:vpro:media:group:36184971",
+        "type" : "SERIES"
+      } ],
+      "email" : [ "publieksreacties@nos.nl" ],
+      "websites" : [ {
+        "value" : "http://nos.nl/os2014/"
       } ],
       "locations" : [ {
-        "programUrl" : "http://audio.omroep.nl/radio1/vpro/woord/20121027-02.mp3",
+        "programUrl" : "http://download.omroep.nl/audiologging/r1/2014/02/23/1400_1900_radiolympia_20140223.mp3",
         "avAttributes" : {
           "avFileFormat" : "MP3"
         },
-        "owner" : "BROADCASTER",
-        "creationDate" : 1352295543460,
-        "lastModified" : 1352295543578,
+        "duration" : 18000000,
+        "owner" : "RADIOBOX",
+        "creationDate" : 1393179670538,
+        "lastModified" : 1393179684620,
         "workflow" : "PUBLISHED",
-        "urn" : "urn:vpro:media:location:16055798"
+        "urn" : "urn:vpro:media:location:37624625"
       } ],
-      "workflow" : "PUBLISHED",
-      "type" : "SERIES",
-      "isOrdered" : true,
-      "avType" : "AUDIO"
+      "scheduleEvents" : [ {
+        "start" : 1393160400000,
+        "duration" : 18000000,
+        "poProgID" : "POMS_NOS_484885",
+        "channel" : "RAD1",
+        "urnRef" : "urn:vpro:media:program:37336561",
+        "midRef" : "POMS_NOS_484885"
+      } ],
+      "images" : [ {
+        "title" : "radioolympia220.jpg",
+        "description" : "RadiOlympia",
+        "imageUri" : "urn:vpro:image:369574",
+        "owner" : "RADIOBOX",
+        "type" : "PICTURE",
+        "highlighted" : false,
+        "creationDate" : 1392813484141,
+        "lastModified" : 1392813486618,
+        "workflow" : "PUBLISHED",
+        "urn" : "urn:vpro:media:image:37336563"
+      } ]
     }
   }, {
-    "score" : 5.0,
+    "score" : 2.0,
     "highlights" : [ ],
     "result" : {
       "objectType" : "group",
-      "mid" : "POMS_S_NTR_470249",
-      "creationDate" : 1390232343068,
-      "lastModified" : 1393580536315,
-      "urn" : "urn:vpro:media:group:35773765",
+      "mid" : "POMS_S_MAX_109064",
+      "type" : "SERIES",
+      "avType" : "VIDEO",
+      "workflow" : "PUBLISHED",
+      "sortDate" : 1404798300000,
+      "creationDate" : 1286400660428,
+      "lastModified" : 1377166503840,
+      "urn" : "urn:vpro:media:group:5182224",
       "embeddable" : true,
+      "crids" : [ "crid://nebo.masterserie.omroep.nl/6045" ],
       "broadcasters" : [ {
-        "id" : "NTR",
-        "value" : "NTR"
+        "id" : "MAX",
+        "value" : "MAX"
       } ],
       "titles" : [ {
-        "value" : "Dokter Corrie",
-        "owner" : "BROADCASTER",
+        "value" : "Met het Mes op Tafel",
+        "owner" : "NEBO",
         "type" : "MAIN"
-      }, {
-        "value" : "Dokter Corrie ",
-        "owner" : "BROADCASTER",
-        "type" : "LEXICO"
       } ],
       "descriptions" : [ {
-        "value" : "Dokter Corrie, hilarisch vertolkt door Martine Sandifort, praat met allerlei bekende Nederlanders over hoe zij de puberteit hebben ervaren. Elke vrijdag in het Schooltv-weekjournaal om 11:00 uur bij Zapp.",
-        "owner" : "BROADCASTER",
+        "value" : "In de kroeg van Met het Mes op Tafel pokeren drie kandidaten met de antwoorden op vragen. Niet alleen kennis is van belang, maar ook rekenen en slim spelen. Wie weinig antwoorden goed heeft, kan proberen zijn tegenstanders weg te bluffen.",
+        "owner" : "NEBO",
         "type" : "MAIN"
-      }, {
-        "value" : "Dokter Corrie, hilarisch vertolkt door Martine Sandifort, praat met allerlei bekende Nederlanders over hoe zij de puberteit hebben ervaren. Elke vrijdag in het Schooltv-weekjournaal om 11:00 uur bij Zapp.",
-        "owner" : "BROADCASTER",
-        "type" : "SHORT"
       } ],
       "genres" : [ {
-        "id" : "3.0.1.1",
-        "terms" : [ "Jeugd" ]
+        "id" : "3.0.1.6",
+        "terms" : [ "Amusement" ]
       } ],
-      "tags" : [ "dokter", "lichaam", "pubertijd", "SchoolTV" ],
       "countries" : [ ],
       "languages" : [ ],
-      "descendantOf" : [ {
-        "midRef" : "WO_NTR_479456",
-        "urnRef" : "urn:vpro:media:program:36696799",
-        "type" : "CLIP"
-      }, {
-        "midRef" : "WO_NTR_479458",
-        "urnRef" : "urn:vpro:media:program:36696873",
-        "type" : "CLIP"
-      } ],
-      "memberOf" : [ {
-        "midRef" : "WO_NTR_479456",
-        "urnRef" : "urn:vpro:media:program:36696799",
-        "type" : "CLIP",
-        "index" : 1,
-        "highlighted" : false,
-        "added" : 1392045882985
-      }, {
-        "midRef" : "WO_NTR_479458",
-        "urnRef" : "urn:vpro:media:program:36696873",
-        "type" : "CLIP",
-        "index" : 1,
-        "highlighted" : false,
-        "added" : 1392721302269
-      } ],
-      "ageRating" : "12",
       "websites" : [ {
-        "value" : "http://www.schooltv.nl/weekjournaal/"
-      } ],
-      "locations" : [ {
-        "programUrl" : "http://cgi.omroep.nl/cgi-bin/streams?/ntr/schooltv/weekjournaal/video/WJCorrieGeraldine.wmv",
-        "avAttributes" : {
-          "bitrate" : 1000000,
-          "avFileFormat" : "WM"
-        },
-        "owner" : "BROADCASTER",
-        "creationDate" : 1391676858971,
-        "lastModified" : 1391676859133,
-        "workflow" : "PUBLISHED",
-        "urn" : "urn:vpro:media:location:36686887"
+        "value" : "http://www.methetmesoptafel.nl"
+      }, {
+        "value" : "http://www.omroepmax.nl/methetmesoptafel"
       } ],
       "images" : [ {
-        "title" : "dokter corrie schooltv",
-        "description" : "copyright_Lilian_van_Rooij",
-        "imageUri" : "urn:vpro:image:367113",
-        "height" : 1525,
-        "width" : 2287,
+        "title" : "Met het Mes op Tafel",
+        "imageUri" : "urn:vpro.image:4967",
         "owner" : "BROADCASTER",
         "type" : "PICTURE",
         "highlighted" : false,
-        "creationDate" : 1390558544610,
-        "lastModified" : 1390558544679,
+        "creationDate" : 1287005455348,
+        "lastModified" : 1306244938550,
         "workflow" : "PUBLISHED",
-        "urn" : "urn:vpro:media:image:35995269"
+        "urn" : "urn:vpro:media:image:5244810"
       }, {
-        "title" : "Dokter Corrie 2",
-        "description" : "Dokter Corrie 2",
-        "imageUri" : "urn:vpro:image:396081",
-        "height" : 140,
-        "width" : 240,
-        "owner" : "BROADCASTER",
+        "title" : "Met het Mes op Tafel",
+        "imageUri" : "urn:vpro.image:7945",
+        "owner" : "NEBO",
         "type" : "PICTURE",
         "highlighted" : false,
-        "creationDate" : 1391443689030,
-        "lastModified" : 1391443691069,
+        "creationDate" : 1306358790299,
+        "lastModified" : 1306358790299,
         "workflow" : "PUBLISHED",
-        "urn" : "urn:vpro:media:image:36505735"
+        "urn" : "urn:vpro:media:image:9683275"
       }, {
-        "title" : "Dokter Corrie",
-        "description" : "Dokter Corrie",
-        "imageUri" : "urn:vpro:image:398472",
-        "height" : 140,
-        "width" : 240,
-        "owner" : "BROADCASTER",
+        "title" : "Met het Mes op Tafel",
+        "description" : "Met het Mes op Tafel",
+        "imageUri" : "urn:vpro:image:135592",
+        "owner" : "NEBO",
         "type" : "PICTURE",
         "highlighted" : false,
-        "creationDate" : 1391507789813,
-        "lastModified" : 1391507789923,
+        "creationDate" : 1363066533211,
+        "lastModified" : 1363066533280,
         "workflow" : "PUBLISHED",
-        "urn" : "urn:vpro:media:image:36566104"
-      }, {
-        "title" : "dokter corrie",
-        "description" : "dokter corrie schooltv",
-        "imageUri" : "urn:vpro:image:358612",
-        "height" : 3150,
-        "width" : 4724,
-        "owner" : "BROADCASTER",
-        "type" : "PICTURE",
-        "highlighted" : false,
-        "creationDate" : 1390298345952,
-        "lastModified" : 1390298346010,
-        "workflow" : "PUBLISHED",
-        "urn" : "urn:vpro:media:image:35806459"
+        "urn" : "urn:vpro:media:image:22846404"
       } ],
-      "workflow" : "PUBLISHED",
-      "type" : "SERIES",
-      "isOrdered" : true,
-      "avType" : "VIDEO"
+      "isOrdered" : true
     }
   } ]
 }

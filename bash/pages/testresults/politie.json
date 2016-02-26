@@ -117,16 +117,16 @@
     "result" : {
       "objectType" : "page",
       "type" : "AUDIO",
-      "url" : "http://woord-sample.localhost/luister.POMS_VPRO_344690.html",
-      "sortDate" : 512498820000,
-      "crids" : [ "crid://vpro/media/woord/POMS_VPRO_344690" ],
+      "url" : "http://www-acc.woord.nl/luister.POMS_VPRO_380090.html",
+      "sortDate" : 537836400000,
+      "crids" : [ "crid://vpro/media/woord/POMS_VPRO_380090" ],
       "broadcasters" : [ {
         "id" : "VPRO",
         "value" : "VPRO"
       } ],
       "portal" : {
         "id" : "WOORD",
-        "url" : "http://woord-sample.localhost",
+        "url" : "http://www-acc.woord.nl",
         "value" : "Woord.nl"
       },
       "title" : "Het Spoor",
@@ -137,23 +137,26 @@
       } ],
       "embeds" : [ {
         "title" : "Het Spoor",
-        "description" : "Afl. 5 van vijfdelige documentaire serie over de politie: van agogisch ingestelde wijkagent tot oncontroleerbare undercover smeris.\nHet politieapparaat is een wereldje op zich met een eigen gesloten cultuur. Zijn politici en burgers nog wel in staat daar controle op uit te oefenen? Klachten over politieoptreden lopen meestal op niets uit. De politiek gebruikt het politiebeleid als issue bij het dingen naar kiezersgunst en als puinruimers bij falend beleid. In deze laatste uitzending van de serie ‘De Politie’ wordt de balans opgemaakt.\nMet interviews met o.a.\n-commissaris Sietsma, chef van de Ondersteunende recherche;\n-Ex-agent Jaap Groot van de Amsterdamse politie;\n-de Utrechtse advocaat  J Doedens;\n-Cyrille Fijnout van het WODC;\n-Hoofdcommissaris van Straaten van de CRI;\n-een woordvoerder van het Dierenbevrijdingsfront.\n\nUitgebreidere documentatie aanwezig in VPRO archief\n",
+        "description" : "'Het Spoor' is een documentaireprogramma waarin programmamakers onderzoek doen naar bepaalde onderwerpen, onder andere aan de hand van oral history.\n\nTweedelige serie over het 'functioneren' van het politieapparaat bij onze zuiderburen \nAfl 1. Hoe staat het ervoor met de terreurbestrijding door de Belgische politie, nu ruim een jaar na de laatste bloedige aanslag van de Bende van Nijvel en de arrestatie van enkele leden van de CCC? Wat is de invloed geweest van het terrorisme op het Belgische politieapparaat geweest? Met o.a. de substituut-procureur van het parket in Nijvel over hoe de top van het openbaar ministerie een onderzoek in de richting van extreemrechts tegenwerkt. En een verkenningstocht op militair terrein bij de particuliere schietclub ‘Target 121’, waar extreemrechts en Rijkswacht elkaar ontmoeten.\n\n",
         "media" : {
           "objectType" : "program",
-          "mid" : "POMS_VPRO_344690",
-          "creationDate" : 1366280348788,
-          "lastModified" : 1369908427966,
-          "publishStart" : 512498820000,
-          "sortDate" : 512498820000,
-          "urn" : "urn:vpro:media:program:24554308",
+          "mid" : "POMS_VPRO_380090",
+          "type" : "BROADCAST",
+          "avType" : "AUDIO",
+          "workflow" : "PUBLISHED",
+          "sortDate" : 537836400000,
+          "creationDate" : 1373882659238,
+          "lastModified" : 1419240917160,
+          "publishStart" : 537836400000,
+          "urn" : "urn:vpro:media:program:27675778",
           "embeddable" : true,
           "episodeOf" : [ {
-            "midRef" : "POMS_S_VPRO_099786",
-            "urnRef" : "urn:vpro:media:group:18930278",
+            "midRef" : "POMS_S_VPRO_119441",
+            "urnRef" : "urn:vpro:media:group:20478882",
             "type" : "SEASON",
-            "index" : 26,
+            "index" : 7,
             "highlighted" : false,
-            "added" : 1366280502805
+            "added" : 1373882659925
           } ],
           "broadcasters" : [ {
             "id" : "VPRO",
@@ -164,32 +167,32 @@
             "owner" : "BROADCASTER",
             "type" : "MAIN"
           }, {
-            "value" : "De Politie 5: De Controle",
+            "value" : "De Belgische politie 1",
             "owner" : "BROADCASTER",
             "type" : "SUB"
           } ],
           "descriptions" : [ {
-            "value" : "Afl. 5 van vijfdelige documentaire serie over de politie: van agogisch ingestelde wijkagent tot oncontroleerbare undercover smeris.\nHet politieapparaat is een wereldje op zich met een eigen gesloten cultuur. Zijn politici en burgers nog wel in staat daar controle op uit te oefenen? Klachten over politieoptreden lopen meestal op niets uit. De politiek gebruikt het politiebeleid als issue bij het dingen naar kiezersgunst en als puinruimers bij falend beleid. In deze laatste uitzending van de serie ‘De Politie’ wordt de balans opgemaakt.\nMet interviews met o.a.\n-commissaris Sietsma, chef van de Ondersteunende recherche;\n-Ex-agent Jaap Groot van de Amsterdamse politie;\n-de Utrechtse advocaat  J Doedens;\n-Cyrille Fijnout van het WODC;\n-Hoofdcommissaris van Straaten van de CRI;\n-een woordvoerder van het Dierenbevrijdingsfront.\n\nUitgebreidere documentatie aanwezig in VPRO archief\n",
+            "value" : "'Het Spoor' is een documentaireprogramma waarin programmamakers onderzoek doen naar bepaalde onderwerpen, onder andere aan de hand van oral history.\n\nTweedelige serie over het 'functioneren' van het politieapparaat bij onze zuiderburen \nAfl 1. Hoe staat het ervoor met de terreurbestrijding door de Belgische politie, nu ruim een jaar na de laatste bloedige aanslag van de Bende van Nijvel en de arrestatie van enkele leden van de CCC? Wat is de invloed geweest van het terrorisme op het Belgische politieapparaat geweest? Met o.a. de substituut-procureur van het parket in Nijvel over hoe de top van het openbaar ministerie een onderzoek in de richting van extreemrechts tegenwerkt. En een verkenningstocht op militair terrein bij de particuliere schietclub ‘Target 121’, waar extreemrechts en Rijkswacht elkaar ontmoeten.\n\n",
             "owner" : "BROADCASTER",
             "type" : "MAIN"
+          }, {
+            "value" : "'Het Spoor' is een documentaireprogramma waarin programmamakers onderzoek doen naar bepaalde onderwerpen, onder andere aan de hand van oral history.\n\nTweedelige serie over het 'functioneren' van het politieapparaat bij onze zuiderburen \nAfl 1. Hoe staat het ervoor met de terreurbestrijding door de Belgische politie, nu ruim een jaar na de laatste bloedige aanslag van de Bende van Nijvel en de arrestatie van enkele leden van de CCC? Wat is de invloed geweest van het terrorisme op het Belgische politieapparaat geweest? Met o.a. de substituut-procureur van het parket in Nijvel over hoe de top van het openbaar ministerie een onderzoek in de richting van extreemrechts tegenwerkt. En een verkenningstocht op militair terrein bij de particuliere schietclub ‘Target 121’, waar extreemrechts en Rijkswacht elkaar ontmoeten.",
+            "owner" : "BROADCASTER",
+            "type" : "SHORT"
           } ],
           "genres" : [ ],
-          "tags" : [ "politie", "politieapparaat" ],
+          "tags" : [ "aanslagen", "Bende van Nijvel", "CCC", "politie" ],
           "countries" : [ ],
           "languages" : [ ],
-          "releaseYear" : 1986,
+          "releaseYear" : 1987,
           "duration" : 3600000,
           "credits" : [ {
-            "givenName" : "Hans ",
-            "familyName" : "Simonse",
-            "role" : "UNDEFINED"
-          }, {
-            "givenName" : "Vincent ",
-            "familyName" : "Roef ",
-            "role" : "UNDEFINED"
-          }, {
             "givenName" : "Gerard ",
             "familyName" : "Legebeke",
+            "role" : "UNDEFINED"
+          }, {
+            "givenName" : "Hans ",
+            "familyName" : "Simonse",
             "role" : "UNDEFINED"
           } ],
           "descendantOf" : [ {
@@ -201,57 +204,71 @@
             "urnRef" : "urn:vpro:media:group:18800908",
             "type" : "SERIES"
           }, {
-            "midRef" : "POMS_S_VPRO_099786",
-            "urnRef" : "urn:vpro:media:group:18930278",
+            "midRef" : "POMS_S_VPRO_119441",
+            "urnRef" : "urn:vpro:media:group:20478882",
             "type" : "SEASON"
           }, {
             "midRef" : "POMS_S_VPRO_417553",
             "urnRef" : "urn:vpro:media:group:30800911",
             "type" : "COLLECTION"
+          }, {
+            "midRef" : "POMS_NOS_583461",
+            "urnRef" : "urn:vpro:media:program:43659132",
+            "type" : "BROADCAST"
           } ],
           "predictions" : [ {
             "state" : "REALIZED",
             "platform" : "INTERNETVOD"
           } ],
           "locations" : [ {
-            "programUrl" : "http://download.omroep.nl/vpro/algemeen/woord/het_spoor_terug/1986/Spoor_1986_03_29_Politie_Controle_Immix.mp3",
+            "programUrl" : "http://download.omroep.nl/vpro/algemeen/woord/het_spoor_terug/1987/Spoor_1987_01_17_Belgische_politie_1_Immix_.mp3",
             "avAttributes" : {
               "avFileFormat" : "MP3"
             },
             "owner" : "BROADCASTER",
-            "creationDate" : 1369908427685,
-            "lastModified" : 1369908427814,
+            "creationDate" : 1373882659910,
+            "lastModified" : 1374136817194,
             "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:location:26152644"
+            "urn" : "urn:vpro:media:location:27675786"
           } ],
           "images" : [ {
-            "title" : "politie-logo",
-            "description" : "politie-logo",
-            "imageUri" : "urn:vpro:image:172290",
-            "height" : 391,
-            "width" : 522,
+            "title" : "Gids Belgische politie 1",
+            "description" : "Gids Belgische politie 1",
+            "imageUri" : "urn:vpro:image:201611",
+            "height" : 1337,
+            "width" : 1083,
             "owner" : "BROADCASTER",
             "type" : "PICTURE",
             "highlighted" : false,
-            "creationDate" : 1366280492554,
-            "lastModified" : 1366280492643,
+            "creationDate" : 1373882737047,
+            "lastModified" : 1373882737167,
             "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:image:24554341"
-          } ],
-          "workflow" : "PUBLISHED",
-          "type" : "BROADCAST",
-          "avType" : "AUDIO"
+            "urn" : "urn:vpro:media:image:27675793"
+          }, {
+            "title" : "Gids Belgische politie 1-vervolg",
+            "description" : "Gids Belgische politie 1-vervolg",
+            "imageUri" : "urn:vpro:image:201612",
+            "height" : 1115,
+            "width" : 1009,
+            "owner" : "BROADCASTER",
+            "type" : "PICTURE",
+            "highlighted" : false,
+            "creationDate" : 1373882737168,
+            "lastModified" : 1373882737170,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:27675794"
+          } ]
         }
       } ],
       "images" : [ {
         "type" : "PICTURE",
-        "url" : "http://images.poms.omroep.nl/image/s360/172290.jpg",
-        "title" : "politie-logo",
-        "description" : "politie-logo"
+        "url" : "http://images.poms.omroep.nl/image/s360/201611.jpg",
+        "title" : "Gids Belgische politie 1",
+        "description" : "Gids Belgische politie 1"
       } ],
-      "publishStart" : 512498820000,
-      "creationDate" : 1421887905358,
-      "lastModified" : 1425950263983,
+      "publishStart" : 537836400000,
+      "creationDate" : 1414767880356,
+      "lastModified" : 1444855453570,
       "refCount" : 0
     }
   }, {
@@ -259,137 +276,136 @@
     "result" : {
       "objectType" : "page",
       "type" : "AUDIO",
-      "url" : "http://woord-sample.localhost/luister.POMS_VPRO_358363.html",
-      "sortDate" : 526946400000,
-      "crids" : [ "crid://vpro/media/woord/POMS_VPRO_358363" ],
+      "url" : "http://www-acc.woord.nl/luister.POMS_NOS_478803.html",
+      "sortDate" : -21945600000,
+      "crids" : [ "crid://vpro/media/woord/POMS_NOS_478803" ],
       "broadcasters" : [ {
-        "id" : "VPRO",
-        "value" : "VPRO"
+        "id" : "NOS",
+        "value" : "NOS"
       } ],
       "portal" : {
         "id" : "WOORD",
-        "url" : "http://woord-sample.localhost",
+        "url" : "http://www-acc.woord.nl",
         "value" : "Woord.nl"
       },
-      "title" : "Het Spoor",
+      "title" : "Een nacht van zes tot nul",
       "genres" : [ {
         "id" : "3.0.4.1",
         "terms" : [ "Documentaire" ],
         "displayName" : "Documentaire"
+      }, {
+        "id" : "3.0.4.4",
+        "terms" : [ "Raportage" ],
+        "displayName" : "Raportage"
       } ],
       "embeds" : [ {
-        "title" : "Het Spoor",
-        "description" : "Serie over Zigeuners, over romantiek en religie, over vooroordelen en vernietiging.\nIn de nacht van 15 op 16 mei 1944 werden op de Veenkade in Den Haag tientallen zigeuners opgepakt, met behulp van de Nederlandse politie. Het Spoor op zoek naar de overlevenden van die zwarte nacht. Een reconstructie van dat drama en gesprekken met overlevenden en andere betrokkenen (buurtbewoners e.a.):\n-auteur Ben Huizing van ‘De zwarte politie 40-45’;\n-zigeuner Nello;\n-Zigeunervrouw Páápá;\n-Bloemenkoopman Kaffa;\n-neef Willem Vlak van politieman Arie Vlak, die zigeuners zou hebben verraden;\n-overlevende Magdalena Berger en andere overlevenden.\n\nUitgebreidere documentatie aanwezig in VPRO archief\n",
+        "title" : "Een nacht van zes tot nul",
+        "description" : "Negende klankbeeld in een tiendelige serie over 'mensen die werken terwijl u slaapt'. In deze aflevering een nachtelijke impressie van de ongevallendienst van de Amsterdamse politie. Agenten worden gevolgd op weg naar een aantal aanrijdingen; bij het opmaken van processen verbaal en bij technische inspecties. Medewerkers van de dienst vertellen over hun werkzaamheden, het materieel dat ze gebruiken en de vaak slechte staat van de auto's. Met reacties door aangereden chauffeurs.",
         "media" : {
           "objectType" : "program",
-          "mid" : "POMS_VPRO_358363",
-          "creationDate" : 1368805856877,
-          "lastModified" : 1374136344608,
-          "publishStart" : 526946400000,
-          "sortDate" : 526946400000,
-          "urn" : "urn:vpro:media:program:25765002",
+          "mid" : "POMS_NOS_478803",
+          "type" : "BROADCAST",
+          "avType" : "AUDIO",
+          "workflow" : "PUBLISHED",
+          "sortDate" : -21945600000,
+          "creationDate" : 1391601684489,
+          "lastModified" : 1399555724562,
+          "publishStart" : -21942000000,
+          "urn" : "urn:vpro:media:program:36636272",
           "embeddable" : true,
           "episodeOf" : [ {
-            "midRef" : "POMS_S_VPRO_099786",
-            "urnRef" : "urn:vpro:media:group:18930278",
-            "type" : "SEASON",
-            "index" : 65,
+            "midRef" : "POMS_S_NOS_478950",
+            "urnRef" : "urn:vpro:media:group:36635427",
+            "type" : "SERIES",
+            "index" : 8,
             "highlighted" : false,
-            "added" : 1368806889246
+            "added" : 1391601684998
           } ],
           "broadcasters" : [ {
-            "id" : "VPRO",
-            "value" : "VPRO"
+            "id" : "NOS",
+            "value" : "NOS"
           } ],
           "titles" : [ {
-            "value" : "Het Spoor",
+            "value" : "Een nacht van zes tot nul",
             "owner" : "BROADCASTER",
             "type" : "MAIN"
           }, {
-            "value" : "De mythe van het zigeunerdom,  2 : Den Haag in de oorlog",
+            "value" : "Deel 9: De Ongevallendienst",
             "owner" : "BROADCASTER",
             "type" : "SUB"
           } ],
           "descriptions" : [ {
-            "value" : "Serie over Zigeuners, over romantiek en religie, over vooroordelen en vernietiging.\nIn de nacht van 15 op 16 mei 1944 werden op de Veenkade in Den Haag tientallen zigeuners opgepakt, met behulp van de Nederlandse politie. Het Spoor op zoek naar de overlevenden van die zwarte nacht. Een reconstructie van dat drama en gesprekken met overlevenden en andere betrokkenen (buurtbewoners e.a.):\n-auteur Ben Huizing van ‘De zwarte politie 40-45’;\n-zigeuner Nello;\n-Zigeunervrouw Páápá;\n-Bloemenkoopman Kaffa;\n-neef Willem Vlak van politieman Arie Vlak, die zigeuners zou hebben verraden;\n-overlevende Magdalena Berger en andere overlevenden.\n\nUitgebreidere documentatie aanwezig in VPRO archief\n",
+            "value" : "Negende klankbeeld in een tiendelige serie over 'mensen die werken terwijl u slaapt'. In deze aflevering een nachtelijke impressie van de ongevallendienst van de Amsterdamse politie. Agenten worden gevolgd op weg naar een aantal aanrijdingen; bij het opmaken van processen verbaal en bij technische inspecties. Medewerkers van de dienst vertellen over hun werkzaamheden, het materieel dat ze gebruiken en de vaak slechte staat van de auto's. Met reacties door aangereden chauffeurs.",
             "owner" : "BROADCASTER",
             "type" : "MAIN"
+          }, {
+            "value" : "Negende klankbeeld in een tiendelige serie over 'mensen die werken terwijl u slaapt'. In deze aflevering een nachtelijke impressie van de ongevallendienst van de Amsterdamse politie. Agenten worden gevolgd op weg naar een aantal aanrijdingen; bij het opmaken van processen verbaal en bij technische inspecties.",
+            "owner" : "BROADCASTER",
+            "type" : "SHORT"
           } ],
           "genres" : [ ],
-          "tags" : [ "deportatie", "politie", "razzia", "Tweede Wereldoorlog", "vervolgingen", "Zigeuners" ],
+          "tags" : [ "aanrijding", "agent", "Amsterdam", "ongevallendienst", "politie", "proces verbaal" ],
           "countries" : [ ],
           "languages" : [ ],
-          "releaseYear" : 1986,
-          "duration" : 3600000,
-          "credits" : [ {
-            "givenName" : "Jacqueline ",
-            "familyName" : "Maris",
-            "role" : "UNDEFINED"
-          }, {
-            "givenName" : "Jan ",
-            "familyName" : "Beckers",
-            "role" : "UNDEFINED"
-          } ],
+          "releaseYear" : 1969,
+          "duration" : 2092000,
           "descendantOf" : [ {
             "midRef" : "POMS_S_VPRO_195283",
             "urnRef" : "urn:vpro:media:group:11887617",
             "type" : "ARCHIVE"
           }, {
-            "midRef" : "POMS_S_VPRO_098728",
-            "urnRef" : "urn:vpro:media:group:18800908",
-            "type" : "SERIES"
-          }, {
-            "midRef" : "POMS_S_VPRO_099786",
-            "urnRef" : "urn:vpro:media:group:18930278",
-            "type" : "SEASON"
-          }, {
             "midRef" : "POMS_S_VPRO_417553",
             "urnRef" : "urn:vpro:media:group:30800911",
             "type" : "COLLECTION"
-          } ],
-          "predictions" : [ {
-            "state" : "REALIZED",
-            "platform" : "INTERNETVOD"
+          }, {
+            "midRef" : "POMS_S_VPRO_417559",
+            "urnRef" : "urn:vpro:media:group:30800944",
+            "type" : "COLLECTION"
+          }, {
+            "midRef" : "POMS_S_NOS_478950",
+            "urnRef" : "urn:vpro:media:group:36635427",
+            "type" : "SERIES"
+          }, {
+            "midRef" : "POMS_NOS_583461",
+            "urnRef" : "urn:vpro:media:program:43659132",
+            "type" : "BROADCAST"
           } ],
           "locations" : [ {
-            "programUrl" : "http://download.omroep.nl/vpro/algemeen/woord/het_spoor_terug/1986/Spoor_1986_09_13_Mythe_Zigeunerdom_2_Den-Haag_in_de_oorlog_.mp3",
+            "programUrl" : "http://download.omroep.nl/vpro/algemeen/woord/woord_radio/Een_nacht_tot_zes_uur_nul_AEN5630106G.mp3",
             "avAttributes" : {
               "avFileFormat" : "MP3"
             },
             "owner" : "BROADCASTER",
-            "creationDate" : 1373361509314,
-            "lastModified" : 1374134605489,
+            "creationDate" : 1391602177988,
+            "lastModified" : 1391602178102,
             "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:location:27507598"
+            "urn" : "urn:vpro:media:location:36636328"
           } ],
           "images" : [ {
-            "title" : "Settela",
-            "description" : "Settela",
-            "imageUri" : "urn:vpro:image:184131",
-            "height" : 460,
-            "width" : 465,
+            "title" : "Nachtwerk",
+            "description" : "Nachtwerk",
+            "imageUri" : "urn:vpro:image:461179",
+            "height" : 353,
+            "width" : 587,
             "owner" : "BROADCASTER",
             "type" : "PICTURE",
             "highlighted" : false,
-            "creationDate" : 1368806889206,
-            "lastModified" : 1368806889303,
+            "creationDate" : 1399555347696,
+            "lastModified" : 1399555348097,
             "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:image:25765130"
-          } ],
-          "workflow" : "PUBLISHED",
-          "type" : "BROADCAST",
-          "avType" : "AUDIO"
+            "urn" : "urn:vpro:media:image:41272052"
+          } ]
         }
       } ],
       "images" : [ {
         "type" : "PICTURE",
-        "url" : "http://images.poms.omroep.nl/image/s360/184131.jpg",
-        "title" : "Settela",
-        "description" : "Settela"
+        "url" : "http://images.poms.omroep.nl/image/s360/461179.jpg",
+        "title" : "Nachtwerk",
+        "description" : "Nachtwerk"
       } ],
-      "publishStart" : 526946400000,
-      "creationDate" : 1421880464797,
-      "lastModified" : 1425950057843,
+      "publishStart" : -21945600000,
+      "creationDate" : 1414767062420,
+      "lastModified" : 1444807290958,
       "refCount" : 0
     }
   } ]

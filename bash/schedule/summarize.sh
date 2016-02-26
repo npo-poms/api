@@ -1,7 +1,17 @@
 #!/usr/bin/env bash
+type=search
+if [ ! -z $1 ] ; then
+   type=$1
+fi
+
+if [ $type == "search" ] ; then
+    pref=".result"
+else
+    pref=""
+fi
 jsongrep -output VALUE \
          -sep ' ' \
          -recordsep $'\n'\
          -record 'items.*' \
-         ".result.channel,.result.start,.result.midRef,.result.media.objectType,.result.media.titles[0].value,.result.media.broadcasters[0].id" \
+         "$pref.channel,$pref.start,$pref.midRef,$pref.media.objectType,$pref.media.titles[0].value,$pref.media.broadcasters[0].id" \
     | sed -e 's/^/  /'

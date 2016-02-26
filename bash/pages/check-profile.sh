@@ -23,12 +23,12 @@ while true; do
     count=0
     for url in $(post "api/pages" $parameters $all | jsongrep -output PATHANDVALUE items[*].result.url,items[*].result.images[*].url) ; do
 
-        count=$((count + 1));
         path=${url%=*}
         u=${url#*=}
         if [[ $path == *images* ]] ; then
             type="image_from:$lasturl"
         else
+            count=$((count + 1));
             type=url
             lasturl=$u
         fi

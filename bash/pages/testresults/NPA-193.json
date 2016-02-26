@@ -1,75 +1,702 @@
 {
   "facets" : { },
   "selectedFacets" : { },
-  "total" : 2,
+  "total" : 1,
   "offset" : 0,
   "max" : 2,
   "items" : [ {
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",
-      "type" : "ARTICLE",
-      "url" : "http://www-test.npogeschiedenis.nl/nieuws/2002/oktober/Verslag-viering-10-jaar-OVT.html",
-      "sortDate" : 1034000803000,
-      "crids" : [ "crid://vpro/website/da305e74-da03-42e8-a072-49a26b9f107e" ],
+      "type" : "AUDIO",
+      "url" : "http://www-acc.vpro.nl/speel.POMS_VPRO_209303.html",
+      "sortDate" : 1033891320000,
+      "crids" : [ "crid://vpro/media/vpro/POMS_VPRO_209303" ],
       "broadcasters" : [ {
         "id" : "VPRO",
         "value" : "VPRO"
       } ],
       "portal" : {
-        "id" : "GESCHIEDENIS24",
-        "url" : "http://www-test.npogeschiedenis.nl",
-        "value" : "NPO Geschiedenis"
+        "id" : "VPRONL",
+        "url" : "http://www-acc.vpro.nl",
+        "value" : "VPRO.nl"
       },
-      "title" : "Verslag viering 10 jaar OVT",
-      "subTitle" : "De Grote Historische Thema’s en Oral History",
-      "summary" : "OVT vierde op 6 oktober 2002 het 10-jarige bestaan in Studio Desmet in Amsterdam. Er werd gesproken over onderwerpen als de Tweede Wereldoorlog, Voetbal, het Koningshuis en Oral History.",
-      "paragraphs" : [ {
-        "title" : "",
-        "body" : "Terwijl de genodigden vanaf half tien langzaam het café van Studio Desmet in Amsterdam binnen begonnen te druppelen, was het in het studiogedeelte al redelijk bedrijvig. Links op het podium was plaats gemaakt voor Groot Promotie Blaas Quintet, in het midden stond een lessenaar en rechts was een grote tafel waar de gasten aan konden schuiven. Het geluid werd getest, gasten en musici vonden hun plaats op het podium en tien uur naderde.  Na het nieuws en de reclame speelde het Groot Promotie Blaas Quintet de roemruchte OVT-tune. Beroemd, omdat zoveel luisteraars het prachtige muziek vinden, berucht bij de redactie omdat ze al jarenlang per brief en mail het verzoek krijgen om te zeggen waar deze muziek vandaan komt.  Van alle gasten had alleen historicus Maarten van Rossem af moeten zeggen. Enige citaten uit een met hem opgenomen gesprek vormden de leidraad voor een discussie, waarin over Koningshuis, Voetbal en de Tweede Wereldoorlog werd gedebatteerd. Onder leiding van Jos Palm en Paul van der Gaag discussieerden Hans Blom, Han van der Horst, Simon Kuper en Tomas Ross hierover.  Van Rossem noemde de Tweede Wereldoorlog de Himalaya van de Nederlandse geschiedenis. In de discussie werd dit snel erkend, hoewel de meningen sterk uiteenliepen hoe lang deze periode de vaderlandse geschiedschrijving nog zal domineren. De Tachtigjarige Oorlog is immers honderden jaren het ijkpunt van de vaderlandse geschiedenis gebleven.  De presentatie van het boek 'De bolhoed van Piet de Jong' van Kees Sorgdrager werd lichtelijk overschaduwd door zijn uitgever. Sorgdrager was ontstemd, omdat dat het boek met de columns, die hij afgelopen seizoen voor OVT had geschreven, nog niet in de winkel lag. Na een korte tirade over uitgevers las hij zijn column over de bolhoed van Piet de Jong voor. De column werd afgesloten met het tevoorschijn toveren van de echte bolhoed van Piet de Jong.  Het tweede uur was voornamelijk gewijd aan oral history. Het Spoor Terug, waar OVT uit is ontstaan, laat altijd mensen aan het woord over hun leven. Dit vaste programmaonderdeel werd voor één keer vervangen door een debat over oral history. Paul van der Gaag debatteerde hierover met oud-redacteur Kees Slager, de geestelijke vader van Het Spoor Terug en de historici Homme Wedman, Fridus Steijlen en Hans Blom.  Maar eerst legde OVT-redacteur Hans Olink uit, hoe de tune van OVT gevonden was. De muziek kwam van een cassette die hem in 1991 in Rusland was toegestopt. De muziek komt uit een Russische opera of musical met de titel 'Tverboul', van de componist Alexander Papernyi. Het is niet te koop in de winkel.  De discussie over oral-history werd een pleidooi voor het beter opslaan van dit soort historische informatie. Die ligt momenteel verspreid (afgezien van een paar grote projecten) over heel Nederland in de laden van onderzoekers.  Joris Smeets"
+      "title" : "Ovt",
+      "embeds" : [ {
+        "title" : "Ovt",
+        "description" : "10.00-11.00: Tijdens deze feestelijke uitzending met publiek zal – na de column van Jean Paul Franssens - een aantal historici in debat gaan over ‘grote’ thema’s in de geschiedenis: oorlog, voetbal en het koningshuis en hun rol daarbij in de media en hun optreden in dienst van de overheid, met Hans Blom, directeur van het NIOD, de historicus Han van der Horst, de ovt-columnist en auteur Tomas Ross, van hem verscheen deze week het boek ‘Omwille van de troon’over de Greet Hofmans-affaire en Simon Kuper, auteur van het boek ‘Voetbal als oorlog’. 11.00-12.00: Oud presentator en eindredacteur van OVT Kees Slager is van de partij, als het gaat over de rol van ‘oral-history’in de geschiedschrijving. “Ooggetuigenverslagen”, zoals die altijd te horen zijn in Het Spoor terug, één van de pijlers van OVT. Met verder de historici Homme Wedman en Fridus Steijlen. En fragmenten uit de voorstelling ‘Anno Drenthe’, waarin 8 Drentse 70+ ers verhalen vertellen uit hun eigen leven. En dan ook nog tijdens deze uitzending: de presentatie van ‘De bolhoed van Piet de Jong‘, de gebundelde OVT-columns van oud-parlementair journalist Kees Sorgdrager, die speciaal voor deze gelegenheid nog één keer een column voor OVT zal voordragen. De muziek tenslotte, wordt verzorgd door het Groot Promotie Blaas Quintet o.l.v. historicus Kees Wouters. INFO: -‘Omwille van de troon’- Tomas Ross, isbn 90 234 0448 3, uitg. de Bezige Bij -‘De bolhoed van Piet de jong’ (columns OVT) – Kees Sorgdrager, isbn 90 5018 474 x, uitg. Balans Oral-history congres 'Uitgesproken verleden', vrijdag 18 oktober, Groningen a.s.info: www.ubbo-emmius.nl. Aanmelden via: Ubbo@let.rug.nl, tel: 050- 363 50 76",
+        "media" : {
+          "objectType" : "program",
+          "mid" : "POMS_VPRO_209303",
+          "type" : "BROADCAST",
+          "avType" : "AUDIO",
+          "workflow" : "PUBLISHED",
+          "sortDate" : 1033891320000,
+          "creationDate" : 1297874894049,
+          "lastModified" : 1364923319722,
+          "urn" : "urn:vpro:media:program:8366896",
+          "embeddable" : true,
+          "episodeOf" : [ {
+            "midRef" : "POMS_S_VPRO_210879",
+            "urnRef" : "urn:vpro:media:group:8345828",
+            "type" : "SEASON",
+            "index" : 40,
+            "highlighted" : false,
+            "added" : 1297874905317
+          } ],
+          "crids" : [ "crid://tmp.episode.mmbase.vpro.nl/8049170" ],
+          "broadcasters" : [ {
+            "id" : "VPRO",
+            "value" : "VPRO"
+          } ],
+          "titles" : [ {
+            "value" : "Ovt",
+            "owner" : "BROADCASTER",
+            "type" : "MAIN"
+          }, {
+            "value" : "jubileumuitzending",
+            "owner" : "BROADCASTER",
+            "type" : "SUB"
+          } ],
+          "descriptions" : [ {
+            "value" : "10.00-11.00: Tijdens deze feestelijke uitzending met publiek zal – na de column van Jean Paul Franssens - een aantal historici in debat gaan over ‘grote’ thema’s in de geschiedenis: oorlog, voetbal en het koningshuis en hun rol daarbij in de media en hun optreden in dienst van de overheid, met Hans Blom, directeur van het NIOD, de historicus Han van der Horst, de ovt-columnist en auteur Tomas Ross, van hem verscheen deze week het boek ‘Omwille van de troon’over de Greet Hofmans-affaire en Simon Kuper, auteur van het boek ‘Voetbal als oorlog’. 11.00-12.00: Oud presentator en eindredacteur van OVT Kees Slager is van de partij, als het gaat over de rol van ‘oral-history’in de geschiedschrijving. “Ooggetuigenverslagen”, zoals die altijd te horen zijn in Het Spoor terug, één van de pijlers van OVT. Met verder de historici Homme Wedman en Fridus Steijlen. En fragmenten uit de voorstelling ‘Anno Drenthe’, waarin 8 Drentse 70+ ers verhalen vertellen uit hun eigen leven. En dan ook nog tijdens deze uitzending: de presentatie van ‘De bolhoed van Piet de Jong‘, de gebundelde OVT-columns van oud-parlementair journalist Kees Sorgdrager, die speciaal voor deze gelegenheid nog één keer een column voor OVT zal voordragen. De muziek tenslotte, wordt verzorgd door het Groot Promotie Blaas Quintet o.l.v. historicus Kees Wouters. INFO: -‘Omwille van de troon’- Tomas Ross, isbn 90 234 0448 3, uitg. de Bezige Bij -‘De bolhoed van Piet de jong’ (columns OVT) – Kees Sorgdrager, isbn 90 5018 474 x, uitg. Balans Oral-history congres 'Uitgesproken verleden', vrijdag 18 oktober, Groningen a.s.info: www.ubbo-emmius.nl. Aanmelden via: Ubbo@let.rug.nl, tel: 050- 363 50 76",
+            "owner" : "BROADCASTER",
+            "type" : "MAIN"
+          }, {
+            "value" : "10 JAAR OVT: Een speciale jubileumuitzending ter gelegenheid van het tienjarig bestaan van OVT. Te gast zijn onder meer Jean Paul Franssens, Maarten van Rossem, Hans Blom, Kees Slager, Tomas Ross, Simon Kuper, Homme Wedman, Fridus Steijlen en Kees Sorgdrager.",
+            "owner" : "BROADCASTER",
+            "type" : "SUB"
+          } ],
+          "genres" : [ ],
+          "countries" : [ ],
+          "languages" : [ ],
+          "duration" : 7068000,
+          "descendantOf" : [ {
+            "midRef" : "POMS_S_VPRO_215106",
+            "urnRef" : "urn:vpro:media:group:6988168",
+            "type" : "SERIES"
+          }, {
+            "midRef" : "AUTO_OVT",
+            "urnRef" : "urn:vpro:media:group:73171",
+            "type" : "SERIES"
+          }, {
+            "midRef" : "POMS_S_VPRO_210879",
+            "urnRef" : "urn:vpro:media:group:8345828",
+            "type" : "SEASON"
+          } ],
+          "predictions" : [ {
+            "state" : "REALIZED",
+            "platform" : "INTERNETVOD"
+          } ],
+          "locations" : [ {
+            "programUrl" : "http://download.omroep.nl/vpro/ovt/83/66/89/6/POMS_VPRO_209303.mp3",
+            "avAttributes" : {
+              "bitrate" : 128000,
+              "avFileFormat" : "MP3",
+              "videoAttributes" : {
+                "width" : 0,
+                "heigth" : 0
+              }
+            },
+            "duration" : 7068000,
+            "owner" : "BROADCASTER",
+            "creationDate" : 1364923318410,
+            "lastModified" : 1364923319095,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:23959247"
+          } ],
+          "scheduleEvents" : [ {
+            "start" : 1033891320000,
+            "duration" : 7080,
+            "poProgID" : "POMS_VPRO_209303",
+            "channel" : "RAD1",
+            "urnRef" : "urn:vpro:media:program:8366896",
+            "midRef" : "POMS_VPRO_209303"
+          } ],
+          "images" : [ {
+            "title" : "OVT",
+            "description" : "Jubileumuitzending",
+            "imageUri" : "urn:vpro.image:2898",
+            "height" : 627,
+            "width" : 828,
+            "owner" : "BROADCASTER",
+            "type" : "PICTURE",
+            "highlighted" : false,
+            "creationDate" : 1033855200000,
+            "lastModified" : 1306239655632,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:8366899"
+          }, {
+            "title" : "OVT",
+            "description" : "Kees Sorgdrager met de bolhoed van Piet de Jong",
+            "imageUri" : "urn:vpro.image:2899",
+            "height" : 1200,
+            "width" : 1600,
+            "owner" : "BROADCASTER",
+            "type" : "PICTURE",
+            "highlighted" : false,
+            "creationDate" : 1033855200000,
+            "lastModified" : 1306239655632,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:8366900"
+          }, {
+            "title" : "De OVT redactie",
+            "description" : "De OVT redactie in 1997. Foto: Rosa Verhoeven",
+            "imageUri" : "urn:vpro.image:2900",
+            "height" : 664,
+            "width" : 950,
+            "owner" : "BROADCASTER",
+            "type" : "PICTURE",
+            "highlighted" : false,
+            "creationDate" : 1033682400000,
+            "lastModified" : 1306239655632,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:8366901"
+          } ],
+          "segments" : [ {
+            "objectType" : "segment",
+            "mid" : "POMS_VPRO_209209",
+            "type" : "SEGMENT",
+            "avType" : "AUDIO",
+            "workflow" : "PUBLISHED",
+            "sortDate" : 1033891320000,
+            "creationDate" : 1297874894953,
+            "lastModified" : 1364923319140,
+            "urn" : "urn:vpro:media:segment:8366916",
+            "embeddable" : true,
+            "crids" : [ "crid://tmp.fragment.mmbase.vpro.nl/13643252", "crid://tmp.item.mmbase.vpro.nl/8808748" ],
+            "broadcasters" : [ {
+              "id" : "VPRO",
+              "value" : "VPRO"
+            } ],
+            "titles" : [ {
+              "value" : "De tune van OVT (live gespeeld)",
+              "owner" : "BROADCASTER",
+              "type" : "MAIN"
+            }, {
+              "value" : "Fragment OVT 6 oktober 2002 uur 1 (2,5 min.)",
+              "owner" : "BROADCASTER",
+              "type" : "SUB"
+            } ],
+            "descriptions" : [ {
+              "value" : "De tune van OVT, live in Studio Desmet in Amsterdam uitgevoerd door het Groot Promotie Blaas Quintet onder leiding van historicus Kees Wouters.",
+              "owner" : "BROADCASTER",
+              "type" : "SUB"
+            } ],
+            "genres" : [ ],
+            "countries" : [ ],
+            "languages" : [ ],
+            "duration" : 138000,
+            "descendantOf" : [ {
+              "midRef" : "POMS_S_VPRO_215106",
+              "urnRef" : "urn:vpro:media:group:6988168",
+              "type" : "SERIES"
+            }, {
+              "midRef" : "AUTO_OVT",
+              "urnRef" : "urn:vpro:media:group:73171",
+              "type" : "SERIES"
+            }, {
+              "midRef" : "POMS_S_VPRO_210879",
+              "urnRef" : "urn:vpro:media:group:8345828",
+              "type" : "SEASON"
+            }, {
+              "midRef" : "POMS_VPRO_209303",
+              "urnRef" : "urn:vpro:media:program:8366896",
+              "type" : "BROADCAST"
+            } ],
+            "predictions" : [ {
+              "state" : "REALIZED",
+              "publishStop" : 1364920792382,
+              "platform" : "INTERNETVOD"
+            } ],
+            "locations" : [ {
+              "programUrl" : "http://download.omroep.nl/vpro/ovt/83/66/91/6/POMS_VPRO_209209.mp3",
+              "avAttributes" : {
+                "bitrate" : 128000,
+                "avFileFormat" : "MP3",
+                "videoAttributes" : {
+                  "width" : 0,
+                  "heigth" : 0
+                }
+              },
+              "duration" : 138000,
+              "owner" : "BROADCASTER",
+              "creationDate" : 1364923318414,
+              "lastModified" : 1364923319125,
+              "workflow" : "PUBLISHED",
+              "urn" : "urn:vpro:media:location:23959250"
+            } ],
+            "start" : 86400,
+            "urnRef" : "urn:vpro:media:program:8366896",
+            "midRef" : "POMS_VPRO_209303"
+          }, {
+            "objectType" : "segment",
+            "mid" : "POMS_VPRO_209207",
+            "type" : "SEGMENT",
+            "avType" : "AUDIO",
+            "workflow" : "PUBLISHED",
+            "sortDate" : 1033891320000,
+            "creationDate" : 1297874896528,
+            "lastModified" : 1364923319140,
+            "urn" : "urn:vpro:media:segment:8366930",
+            "embeddable" : true,
+            "crids" : [ "crid://tmp.fragment.mmbase.vpro.nl/13643256", "crid://tmp.item.mmbase.vpro.nl/8808786" ],
+            "broadcasters" : [ {
+              "id" : "VPRO",
+              "value" : "VPRO"
+            } ],
+            "titles" : [ {
+              "value" : "De eerste uitzending van OVT op 4 oktober 1992",
+              "owner" : "BROADCASTER",
+              "type" : "MAIN"
+            }, {
+              "value" : "Fragment OVT 6 oktober 2002 uur 1 (2 min.)",
+              "owner" : "BROADCASTER",
+              "type" : "SUB"
+            } ],
+            "descriptions" : [ {
+              "value" : "Op 4 oktober 1992 was de eerste uitzending van OVT. Diezelfde dag stortte een vliegtuig neer op de de Bijlmer in Amsterdam. Paul van der Gaag haalt herinneringen op aan de eerste uitzending in het befaamde Het Gebouw met oud-redacteur Kees Slager. Wie zaten er in die eerste uitzending en waarover ging het?",
+              "owner" : "BROADCASTER",
+              "type" : "SUB"
+            } ],
+            "genres" : [ ],
+            "countries" : [ ],
+            "languages" : [ ],
+            "duration" : 127000,
+            "descendantOf" : [ {
+              "midRef" : "POMS_S_VPRO_215106",
+              "urnRef" : "urn:vpro:media:group:6988168",
+              "type" : "SERIES"
+            }, {
+              "midRef" : "AUTO_OVT",
+              "urnRef" : "urn:vpro:media:group:73171",
+              "type" : "SERIES"
+            }, {
+              "midRef" : "POMS_S_VPRO_210879",
+              "urnRef" : "urn:vpro:media:group:8345828",
+              "type" : "SEASON"
+            }, {
+              "midRef" : "POMS_VPRO_209303",
+              "urnRef" : "urn:vpro:media:program:8366896",
+              "type" : "BROADCAST"
+            } ],
+            "predictions" : [ {
+              "state" : "REALIZED",
+              "publishStop" : 1364920792382,
+              "platform" : "INTERNETVOD"
+            } ],
+            "locations" : [ {
+              "programUrl" : "http://download.omroep.nl/vpro/ovt/83/66/93/0/POMS_VPRO_209207.mp3",
+              "avAttributes" : {
+                "bitrate" : 128000,
+                "avFileFormat" : "MP3",
+                "videoAttributes" : {
+                  "width" : 0,
+                  "heigth" : 0
+                }
+              },
+              "duration" : 127000,
+              "owner" : "BROADCASTER",
+              "creationDate" : 1364923318419,
+              "lastModified" : 1364923319127,
+              "workflow" : "PUBLISHED",
+              "urn" : "urn:vpro:media:location:23959253"
+            } ],
+            "start" : 224800,
+            "urnRef" : "urn:vpro:media:program:8366896",
+            "midRef" : "POMS_VPRO_209303"
+          }, {
+            "objectType" : "segment",
+            "mid" : "POMS_VPRO_209210",
+            "type" : "SEGMENT",
+            "avType" : "AUDIO",
+            "workflow" : "PUBLISHED",
+            "sortDate" : 1033891320000,
+            "creationDate" : 1297874898234,
+            "lastModified" : 1364923319140,
+            "urn" : "urn:vpro:media:segment:8366944",
+            "embeddable" : true,
+            "crids" : [ "crid://tmp.fragment.mmbase.vpro.nl/13643260", "crid://tmp.item.mmbase.vpro.nl/8808789" ],
+            "broadcasters" : [ {
+              "id" : "VPRO",
+              "value" : "VPRO"
+            } ],
+            "titles" : [ {
+              "value" : "De column van Jean-Paul Franssens: een eerste kus",
+              "owner" : "BROADCASTER",
+              "type" : "MAIN"
+            }, {
+              "value" : "Fragment OVT 6 oktober 2002 uur 1 (7 min.)",
+              "owner" : "BROADCASTER",
+              "type" : "SUB"
+            } ],
+            "descriptions" : [ {
+              "value" : "Groningers zijn niet in zichzelf gekeerd, eenkennig of gierig. Franssens neemt zichzelf als voorbeeld: hij is vaak royaal en maakt eenvoudig vrienden. Verder over de gevaren van gesprekken tijdens het cafébezoek en een verslag van een dergelijk kroeggesprek, dat eindigt met een verzoek om een kus.",
+              "owner" : "BROADCASTER",
+              "type" : "SUB"
+            } ],
+            "genres" : [ ],
+            "countries" : [ ],
+            "languages" : [ ],
+            "duration" : 404000,
+            "descendantOf" : [ {
+              "midRef" : "POMS_S_VPRO_215106",
+              "urnRef" : "urn:vpro:media:group:6988168",
+              "type" : "SERIES"
+            }, {
+              "midRef" : "AUTO_OVT",
+              "urnRef" : "urn:vpro:media:group:73171",
+              "type" : "SERIES"
+            }, {
+              "midRef" : "POMS_S_VPRO_210879",
+              "urnRef" : "urn:vpro:media:group:8345828",
+              "type" : "SEASON"
+            }, {
+              "midRef" : "POMS_VPRO_209303",
+              "urnRef" : "urn:vpro:media:program:8366896",
+              "type" : "BROADCAST"
+            } ],
+            "predictions" : [ {
+              "state" : "REALIZED",
+              "publishStop" : 1364920792382,
+              "platform" : "INTERNETVOD"
+            } ],
+            "locations" : [ {
+              "programUrl" : "http://download.omroep.nl/vpro/ovt/83/66/94/4/POMS_VPRO_209210.mp3",
+              "avAttributes" : {
+                "bitrate" : 128000,
+                "avFileFormat" : "MP3",
+                "videoAttributes" : {
+                  "width" : 0,
+                  "heigth" : 0
+                }
+              },
+              "duration" : 404000,
+              "owner" : "BROADCASTER",
+              "creationDate" : 1364923318423,
+              "lastModified" : 1364923319130,
+              "workflow" : "PUBLISHED",
+              "urn" : "urn:vpro:media:location:23959256"
+            } ],
+            "start" : 393200,
+            "urnRef" : "urn:vpro:media:program:8366896",
+            "midRef" : "POMS_VPRO_209303"
+          }, {
+            "objectType" : "segment",
+            "mid" : "POMS_VPRO_209211",
+            "type" : "SEGMENT",
+            "avType" : "AUDIO",
+            "workflow" : "PUBLISHED",
+            "sortDate" : 1033891320000,
+            "creationDate" : 1297874899428,
+            "lastModified" : 1364923319140,
+            "urn" : "urn:vpro:media:segment:8366958",
+            "embeddable" : true,
+            "crids" : [ "crid://tmp.fragment.mmbase.vpro.nl/13643264", "crid://tmp.item.mmbase.vpro.nl/8808816" ],
+            "broadcasters" : [ {
+              "id" : "VPRO",
+              "value" : "VPRO"
+            } ],
+            "titles" : [ {
+              "value" : "Groot Historische Thema: de Tweede Wereldoorlog  het Koningshuis en Voetbal",
+              "owner" : "BROADCASTER",
+              "type" : "MAIN"
+            }, {
+              "value" : "Fragment OVT 6 oktober 2002 uur 1 (43 min.)",
+              "owner" : "BROADCASTER",
+              "type" : "SUB"
+            } ],
+            "descriptions" : [ {
+              "value" : "De Tweede Wereldoorlog is de Hymalaya van de Nederlandse geschiedschrijving, meent de niet aanwezige historicus Maarten van Rossem op band. Ook Voetbal en het Koninghuis zijn grote thema’s in onze historie. Jos Palm en Paul van der Gaag debatteren met Hans Blom, directeur van het NIOD, de historicus Han van der Horst, de OVT-columnist en auteur Tomas Ross (van hem verscheen deze week het boek ‘Omwille van de troon’over de Greet Hofmans-affaire) en Simon Kuper, auteur van het boek ‘Voetbal als oorlog’. Het Groot Promotie Blaas Quintet speelt ‘Hello Kitty’(1941) van Leon Groen (alias Ted Green). Het nummer wordt toegelicht door bandleider en historicus Kees Wouters.",
+              "owner" : "BROADCASTER",
+              "type" : "SUB"
+            } ],
+            "genres" : [ ],
+            "countries" : [ ],
+            "languages" : [ ],
+            "duration" : 2596000,
+            "descendantOf" : [ {
+              "midRef" : "POMS_S_VPRO_215106",
+              "urnRef" : "urn:vpro:media:group:6988168",
+              "type" : "SERIES"
+            }, {
+              "midRef" : "AUTO_OVT",
+              "urnRef" : "urn:vpro:media:group:73171",
+              "type" : "SERIES"
+            }, {
+              "midRef" : "POMS_S_VPRO_210879",
+              "urnRef" : "urn:vpro:media:group:8345828",
+              "type" : "SEASON"
+            }, {
+              "midRef" : "POMS_VPRO_209303",
+              "urnRef" : "urn:vpro:media:program:8366896",
+              "type" : "BROADCAST"
+            } ],
+            "predictions" : [ {
+              "state" : "REALIZED",
+              "publishStop" : 1364920792382,
+              "platform" : "INTERNETVOD"
+            } ],
+            "locations" : [ {
+              "programUrl" : "http://download.omroep.nl/vpro/ovt/83/66/95/8/POMS_VPRO_209211.mp3",
+              "avAttributes" : {
+                "bitrate" : 128000,
+                "avFileFormat" : "MP3",
+                "videoAttributes" : {
+                  "width" : 0,
+                  "heigth" : 0
+                }
+              },
+              "duration" : 2596000,
+              "owner" : "BROADCASTER",
+              "creationDate" : 1364923318429,
+              "lastModified" : 1364923319132,
+              "workflow" : "PUBLISHED",
+              "urn" : "urn:vpro:media:location:23959259"
+            } ],
+            "start" : 799200,
+            "urnRef" : "urn:vpro:media:program:8366896",
+            "midRef" : "POMS_VPRO_209303"
+          }, {
+            "objectType" : "segment",
+            "mid" : "POMS_VPRO_209213",
+            "type" : "SEGMENT",
+            "avType" : "AUDIO",
+            "workflow" : "PUBLISHED",
+            "sortDate" : 1033891320000,
+            "creationDate" : 1297874901312,
+            "lastModified" : 1364923319141,
+            "urn" : "urn:vpro:media:segment:8366984",
+            "embeddable" : true,
+            "crids" : [ "crid://tmp.fragment.mmbase.vpro.nl/13643268", "crid://tmp.item.mmbase.vpro.nl/8808841" ],
+            "broadcasters" : [ {
+              "id" : "VPRO",
+              "value" : "VPRO"
+            } ],
+            "titles" : [ {
+              "value" : "Hans Olink over de oorsprong van de tune van OVT",
+              "owner" : "BROADCASTER",
+              "type" : "MAIN"
+            }, {
+              "value" : "Fragment OVT 6 oktober 2002 uur 2 (6 min.)",
+              "owner" : "BROADCASTER",
+              "type" : "SUB"
+            } ],
+            "descriptions" : [ {
+              "value" : "Eindelijk wordt het mysterie op de radio onthuld: de tune van OVT komt uit Rusland en werd in 1991 door redacteur Hans Olink ‘ontdekt’. De muziek komt uit een Russische opera of musical met de titel 'Tverboul', van de componist Alexander Papernyi. Het is niet in Nederland of ergens ander te koop. Interview Paul van der Gaag. Het Groot Promotie Blaas Quintet speelt de tune.",
+              "owner" : "BROADCASTER",
+              "type" : "SUB"
+            } ],
+            "genres" : [ ],
+            "countries" : [ ],
+            "languages" : [ ],
+            "duration" : 343000,
+            "descendantOf" : [ {
+              "midRef" : "POMS_S_VPRO_215106",
+              "urnRef" : "urn:vpro:media:group:6988168",
+              "type" : "SERIES"
+            }, {
+              "midRef" : "AUTO_OVT",
+              "urnRef" : "urn:vpro:media:group:73171",
+              "type" : "SERIES"
+            }, {
+              "midRef" : "POMS_S_VPRO_210879",
+              "urnRef" : "urn:vpro:media:group:8345828",
+              "type" : "SEASON"
+            }, {
+              "midRef" : "POMS_VPRO_209303",
+              "urnRef" : "urn:vpro:media:program:8366896",
+              "type" : "BROADCAST"
+            } ],
+            "predictions" : [ {
+              "state" : "REALIZED",
+              "publishStop" : 1364920792382,
+              "platform" : "INTERNETVOD"
+            } ],
+            "locations" : [ {
+              "programUrl" : "http://download.omroep.nl/vpro/ovt/83/66/98/4/POMS_VPRO_209213.mp3",
+              "avAttributes" : {
+                "bitrate" : 128000,
+                "avFileFormat" : "MP3",
+                "videoAttributes" : {
+                  "width" : 0,
+                  "heigth" : 0
+                }
+              },
+              "duration" : 343000,
+              "owner" : "BROADCASTER",
+              "creationDate" : 1364923318434,
+              "lastModified" : 1364923319135,
+              "workflow" : "PUBLISHED",
+              "urn" : "urn:vpro:media:location:23959262"
+            } ],
+            "start" : 3738300,
+            "urnRef" : "urn:vpro:media:program:8366896",
+            "midRef" : "POMS_VPRO_209303"
+          }, {
+            "objectType" : "segment",
+            "mid" : "POMS_VPRO_209214",
+            "type" : "SEGMENT",
+            "avType" : "AUDIO",
+            "workflow" : "PUBLISHED",
+            "sortDate" : 1033891320000,
+            "creationDate" : 1297874902502,
+            "lastModified" : 1364923319141,
+            "urn" : "urn:vpro:media:segment:8366998",
+            "embeddable" : true,
+            "crids" : [ "crid://tmp.fragment.mmbase.vpro.nl/13643272", "crid://tmp.item.mmbase.vpro.nl/8808907" ],
+            "broadcasters" : [ {
+              "id" : "VPRO",
+              "value" : "VPRO"
+            } ],
+            "titles" : [ {
+              "value" : "Presentatie van De bolhoed van Piet de Jong van Kees Sorgdrager en een column",
+              "owner" : "BROADCASTER",
+              "type" : "MAIN"
+            }, {
+              "value" : "Fragment OVT 6 oktober 2002 uur 2 (7 min.)",
+              "owner" : "BROADCASTER",
+              "type" : "SUB"
+            } ],
+            "descriptions" : [ {
+              "value" : "Een licht ontstemde Kees Sorgdrager, OVT-columnist van het seizoen 2001-2002, meldt dat zijn boek ‘De bolhoed van Piet de Jong’met OVT-columns nog niet in de winkel ligt. Daarnaast kijkt Kees Sorgdrager in een column terug op het schrijven van die columns. Sorgdrager ging naar aanleiding van de titel van het boek op bezoek bij Piet de Jong en kreeg de bolhoed van Piet de Jong.",
+              "owner" : "BROADCASTER",
+              "type" : "SUB"
+            } ],
+            "genres" : [ ],
+            "countries" : [ ],
+            "languages" : [ ],
+            "duration" : 436000,
+            "descendantOf" : [ {
+              "midRef" : "POMS_S_VPRO_215106",
+              "urnRef" : "urn:vpro:media:group:6988168",
+              "type" : "SERIES"
+            }, {
+              "midRef" : "AUTO_OVT",
+              "urnRef" : "urn:vpro:media:group:73171",
+              "type" : "SERIES"
+            }, {
+              "midRef" : "POMS_S_VPRO_210879",
+              "urnRef" : "urn:vpro:media:group:8345828",
+              "type" : "SEASON"
+            }, {
+              "midRef" : "POMS_VPRO_209303",
+              "urnRef" : "urn:vpro:media:program:8366896",
+              "type" : "BROADCAST"
+            } ],
+            "predictions" : [ {
+              "state" : "REALIZED",
+              "publishStop" : 1364920792382,
+              "platform" : "INTERNETVOD"
+            } ],
+            "locations" : [ {
+              "programUrl" : "http://download.omroep.nl/vpro/ovt/83/66/99/8/POMS_VPRO_209214.mp3",
+              "avAttributes" : {
+                "bitrate" : 128000,
+                "avFileFormat" : "MP3",
+                "videoAttributes" : {
+                  "width" : 0,
+                  "heigth" : 0
+                }
+              },
+              "duration" : 436000,
+              "owner" : "BROADCASTER",
+              "creationDate" : 1364923318438,
+              "lastModified" : 1364923319136,
+              "workflow" : "PUBLISHED",
+              "urn" : "urn:vpro:media:location:23959265"
+            } ],
+            "start" : 4081400,
+            "urnRef" : "urn:vpro:media:program:8366896",
+            "midRef" : "POMS_VPRO_209303"
+          }, {
+            "objectType" : "segment",
+            "mid" : "POMS_VPRO_209215",
+            "type" : "SEGMENT",
+            "avType" : "AUDIO",
+            "workflow" : "PUBLISHED",
+            "sortDate" : 1033891320000,
+            "creationDate" : 1297874904067,
+            "lastModified" : 1364923319141,
+            "urn" : "urn:vpro:media:segment:8367012",
+            "embeddable" : true,
+            "crids" : [ "crid://tmp.fragment.mmbase.vpro.nl/13643276", "crid://tmp.item.mmbase.vpro.nl/8809062" ],
+            "broadcasters" : [ {
+              "id" : "VPRO",
+              "value" : "VPRO"
+            } ],
+            "titles" : [ {
+              "value" : "Oral History: twee fragmenten en een debat",
+              "owner" : "BROADCASTER",
+              "type" : "MAIN"
+            }, {
+              "value" : "Fragment OVT 6 oktober 2002 uur 2 (42,5 min.)",
+              "owner" : "BROADCASTER",
+              "type" : "SUB"
+            } ],
+            "descriptions" : [ {
+              "value" : "Wat is oral history en wat zijn de voor- en nadelen van deze vorm? Paul van der Gaag spreekt met oud-redacteur Kees Slager, de geestelijke vader van Het Spoor Terug en de historici Homme Wedman, Fridus Steijlen en Hans Blom. Ook een pleidooi voor een betere opslag van het oral history-materiaal. En twee fragmenten uit de voorstelling ‘Anno Drenthe’, waarin Drentse 70-plussers verhalen vertellen uit hun eigen leven. Ook een gesprek met theatermaker Betsy Torenbos. En het Groot Promotie Blaas Quintet speelt een oud Russisch volkslied en ‘Ín our little palace of dreams’.",
+              "owner" : "BROADCASTER",
+              "type" : "SUB"
+            } ],
+            "genres" : [ ],
+            "countries" : [ ],
+            "languages" : [ ],
+            "duration" : 2564000,
+            "descendantOf" : [ {
+              "midRef" : "POMS_S_VPRO_215106",
+              "urnRef" : "urn:vpro:media:group:6988168",
+              "type" : "SERIES"
+            }, {
+              "midRef" : "AUTO_OVT",
+              "urnRef" : "urn:vpro:media:group:73171",
+              "type" : "SERIES"
+            }, {
+              "midRef" : "POMS_S_VPRO_210879",
+              "urnRef" : "urn:vpro:media:group:8345828",
+              "type" : "SEASON"
+            }, {
+              "midRef" : "POMS_VPRO_209303",
+              "urnRef" : "urn:vpro:media:program:8366896",
+              "type" : "BROADCAST"
+            } ],
+            "predictions" : [ {
+              "state" : "REALIZED",
+              "publishStop" : 1364920792382,
+              "platform" : "INTERNETVOD"
+            } ],
+            "locations" : [ {
+              "programUrl" : "http://download.omroep.nl/vpro/ovt/83/67/01/2/POMS_VPRO_209215.mp3",
+              "avAttributes" : {
+                "bitrate" : 128000,
+                "avFileFormat" : "MP3",
+                "videoAttributes" : {
+                  "width" : 0,
+                  "heigth" : 0
+                }
+              },
+              "duration" : 2564000,
+              "owner" : "BROADCASTER",
+              "creationDate" : 1364923318441,
+              "lastModified" : 1364923319138,
+              "workflow" : "PUBLISHED",
+              "urn" : "urn:vpro:media:location:23959268"
+            } ],
+            "start" : 4516500,
+            "urnRef" : "urn:vpro:media:program:8366896",
+            "midRef" : "POMS_VPRO_209303"
+          } ]
+        }
       } ],
       "images" : [ {
         "type" : "PICTURE",
-        "url" : "http://www-test.npogeschiedenis.nl/.imaging/stk/geschiedenis/search/media/geschiedenis/nieuws/drie/2002/October/8807102/original/8807102.jpg",
-        "title" : "Kees Sorgdrager met de bolhoed van Piet de Jong"
+        "url" : "http://images.poms.omroep.nl/image/s360/2898.jpg",
+        "title" : "OVT",
+        "description" : "Jubileumuitzending"
       } ],
-      "publishStart" : 1034000803000,
-      "creationDate" : 1417523679245,
-      "lastModified" : 1422550850696,
-      "refCount" : 0
-    }
-  }, {
-    "highlights" : [ ],
-    "result" : {
-      "objectType" : "page",
-      "type" : "ARTICLE",
-      "url" : "http://www-test.npogeschiedenis.nl/nieuws/2002/september/OVT-10-jaar.html",
-      "sortDate" : 1032956309000,
-      "crids" : [ "crid://vpro/website/2e296477-a568-4bcb-a90e-4a41f9565c2c" ],
-      "broadcasters" : [ {
-        "id" : "VPRO",
-        "value" : "VPRO"
-      } ],
-      "portal" : {
-        "id" : "GESCHIEDENIS24",
-        "url" : "http://www-test.npogeschiedenis.nl",
-        "value" : "NPO Geschiedenis"
-      },
-      "title" : "OVT 10 jaar",
-      "subTitle" : "Feestelijke uitzending in Desmet op 6 oktober",
-      "summary" : "Het historische VPRO-radioprogramma OVT bestaat tien jaar. Dat wordt gevierd met een jubileumuitzending op 6 oktober 2002.",
-      "paragraphs" : [ {
-        "title" : "",
-        "body" : "De eerste uitzending vond plaats op zondag 4 oktober 1992. Reden voor een feestje. De jubileumuitzending van OVT komt vanuit studio Desmet in Amsterdam.  OVT opent ook deze speciale uitzending met de column, die deze week van schrijver Jean-Paul Franssens afkomstig is. Daarnaast is er de presentatie van ‘De bolhoed van Piet de Jong’, de gebundelde OVT-columns van oud-parlementair verslaggever Kees Sorgdrager. Hij verzorgde in het seizoen 2001-2002 de wekelijkse column van OVT.  Andere gasten zijn Hans Blom, directeur van het NIOD, de historici Han van der Horst, Homme Wedman, Maarten van Rossem, de OVT-columnist en auteur van historische thrillers Tomas Ross en Kees Slager, oud-presentator en eindredacteur van OVT.  Dit alles wordt muzikaal omlijst door de muziek van het Groot Promotie Blaas Quintet. Zij spelen jazz en amusementsmuziek uit Duitsland en Nederland uit de periode 1920-1945.  Volgende week zal er op /Geschiedenis meer bekend worden gemaakt over de inhoud van het programma.  Ook het nabijgelegen Vakbondmuseum (Henri Polaklaan 9) en Verzetsmuseum (Plantage Kerklaan 61) doen mee aan de viering van 10 jaar OVT. Beide musea bieden op 6 oktober 50% korting op de toegangsprijs op vertoon van uw Backstagepas. Zie voor meer informatie de websites van beide musea."
-      } ],
-      "images" : [ {
-        "type" : "PICTURE",
-        "url" : "http://www-test.npogeschiedenis.nl/.imaging/stk/geschiedenis/search/media/geschiedenis/nieuws/drie/2002/February/5420006/original/5420006.jpg",
-        "title" : "OVT"
-      } ],
-      "publishStart" : 1032956309000,
-      "creationDate" : 1417523676129,
-      "lastModified" : 1422550847447,
+      "publishStart" : 1033891320000,
+      "creationDate" : 1416969630319,
+      "lastModified" : 1430326044564,
       "refCount" : 0
     }
   } ]

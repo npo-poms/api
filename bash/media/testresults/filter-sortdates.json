@@ -1,17 +1,20 @@
 {
-  "total" : 1983,
+  "total" : 2544,
   "offset" : 0,
   "max" : 2,
   "items" : [ {
-    "score" : 0.023860537,
+    "score" : 0.014221835,
     "highlights" : [ ],
     "result" : {
       "objectType" : "program",
       "mid" : "POMS_VPRO_348745",
+      "type" : "BROADCAST",
+      "avType" : "AUDIO",
+      "workflow" : "PUBLISHED",
+      "sortDate" : 978426120000,
       "creationDate" : 1366977255943,
       "lastModified" : 1376234407049,
       "publishStart" : 978426120000,
-      "sortDate" : 978426120000,
       "urn" : "urn:vpro:media:program:24853739",
       "embeddable" : true,
       "episodeOf" : [ {
@@ -90,20 +93,20 @@
         "lastModified" : 1366977255992,
         "workflow" : "PUBLISHED",
         "urn" : "urn:vpro:media:image:24853742"
-      } ],
-      "workflow" : "PUBLISHED",
-      "type" : "BROADCAST",
-      "avType" : "AUDIO"
+      } ]
     }
   }, {
-    "score" : 0.0477495,
+    "score" : 0.028461639,
     "highlights" : [ ],
     "result" : {
       "objectType" : "program",
       "mid" : "immix_976792",
+      "type" : "BROADCAST",
+      "avType" : "VIDEO",
+      "workflow" : "PUBLISHED",
+      "sortDate" : 978458400000,
       "creationDate" : 1359374405979,
       "lastModified" : 1373890290883,
-      "sortDate" : 978458400000,
       "urn" : "urn:vpro:media:program:18267802",
       "embeddable" : true,
       "episodeOf" : [ {
@@ -160,10 +163,10 @@
           "avFileFormat" : "HASP"
         },
         "owner" : "CERES",
+        "platform" : "INTERNETVOD",
         "creationDate" : 1373890290448,
         "lastModified" : 1373890290881,
         "workflow" : "PUBLISHED",
-        "platform" : "INTERNETVOD",
         "urn" : "urn:vpro:media:location:27678074"
       }, {
         "programUrl" : "odi+http://odi.omroep.nl/video/h264_sb/immix_976792",
@@ -176,10 +179,10 @@
           }
         },
         "owner" : "NEBO",
+        "platform" : "INTERNETVOD",
         "creationDate" : 1359374405984,
         "lastModified" : 1359374406002,
         "workflow" : "PUBLISHED",
-        "platform" : "INTERNETVOD",
         "urn" : "urn:vpro:media:location:18267805"
       }, {
         "programUrl" : "odi+http://odi.omroep.nl/video/h264_bb/immix_976792",
@@ -192,10 +195,10 @@
           }
         },
         "owner" : "NEBO",
+        "platform" : "INTERNETVOD",
         "creationDate" : 1359374405983,
         "lastModified" : 1359374406003,
         "workflow" : "PUBLISHED",
-        "platform" : "INTERNETVOD",
         "urn" : "urn:vpro:media:location:18267808"
       }, {
         "programUrl" : "odi+http://odi.omroep.nl/video/wmv_sb/immix_976792",
@@ -208,10 +211,10 @@
           }
         },
         "owner" : "NEBO",
+        "platform" : "INTERNETVOD",
         "creationDate" : 1359374405983,
         "lastModified" : 1359374406005,
         "workflow" : "PUBLISHED",
-        "platform" : "INTERNETVOD",
         "urn" : "urn:vpro:media:location:18267811"
       }, {
         "programUrl" : "odi+http://odi.omroep.nl/video/wmv_bb/immix_976792",
@@ -224,10 +227,10 @@
           }
         },
         "owner" : "NEBO",
+        "platform" : "INTERNETVOD",
         "creationDate" : 1359374405983,
         "lastModified" : 1359374406008,
         "workflow" : "PUBLISHED",
-        "platform" : "INTERNETVOD",
         "urn" : "urn:vpro:media:location:18267814"
       } ],
       "scheduleEvents" : [ {
@@ -246,13 +249,15 @@
         "urnRef" : "urn:vpro:media:program:18267802",
         "midRef" : "immix_976792"
       } ],
-      "workflow" : "PUBLISHED",
       "segments" : [ {
         "objectType" : "segment",
         "mid" : "POMS_NCRV_086013",
+        "type" : "SEGMENT",
+        "avType" : "VIDEO",
+        "workflow" : "PUBLISHED",
+        "sortDate" : 978458400000,
         "creationDate" : 1359374407265,
         "lastModified" : 1359374407798,
-        "sortDate" : 978458400000,
         "urn" : "urn:vpro:media:segment:18267874",
         "embeddable" : true,
         "crids" : [ "crid://tmp.segment.omroep.nl/23587" ],
@@ -291,18 +296,18 @@
           "urnRef" : "urn:vpro:media:program:18267802",
           "type" : "BROADCAST"
         } ],
-        "workflow" : "PUBLISHED",
         "start" : 32000,
         "urnRef" : "urn:vpro:media:program:18267802",
-        "midRef" : "immix_976792",
-        "type" : "SEGMENT",
-        "avType" : "VIDEO"
+        "midRef" : "immix_976792"
       }, {
         "objectType" : "segment",
         "mid" : "POMS_NCRV_086010",
+        "type" : "SEGMENT",
+        "avType" : "VIDEO",
+        "workflow" : "PUBLISHED",
+        "sortDate" : 978458400000,
         "creationDate" : 1359374407314,
         "lastModified" : 1359374407733,
-        "sortDate" : 978458400000,
         "urn" : "urn:vpro:media:segment:18267860",
         "embeddable" : true,
         "crids" : [ "crid://tmp.segment.omroep.nl/23592" ],
@@ -341,18 +346,18 @@
           "urnRef" : "urn:vpro:media:program:18267802",
           "type" : "BROADCAST"
         } ],
-        "workflow" : "PUBLISHED",
         "start" : 228000,
         "urnRef" : "urn:vpro:media:program:18267802",
-        "midRef" : "immix_976792",
-        "type" : "SEGMENT",
-        "avType" : "VIDEO"
+        "midRef" : "immix_976792"
       }, {
         "objectType" : "segment",
         "mid" : "POMS_NCRV_086006",
+        "type" : "SEGMENT",
+        "avType" : "VIDEO",
+        "workflow" : "PUBLISHED",
+        "sortDate" : 978458400000,
         "creationDate" : 1359374407337,
         "lastModified" : 1359374407659,
-        "sortDate" : 978458400000,
         "urn" : "urn:vpro:media:segment:18267844",
         "embeddable" : true,
         "crids" : [ "crid://tmp.segment.omroep.nl/23596" ],
@@ -391,18 +396,18 @@
           "urnRef" : "urn:vpro:media:program:18267802",
           "type" : "BROADCAST"
         } ],
-        "workflow" : "PUBLISHED",
         "start" : 421000,
         "urnRef" : "urn:vpro:media:program:18267802",
-        "midRef" : "immix_976792",
-        "type" : "SEGMENT",
-        "avType" : "VIDEO"
+        "midRef" : "immix_976792"
       }, {
         "objectType" : "segment",
         "mid" : "POMS_NCRV_086009",
+        "type" : "SEGMENT",
+        "avType" : "VIDEO",
+        "workflow" : "PUBLISHED",
+        "sortDate" : 978458400000,
         "creationDate" : 1359374407378,
         "lastModified" : 1359374407726,
-        "sortDate" : 978458400000,
         "urn" : "urn:vpro:media:segment:18267856",
         "embeddable" : true,
         "crids" : [ "crid://tmp.segment.omroep.nl/23600" ],
@@ -441,18 +446,18 @@
           "urnRef" : "urn:vpro:media:program:18267802",
           "type" : "BROADCAST"
         } ],
-        "workflow" : "PUBLISHED",
         "start" : 522000,
         "urnRef" : "urn:vpro:media:program:18267802",
-        "midRef" : "immix_976792",
-        "type" : "SEGMENT",
-        "avType" : "VIDEO"
+        "midRef" : "immix_976792"
       }, {
         "objectType" : "segment",
         "mid" : "POMS_NCRV_086011",
+        "type" : "SEGMENT",
+        "avType" : "VIDEO",
+        "workflow" : "PUBLISHED",
+        "sortDate" : 978458400000,
         "creationDate" : 1359374407428,
         "lastModified" : 1359374407738,
-        "sortDate" : 978458400000,
         "urn" : "urn:vpro:media:segment:18267864",
         "embeddable" : true,
         "crids" : [ "crid://tmp.segment.omroep.nl/23612" ],
@@ -491,18 +496,18 @@
           "urnRef" : "urn:vpro:media:program:18267802",
           "type" : "BROADCAST"
         } ],
-        "workflow" : "PUBLISHED",
         "start" : 752000,
         "urnRef" : "urn:vpro:media:program:18267802",
-        "midRef" : "immix_976792",
-        "type" : "SEGMENT",
-        "avType" : "VIDEO"
+        "midRef" : "immix_976792"
       }, {
         "objectType" : "segment",
         "mid" : "POMS_NCRV_086007",
+        "type" : "SEGMENT",
+        "avType" : "VIDEO",
+        "workflow" : "PUBLISHED",
+        "sortDate" : 978458400000,
         "creationDate" : 1359374407469,
         "lastModified" : 1359374407663,
-        "sortDate" : 978458400000,
         "urn" : "urn:vpro:media:segment:18267848",
         "embeddable" : true,
         "crids" : [ "crid://tmp.segment.omroep.nl/23616" ],
@@ -541,18 +546,18 @@
           "urnRef" : "urn:vpro:media:program:18267802",
           "type" : "BROADCAST"
         } ],
-        "workflow" : "PUBLISHED",
         "start" : 942000,
         "urnRef" : "urn:vpro:media:program:18267802",
-        "midRef" : "immix_976792",
-        "type" : "SEGMENT",
-        "avType" : "VIDEO"
+        "midRef" : "immix_976792"
       }, {
         "objectType" : "segment",
         "mid" : "POMS_NCRV_086012",
+        "type" : "SEGMENT",
+        "avType" : "VIDEO",
+        "workflow" : "PUBLISHED",
+        "sortDate" : 978458400000,
         "creationDate" : 1359374407487,
         "lastModified" : 1359374407744,
-        "sortDate" : 978458400000,
         "urn" : "urn:vpro:media:segment:18267868",
         "embeddable" : true,
         "crids" : [ "crid://tmp.segment.omroep.nl/23618" ],
@@ -591,18 +596,18 @@
           "urnRef" : "urn:vpro:media:program:18267802",
           "type" : "BROADCAST"
         } ],
-        "workflow" : "PUBLISHED",
         "start" : 1158000,
         "urnRef" : "urn:vpro:media:program:18267802",
-        "midRef" : "immix_976792",
-        "type" : "SEGMENT",
-        "avType" : "VIDEO"
+        "midRef" : "immix_976792"
       }, {
         "objectType" : "segment",
         "mid" : "POMS_NCRV_086008",
+        "type" : "SEGMENT",
+        "avType" : "VIDEO",
+        "workflow" : "PUBLISHED",
+        "sortDate" : 978458400000,
         "creationDate" : 1359374407641,
         "lastModified" : 1359374407721,
-        "sortDate" : 978458400000,
         "urn" : "urn:vpro:media:segment:18267852",
         "embeddable" : true,
         "crids" : [ "crid://tmp.segment.omroep.nl/23620" ],
@@ -641,15 +646,10 @@
           "urnRef" : "urn:vpro:media:program:18267802",
           "type" : "BROADCAST"
         } ],
-        "workflow" : "PUBLISHED",
         "start" : 1349000,
         "urnRef" : "urn:vpro:media:program:18267802",
-        "midRef" : "immix_976792",
-        "type" : "SEGMENT",
-        "avType" : "VIDEO"
-      } ],
-      "type" : "BROADCAST",
-      "avType" : "VIDEO"
+        "midRef" : "immix_976792"
+      } ]
     }
   } ]
 }

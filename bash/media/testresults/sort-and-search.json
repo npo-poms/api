@@ -1,16 +1,19 @@
 {
-  "total" : 58210,
+  "total" : 76473,
   "offset" : 0,
   "max" : 2,
   "items" : [ {
-    "score" : 2.3600465E-4,
+    "score" : 1.3870109E-4,
     "highlights" : [ ],
     "result" : {
       "objectType" : "segment",
       "mid" : "POMS_NOS_293871",
+      "type" : "SEGMENT",
+      "avType" : "AUDIO",
+      "workflow" : "PUBLISHED",
+      "sortDate" : 1349154000000,
       "creationDate" : 1363664124491,
       "lastModified" : 1363664124534,
-      "sortDate" : 1349154000000,
       "urn" : "urn:vpro:media:segment:23447307",
       "embeddable" : true,
       "crids" : [ "crid://fragment.radiobox2/60054" ],
@@ -76,22 +79,22 @@
         "workflow" : "PUBLISHED",
         "urn" : "urn:vpro:media:image:23447309"
       } ],
-      "workflow" : "PUBLISHED",
       "start" : 6316000,
       "urnRef" : "urn:vpro:media:program:15476212",
-      "midRef" : "POMS_NOS_164197",
-      "type" : "SEGMENT",
-      "avType" : "AUDIO"
+      "midRef" : "POMS_NOS_164197"
     }
   }, {
-    "score" : 7.822546E-4,
+    "score" : 3.3155878E-4,
     "highlights" : [ ],
     "result" : {
       "objectType" : "program",
       "mid" : "REG_NORH_NHNWS130922",
+      "type" : "BROADCAST",
+      "avType" : "VIDEO",
+      "workflow" : "PUBLISHED",
+      "sortDate" : 1379833200000,
       "creationDate" : 1378606563553,
       "lastModified" : 1379963116550,
-      "sortDate" : 1379833200000,
       "urn" : "urn:vpro:media:program:29381435",
       "embeddable" : true,
       "episodeOf" : [ {
@@ -359,10 +362,7 @@
         "lastModified" : 1379963116541,
         "workflow" : "PUBLISHED",
         "urn" : "urn:vpro:media:image:29910224"
-      } ],
-      "workflow" : "PUBLISHED",
-      "type" : "BROADCAST",
-      "avType" : "VIDEO"
+      } ]
     }
   } ]
 }

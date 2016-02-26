@@ -8,8 +8,9 @@ fi
 source $(dirname ${SOURCE[0]})/../api-functions.sh
 
 if [[ "$1" == ""  ]] ; then
+    echo Shows the human readable value of a date field in POMS.
     echo Usage:
-    echo "[ENV=<prod|test|dev>] $0 <MID> [<field>]"
+    echo "[ENV=<prod|test|dev>] $0 <MID> [<field(default:lastModified)>]"
     exit
 fi
 

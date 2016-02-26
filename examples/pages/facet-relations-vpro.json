@@ -29,7 +29,8 @@
             {
                 "match": "MUST",
                 "broadcasters": "VPRO",
-                "types": "CINEMA_DIRECTOR"
+                "types": "CINEMA_DIRECTOR",
+                "values": "Quintin Tarentino"
 
             }
 

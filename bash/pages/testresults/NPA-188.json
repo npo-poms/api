@@ -1,15 +1,753 @@
 {
-  "facets" : { },
-  "selectedFacets" : {
+  "facets" : {
     "genres" : [ {
-      "count" : 0,
+      "count" : 17,
       "selected" : true,
       "id" : "3.0.1.8.30",
-      "value" : "3.0.1.8.30"
+      "value" : "Documentaire - Geschiedenis",
+      "terms" : [ "Documentaire", "Geschiedenis" ]
+    }, {
+      "count" : 6,
+      "id" : "3.0.1.8",
+      "value" : "Documentaire",
+      "terms" : [ "Documentaire" ]
+    }, {
+      "count" : 4,
+      "id" : "3.0.1.7",
+      "value" : "Informatief",
+      "terms" : [ "Informatief" ]
+    }, {
+      "count" : 3,
+      "id" : "3.0.1.7.30",
+      "value" : "Informatief - Geschiedenis",
+      "terms" : [ "Informatief", "Geschiedenis" ]
+    }, {
+      "count" : 3,
+      "id" : "3.0.1.8.25",
+      "value" : "Documentaire - Natuur",
+      "terms" : [ "Documentaire", "Natuur" ]
+    }, {
+      "count" : 1,
+      "id" : "3.0.1.7.25",
+      "value" : "Informatief - Natuur",
+      "terms" : [ "Informatief", "Natuur" ]
+    }, {
+      "count" : 1,
+      "id" : "3.0.1.8.27",
+      "value" : "Documentaire - Wetenschap",
+      "terms" : [ "Documentaire", "Wetenschap" ]
+    }, {
+      "count" : 1,
+      "id" : "3.0.1.8.24",
+      "value" : "Documentaire - Kunst/cultuur",
+      "terms" : [ "Documentaire", "Kunst/cultuur" ]
     } ]
   },
-  "total" : 0,
+  "selectedFacets" : {
+    "genres" : [ {
+      "count" : 17,
+      "selected" : true,
+      "id" : "3.0.1.8.30",
+      "value" : "Documentaire - Geschiedenis",
+      "terms" : [ "Documentaire", "Geschiedenis" ]
+    } ]
+  },
+  "total" : 17,
   "offset" : 0,
   "max" : 2,
-  "items" : [ ]
+  "items" : [ {
+    "highlights" : [ ],
+    "result" : {
+      "objectType" : "page",
+      "type" : "VIDEO",
+      "url" : "http://www-acc.vpro.nl/speel.VPWON_1226674.html",
+      "sortDate" : 1430507100000,
+      "crids" : [ "crid://vpro/media/vpro/VPWON_1226674" ],
+      "broadcasters" : [ {
+        "id" : "NTR",
+        "value" : "NTR"
+      }, {
+        "id" : "VPRO",
+        "value" : "VPRO"
+      } ],
+      "portal" : {
+        "id" : "VPRONL",
+        "url" : "http://www-acc.vpro.nl",
+        "value" : "VPRO.nl"
+      },
+      "title" : "De IJzeren Eeuw",
+      "genres" : [ {
+        "id" : "3.0.1.8.30",
+        "terms" : [ "Documentaire", "Geschiedenis" ],
+        "displayName" : "Documentaire - Geschiedenis"
+      } ],
+      "embeds" : [ {
+        "title" : "De IJzeren Eeuw",
+        "description" : "Geschiedenisserie in dertien delen over de negentiende eeuw.",
+        "media" : {
+          "objectType" : "program",
+          "mid" : "VPWON_1226674",
+          "type" : "BROADCAST",
+          "avType" : "VIDEO",
+          "workflow" : "PUBLISHED",
+          "sortDate" : 1430507100000,
+          "creationDate" : 1428382267200,
+          "lastModified" : 1430769542764,
+          "urn" : "urn:vpro:media:program:53643503",
+          "embeddable" : true,
+          "episodeOf" : [ {
+            "midRef" : "VPWON_1226669",
+            "urnRef" : "urn:vpro:media:group:52434509",
+            "type" : "SEASON",
+            "index" : 5,
+            "highlighted" : false,
+            "added" : 1428382267409
+          } ],
+          "broadcasters" : [ {
+            "id" : "NTR",
+            "value" : "NTR"
+          }, {
+            "id" : "VPRO",
+            "value" : "VPRO"
+          } ],
+          "titles" : [ {
+            "value" : "De IJzeren Eeuw",
+            "owner" : "MIS",
+            "type" : "MAIN"
+          }, {
+            "value" : "De IJzeren Eeuw",
+            "owner" : "WHATS_ON",
+            "type" : "MAIN"
+          }, {
+            "value" : "Vrouwen voorwaarts",
+            "owner" : "MIS",
+            "type" : "SUB"
+          }, {
+            "value" : "Vrouwen voorwaarts",
+            "owner" : "WHATS_ON",
+            "type" : "SUB"
+          }, {
+            "value" : "Vrouwen voorwaarts",
+            "owner" : "WHATS_ON",
+            "type" : "ORIGINAL"
+          } ],
+          "descriptions" : [ {
+            "value" : "Geschiedenisserie in dertien delen over de negentiende eeuw.",
+            "owner" : "MIS",
+            "type" : "MAIN"
+          }, {
+            "value" : "Geschiedenisserie in dertien delen van NTR/VPRO over de negentiende eeuw. De vrouwenbeweging vindt haar wortels in de 19e eeuw, een eeuw die alles behalve vrouwvriendelijk was. Deze strijd begint niet op de barricades, maar in huiskamers en wordt gevoerd door keurige, vaak ongetrouwde dames uit hogere kringen. Deze werden geacht thuis te zitten en zeker geen betaalde werkzaamheden te verrichten. Betsy Perk is schrijfster maar kan als ongetrouwde juffrouw niet in haar eigen inkomsten voorzien. Ze richt de eerste vrouwentijdschriften op en de vereniging Arbeid Adelt. Ook gaat ze met voordrachtkunstenares Mina Kruseman het land door en geeft lezingen. Ongekende initiatieven die steeds veel weerstand en conflicten oproepen.  Maar als Perk zich stil lijkt terug te trekken, is de starre wereld van de vrouw eind 19e eeuw werkelijk in beweging gekomen: de massale Tentoonstelling voor Vrouwenarbeid is het startschot voor de grote verandering die zich in de eeuw daarna verder zal voltrekken. Hans Goedkoop spreekt onder andere met Anna Tijseling, Els Kloek, Karin Bloemen en Dik van der Meulen.",
+            "owner" : "WHATS_ON",
+            "type" : "MAIN"
+          }, {
+            "value" : "De vrouwenbeweging vindt haar wortels in de 19e eeuw, een eeuw die allesbehalve vrouwvriendelijk was.",
+            "owner" : "MIS",
+            "type" : "SHORT"
+          }, {
+            "value" : "De vrouwenbeweging vindt haar wortels in de 19e eeuw, een eeuw die alles behalve vrouwvriendelijk was.",
+            "owner" : "WHATS_ON",
+            "type" : "SHORT"
+          }, {
+            "value" : "De vrouwenbeweging vindt haar wortels in de 19e eeuw, een eeuw die allesbehalve vrouwvriendelijk was. Deze strijd begint niet op de barricades, maar in huiskamers en wordt gevoerd door keurige, vaak ongetrouwde dames uit hogere kringen. Deze werden geacht thuis te zitten en zeker geen betaalde werkzaamheden te verrichten. Betsy Perk is schrijfster maar kan als ongetrouwde juffrouw niet in haar eigen inkomsten voorzien. Ze richt de eerste vrouwentijdschriften op en de vereniging Arbeid Adelt. Ook gaat ze met voordrachtkunstenares Mina Kruseman het land door en geeft lezingen. Ongekende initiatieven die steeds veel weerstand en conflicten oproepen. Maar als Perk zich stil lijkt terug te trekken, is de starre wereld van de vrouw eind 19e eeuw werkelijk in beweging gekomen: de massale Tentoonstelling voor Vrouwenarbeid is het startschot voor de grote verandering die zich in de eeuw daarna verder zal voltrekken. Hans Goedkoop spreekt onder andere met Anna Tijseling, Els Kloek, Karin Bloemen en Dik van der Meulen.",
+            "owner" : "MIS",
+            "type" : "EPISODE"
+          }, {
+            "value" : "De vrouwenbeweging vindt haar wortels in de 19e eeuw, een eeuw die alles behalve vrouwvriendelijk was.",
+            "owner" : "MIS",
+            "type" : "KICKER"
+          } ],
+          "genres" : [ {
+            "id" : "3.0.1.8.30",
+            "terms" : [ "Documentaire", "Geschiedenis" ]
+          } ],
+          "hasSubtitles" : true,
+          "countries" : [ {
+            "code" : "NL",
+            "value" : "Nederland"
+          } ],
+          "languages" : [ {
+            "code" : "nl",
+            "value" : "Nederlands"
+          } ],
+          "avAttributes" : {
+            "videoAttributes" : { },
+            "audioAttributes" : { }
+          },
+          "releaseYear" : 2014,
+          "duration" : 2692100,
+          "credits" : [ {
+            "givenName" : "Hans",
+            "familyName" : "Goedkoop",
+            "role" : "PRESENTER"
+          }, {
+            "givenName" : "Suzanne",
+            "familyName" : "Raes",
+            "role" : "DIRECTOR"
+          } ],
+          "descendantOf" : [ {
+            "midRef" : "POMS_S_VPRO_216087",
+            "urnRef" : "urn:vpro:media:group:3213772",
+            "type" : "PLAYLIST"
+          }, {
+            "midRef" : "POMS_S_VPRO_522139",
+            "urnRef" : "urn:vpro:media:group:40914217",
+            "type" : "COLLECTION"
+          }, {
+            "midRef" : "POMS_S_VPRO_522144",
+            "urnRef" : "urn:vpro:media:group:40914247",
+            "type" : "COLLECTION"
+          }, {
+            "midRef" : "POMS_S_VPRO_522208",
+            "urnRef" : "urn:vpro:media:group:40917007",
+            "type" : "COLLECTION"
+          }, {
+            "midRef" : "POMS_S_VPRO_545665",
+            "urnRef" : "urn:vpro:media:group:42455375",
+            "type" : "COLLECTION"
+          }, {
+            "midRef" : "POMS_S_VPRO_564678",
+            "urnRef" : "urn:vpro:media:group:43184602",
+            "type" : "COLLECTION"
+          }, {
+            "midRef" : "POMS_S_NTR_767503",
+            "urnRef" : "urn:vpro:media:group:50264037",
+            "type" : "SERIES"
+          }, {
+            "midRef" : "VPWON_1226669",
+            "urnRef" : "urn:vpro:media:group:52434509",
+            "type" : "SEASON"
+          } ],
+          "memberOf" : [ {
+            "midRef" : "POMS_S_VPRO_216087",
+            "urnRef" : "urn:vpro:media:group:3213772",
+            "type" : "PLAYLIST",
+            "highlighted" : false,
+            "added" : 1430550905783
+          }, {
+            "midRef" : "POMS_S_VPRO_564678",
+            "urnRef" : "urn:vpro:media:group:43184602",
+            "type" : "COLLECTION",
+            "index" : 22,
+            "highlighted" : false,
+            "added" : 1430550905942
+          } ],
+          "ageRating" : "ALL",
+          "predictions" : [ {
+            "state" : "REALIZED",
+            "platform" : "INTERNETVOD"
+          }, {
+            "state" : "REALIZED",
+            "publishStart" : 1430509888000,
+            "publishStop" : 1462132288000,
+            "platform" : "PLUSVOD"
+          } ],
+          "locations" : [ {
+            "programUrl" : "odip+http://odi.omroep.nl/video/adaptive/VPWON_1226674",
+            "avAttributes" : {
+              "avFileFormat" : "HASP"
+            },
+            "owner" : "CERES",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1430511974259,
+            "lastModified" : 1430511974531,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:54842708"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_sb/VPWON_1226674",
+            "avAttributes" : {
+              "bitrate" : 200000,
+              "avFileFormat" : "H264"
+            },
+            "owner" : "CERES",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1430510165959,
+            "lastModified" : 1430510166174,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:54841486"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_bb/VPWON_1226674",
+            "avAttributes" : {
+              "bitrate" : 500000,
+              "avFileFormat" : "H264"
+            },
+            "owner" : "CERES",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1430510763895,
+            "lastModified" : 1430510764128,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:54841677"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_std/VPWON_1226674",
+            "avAttributes" : {
+              "bitrate" : 1000000,
+              "avFileFormat" : "H264"
+            },
+            "owner" : "CERES",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1430511062720,
+            "lastModified" : 1430511063042,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:54841953"
+          }, {
+            "programUrl" : "sub+http//npoplus.nl/video/mpeg2_hr/VPWON_1226674",
+            "avAttributes" : {
+              "bitrate" : 3500000,
+              "avFileFormat" : "MPEG2"
+            },
+            "owner" : "CERES",
+            "platform" : "PLUSVOD",
+            "creationDate" : 1430510767252,
+            "lastModified" : 1430510767633,
+            "publishStart" : 1430509888000,
+            "publishStop" : 1462132288000,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:54841684"
+          }, {
+            "programUrl" : "sub+http//npoplus.nl/video/mpeg2_plus/VPWON_1226674",
+            "avAttributes" : {
+              "bitrate" : 8000000,
+              "avFileFormat" : "MPEG2"
+            },
+            "owner" : "CERES",
+            "platform" : "PLUSVOD",
+            "creationDate" : 1430518268743,
+            "lastModified" : 1430518268937,
+            "publishStart" : 1430509888000,
+            "publishStop" : 1462132288000,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:54844674"
+          } ],
+          "scheduleEvents" : [ {
+            "textSubtitles" : "Teletekst ondertitels",
+            "guideDay" : 1430431200000,
+            "start" : 1430507100000,
+            "offset" : 111000,
+            "duration" : 2745000,
+            "poProgID" : "VPWON_1226674",
+            "channel" : "NED2",
+            "urnRef" : "urn:vpro:media:program:53643503",
+            "midRef" : "VPWON_1226674"
+          }, {
+            "repeat" : {
+              "isRerun" : true
+            },
+            "textSubtitles" : "Teletekst ondertitels",
+            "guideDay" : 1430517600000,
+            "start" : 1430567100000,
+            "offset" : 113000,
+            "duration" : 2745000,
+            "poProgID" : "VPWON_1226674",
+            "channel" : "NED2",
+            "urnRef" : "urn:vpro:media:program:53643503",
+            "midRef" : "VPWON_1226674"
+          }, {
+            "repeat" : {
+              "isRerun" : true
+            },
+            "textSubtitles" : "Teletekst ondertitels",
+            "guideDay" : 1433800800000,
+            "start" : 1433855400000,
+            "duration" : 2742000,
+            "poProgID" : "VPWON_1226674",
+            "channel" : "BVNT",
+            "urnRef" : "urn:vpro:media:program:53643503",
+            "midRef" : "VPWON_1226674"
+          }, {
+            "repeat" : {
+              "isRerun" : true
+            },
+            "textSubtitles" : "Teletekst ondertitels",
+            "guideDay" : 1433800800000,
+            "start" : 1433898600000,
+            "duration" : 2742000,
+            "poProgID" : "VPWON_1226674",
+            "channel" : "BVNT",
+            "urnRef" : "urn:vpro:media:program:53643503",
+            "midRef" : "VPWON_1226674"
+          } ],
+          "images" : [ {
+            "title" : "Betsy Perk",
+            "description" : "Betsy Perk",
+            "imageUri" : "urn:vpro:image:602801",
+            "height" : 669,
+            "width" : 1190,
+            "owner" : "BROADCASTER",
+            "type" : "PORTRAIT",
+            "highlighted" : false,
+            "creationDate" : 1429957883957,
+            "lastModified" : 1429957884296,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:54558539"
+          }, {
+            "title" : "De IJzeren Eeuw",
+            "description" : "De vrouwenbeweging vindt haar wortels in de 19e eeuw, een eeuw die allesbehalve vrouwvriendelijk was.",
+            "imageUri" : "urn:vpro:image:605662",
+            "owner" : "NEBO",
+            "type" : "STILL",
+            "highlighted" : false,
+            "creationDate" : 1430514004493,
+            "lastModified" : 1430514005318,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:54842935"
+          }, {
+            "title" : "De IJzeren Eeuw",
+            "description" : "De vrouwenbeweging vindt haar wortels in de 19e eeuw, een eeuw die allesbehalve vrouwvriendelijk was.",
+            "imageUri" : "urn:vpro:image:605663",
+            "owner" : "NEBO",
+            "type" : "STILL",
+            "highlighted" : false,
+            "creationDate" : 1430514004835,
+            "lastModified" : 1430514005318,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:54842936"
+          }, {
+            "title" : "De IJzeren Eeuw",
+            "description" : "De vrouwenbeweging vindt haar wortels in de 19e eeuw, een eeuw die allesbehalve vrouwvriendelijk was.",
+            "imageUri" : "urn:vpro:image:605664",
+            "owner" : "NEBO",
+            "type" : "STILL",
+            "highlighted" : false,
+            "creationDate" : 1430514005147,
+            "lastModified" : 1430514005319,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:54842937"
+          } ],
+          "publishDate" : 1430769744863
+        }
+      } ],
+      "images" : [ {
+        "type" : "PICTURE",
+        "url" : "http://images.poms.omroep.nl/image/s360/602801.jpg",
+        "title" : "Betsy Perk",
+        "description" : "Betsy Perk"
+      } ],
+      "publishStart" : 1430507100000,
+      "creationDate" : 1430769770912,
+      "lastModified" : 1430769770929,
+      "refCount" : 0
+    }
+  }, {
+    "highlights" : [ ],
+    "result" : {
+      "objectType" : "page",
+      "type" : "VIDEO",
+      "url" : "http://www-acc.vpro.nl/speel.VPWON_1226670.html",
+      "sortDate" : 1428087900000,
+      "crids" : [ "crid://vpro/media/vpro/VPWON_1226670" ],
+      "broadcasters" : [ {
+        "id" : "NTR",
+        "value" : "NTR"
+      }, {
+        "id" : "VPRO",
+        "value" : "VPRO"
+      } ],
+      "portal" : {
+        "id" : "VPRONL",
+        "url" : "http://www-acc.vpro.nl",
+        "value" : "VPRO.nl"
+      },
+      "title" : "De IJzeren Eeuw",
+      "genres" : [ {
+        "id" : "3.0.1.8.30",
+        "terms" : [ "Documentaire", "Geschiedenis" ],
+        "displayName" : "Documentaire - Geschiedenis"
+      } ],
+      "embeds" : [ {
+        "title" : "De IJzeren Eeuw",
+        "description" : "Geschiedenisserie in dertien delen over de negentiende eeuw.",
+        "media" : {
+          "objectType" : "program",
+          "mid" : "VPWON_1226670",
+          "type" : "BROADCAST",
+          "avType" : "VIDEO",
+          "workflow" : "PUBLISHED",
+          "sortDate" : 1428087900000,
+          "creationDate" : 1426053530106,
+          "lastModified" : 1429543229889,
+          "urn" : "urn:vpro:media:program:46395982",
+          "embeddable" : true,
+          "episodeOf" : [ {
+            "midRef" : "VPWON_1226669",
+            "urnRef" : "urn:vpro:media:group:46395990",
+            "type" : "SEASON",
+            "index" : 1,
+            "highlighted" : false,
+            "added" : 1426053530271
+          } ],
+          "broadcasters" : [ {
+            "id" : "NTR",
+            "value" : "NTR"
+          }, {
+            "id" : "VPRO",
+            "value" : "VPRO"
+          } ],
+          "titles" : [ {
+            "value" : "De IJzeren Eeuw",
+            "owner" : "MIS",
+            "type" : "MAIN"
+          }, {
+            "value" : "De IJzeren Eeuw",
+            "owner" : "WHATS_ON",
+            "type" : "MAIN"
+          }, {
+            "value" : "De Allereerste Koning",
+            "owner" : "MIS",
+            "type" : "SUB"
+          }, {
+            "value" : "De Allereerste Koning",
+            "owner" : "WHATS_ON",
+            "type" : "SUB"
+          }, {
+            "value" : "De Allereerste Koning",
+            "owner" : "WHATS_ON",
+            "type" : "ORIGINAL"
+          } ],
+          "descriptions" : [ {
+            "value" : "Geschiedenisserie in dertien delen over de negentiende eeuw.",
+            "owner" : "MIS",
+            "type" : "MAIN"
+          }, {
+            "value" : "Geschiedenisserie in dertien delen van NTR/VPRO over de negentiende eeuw. De eerste aflevering gaat over de man die de Oranjes het liefst willen vergeten: Lodewijk Napoleon, onze eerste koning, een Fransman. Hij regeerde van 1806 tot 1810 over ons land. Hij was een Fransman, hier geparachuteerd door zijn machtige broer keizer Napoleon. In die korte tijdspanne van vier jaar ontpopt Lodewijk zich tot een beschermer van de belangen van de noordelijke Nederlanden en tot een vorst die ons land zijn identiteit gaf. Zonder Lodewijk geen Rijksmuseum, geen Academie van Wetenschappen, geen Nationale Bibliotheek.Terwijl de Oranjestadhouders vòòr hem een grote afstand tot het volk hielden, reist Lodewijk als een verlicht vorst door het land om de noden te lenigen. Of het nu om rampen gaat als de buskruitontploffing in Leiden of de overstroming van het rivierengebied. In de eerste aflevering praat Hans Goedkoop o.a. met Nelleke Noordervliet over de Franse tijd, met de zeer Franse Annie Jourdan over Lodewijks verbouwing  van het Paleis op de Dam. En met Matthijs Lok over Lodewijks grootse plannen voor Assen en met Peter Rietbergen over zijn afstand van de troon en vlucht in de nacht.",
+            "owner" : "WHATS_ON",
+            "type" : "MAIN"
+          }, {
+            "value" : "De man die de Oranjes het liefst willen vergeten: Lodewijk Napoleon, onze eerste koning, een Fransman.",
+            "owner" : "MIS",
+            "type" : "SHORT"
+          }, {
+            "value" : "De eerste aflevering gaat over de man die de Oranjes het liefst willen vergeten: Lodewijk Napoleon, onze eerste koning, een Fransman.",
+            "owner" : "WHATS_ON",
+            "type" : "SHORT"
+          }, {
+            "value" : "De man die de Oranjes het liefst willen vergeten: Lodewijk Napoleon, onze eerste koning, een Fransman. Hij regeerde van 1806 tot 1810 over ons land. Hij was een Fransman, hier geparachuteerd door zijn machtige broer keizer Napoleon. In die korte tijdspanne van vier jaar ontpopt Lodewijk zich tot een beschermer van de belangen van de noordelijke Nederlanden en tot een vorst die ons land zijn identiteit gaf. Zonder Lodewijk geen Rijksmuseum, geen Rijkswaterstaat, geen Academie van Wetenschappen, geen Nationale Bibliotheek. Terwijl de Oranjestadhouders vóór hem een grote afstand tot het volk hielden, reist Lodewijk als een verlicht vorst door het land om de noden te lenigen. Of het nu om rampen gaat als de buskruitontploffing in Leiden of de overstroming van het rivierengebied. Hans Goedkoop praat o.a. met Nelleke Noordervliet over de Franse tijd, met de zeer Franse Annie Jourdan over Lodewijks verbouwing van het Paleis op de Dam. En met Matthijs Lok over Lodewijks grootse plannen voor Assen en met Peter Rietbergen over zijn afstand van de troon en vlucht in de nacht.",
+            "owner" : "MIS",
+            "type" : "EPISODE"
+          }, {
+            "value" : "De man die de Oranjes het liefst willen vergeten: Lodewijk Napoleon, onze eerste koning, een Fransman.",
+            "owner" : "MIS",
+            "type" : "KICKER"
+          } ],
+          "genres" : [ {
+            "id" : "3.0.1.8.30",
+            "terms" : [ "Documentaire", "Geschiedenis" ]
+          } ],
+          "hasSubtitles" : true,
+          "countries" : [ {
+            "code" : "NL",
+            "value" : "Nederland"
+          } ],
+          "languages" : [ {
+            "code" : "nl",
+            "value" : "Nederlands"
+          } ],
+          "avAttributes" : {
+            "videoAttributes" : { },
+            "audioAttributes" : { }
+          },
+          "releaseYear" : 2014,
+          "duration" : 2625000,
+          "credits" : [ {
+            "givenName" : "Hans",
+            "familyName" : "Goedkoop",
+            "role" : "PRESENTER"
+          } ],
+          "descendantOf" : [ {
+            "midRef" : "VPWON_1226669",
+            "urnRef" : "urn:vpro:media:group:46395990",
+            "type" : "SEASON"
+          } ],
+          "ageRating" : "ALL",
+          "predictions" : [ {
+            "state" : "REALIZED",
+            "platform" : "INTERNETVOD"
+          }, {
+            "state" : "REALIZED",
+            "platform" : "TVVOD"
+          }, {
+            "state" : "REALIZED",
+            "publishStart" : 1428090688000,
+            "publishStop" : 1459713088000,
+            "platform" : "PLUSVOD"
+          } ],
+          "locations" : [ {
+            "programUrl" : "odip+http://odi.omroep.nl/video/adaptive/VPWON_1226670",
+            "avAttributes" : {
+              "avFileFormat" : "HASP"
+            },
+            "owner" : "CERES",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1428092649024,
+            "lastModified" : 1428092649177,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:46814167"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_sb/VPWON_1226670",
+            "avAttributes" : {
+              "bitrate" : 200000,
+              "avFileFormat" : "H264"
+            },
+            "owner" : "CERES",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1428091446716,
+            "lastModified" : 1428091446981,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:46814119"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_bb/VPWON_1226670",
+            "avAttributes" : {
+              "bitrate" : 500000,
+              "avFileFormat" : "H264"
+            },
+            "owner" : "CERES",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1428091742761,
+            "lastModified" : 1428091743079,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:46814131"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_std/VPWON_1226670",
+            "avAttributes" : {
+              "bitrate" : 1000000,
+              "avFileFormat" : "H264"
+            },
+            "owner" : "CERES",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1428091448901,
+            "lastModified" : 1428091449165,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:46814129"
+          }, {
+            "programUrl" : "odip+http://odi.omroep.nl/video/h264_hr/VPWON_1226670",
+            "avAttributes" : {
+              "bitrate" : 2500000,
+              "avFileFormat" : "H264"
+            },
+            "owner" : "CERES",
+            "platform" : "TVVOD",
+            "creationDate" : 1428091447857,
+            "lastModified" : 1428091448182,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:46814123"
+          }, {
+            "programUrl" : "odip+http://odi.omroep.nl/video/mpeg2_hr/VPWON_1226670",
+            "avAttributes" : {
+              "bitrate" : 3500000,
+              "avFileFormat" : "MPEG2"
+            },
+            "owner" : "CERES",
+            "platform" : "TVVOD",
+            "creationDate" : 1428091448367,
+            "lastModified" : 1428091448577,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:46814127"
+          }, {
+            "programUrl" : "sub+http//npoplus.nl/video/mpeg2_hr/VPWON_1226670",
+            "avAttributes" : {
+              "bitrate" : 3500000,
+              "avFileFormat" : "MPEG2"
+            },
+            "owner" : "CERES",
+            "platform" : "PLUSVOD",
+            "creationDate" : 1428091447200,
+            "lastModified" : 1428091447412,
+            "publishStart" : 1428090688000,
+            "publishStop" : 1459713088000,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:46814121"
+          } ],
+          "scheduleEvents" : [ {
+            "textSubtitles" : "Teletekst ondertitels",
+            "guideDay" : 1428012000000,
+            "start" : 1428087900000,
+            "duration" : 2625000,
+            "poProgID" : "VPWON_1226670",
+            "channel" : "NED2",
+            "urnRef" : "urn:vpro:media:program:46395982",
+            "midRef" : "VPWON_1226670"
+          }, {
+            "repeat" : {
+              "isRerun" : true
+            },
+            "textSubtitles" : "Teletekst ondertitels",
+            "guideDay" : 1428098400000,
+            "start" : 1428147900000,
+            "duration" : 2625000,
+            "poProgID" : "VPWON_1226670",
+            "channel" : "NED2",
+            "urnRef" : "urn:vpro:media:program:46395982",
+            "midRef" : "VPWON_1226670"
+          }, {
+            "repeat" : {
+              "isRerun" : true
+            },
+            "textSubtitles" : "Teletekst ondertitels",
+            "guideDay" : 1431381600000,
+            "start" : 1431436200000,
+            "duration" : 2619000,
+            "poProgID" : "VPWON_1226670",
+            "channel" : "BVNT",
+            "urnRef" : "urn:vpro:media:program:46395982",
+            "midRef" : "VPWON_1226670"
+          }, {
+            "repeat" : {
+              "isRerun" : true
+            },
+            "textSubtitles" : "Teletekst ondertitels",
+            "guideDay" : 1431381600000,
+            "start" : 1431479400000,
+            "duration" : 2619000,
+            "poProgID" : "VPWON_1226670",
+            "channel" : "BVNT",
+            "urnRef" : "urn:vpro:media:program:46395982",
+            "midRef" : "VPWON_1226670"
+          } ],
+          "images" : [ {
+            "title" : "De IJzeren Eeuw",
+            "description" : "De man die de Oranjes het liefst willen vergeten: Lodewijk Napoleon, onze eerste koning, een Fransman.",
+            "imageUri" : "urn:vpro:image:548906",
+            "owner" : "NEBO",
+            "type" : "STILL",
+            "highlighted" : false,
+            "creationDate" : 1428094865823,
+            "lastModified" : 1428094870724,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:46814177"
+          }, {
+            "title" : "De IJzeren Eeuw",
+            "description" : "De man die de Oranjes het liefst willen vergeten: Lodewijk Napoleon, onze eerste koning, een Fransman.",
+            "imageUri" : "urn:vpro:image:548907",
+            "owner" : "NEBO",
+            "type" : "STILL",
+            "highlighted" : false,
+            "creationDate" : 1428094867586,
+            "lastModified" : 1428094870726,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:46814178"
+          }, {
+            "title" : "De IJzeren Eeuw",
+            "description" : "De man die de Oranjes het liefst willen vergeten: Lodewijk Napoleon, onze eerste koning, een Fransman.",
+            "imageUri" : "urn:vpro:image:548908",
+            "owner" : "NEBO",
+            "type" : "STILL",
+            "highlighted" : false,
+            "creationDate" : 1428094870351,
+            "lastModified" : 1428094870727,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:46814179"
+          } ],
+          "publishDate" : 1429543535446
+        }
+      } ],
+      "images" : [ {
+        "type" : "PICTURE",
+        "url" : "http://images.poms.omroep.nl/image/s360/548906.jpg",
+        "title" : "De IJzeren Eeuw",
+        "description" : "De man die de Oranjes het liefst willen vergeten: Lodewijk Napoleon, onze eerste koning, een Fransman."
+      } ],
+      "publishStart" : 1428087900000,
+      "creationDate" : 1428095198018,
+      "lastModified" : 1430327717809,
+      "refCount" : 0
+    }
+  } ]
 }

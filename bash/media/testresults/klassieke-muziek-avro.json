@@ -1,27 +1,22 @@
 {
-  "total" : 45,
+  "total" : 57,
   "offset" : 0,
   "max" : 2,
   "items" : [ {
-    "score" : 38.79028,
+    "score" : 27.83493,
     "highlights" : [ ],
     "result" : {
-      "objectType" : "program",
-      "mid" : "POMS_AVRO_361999",
-      "creationDate" : 1369751743494,
-      "lastModified" : 1394968168172,
-      "sortDate" : 1394964000000,
-      "urn" : "urn:vpro:media:program:26077974",
+      "objectType" : "group",
+      "mid" : "AUTO_HETZONDAGOCHTENDCONCERT",
+      "type" : "SERIES",
+      "avType" : "AUDIO",
+      "workflow" : "PUBLISHED",
+      "sortDate" : 1409475600000,
+      "creationDate" : 1333044837572,
+      "lastModified" : 1401356826720,
+      "urn" : "urn:vpro:media:group:13405628",
       "embeddable" : true,
-      "episodeOf" : [ {
-        "midRef" : "AUTO_HETZONDAGOCHTENDCONCERT",
-        "urnRef" : "urn:vpro:media:group:13405628",
-        "type" : "SERIES",
-        "index" : 1,
-        "highlighted" : false,
-        "added" : 1369751745171
-      } ],
-      "crids" : [ "crid://broadcast.radiobox2/243051" ],
+      "crids" : [ "crid://tmp.serie.omroep.nl/1659" ],
       "broadcasters" : [ {
         "id" : "AVRO",
         "value" : "AVRO"
@@ -30,19 +25,27 @@
         "value" : "Het Zondagochtend Concert",
         "owner" : "RADIOBOX",
         "type" : "MAIN"
+      }, {
+        "value" : "Het Zondagochtend Concert",
+        "owner" : "NEBO",
+        "type" : "MAIN"
       } ],
       "descriptions" : [ {
-        "value" : "Het Zondagochtend Concert is een serie concerten met toegankelijke muziek, rechtstreeks om 11.00 uur vanuit het Concertgebouw in Amsterdam. Georganiseerd door de AVRO en het Concertgebouw en mede mogelijk gemaakt door Menzis. Presentatie: Hans van den Boom. Met uw kaartje voor Het Zondagochtend Concert kunt u gratis naar Spiegelzaal, het voorprogramma (10.00-10.50 uur) met korte live optredens.",
+        "value" : "Het Zondagochtend Concert is een serie concerten met toegankelijke muziek. Georganiseerd door de AVRO en het Concertgebouw in Amsterdam en mede mogelijk gemaakt door Menzis. Presentatie: Hans van den Boom. Met uw kaartje voor Het Zondagochtend Concert kunt u gratis naar Spiegelzaal, het voorprogramma met korte live optredens.",
         "owner" : "BROADCASTER",
         "type" : "MAIN"
       }, {
-        "value" : "Le Concert OlympiqueJan Caeyers, dirigentLenneke Ruiten, sopraanFrancois-Frédéric Guy, piano\n1.  W.A. Mozart  -  Ouverture 'La Clemenza di Tito'2.  L. v. Beethoven  -  Concertaria 'Ah, perfido!'3.  L. v. Beethoven  -  Tweede pianoconcert, op. 19",
+        "value" : "Het Zondagochtend Concert is een serie concerten met toegankelijke muziek, rechtstreeks om 11.00 uur vanuit het Concertgebouw in Amsterdam.\nMet uw  concertkaartje kunt u óók naar SPIEGELZAAL , het voorprogramma (10.00-10.50 uur) met korte live optredens.",
         "owner" : "RADIOBOX",
         "type" : "MAIN"
       }, {
-        "value" : "Het Zondagochtend Concert is een serie concerten met toegankelijke muziek, rechtstreeks om 11.00 uur vanuit het Concertgebouw in Amsterdam. Georganiseerd door de AVRO en het Concertgebouw en mede mogelijk gemaakt door Menzis. Presentatie: Hans van den Boom. Met uw kaartje voor Het Zondagochtend Concert kunt u gratis naar Spiegelzaal, het voorprogramma (10.00-10.50 uur) met korte live optredens.",
+        "value" : "Het Zondagochtend Concert is een serie concerten met toegankelijke muziek. Georganiseerd door de AVRO en het Concertgebouw in Amsterdam en mede mogelijk gemaakt door Menzis. Presentatie: Hans van den Boom. Met uw kaartje voor Het Zondagochtend Concert kunt u gratis naar Spiegelzaal, het voorprogramma met korte live optredens.",
         "owner" : "BROADCASTER",
         "type" : "SHORT"
+      }, {
+        "value" : "Het Zondagochtend Concert is een serie concerten met toegankelijke muziek, rechtstreeks om 11.00 uur vanuit het Concertgebouw in Amsterdam. Met uw concertkaartje kunt u óók naar SPIEGELZAAL , het voorprogramma (10.00-10.50 uur) met korte live optredens.",
+        "owner" : "NEBO",
+        "type" : "EPISODE"
       } ],
       "genres" : [ {
         "id" : "3.0.1.5",
@@ -51,39 +54,9 @@
         "id" : "3.0.1.5.16",
         "terms" : [ "Muziek", "Muziek klassiek" ]
       } ],
-      "tags" : [ "AVRO", "Hans van den Boom", "klassiek", "klassieke muziek", "Zondagochtend Concert" ],
+      "tags" : [ "AVRO", "Hans van den Boom", "Klassiek", "klassieke muziek", "Zondagochtend Concert" ],
       "countries" : [ ],
       "languages" : [ ],
-      "duration" : 3600000,
-      "descendantOf" : [ {
-        "midRef" : "AUTO_HETZONDAGOCHTENDCONCERT",
-        "urnRef" : "urn:vpro:media:group:13405628",
-        "type" : "SERIES"
-      } ],
-      "email" : [ "klassiek@avrotros.nl" ],
-      "websites" : [ {
-        "value" : "http://www.radio4.nl/zondagochtendconcert"
-      } ],
-      "locations" : [ {
-        "programUrl" : "http://download.omroep.nl/audiologging/r4/2014/03/16/1100_1200_het_zondagochtend_concert_20140316.mp3",
-        "avAttributes" : {
-          "avFileFormat" : "MP3"
-        },
-        "duration" : 3600000,
-        "owner" : "RADIOBOX",
-        "creationDate" : 1394968120574,
-        "lastModified" : 1394968145336,
-        "workflow" : "PUBLISHED",
-        "urn" : "urn:vpro:media:location:38727422"
-      } ],
-      "scheduleEvents" : [ {
-        "start" : 1394964000000,
-        "duration" : 4500000,
-        "poProgID" : "POMS_AVRO_361999",
-        "channel" : "RAD4",
-        "urnRef" : "urn:vpro:media:program:26077974",
-        "midRef" : "POMS_AVRO_361999"
-      } ],
       "images" : [ {
         "title" : "Hans-van-den-Boom.jpg",
         "description" : "Het Zondagochtend Concert",
@@ -91,25 +64,62 @@
         "owner" : "RADIOBOX",
         "type" : "PICTURE",
         "highlighted" : false,
-        "creationDate" : 1369751742024,
-        "lastModified" : 1369751743608,
+        "creationDate" : 1386069617265,
+        "lastModified" : 1386069619012,
         "workflow" : "PUBLISHED",
-        "urn" : "urn:vpro:media:image:26077976"
+        "urn" : "urn:vpro:media:image:33470166"
+      }, {
+        "title" : "Hans-van-den-Boom.jpg",
+        "description" : "Het Zondagochtend Concert",
+        "imageUri" : "urn:vpro:image:146910",
+        "owner" : "BROADCASTER",
+        "type" : "PICTURE",
+        "highlighted" : false,
+        "creationDate" : 1363043758661,
+        "lastModified" : 1383049907383,
+        "workflow" : "PUBLISHED",
+        "urn" : "urn:vpro:media:image:22805219"
+      }, {
+        "title" : "Hans van den Boom ",
+        "description" : "Hans van den Boom, presentator Het Zondagochtend Concert",
+        "imageUri" : "urn:vpro:image:232363",
+        "height" : 1200,
+        "width" : 800,
+        "owner" : "BROADCASTER",
+        "type" : "PICTURE",
+        "highlighted" : false,
+        "creationDate" : 1382367818987,
+        "lastModified" : 1383049907383,
+        "workflow" : "PUBLISHED",
+        "urn" : "urn:vpro:media:image:30802317"
+      }, {
+        "title" : "Hans van den Boom",
+        "description" : "Hans van den Boom, presentator Het Zondagochtend Concert",
+        "imageUri" : "urn:vpro:image:232364",
+        "height" : 1200,
+        "width" : 800,
+        "owner" : "BROADCASTER",
+        "type" : "PICTURE",
+        "highlighted" : false,
+        "creationDate" : 1382367819124,
+        "lastModified" : 1382367819126,
+        "workflow" : "PUBLISHED",
+        "urn" : "urn:vpro:media:image:30802318"
       } ],
-      "workflow" : "PUBLISHED",
-      "type" : "BROADCAST",
-      "avType" : "AUDIO"
+      "isOrdered" : true
     }
   }, {
-    "score" : 38.676952,
+    "score" : 27.554762,
     "highlights" : [ ],
     "result" : {
       "objectType" : "program",
       "mid" : "AVRO_1656036",
-      "creationDate" : 1390369756611,
-      "lastModified" : 1395923170565,
-      "hasSubtitles" : true,
+      "type" : "BROADCAST",
+      "avType" : "VIDEO",
+      "workflow" : "PUBLISHED",
       "sortDate" : 1392500523000,
+      "creationDate" : 1390369756611,
+      "lastModified" : 1401720640064,
       "urn" : "urn:vpro:media:program:35846134",
       "embeddable" : true,
       "episodeOf" : [ {
@@ -150,12 +160,17 @@
         "value" : "Culturele live talkshow met commentaar op het actuele culturele nieuws en bijzondere gasten uit de wereld van theater, film en literatuur en aandacht voor beeldende kunst en live jazz.",
         "owner" : "MIS",
         "type" : "SHORT"
+      }, {
+        "value" : "Zaterdag 15 februari nemen niemand minder dan de 3JS bij Cornald op de bank plaats. De Volendamse band reist momenteel door het land met hun vijfde theatertour ‘Dichter bij de horizon’. 3JS werd in 2002 opgericht door zanger Jan Dulles en de gitaristen Jaap Kwakman en Jaap de Witte. Sinds 2007 groeide de groep uit tot één van de best verkopende acts van Nederland. Begin 2013 verliet Jaap de Witte de 3JS en maakte de band een doorstart met Jan de Witte, de zoon van Jaap. \n\nActeurs Carine Crutzen, Marie-Louise Stheins, Renée Fokker en Tim Teunissen spelen momenteel in de theatervoorstelling Afterparty. Afterparty is een tragikomedie over vriendschap, vrouwelijkheid en verlangen, geregisseerd door documentairemaker Michiel van Erp. \nDrie vrouwen zien elkaar in Marokko. Voor twee van hen is dit de plek waar zij, in hun zoektocht naar geluk, een ingrijpende wending aan hun leven gaven. Heeft die cruciale beslissing hen gebracht wat ze ervan hadden verwacht? En wat betekent dit voor hun omgeving? \n\nVerder is te gast journalist Wouke van Scherrenburg. Zij bespreekt met Cornald het actuele culturele nieuws. Beeldend kunstenaar Jasper Krabbé bezoekt de tentoonstelling Nina Yuen in de Appel, arts centre in Amsterdam. \nMeer informatie over de tentoonstelling \n\nVioliste Lisa Jacobs verzorgt de live muziek. \nOp 17-jarige leeftijd maakte violiste Lisa Jacobs haar succesvolle debuut met het Koninklijk Concertgebouw Orkest o.l.v. Riccardo Chailly. Sindsdien speelde ze meerdere malen in alle grote concertzalen van Nederland en over de hele wereld. Zowel in kamermuziekverband op festivals als soliste met vele orkesten en gerenommeerde dirigenten. Ze wordt steevast door zowel publiek als pers juichend ontvangen en sleepte diverse prijzen in de wacht.",
+        "owner" : "BROADCASTER",
+        "type" : "EPISODE"
       } ],
       "genres" : [ {
         "id" : "3.0.1.7.24",
         "terms" : [ "Informatief", "Kunst/cultuur" ]
       } ],
       "tags" : [ "DeLaMar Theater", "klassieke muziek", "Muziek", "Theater", "Volendam" ],
+      "hasSubtitles" : true,
       "countries" : [ ],
       "languages" : [ ],
       "avAttributes" : {
@@ -231,10 +246,10 @@
           "avFileFormat" : "HASP"
         },
         "owner" : "CERES",
+        "platform" : "INTERNETVOD",
         "creationDate" : 1392504368475,
         "lastModified" : 1392504368724,
         "workflow" : "PUBLISHED",
-        "platform" : "INTERNETVOD",
         "urn" : "urn:vpro:media:location:37118326"
       }, {
         "programUrl" : "odi+http://odi.omroep.nl/video/h264_sb/AVRO_1656036",
@@ -243,10 +258,10 @@
           "avFileFormat" : "H264"
         },
         "owner" : "CERES",
+        "platform" : "INTERNETVOD",
         "creationDate" : 1392504068678,
         "lastModified" : 1392504068956,
         "workflow" : "PUBLISHED",
-        "platform" : "INTERNETVOD",
         "urn" : "urn:vpro:media:location:37118321"
       }, {
         "programUrl" : "odi+http://odi.omroep.nl/video/h264_bb/AVRO_1656036",
@@ -255,10 +270,10 @@
           "avFileFormat" : "H264"
         },
         "owner" : "CERES",
+        "platform" : "INTERNETVOD",
         "creationDate" : 1392504068158,
         "lastModified" : 1392504068412,
         "workflow" : "PUBLISHED",
-        "platform" : "INTERNETVOD",
         "urn" : "urn:vpro:media:location:37118319"
       }, {
         "programUrl" : "odi+http://odi.omroep.nl/video/h264_std/AVRO_1656036",
@@ -267,25 +282,26 @@
           "avFileFormat" : "H264"
         },
         "owner" : "CERES",
+        "platform" : "INTERNETVOD",
         "creationDate" : 1392503767831,
         "lastModified" : 1392503768131,
         "workflow" : "PUBLISHED",
-        "platform" : "INTERNETVOD",
         "urn" : "urn:vpro:media:location:37118317"
       }, {
-        "programUrl" : "sub+http//npoplus.nl/video/mpeg2_hr/AVRO_1656036",
+        "programUrl" : "sub+http://npoplus.nl/video/mpeg2_hr/AVRO_1656036",
         "avAttributes" : {
           "bitrate" : 3500000,
           "avFileFormat" : "MPEG2"
         },
         "owner" : "CERES",
+        "platform" : "PLUSVOD",
         "creationDate" : 1392503467786,
         "lastModified" : 1392503468191,
         "workflow" : "PUBLISHED",
-        "platform" : "PLUSVOD",
         "urn" : "urn:vpro:media:location:37118310"
       } ],
       "scheduleEvents" : [ {
+        "guideDay" : 1392418800000,
         "start" : 1392500523000,
         "duration" : 2374000,
         "poProgID" : "AVRO_1656036",
@@ -293,6 +309,7 @@
         "urnRef" : "urn:vpro:media:program:35846134",
         "midRef" : "AVRO_1656036"
       }, {
+        "guideDay" : 1392764400000,
         "start" : 1392850659000,
         "duration" : 2375000,
         "poProgID" : "AVRO_1656036",
@@ -334,9 +351,7 @@
         "workflow" : "PUBLISHED",
         "urn" : "urn:vpro:media:image:37118324"
       } ],
-      "workflow" : "PUBLISHED",
-      "type" : "BROADCAST",
-      "avType" : "VIDEO"
+      "publishDate" : 1434485473840
     }
   } ]
 }

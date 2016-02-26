@@ -16,4 +16,10 @@ if [[ "$1" == ""  ]] ; then
     exit
 fi
 
-post "api/media/$1/members" "max=100" $2
+if [[ -z $MAX ]] ; then
+    MAX=100
+fi
+
+parameters="max=$MAX&offset=0"
+
+post "api/media/$1/members" $parameters $2

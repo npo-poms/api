@@ -1,192 +1,650 @@
 {
-  "facets" : { },
+  "facets" : {
+    "descendantOf" : [ {
+      "count" : 36538,
+      "id" : "POMS_S_NOS_059925",
+      "value" : "NOS Journaal",
+      "type" : "SERIES"
+    }, {
+      "count" : 29384,
+      "id" : "POMS_S_VPRO_171668",
+      "value" : "Cultura hoofdcollectie",
+      "type" : "ARCHIVE"
+    }, {
+      "count" : 17851,
+      "id" : "POMS_S_NCRV_059865",
+      "value" : "Man bijt hond",
+      "type" : "SERIES"
+    }, {
+      "count" : 13904,
+      "id" : "POMS_S_NCRV_171924",
+      "value" : "NPO Spirit",
+      "type" : "ARCHIVE"
+    }, {
+      "count" : 11185,
+      "id" : "POMS_S_VPRO_170117",
+      "value" : "Cultura collectie klassiek",
+      "type" : "ARCHIVE"
+    }, {
+      "count" : 8373,
+      "id" : "POMS_S_VPRO_170138",
+      "value" : "Cultura collectie kunst",
+      "type" : "ARCHIVE"
+    }, {
+      "count" : 7747,
+      "id" : "SREGIOUT_UVANDAAG",
+      "value" : "U Vandaag",
+      "type" : "SEASON"
+    }, {
+      "count" : 7707,
+      "id" : "RBX_S_NCRV_553945",
+      "value" : "De Ochtend",
+      "type" : "SERIES"
+    }, {
+      "count" : 7123,
+      "id" : "RBX_S_EO_553956",
+      "value" : "Dit Is De Dag",
+      "type" : "SERIES"
+    }, {
+      "count" : 6980,
+      "id" : "IMMIX_MANBIJTHOND",
+      "value" : "Man bijt hond",
+      "type" : "SEASON"
+    }, {
+      "count" : 6794,
+      "id" : "RBX_S_VPRO_553890",
+      "value" : "OVT",
+      "type" : "SERIES"
+    }, {
+      "count" : 5914,
+      "id" : "POMS_S_VPRO_117474",
+      "value" : "test",
+      "type" : "PLAYLIST"
+    }, {
+      "count" : 5913,
+      "id" : "POMS_S_VPRO_218686",
+      "value" : "Cultura collectie pop jazz world",
+      "type" : "ARCHIVE"
+    }, {
+      "count" : 5869,
+      "id" : "POMS_S_VPRO_215106",
+      "value" : "Collectie OVT ",
+      "type" : "SERIES"
+    }, {
+      "count" : 5648,
+      "id" : "POMS_S_NOS_059926",
+      "value" : "NOS Journaal met gebarentolk",
+      "type" : "SERIES"
+    }, {
+      "count" : 5456,
+      "id" : "AUTO_WEKKERWAKKER",
+      "value" : "Wekker-Wakker!",
+      "type" : "SERIES"
+    }, {
+      "count" : 5443,
+      "id" : "POMS_S_VARA_099973",
+      "value" : "NOVA",
+      "type" : "SERIES"
+    }, {
+      "count" : 5387,
+      "id" : "POMS_S_VPRO_195283",
+      "value" : "Woord.nl",
+      "type" : "ARCHIVE"
+    }, {
+      "count" : 5340,
+      "id" : "POMS_S_NTR_160161",
+      "value" : "Wetenschap",
+      "type" : "ARCHIVE"
+    }, {
+      "count" : 5317,
+      "id" : "RBX_S_TROS_553952",
+      "value" : "Radio EenVandaag",
+      "type" : "SERIES"
+    }, {
+      "count" : 4641,
+      "id" : "AUTO_DEOCHTENDVAN4",
+      "value" : "De Ochtend van 4",
+      "type" : "SERIES"
+    }, {
+      "count" : 4609,
+      "id" : "AUTO_DEAVONDEN",
+      "value" : "De Avonden",
+      "type" : "SERIES"
+    }, {
+      "count" : 4255,
+      "id" : "POMS_S_VPRO_180961",
+      "value" : "3voor12 DJSets",
+      "type" : "ARCHIVE"
+    }, {
+      "count" : 4198,
+      "id" : "POMS_S_ROFR_455178",
+      "value" : "Hjoed",
+      "type" : "SERIES"
+    }, {
+      "count" : 4197,
+      "id" : "SREGIOFR_HJOED",
+      "value" : "Hjoed",
+      "type" : "SEASON"
+    }, {
+      "count" : 4140,
+      "id" : "AUTO_COENENSANDERSHO",
+      "value" : "Coen en Sander Show",
+      "type" : "SERIES"
+    }, {
+      "count" : 3973,
+      "id" : "POMS_S_NTR_425142",
+      "value" : "Schooltv Beeldbank",
+      "type" : "COLLECTION"
+    }, {
+      "count" : 3954,
+      "id" : "AUTO_DEHEERONTWAAKT",
+      "value" : "De Heer Ontwaakt!",
+      "type" : "SERIES"
+    }, {
+      "count" : 3868,
+      "id" : "AUTO_MUZIEKWIJZER",
+      "value" : "Muziekwijzer",
+      "type" : "SERIES"
+    }, {
+      "count" : 3795,
+      "id" : "AUTO_LUNCH",
+      "value" : "Lunch!",
+      "type" : "SERIES"
+    }, {
+      "count" : 3783,
+      "id" : "POMS_S_NOS_059930",
+      "value" : "NOS Jeugdjournaal - avond",
+      "type" : "SERIES"
+    }, {
+      "count" : 3623,
+      "id" : "RBX_S_NTR_553927",
+      "value" : "Kunststof",
+      "type" : "SERIES"
+    }, {
+      "count" : 3618,
+      "id" : "AUTO_DEKLASSIEKEN",
+      "value" : "De Klassieken",
+      "type" : "SERIES"
+    }, {
+      "count" : 3616,
+      "id" : "POMS_S_VPRO_652484",
+      "value" : "vpro",
+      "type" : "COLLECTION"
+    }, {
+      "count" : 3603,
+      "id" : "POMS_S_VPRO_652517",
+      "value" : "vpro genres",
+      "type" : "COLLECTION"
+    }, {
+      "count" : 3579,
+      "id" : "RBX_S_VARA_553950",
+      "value" : "De Nieuws BV",
+      "type" : "SERIES"
+    }, {
+      "count" : 3572,
+      "id" : "POMS_S_NOS_059928",
+      "value" : "NOS Journaal 20:00",
+      "type" : "SERIES"
+    }, {
+      "count" : 3554,
+      "id" : "POMS_S_VPRO_522139",
+      "value" : "NPO Doc Hoofdcollectie",
+      "type" : "COLLECTION"
+    }, {
+      "count" : 3542,
+      "id" : "POMS_S_VARA_1282848",
+      "value" : "POMS_S_VARA_1282848"
+    }, {
+      "count" : 3489,
+      "id" : "POMS_S_NCRV_158917",
+      "value" : "NPO Spirit - Dossiers ",
+      "type" : "ARCHIVE"
+    }, {
+      "count" : 3442,
+      "id" : "POMS_S_MAX_059936",
+      "value" : "Tijd voor MAX",
+      "type" : "SERIES"
+    }, {
+      "count" : 3292,
+      "id" : "AUTO_KROSGOEDEMORGENNEDERLANDRADIO",
+      "value" : "KRO's Goedemorgen Nederland Radio",
+      "type" : "SERIES"
+    }, {
+      "count" : 3288,
+      "id" : "POMS_S_POWNED_128078",
+      "value" : "PowNews",
+      "type" : "SERIES"
+    }, {
+      "count" : 3211,
+      "id" : "POMS_S_KRO_453394",
+      "value" : "Gijs 2.0",
+      "type" : "SERIES"
+    }, {
+      "count" : 3141,
+      "id" : "POMS_S_NCRV_090550",
+      "value" : "Netwerk (EO, NCRV)",
+      "type" : "SERIES"
+    }, {
+      "count" : 3123,
+      "id" : "POMS_S_AVRO_096654",
+      "value" : "EenVandaag",
+      "type" : "SERIES"
+    }, {
+      "count" : 2985,
+      "id" : "AUTO_GIEL",
+      "value" : "Giel",
+      "type" : "SERIES"
+    }, {
+      "count" : 2972,
+      "id" : "AUTO_3VOOR12RADIO",
+      "value" : "3voor12 Radio",
+      "type" : "SERIES"
+    }, {
+      "count" : 2930,
+      "id" : "POMS_S_MAX_059939",
+      "value" : "Studio MAX Live",
+      "type" : "SERIES"
+    }, {
+      "count" : 2901,
+      "id" : "POMS_S_NOS_059929",
+      "value" : "NOS op 3",
+      "type" : "SERIES"
+    }, {
+      "count" : 2896,
+      "id" : "POMS_S_NTR_059960",
+      "value" : "Het Klokhuis",
+      "type" : "SERIES"
+    }, {
+      "count" : 2878,
+      "id" : "AUTO_DICHTBIJNEDERLAND",
+      "value" : "Dichtbij Nederland",
+      "type" : "SERIES"
+    }, {
+      "count" : 2878,
+      "id" : "AUTO_NOSMETHETOOGOPMORGEN",
+      "value" : "NOS-Met Het Oog Op Morgen",
+      "type" : "SERIES"
+    }, {
+      "count" : 2801,
+      "id" : "AUTO_DEGIDSFM",
+      "value" : "De gids.fm",
+      "type" : "SERIES"
+    }, {
+      "count" : 2701,
+      "id" : "POMS_S_VPRO_522208",
+      "value" : "NPO Doc Series",
+      "type" : "COLLECTION"
+    }, {
+      "count" : 2697,
+      "id" : "SREGIOOO_63",
+      "value" : "Overijssel Vandaag",
+      "type" : "SEASON"
+    }, {
+      "count" : 2682,
+      "id" : "RBX_S_NOS_553954",
+      "value" : "NOS-Radio 1-Journaal",
+      "type" : "SERIES"
+    }, {
+      "count" : 2669,
+      "id" : "RBX_S_VARA_553888",
+      "value" : "Vroege vogels",
+      "type" : "SERIES"
+    }, {
+      "count" : 2652,
+      "id" : "POMS_S_NCRV_218745",
+      "value" : "NPO Spirit - IKON",
+      "type" : "ARCHIVE"
+    }, {
+      "count" : 2618,
+      "id" : "AUTO_VILLAVPRO",
+      "value" : "Villa VPRO",
+      "type" : "SERIES"
+    }, {
+      "count" : 2614,
+      "id" : "AUTO_EFFEEKDOM",
+      "value" : "Effe Ekdom",
+      "type" : "SERIES"
+    }, {
+      "count" : 2575,
+      "id" : "POMS_S_AVRO_096388",
+      "value" : "Collectie NPO Gezond (Gezond24)",
+      "type" : "ARCHIVE"
+    }, {
+      "count" : 2399,
+      "id" : "AUTO_TIJDVOORTWEE",
+      "value" : "Tijd Voor Twee",
+      "type" : "SERIES"
+    }, {
+      "count" : 2356,
+      "id" : "AUTO_RABRADIO",
+      "value" : "RabRadio",
+      "type" : "SERIES"
+    }, {
+      "count" : 2353,
+      "id" : "POMS_S_WNL_467496",
+      "value" : "Vandaag de Dag",
+      "type" : "SERIES"
+    }, {
+      "count" : 2321,
+      "id" : "AUTO_METMICHIEL",
+      "value" : "MetMichiel",
+      "type" : "SERIES"
+    }, {
+      "count" : 2311,
+      "id" : "POMS_S_IKON_508606",
+      "value" : "IKON SERIES",
+      "type" : "COLLECTION"
+    }, {
+      "count" : 2308,
+      "id" : "RBX_S_VPRO_554445",
+      "value" : "Nooit Meer Slapen",
+      "type" : "SERIES"
+    }, {
+      "count" : 2300,
+      "id" : "POMS_S_MAX_1229564",
+      "value" : "POMS_S_MAX_1229564"
+    }, {
+      "count" : 2272,
+      "id" : "POMS_S_RADIO1_224009",
+      "value" : "Radio 1 Sportzomer",
+      "type" : "SERIES"
+    }, {
+      "count" : 2251,
+      "id" : "AUTO_HOEZO",
+      "value" : "Hoe?Zo! Radio",
+      "type" : "SERIES"
+    }, {
+      "count" : 2228,
+      "id" : "RBX_S_TROS_553861",
+      "value" : "Nieuwsshow",
+      "type" : "SERIES"
+    }, {
+      "count" : 2219,
+      "id" : "AUTO_hoezoradio",
+      "value" : "Hoe?Zo! Radio",
+      "type" : "SERIES"
+    }, {
+      "count" : 2215,
+      "id" : "POMS_S_EO_179639",
+      "value" : "NPO Spirit - NCRV",
+      "type" : "ARCHIVE"
+    }, {
+      "count" : 2143,
+      "id" : "POMS_S_KRO_066265",
+      "value" : "Helemaal Haandrikman",
+      "type" : "SERIES"
+    }, {
+      "count" : 2130,
+      "id" : "POMS_S_MAX_059941",
+      "value" : "Nederland in Beweging!",
+      "type" : "SERIES"
+    }, {
+      "count" : 2119,
+      "id" : "AUTO_CASALUNA",
+      "value" : "Casa Luna",
+      "type" : "SERIES"
+    }, {
+      "count" : 2112,
+      "id" : "POMS_S_NPO_172388",
+      "value" : "MAX APP PLAYLIST (TEST)",
+      "type" : "PLAYLIST"
+    }, {
+      "count" : 2109,
+      "id" : "POMS_S_MAX_059953",
+      "value" : "MAX Geheugentrainer",
+      "type" : "SERIES"
+    }, {
+      "count" : 2091,
+      "id" : "POMS_S_NCRV_508698",
+      "value" : "NCRV SERIES",
+      "type" : "COLLECTION"
+    }, {
+      "count" : 2066,
+      "id" : "POMS_S_NOS_104397",
+      "value" : "NOS Journaal Laat",
+      "type" : "SERIES"
+    }, {
+      "count" : 2053,
+      "id" : "POMS_S_VARA_059933",
+      "value" : "De Wereld Draait Door",
+      "type" : "SERIES"
+    }, {
+      "count" : 2043,
+      "id" : "AUTO_NIEUWS",
+      "value" : "Nieuws",
+      "type" : "SERIES"
+    }, {
+      "count" : 2039,
+      "id" : "POMS_S_VPRO_195027",
+      "value" : "3voor12 VOD pool",
+      "type" : "ARCHIVE"
+    }, {
+      "count" : 2032,
+      "id" : "AUTO_KNOOPPUNTKRANENBARG",
+      "value" : "Knooppunt Kranenbarg",
+      "type" : "SERIES"
+    }, {
+      "count" : 2010,
+      "id" : "POMS_S_NCRV_059870",
+      "value" : "SpangaS",
+      "type" : "SERIES"
+    }, {
+      "count" : 2005,
+      "id" : "POMS_S_AVRO_501459",
+      "value" : "AVRO Kunstportal",
+      "type" : "COLLECTION"
+    }, {
+      "count" : 1984,
+      "id" : "POMS_S_OMROEPBRABANT_133329",
+      "value" : "Brabant Nieuws",
+      "type" : "SERIES"
+    }, {
+      "count" : 1970,
+      "id" : "RBX_S_MAX_553934",
+      "value" : "Twee dingen",
+      "type" : "SERIES"
+    }, {
+      "count" : 1967,
+      "id" : "POMS_S_VPRO_793224",
+      "value" : "vpro genres: cultuur",
+      "type" : "COLLECTION"
+    }, {
+      "count" : 1961,
+      "id" : "POMS_S_VPRO_417553",
+      "value" : "Documentaire",
+      "type" : "COLLECTION"
+    }, {
+      "count" : 1960,
+      "id" : "RBX_S_NOS_553937",
+      "value" : "NOS Langs de Lijn",
+      "type" : "SERIES"
+    }, {
+      "count" : 1924,
+      "id" : "SREGIOL1_NCHTCAR",
+      "value" : "Nachtcarrousel",
+      "type" : "SEASON"
+    }, {
+      "count" : 1918,
+      "id" : "POMS_S_MAX_109218",
+      "value" : "KoffieMAX",
+      "type" : "SERIES"
+    }, {
+      "count" : 1897,
+      "id" : "POMS_S_EO_179642",
+      "value" : "NPO Spirit - RKK",
+      "type" : "ARCHIVE"
+    }, {
+      "count" : 1507,
+      "id" : "POMS_S_VPRO_170116",
+      "value" : "Cultura collectie film/drama",
+      "type" : "ARCHIVE"
+    }, {
+      "count" : 1501,
+      "id" : "POMS_S_KRO_059861",
+      "value" : "KRO Kindertijd",
+      "type" : "SERIES"
+    } ]
+  },
   "selectedFacets" : { },
-  "total" : 637912,
+  "total" : 767738,
   "offset" : 0,
   "max" : 2,
   "items" : [ {
-    "score" : 5.0,
+    "score" : 2.0,
     "highlights" : [ ],
     "result" : {
-      "objectType" : "group",
-      "mid" : "POMS_S_VPRO_157807",
-      "creationDate" : 1352295543264,
-      "lastModified" : 1352295543579,
-      "urn" : "urn:vpro:media:group:16055794",
+      "objectType" : "program",
+      "mid" : "POMS_NOS_484885",
+      "type" : "BROADCAST",
+      "avType" : "AUDIO",
+      "workflow" : "PUBLISHED",
+      "sortDate" : 1393160400000,
+      "creationDate" : 1392813486546,
+      "lastModified" : 1393179684621,
+      "urn" : "urn:vpro:media:program:37336561",
       "embeddable" : true,
+      "episodeOf" : [ {
+        "midRef" : "RBX_S_NOS_552455",
+        "urnRef" : "urn:vpro:media:group:36184971",
+        "type" : "SERIES",
+        "index" : 1,
+        "highlighted" : false,
+        "added" : 1392813489107
+      } ],
+      "crids" : [ "crid://broadcast.radiobox2/276300" ],
       "broadcasters" : [ {
-        "id" : "VPRO",
-        "value" : "VPRO"
+        "id" : "NOS",
+        "value" : "NOS"
       } ],
       "titles" : [ {
-        "value" : "WOORD 27 oktober 2012: UUR 1",
-        "owner" : "BROADCASTER",
+        "value" : "RadiOlympia",
+        "owner" : "RADIOBOX",
         "type" : "MAIN"
       } ],
       "descriptions" : [ {
-        "value" : "Het Radiohistorisch Amsterdam",
-        "owner" : "BROADCASTER",
+        "value" : "Live verslag van de hoogtepunten van de Olympische Winterspelen in Sotsji.",
+        "owner" : "RADIOBOX",
         "type" : "MAIN"
       } ],
       "genres" : [ ],
       "countries" : [ ],
       "languages" : [ ],
-      "predictions" : [ {
-        "state" : "REALIZED",
-        "platform" : "INTERNETVOD"
+      "duration" : 18000000,
+      "descendantOf" : [ {
+        "midRef" : "RBX_S_NOS_552455",
+        "urnRef" : "urn:vpro:media:group:36184971",
+        "type" : "SERIES"
+      } ],
+      "email" : [ "publieksreacties@nos.nl" ],
+      "websites" : [ {
+        "value" : "http://nos.nl/os2014/"
       } ],
       "locations" : [ {
-        "programUrl" : "http://audio.omroep.nl/radio1/vpro/woord/20121027-02.mp3",
+        "programUrl" : "http://download.omroep.nl/audiologging/r1/2014/02/23/1400_1900_radiolympia_20140223.mp3",
         "avAttributes" : {
           "avFileFormat" : "MP3"
         },
-        "owner" : "BROADCASTER",
-        "creationDate" : 1352295543460,
-        "lastModified" : 1352295543578,
+        "duration" : 18000000,
+        "owner" : "RADIOBOX",
+        "creationDate" : 1393179670538,
+        "lastModified" : 1393179684620,
         "workflow" : "PUBLISHED",
-        "urn" : "urn:vpro:media:location:16055798"
+        "urn" : "urn:vpro:media:location:37624625"
       } ],
-      "workflow" : "PUBLISHED",
-      "type" : "SERIES",
-      "isOrdered" : true,
-      "avType" : "AUDIO"
+      "scheduleEvents" : [ {
+        "start" : 1393160400000,
+        "duration" : 18000000,
+        "poProgID" : "POMS_NOS_484885",
+        "channel" : "RAD1",
+        "urnRef" : "urn:vpro:media:program:37336561",
+        "midRef" : "POMS_NOS_484885"
+      } ],
+      "images" : [ {
+        "title" : "radioolympia220.jpg",
+        "description" : "RadiOlympia",
+        "imageUri" : "urn:vpro:image:369574",
+        "owner" : "RADIOBOX",
+        "type" : "PICTURE",
+        "highlighted" : false,
+        "creationDate" : 1392813484141,
+        "lastModified" : 1392813486618,
+        "workflow" : "PUBLISHED",
+        "urn" : "urn:vpro:media:image:37336563"
+      } ]
     }
   }, {
-    "score" : 5.0,
+    "score" : 2.0,
     "highlights" : [ ],
     "result" : {
       "objectType" : "group",
-      "mid" : "POMS_S_NTR_470249",
-      "creationDate" : 1390232343068,
-      "lastModified" : 1393580536315,
-      "urn" : "urn:vpro:media:group:35773765",
+      "mid" : "POMS_S_MAX_109064",
+      "type" : "SERIES",
+      "avType" : "VIDEO",
+      "workflow" : "PUBLISHED",
+      "sortDate" : 1404798300000,
+      "creationDate" : 1286400660428,
+      "lastModified" : 1377166503840,
+      "urn" : "urn:vpro:media:group:5182224",
       "embeddable" : true,
+      "crids" : [ "crid://nebo.masterserie.omroep.nl/6045" ],
       "broadcasters" : [ {
-        "id" : "NTR",
-        "value" : "NTR"
+        "id" : "MAX",
+        "value" : "MAX"
       } ],
       "titles" : [ {
-        "value" : "Dokter Corrie",
-        "owner" : "BROADCASTER",
+        "value" : "Met het Mes op Tafel",
+        "owner" : "NEBO",
         "type" : "MAIN"
-      }, {
-        "value" : "Dokter Corrie ",
-        "owner" : "BROADCASTER",
-        "type" : "LEXICO"
       } ],
       "descriptions" : [ {
-        "value" : "Dokter Corrie, hilarisch vertolkt door Martine Sandifort, praat met allerlei bekende Nederlanders over hoe zij de puberteit hebben ervaren. Elke vrijdag in het Schooltv-weekjournaal om 11:00 uur bij Zapp.",
-        "owner" : "BROADCASTER",
+        "value" : "In de kroeg van Met het Mes op Tafel pokeren drie kandidaten met de antwoorden op vragen. Niet alleen kennis is van belang, maar ook rekenen en slim spelen. Wie weinig antwoorden goed heeft, kan proberen zijn tegenstanders weg te bluffen.",
+        "owner" : "NEBO",
         "type" : "MAIN"
-      }, {
-        "value" : "Dokter Corrie, hilarisch vertolkt door Martine Sandifort, praat met allerlei bekende Nederlanders over hoe zij de puberteit hebben ervaren. Elke vrijdag in het Schooltv-weekjournaal om 11:00 uur bij Zapp.",
-        "owner" : "BROADCASTER",
-        "type" : "SHORT"
       } ],
       "genres" : [ {
-        "id" : "3.0.1.1",
-        "terms" : [ "Jeugd" ]
+        "id" : "3.0.1.6",
+        "terms" : [ "Amusement" ]
       } ],
-      "tags" : [ "dokter", "lichaam", "pubertijd", "SchoolTV" ],
       "countries" : [ ],
       "languages" : [ ],
-      "descendantOf" : [ {
-        "midRef" : "WO_NTR_479456",
-        "urnRef" : "urn:vpro:media:program:36696799",
-        "type" : "CLIP"
-      }, {
-        "midRef" : "WO_NTR_479458",
-        "urnRef" : "urn:vpro:media:program:36696873",
-        "type" : "CLIP"
-      } ],
-      "memberOf" : [ {
-        "midRef" : "WO_NTR_479456",
-        "urnRef" : "urn:vpro:media:program:36696799",
-        "type" : "CLIP",
-        "index" : 1,
-        "highlighted" : false,
-        "added" : 1392045882985
-      }, {
-        "midRef" : "WO_NTR_479458",
-        "urnRef" : "urn:vpro:media:program:36696873",
-        "type" : "CLIP",
-        "index" : 1,
-        "highlighted" : false,
-        "added" : 1392721302269
-      } ],
-      "ageRating" : "12",
       "websites" : [ {
-        "value" : "http://www.schooltv.nl/weekjournaal/"
-      } ],
-      "locations" : [ {
-        "programUrl" : "http://cgi.omroep.nl/cgi-bin/streams?/ntr/schooltv/weekjournaal/video/WJCorrieGeraldine.wmv",
-        "avAttributes" : {
-          "bitrate" : 1000000,
-          "avFileFormat" : "WM"
-        },
-        "owner" : "BROADCASTER",
-        "creationDate" : 1391676858971,
-        "lastModified" : 1391676859133,
-        "workflow" : "PUBLISHED",
-        "urn" : "urn:vpro:media:location:36686887"
+        "value" : "http://www.methetmesoptafel.nl"
+      }, {
+        "value" : "http://www.omroepmax.nl/methetmesoptafel"
       } ],
       "images" : [ {
-        "title" : "dokter corrie schooltv",
-        "description" : "copyright_Lilian_van_Rooij",
-        "imageUri" : "urn:vpro:image:367113",
-        "height" : 1525,
-        "width" : 2287,
+        "title" : "Met het Mes op Tafel",
+        "imageUri" : "urn:vpro.image:4967",
         "owner" : "BROADCASTER",
         "type" : "PICTURE",
         "highlighted" : false,
-        "creationDate" : 1390558544610,
-        "lastModified" : 1390558544679,
+        "creationDate" : 1287005455348,
+        "lastModified" : 1306244938550,
         "workflow" : "PUBLISHED",
-        "urn" : "urn:vpro:media:image:35995269"
+        "urn" : "urn:vpro:media:image:5244810"
       }, {
-        "title" : "Dokter Corrie 2",
-        "description" : "Dokter Corrie 2",
-        "imageUri" : "urn:vpro:image:396081",
-        "height" : 140,
-        "width" : 240,
-        "owner" : "BROADCASTER",
+        "title" : "Met het Mes op Tafel",
+        "imageUri" : "urn:vpro.image:7945",
+        "owner" : "NEBO",
         "type" : "PICTURE",
         "highlighted" : false,
-        "creationDate" : 1391443689030,
-        "lastModified" : 1391443691069,
+        "creationDate" : 1306358790299,
+        "lastModified" : 1306358790299,
         "workflow" : "PUBLISHED",
-        "urn" : "urn:vpro:media:image:36505735"
+        "urn" : "urn:vpro:media:image:9683275"
       }, {
-        "title" : "Dokter Corrie",
-        "description" : "Dokter Corrie",
-        "imageUri" : "urn:vpro:image:398472",
-        "height" : 140,
-        "width" : 240,
-        "owner" : "BROADCASTER",
+        "title" : "Met het Mes op Tafel",
+        "description" : "Met het Mes op Tafel",
+        "imageUri" : "urn:vpro:image:135592",
+        "owner" : "NEBO",
         "type" : "PICTURE",
         "highlighted" : false,
-        "creationDate" : 1391507789813,
-        "lastModified" : 1391507789923,
+        "creationDate" : 1363066533211,
+        "lastModified" : 1363066533280,
         "workflow" : "PUBLISHED",
-        "urn" : "urn:vpro:media:image:36566104"
-      }, {
-        "title" : "dokter corrie",
-        "description" : "dokter corrie schooltv",
-        "imageUri" : "urn:vpro:image:358612",
-        "height" : 3150,
-        "width" : 4724,
-        "owner" : "BROADCASTER",
-        "type" : "PICTURE",
-        "highlighted" : false,
-        "creationDate" : 1390298345952,
-        "lastModified" : 1390298346010,
-        "workflow" : "PUBLISHED",
-        "urn" : "urn:vpro:media:image:35806459"
+        "urn" : "urn:vpro:media:image:22846404"
       } ],
-      "workflow" : "PUBLISHED",
-      "type" : "SERIES",
-      "isOrdered" : true,
-      "avType" : "VIDEO"
+      "isOrdered" : true
     }
   } ]
 }

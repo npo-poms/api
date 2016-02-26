@@ -1,8 +1,561 @@
 {
   "facets" : { },
   "selectedFacets" : { },
-  "total" : 0,
+  "total" : 9,
   "offset" : 0,
   "max" : 2,
-  "items" : [ ]
+  "items" : [ {
+    "highlights" : [ ],
+    "result" : {
+      "objectType" : "page",
+      "type" : "PLAYER",
+      "url" : "http://omroep-acc.human.nl/speel.POW_00726710.html",
+      "sortDate" : 1387932187000,
+      "crids" : [ "crid://vpro/media/human/POW_00726710" ],
+      "broadcasters" : [ {
+        "id" : "MAX",
+        "value" : "MAX"
+      } ],
+      "portal" : {
+        "id" : "HUMANNL",
+        "url" : "http://omroep-acc.human.nl",
+        "value" : "Human.nl"
+      },
+      "title" : "Missie MAX: Kerstgroeten",
+      "genres" : [ {
+        "id" : "3.0.1.7",
+        "terms" : [ "Informatief" ],
+        "displayName" : "Informatief"
+      } ],
+      "embeds" : [ {
+        "title" : "Missie MAX: Kerstgroeten",
+        "description" : "Groeten van het thuisfront!",
+        "media" : {
+          "objectType" : "program",
+          "mid" : "POW_00726710",
+          "type" : "BROADCAST",
+          "avType" : "VIDEO",
+          "workflow" : "PUBLISHED",
+          "sortDate" : 1387932187000,
+          "creationDate" : 1385790432620,
+          "lastModified" : 1388149495218,
+          "urn" : "urn:vpro:media:program:33340836",
+          "embeddable" : true,
+          "episodeOf" : [ {
+            "midRef" : "POW_00726708",
+            "urnRef" : "urn:vpro:media:group:33281153",
+            "type" : "SEASON",
+            "index" : 2,
+            "highlighted" : false,
+            "added" : 1385790432699
+          } ],
+          "broadcasters" : [ {
+            "id" : "MAX",
+            "value" : "MAX"
+          } ],
+          "titles" : [ {
+            "value" : "Missie MAX: Kerstgroeten",
+            "owner" : "MIS",
+            "type" : "MAIN"
+          }, {
+            "value" : "Missie MAX: Kerstgroeten",
+            "owner" : "WHATS_ON",
+            "type" : "MAIN"
+          }, {
+            "value" : "Kerstgroeten 2013 - Afl. 2",
+            "owner" : "BROADCASTER",
+            "type" : "SUB"
+          } ],
+          "descriptions" : [ {
+            "value" : "Groeten van het thuisfront!",
+            "owner" : "BROADCASTER",
+            "type" : "MAIN"
+          }, {
+            "value" : "Carrousel van kerstgroeten, bestemd voor familieleden in missiegebieden. Opgenomen tijdens het thuisfrontevenement Missie MAX, op het voormalige vliegkamp Valkenburg.",
+            "owner" : "MIS",
+            "type" : "MAIN"
+          }, {
+            "value" : "Carrousel van kerstgroeten, bestemd voor familieleden in missiegebieden. Opgenomen tijdens het thuisfrontevenement Missie MAX, op het voormalige vliegkamp Valkenburg.",
+            "owner" : "WHATS_ON",
+            "type" : "MAIN"
+          }, {
+            "value" : "Groeten van het thuisfront!",
+            "owner" : "BROADCASTER",
+            "type" : "SHORT"
+          }, {
+            "value" : "Carrousel van kerstgroeten, bestemd voor familieleden in missiegebieden. Opgenomen tijdens het thuisfrontevenement Missie MAX, op het voormalige vliegkamp Valkenburg.",
+            "owner" : "MIS",
+            "type" : "SHORT"
+          }, {
+            "value" : "Carrousel van kerstgroeten, bestemd voor familieleden in missiegebieden. Opgenomen tijdens het thuisfrontevenement Missie MAX, op het voormalige vliegkamp Valkenburg.",
+            "owner" : "WHATS_ON",
+            "type" : "SHORT"
+          }, {
+            "value" : "Tijdens Missie MAX hebben de relaties van iedere uitgezonden militair één minuut de tijd om een kerstgroet op te nemen.\n\nIedere militair ontvangt tijdens de feestdagen de aan hem of haar gerichte kerstgroet van familie; alle dvd's worden naar de verschillende uitzendgebieden in de wereld gebracht.",
+            "owner" : "BROADCASTER",
+            "type" : "EPISODE"
+          } ],
+          "genres" : [ {
+            "id" : "3.0.1.7",
+            "terms" : [ "Informatief" ]
+          } ],
+          "hasSubtitles" : true,
+          "countries" : [ ],
+          "languages" : [ {
+            "code" : "nl",
+            "value" : "Nederlands"
+          } ],
+          "avAttributes" : {
+            "videoAttributes" : {
+              "color" : "BLACK_AND_WHITE_AND_COLOR",
+              "aspectRatio" : "16:9"
+            },
+            "audioAttributes" : {
+              "numberOfChannels" : 2
+            }
+          },
+          "duration" : 1500000,
+          "descendantOf" : [ {
+            "midRef" : "POW_00726708",
+            "urnRef" : "urn:vpro:media:group:33281153",
+            "type" : "SEASON"
+          }, {
+            "midRef" : "POMS_S_MAX_083182",
+            "urnRef" : "urn:vpro:media:group:6981359",
+            "type" : "SERIES"
+          } ],
+          "websites" : [ {
+            "value" : "www.omroepmax.nl/missiemax"
+          } ],
+          "predictions" : [ {
+            "state" : "REALIZED",
+            "platform" : "INTERNETVOD"
+          }, {
+            "state" : "REALIZED",
+            "publishStart" : 1387933635000,
+            "publishStop" : 1419556035000,
+            "platform" : "PLUSVOD"
+          } ],
+          "locations" : [ {
+            "programUrl" : "odip+http://odi.omroep.nl/video/adaptive/POW_00726710",
+            "avAttributes" : {
+              "avFileFormat" : "HASP"
+            },
+            "owner" : "CERES",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1387934763103,
+            "lastModified" : 1387934763232,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:34579752"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_sb/POW_00726710",
+            "avAttributes" : {
+              "bitrate" : 200000,
+              "avFileFormat" : "H264"
+            },
+            "owner" : "CERES",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1387934171059,
+            "lastModified" : 1387934171243,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:34576340"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_bb/POW_00726710",
+            "avAttributes" : {
+              "bitrate" : 500000,
+              "avFileFormat" : "H264"
+            },
+            "owner" : "CERES",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1387934170656,
+            "lastModified" : 1387934170800,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:34576338"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_std/POW_00726710",
+            "avAttributes" : {
+              "bitrate" : 1000000,
+              "avFileFormat" : "H264"
+            },
+            "owner" : "CERES",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1387934171520,
+            "lastModified" : 1387934171704,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:34576348"
+          } ],
+          "scheduleEvents" : [ {
+            "start" : 1387932187000,
+            "duration" : 1448000,
+            "poProgID" : "POW_00726710",
+            "channel" : "NED1",
+            "urnRef" : "urn:vpro:media:program:33340836",
+            "midRef" : "POW_00726710"
+          }, {
+            "repeat" : {
+              "isRerun" : true
+            },
+            "avAttributes" : {
+              "videoAttributes" : {
+                "aspectRatio" : "16:9"
+              }
+            },
+            "textSubtitles" : "Teletekst ondertitels",
+            "start" : 1387938300000,
+            "offset" : -9000,
+            "duration" : 1560000,
+            "poProgID" : "POW_00726710",
+            "channel" : "NED1",
+            "imi" : "imi:8395",
+            "urnRef" : "urn:vpro:media:program:33340836",
+            "midRef" : "POW_00726710"
+          } ],
+          "images" : [ {
+            "title" : "Missie MAX",
+            "description" : "Missie MAX",
+            "imageUri" : "urn:vpro:image:320111",
+            "height" : 108,
+            "width" : 192,
+            "owner" : "BROADCASTER",
+            "type" : "LOGO",
+            "highlighted" : false,
+            "creationDate" : 1387274371734,
+            "lastModified" : 1387274372016,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:34204330"
+          }, {
+            "title" : "Missie MAX: Kerstgroeten",
+            "description" : "Groeten van het thuisfront!",
+            "imageUri" : "urn:vpro:image:323075",
+            "owner" : "NEBO",
+            "type" : "STILL",
+            "highlighted" : false,
+            "creationDate" : 1387934112275,
+            "lastModified" : 1387934134911,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:34576214"
+          }, {
+            "title" : "Missie MAX: Kerstgroeten",
+            "description" : "Groeten van het thuisfront!",
+            "imageUri" : "urn:vpro:image:323423",
+            "owner" : "NEBO",
+            "type" : "STILL",
+            "highlighted" : false,
+            "creationDate" : 1387934124480,
+            "lastModified" : 1387934134912,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:34576215"
+          }, {
+            "title" : "Missie MAX: Kerstgroeten",
+            "description" : "Groeten van het thuisfront!",
+            "imageUri" : "urn:vpro:image:323424",
+            "owner" : "NEBO",
+            "type" : "STILL",
+            "highlighted" : false,
+            "creationDate" : 1387934134861,
+            "lastModified" : 1387934134912,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:34576216"
+          } ]
+        }
+      } ],
+      "images" : [ {
+        "type" : "PICTURE",
+        "url" : "http://images.poms.omroep.nl/image/s360/320111.jpg",
+        "title" : "Missie MAX",
+        "description" : "Missie MAX"
+      } ],
+      "publishStart" : 1387932187000,
+      "creationDate" : 1418873443311,
+      "lastModified" : 1419291037621,
+      "refCount" : 0
+    }
+  }, {
+    "highlights" : [ ],
+    "result" : {
+      "objectType" : "page",
+      "type" : "PLAYER",
+      "url" : "http://omroep-acc.human.nl/speel.POW_00726714.html",
+      "sortDate" : 1388279100000,
+      "crids" : [ "crid://vpro/media/human/POW_00726714" ],
+      "broadcasters" : [ {
+        "id" : "MAX",
+        "value" : "MAX"
+      } ],
+      "portal" : {
+        "id" : "HUMANNL",
+        "url" : "http://omroep-acc.human.nl",
+        "value" : "Human.nl"
+      },
+      "title" : "Missie MAX: Kerstgroeten",
+      "genres" : [ {
+        "id" : "3.0.1.7",
+        "terms" : [ "Informatief" ],
+        "displayName" : "Informatief"
+      } ],
+      "embeds" : [ {
+        "title" : "Missie MAX: Kerstgroeten",
+        "description" : "Groeten van het thuisfront!",
+        "media" : {
+          "objectType" : "program",
+          "mid" : "POW_00726714",
+          "type" : "BROADCAST",
+          "avType" : "VIDEO",
+          "workflow" : "PUBLISHED",
+          "sortDate" : 1388279100000,
+          "creationDate" : 1386136193322,
+          "lastModified" : 1388673417901,
+          "urn" : "urn:vpro:media:program:33521760",
+          "embeddable" : true,
+          "episodeOf" : [ {
+            "midRef" : "POW_00726708",
+            "urnRef" : "urn:vpro:media:group:33281153",
+            "type" : "SEASON",
+            "index" : 6,
+            "highlighted" : false,
+            "added" : 1386136193693
+          } ],
+          "broadcasters" : [ {
+            "id" : "MAX",
+            "value" : "MAX"
+          } ],
+          "titles" : [ {
+            "value" : "Missie MAX: Kerstgroeten",
+            "owner" : "MIS",
+            "type" : "MAIN"
+          }, {
+            "value" : "Missie MAX: Kerstgroeten",
+            "owner" : "WHATS_ON",
+            "type" : "MAIN"
+          }, {
+            "value" : "Kerstgroeten 2013 - Afl. 6",
+            "owner" : "BROADCASTER",
+            "type" : "SUB"
+          } ],
+          "descriptions" : [ {
+            "value" : "Groeten van het thuisfront!",
+            "owner" : "BROADCASTER",
+            "type" : "MAIN"
+          }, {
+            "value" : "Carrousel van kerstgroeten, bestemd voor familieleden in missiegebieden. Opgenomen tijdens het thuisfrontevenement Missie MAX, op het voormalige vliegkamp Valkenburg.",
+            "owner" : "MIS",
+            "type" : "MAIN"
+          }, {
+            "value" : "Carrousel van kerstgroeten, bestemd voor familieleden in missiegebieden. Opgenomen tijdens het thuisfrontevenement Missie MAX, op het voormalige vliegkamp Valkenburg.",
+            "owner" : "WHATS_ON",
+            "type" : "MAIN"
+          }, {
+            "value" : "Groeten van het thuisfront!",
+            "owner" : "BROADCASTER",
+            "type" : "SHORT"
+          }, {
+            "value" : "Carrousel van kerstgroeten, bestemd voor familieleden in missiegebieden. Opgenomen tijdens het thuisfrontevenement Missie MAX, op het voormalige vliegkamp Valkenburg.",
+            "owner" : "MIS",
+            "type" : "SHORT"
+          }, {
+            "value" : "Carrousel van kerstgroeten, bestemd voor familieleden in missiegebieden. Opgenomen tijdens het thuisfrontevenement Missie MAX, op het voormalige vliegkamp Valkenburg.",
+            "owner" : "WHATS_ON",
+            "type" : "SHORT"
+          }, {
+            "value" : "Tijdens Missie MAX hebben de relaties van iedere uitgezonden militair één minuut de tijd om een kerstgroet op te nemen.\n\nIedere militair ontvangt tijdens de feestdagen de aan hem of haar gerichte kerstgroet van familie; alle dvd's worden naar de verschillende uitzendgebieden in de wereld gebracht.",
+            "owner" : "BROADCASTER",
+            "type" : "EPISODE"
+          } ],
+          "genres" : [ {
+            "id" : "3.0.1.7",
+            "terms" : [ "Informatief" ]
+          } ],
+          "hasSubtitles" : true,
+          "countries" : [ ],
+          "languages" : [ {
+            "code" : "nl",
+            "value" : "Nederlands"
+          } ],
+          "avAttributes" : {
+            "videoAttributes" : {
+              "color" : "BLACK_AND_WHITE_AND_COLOR",
+              "aspectRatio" : "16:9"
+            },
+            "audioAttributes" : {
+              "numberOfChannels" : 2
+            }
+          },
+          "duration" : 1800000,
+          "descendantOf" : [ {
+            "midRef" : "POW_00726708",
+            "urnRef" : "urn:vpro:media:group:33281153",
+            "type" : "SEASON"
+          }, {
+            "midRef" : "POMS_S_MAX_083182",
+            "urnRef" : "urn:vpro:media:group:6981359",
+            "type" : "SERIES"
+          } ],
+          "websites" : [ {
+            "value" : "www.omroepmax.nl/missiemax"
+          } ],
+          "predictions" : [ {
+            "state" : "REALIZED",
+            "platform" : "INTERNETVOD"
+          }, {
+            "state" : "REALIZED",
+            "platform" : "PLUSVOD"
+          } ],
+          "locations" : [ {
+            "programUrl" : "odip+http://odi.omroep.nl/video/adaptive/POW_00726714",
+            "avAttributes" : {
+              "avFileFormat" : "HASP"
+            },
+            "owner" : "CERES",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1388282163167,
+            "lastModified" : 1388282163291,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:34722274"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_sb/POW_00726714",
+            "avAttributes" : {
+              "bitrate" : 200000,
+              "avFileFormat" : "H264"
+            },
+            "owner" : "CERES",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1388281572897,
+            "lastModified" : 1388281573091,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:34722244"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_bb/POW_00726714",
+            "avAttributes" : {
+              "bitrate" : 500000,
+              "avFileFormat" : "H264"
+            },
+            "owner" : "CERES",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1388281572509,
+            "lastModified" : 1388281572634,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:34722242"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_std/POW_00726714",
+            "avAttributes" : {
+              "bitrate" : 1000000,
+              "avFileFormat" : "H264"
+            },
+            "owner" : "CERES",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1388281573353,
+            "lastModified" : 1388281573562,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:34722246"
+          }, {
+            "programUrl" : "sub+http//npoplus.nl/video/mpeg2_hr/POW_00726714",
+            "avAttributes" : {
+              "bitrate" : 3500000,
+              "avFileFormat" : "MPEG2"
+            },
+            "owner" : "CERES",
+            "platform" : "PLUSVOD",
+            "creationDate" : 1388281266100,
+            "lastModified" : 1388281266264,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:34722225"
+          } ],
+          "scheduleEvents" : [ {
+            "avAttributes" : {
+              "videoAttributes" : {
+                "aspectRatio" : "16:9"
+              }
+            },
+            "textSubtitles" : "Teletekst ondertitels",
+            "start" : 1388279100000,
+            "offset" : 257000,
+            "duration" : 1800000,
+            "poProgID" : "POW_00726714",
+            "channel" : "NED1",
+            "imi" : "imi:8827",
+            "urnRef" : "urn:vpro:media:program:33521760",
+            "midRef" : "POW_00726714"
+          }, {
+            "start" : 1388284962000,
+            "duration" : 1486000,
+            "poProgID" : "POW_00726714",
+            "channel" : "NED1",
+            "urnRef" : "urn:vpro:media:program:33521760",
+            "midRef" : "POW_00726714"
+          }, {
+            "start" : 1388288110000,
+            "duration" : 1487000,
+            "poProgID" : "POW_00726714",
+            "channel" : "NED1",
+            "urnRef" : "urn:vpro:media:program:33521760",
+            "midRef" : "POW_00726714"
+          }, {
+            "start" : 1388291259000,
+            "duration" : 1487000,
+            "poProgID" : "POW_00726714",
+            "channel" : "NED1",
+            "urnRef" : "urn:vpro:media:program:33521760",
+            "midRef" : "POW_00726714"
+          } ],
+          "images" : [ {
+            "title" : "Missie MAX",
+            "description" : "Missie MAX",
+            "imageUri" : "urn:vpro:image:320109",
+            "height" : 108,
+            "width" : 192,
+            "owner" : "BROADCASTER",
+            "type" : "LOGO",
+            "highlighted" : false,
+            "creationDate" : 1387274346798,
+            "lastModified" : 1387274346954,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:34204325"
+          }, {
+            "title" : "Missie MAX: Kerstgroeten",
+            "description" : "Groeten van het thuisfront!",
+            "imageUri" : "urn:vpro:image:323075",
+            "owner" : "NEBO",
+            "type" : "STILL",
+            "highlighted" : false,
+            "creationDate" : 1388282412320,
+            "lastModified" : 1388282434988,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:34722287"
+          }, {
+            "title" : "Missie MAX: Kerstgroeten",
+            "description" : "Groeten van het thuisfront!",
+            "imageUri" : "urn:vpro:image:324479",
+            "owner" : "NEBO",
+            "type" : "STILL",
+            "highlighted" : false,
+            "creationDate" : 1388282423890,
+            "lastModified" : 1388282434989,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:34722288"
+          }, {
+            "title" : "Missie MAX: Kerstgroeten",
+            "description" : "Groeten van het thuisfront!",
+            "imageUri" : "urn:vpro:image:324480",
+            "owner" : "NEBO",
+            "type" : "STILL",
+            "highlighted" : false,
+            "creationDate" : 1388282434881,
+            "lastModified" : 1388282434989,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:34722289"
+          } ]
+        }
+      } ],
+      "images" : [ {
+        "type" : "PICTURE",
+        "url" : "http://images.poms.omroep.nl/image/s360/320109.jpg",
+        "title" : "Missie MAX",
+        "description" : "Missie MAX"
+      } ],
+      "publishStart" : 1388279100000,
+      "creationDate" : 1418873416615,
+      "lastModified" : 1419291024402,
+      "refCount" : 0
+    }
+  } ]
 }

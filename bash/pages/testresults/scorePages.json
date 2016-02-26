@@ -1,325 +1,189 @@
 {
   "facets" : {
     "types" : [ {
-      "count" : 526,
+      "count" : 3195,
       "id" : "ARTICLE",
       "value" : "Artikel"
     }, {
-      "count" : 472,
+      "count" : 2497,
       "id" : "AUDIO",
       "value" : "Audio"
     }, {
-      "count" : 375,
+      "count" : 1812,
       "id" : "PLAYER",
       "value" : "Speler"
     }, {
-      "count" : 277,
+      "count" : 1516,
       "id" : "VIDEO",
       "value" : "Video"
     }, {
-      "count" : 10,
+      "count" : 26,
+      "id" : "HOME",
+      "value" : "Thuis"
+    }, {
+      "count" : 6,
       "id" : "SPECIAL",
       "value" : "Special"
     }, {
-      "count" : 6,
-      "id" : "HOME",
-      "value" : "Thuis"
+      "count" : 5,
+      "id" : "PLAYLIST",
+      "value" : "Speellijst"
     } ]
   },
   "selectedFacets" : { },
-  "total" : 1666,
+  "total" : 9057,
   "offset" : 0,
   "max" : 2,
   "items" : [ {
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",
-      "type" : "VIDEO",
-      "url" : "http://www-test.vpro.nl/speel.VPWON_1236158.html",
-      "sortDate" : 1425583500000,
-      "crids" : [ "crid://vpro/media/vpro/VPWON_1236158" ],
+      "type" : "HOME",
+      "url" : "http://www-acc.vpro.nl/programmas/fotostudio-de-jong.html",
+      "sortDate" : 1389305612697,
+      "crids" : [ "crid://vpro/website/594caeab-0397-49e3-b017-5a03a2ec99fa" ],
       "broadcasters" : [ {
         "id" : "VPRO",
         "value" : "VPRO"
       } ],
       "portal" : {
         "id" : "VPRONL",
-        "url" : "http://www-test.vpro.nl",
+        "url" : "http://www-acc.vpro.nl",
         "value" : "VPRO.nl"
       },
-      "title" : "Fotostudio de Jong",
-      "genres" : [ {
-        "id" : "3.0.1.7.24",
-        "terms" : [ "Informatief", "Kunst/cultuur" ],
-        "displayName" : "Informatief - Kunst/cultuur"
-      } ],
+      "title" : "fotostudio de jong",
+      "summary" : "Liveprogramma over fotografie. De actualiteit vormt de opmaat voor studiogesprekken met verschillende gasten. Welke foto's bepaalden het beeld van de week?",
       "embeds" : [ {
-        "title" : "Fotostudio de Jong",
-        "description" : "Vanuit het Machinegebouw in Amsterdam een liveprogramma over fotografie. De actualiteit vormt de opmaat voor studiogesprekken met verschillende gasten. Welke foto's bepaalden het beeld van de week? Vaste gast is Martijn Kleppe, specialist in persfotografie, die in zijn rubriek 'Waar kijk ik naar?' buiten de kaders van de foto treedt. Foto's die een ander verhaal vertellen dan gedacht. De Jong bespreekt met een bekende fotograaf één foto uit zijn of haar oeuvre. En documentaire-fotograaf Peter de Krom gaat iedere week op pad voor een eigenzinnige reportage. Het publiek mag elke week een foto meenemen met een bijzonder verhaal. De Jong maakt een selectie en bespreekt de meest aansprekende foto's.",
         "media" : {
-          "objectType" : "program",
-          "mid" : "VPWON_1236158",
-          "creationDate" : 1423460907244,
-          "lastModified" : 1426501946931,
-          "hasSubtitles" : true,
-          "sortDate" : 1425583500000,
-          "urn" : "urn:vpro:media:program:45798628",
+          "objectType" : "group",
+          "mid" : "POMS_S_VPRO_465233",
+          "type" : "SERIES",
+          "avType" : "VIDEO",
+          "workflow" : "PUBLISHED",
+          "sortDate" : 1395323400000,
+          "creationDate" : 1389351000229,
+          "lastModified" : 1395074302464,
+          "urn" : "urn:vpro:media:group:35270752",
           "embeddable" : true,
-          "episodeOf" : [ {
-            "midRef" : "VPWON_1236152",
-            "urnRef" : "urn:vpro:media:group:45308346",
-            "type" : "SEASON",
-            "index" : 6,
-            "highlighted" : false,
-            "added" : 1423460907322
-          } ],
           "broadcasters" : [ {
             "id" : "VPRO",
             "value" : "VPRO"
           } ],
           "titles" : [ {
             "value" : "Fotostudio de Jong",
-            "owner" : "MIS",
+            "owner" : "BROADCASTER",
             "type" : "MAIN"
           }, {
-            "value" : "Fotostudio de Jong",
-            "owner" : "WHATS_ON",
-            "type" : "MAIN"
-          }, {
-            "value" : "Fotostudio de Jong",
-            "owner" : "WHATS_ON",
+            "value" : "vpro.nl playlist",
+            "owner" : "BROADCASTER",
             "type" : "SUB"
           } ],
           "descriptions" : [ {
-            "value" : "Vanuit het Machinegebouw in Amsterdam een liveprogramma over fotografie. De actualiteit vormt de opmaat voor studiogesprekken met verschillende gasten. Welke foto's bepaalden het beeld van de week? Vaste gast is Martijn Kleppe, specialist in persfotografie, die in zijn rubriek 'Waar kijk ik naar?' buiten de kaders van de foto treedt. Foto's die een ander verhaal vertellen dan gedacht. De Jong bespreekt met een bekende fotograaf één foto uit zijn of haar oeuvre. En documentaire-fotograaf Peter de Krom gaat iedere week op pad voor een eigenzinnige reportage. Het publiek mag elke week een foto meenemen met een bijzonder verhaal. De Jong maakt een selectie en bespreekt de meest aansprekende foto's.",
-            "owner" : "MIS",
+            "value" : "Documentairemagazine over fotografie, vanuit Wilfrieds eigen kleine fotogalerie in Rotterdam Fotostudio de Jong. De Jong is voortdurend op zoek naar verhalen achter een foto en staat stil bij het beeld dat hij vindt.",
+            "owner" : "BROADCASTER",
             "type" : "MAIN"
-          }, {
-            "value" : "Vanuit het Machinegebouw in Amsterdam presenteert Wilfried de Jong een liveprogramma over fotografie. De actualiteit vormt de opmaat voor studiogesprekken met verschillende gasten. Welke foto's bepaalden het beeld van de week? Vaste gast is Martijn Kleppe, specialist in persfotografie, die in zijn rubriek 'Waar kijk ik naar?' buiten de kaders van de foto treedt. Foto's die een ander verhaal vertellen dan gedacht. De Jong bespreekt met een bekende fotograaf één foto uit zijn of haar oeuvre. En documentaire-fotograaf Peter de Krom gaat iedere week op pad voor een eigenzinnige reportage. Het publiek mag elke week een foto meenemen met een bijzonder verhaal. De Jong maakt een selectie en bespreekt de meest aansprekende foto's.",
-            "owner" : "WHATS_ON",
-            "type" : "MAIN"
-          }, {
-            "value" : "Liveprogramma over fotografie. De actualiteit vormt de opmaat voor studiogesprekken met verschillende gasten. Welke foto's bepaalden het beeld van de week?",
-            "owner" : "MIS",
-            "type" : "SHORT"
-          }, {
-            "value" : "Wilfried de Jong presenteert een liveprogramma over fotografie. De actualiteit vormt de opmaat voor studiogesprekken met verschillende gasten. Welke foto's bepaalden het beeld van de week?",
-            "owner" : "WHATS_ON",
-            "type" : "SHORT"
-          }, {
-            "value" : "Liveprogramma over fotografie met verschillende gasten. Welke foto's bepaalden het beeld van de week?",
-            "owner" : "MIS",
-            "type" : "KICKER"
-          }, {
-            "value" : " ",
-            "owner" : "MIS",
-            "type" : "EPISODE"
           } ],
-          "genres" : [ {
-            "id" : "3.0.1.7.24",
-            "terms" : [ "Informatief", "Kunst/cultuur" ]
-          } ],
-          "countries" : [ {
-            "code" : "NL",
-            "value" : "Nederland"
-          } ],
+          "genres" : [ ],
+          "countries" : [ ],
           "languages" : [ ],
-          "avAttributes" : {
-            "videoAttributes" : {
-              "color" : "BLACK_AND_WHITE_AND_COLOR",
-              "aspectRatio" : "16:9"
-            },
-            "audioAttributes" : {
-              "numberOfChannels" : 2
-            }
-          },
-          "releaseYear" : 2015,
-          "duration" : 2445000,
           "descendantOf" : [ {
-            "midRef" : "VPWON_1236152",
-            "urnRef" : "urn:vpro:media:group:45308346",
-            "type" : "SEASON"
+            "midRef" : "POMS_S_VPRO_171668",
+            "urnRef" : "urn:vpro:media:group:14683553",
+            "type" : "ARCHIVE"
+          }, {
+            "midRef" : "POMS_S_VPRO_170138",
+            "urnRef" : "urn:vpro:media:group:14921822",
+            "type" : "ARCHIVE"
           } ],
-          "predictions" : [ {
-            "state" : "REALIZED",
-            "platform" : "INTERNETVOD"
-          }, {
-            "state" : "ANNOUNCED",
-            "publishStart" : 1425585908000,
-            "publishStop" : 1457208308000,
-            "platform" : "PLUSVOD"
-          } ],
-          "locations" : [ {
-            "programUrl" : "odip+http://odi.omroep.nl/video/adaptive/VPWON_1236158",
-            "avAttributes" : {
-              "avFileFormat" : "HASP"
-            },
-            "owner" : "CERES",
-            "creationDate" : 1425587946175,
-            "lastModified" : 1425587946368,
-            "workflow" : "PUBLISHED",
-            "platform" : "INTERNETVOD",
-            "urn" : "urn:vpro:media:location:46164033"
-          }, {
-            "programUrl" : "odi+http://odi.omroep.nl/video/h264_sb/VPWON_1236158",
-            "avAttributes" : {
-              "bitrate" : 200000,
-              "avFileFormat" : "H264"
-            },
-            "owner" : "CERES",
-            "creationDate" : 1425586446172,
-            "lastModified" : 1425586446299,
-            "workflow" : "PUBLISHED",
-            "platform" : "INTERNETVOD",
-            "urn" : "urn:vpro:media:location:46163988"
-          }, {
-            "programUrl" : "odi+http://odi.omroep.nl/video/h264_bb/VPWON_1236158",
-            "avAttributes" : {
-              "bitrate" : 500000,
-              "avFileFormat" : "H264"
-            },
-            "owner" : "CERES",
-            "creationDate" : 1425586446455,
-            "lastModified" : 1425586446619,
-            "workflow" : "PUBLISHED",
-            "platform" : "INTERNETVOD",
-            "urn" : "urn:vpro:media:location:46163990"
-          }, {
-            "programUrl" : "odi+http://odi.omroep.nl/video/h264_std/VPWON_1236158",
-            "avAttributes" : {
-              "bitrate" : 1000000,
-              "avFileFormat" : "H264"
-            },
-            "owner" : "CERES",
-            "creationDate" : 1425586744399,
-            "lastModified" : 1425586744657,
-            "workflow" : "PUBLISHED",
-            "platform" : "INTERNETVOD",
-            "urn" : "urn:vpro:media:location:46164002"
-          } ],
-          "scheduleEvents" : [ {
-            "textSubtitles" : "Teletekst ondertitels",
-            "guideDay" : 1425510000000,
-            "start" : 1425583500000,
-            "offset" : 22000,
-            "duration" : 2445000,
-            "poProgID" : "VPWON_1236158",
-            "channel" : "NED2",
-            "net" : "NED2",
-            "urnRef" : "urn:vpro:media:program:45798628",
-            "midRef" : "VPWON_1236158"
-          }, {
-            "guideDay" : 1426028400000,
-            "start" : 1426115040000,
-            "duration" : 2467000,
-            "poProgID" : "VPWON_1236158",
-            "channel" : "NED2",
-            "net" : "NED2",
-            "urnRef" : "urn:vpro:media:program:45798628",
-            "midRef" : "VPWON_1236158"
-          }, {
-            "guideDay" : 1426114800000,
-            "start" : 1426165785000,
-            "duration" : 2467000,
-            "poProgID" : "VPWON_1236158",
-            "channel" : "NED2",
-            "net" : "NED2",
-            "urnRef" : "urn:vpro:media:program:45798628",
-            "midRef" : "VPWON_1236158"
+          "memberOf" : [ {
+            "midRef" : "POMS_S_VPRO_170138",
+            "urnRef" : "urn:vpro:media:group:14921822",
+            "type" : "ARCHIVE",
+            "index" : 733,
+            "highlighted" : false,
+            "added" : 1390910611142
           } ],
           "images" : [ {
-            "title" : "Fotostudio de Jong",
-            "description" : "Liveprogramma over fotografie. De actualiteit vormt de opmaat voor studiogesprekken met verschillende gasten. Welke foto's bepaalden het beeld van de week?",
-            "imageUri" : "urn:vpro:image:395893",
-            "owner" : "NEBO",
-            "type" : "STILL",
+            "title" : "fotostudio de jong",
+            "description" : "foto",
+            "imageUri" : "urn:vpro:image:339941",
+            "height" : 718,
+            "width" : 1280,
+            "owner" : "BROADCASTER",
+            "type" : "PICTURE",
             "highlighted" : false,
-            "creationDate" : 1425589206960,
-            "lastModified" : 1425589207744,
+            "creationDate" : 1389351099594,
+            "lastModified" : 1389351099656,
             "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:image:46164065"
-          }, {
-            "title" : "Fotostudio de Jong",
-            "description" : "Liveprogramma over fotografie. De actualiteit vormt de opmaat voor studiogesprekken met verschillende gasten. Welke foto's bepaalden het beeld van de week?",
-            "imageUri" : "urn:vpro:image:395894",
-            "owner" : "NEBO",
-            "type" : "STILL",
-            "highlighted" : false,
-            "creationDate" : 1425589207294,
-            "lastModified" : 1425589207745,
-            "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:image:46164066"
-          }, {
-            "title" : "Fotostudio de Jong",
-            "description" : "Liveprogramma over fotografie. De actualiteit vormt de opmaat voor studiogesprekken met verschillende gasten. Welke foto's bepaalden het beeld van de week?",
-            "imageUri" : "urn:vpro:image:395895",
-            "owner" : "NEBO",
-            "type" : "STILL",
-            "highlighted" : false,
-            "creationDate" : 1425589207622,
-            "lastModified" : 1425589207746,
-            "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:image:46164067"
+            "urn" : "urn:vpro:media:image:35271002"
           } ],
-          "publishDate" : 1426502307416,
-          "workflow" : "PUBLISHED",
-          "type" : "BROADCAST",
-          "avType" : "VIDEO"
+          "isOrdered" : true
         }
       } ],
       "images" : [ {
         "type" : "PICTURE",
-        "url" : "http://images.poms.omroep.nl/image/s360/395893.jpg",
-        "title" : "Fotostudio de Jong",
-        "description" : "Liveprogramma over fotografie. De actualiteit vormt de opmaat voor studiogesprekken met verschillende gasten. Welke foto's bepaalden het beeld van de week?"
+        "url" : "http://images.poms.omroep.nl/image/s360/339941.jpg",
+        "title" : "fotostudio de jong",
+        "description" : "foto"
       } ],
-      "publishStart" : 1425583500000,
-      "creationDate" : 1425918348585,
-      "lastModified" : 1426502331105,
+      "publishStart" : 1389305612697,
+      "creationDate" : 1426254280711,
+      "lastModified" : 1426254280716,
       "refCount" : 0
     }
   }, {
     "highlights" : [ ],
     "result" : {
       "objectType" : "page",
-      "type" : "PLAYER",
-      "url" : "http://www-test.vpro.nl/speel.VPWON_1236159.html",
-      "sortDate" : 1426188359000,
-      "crids" : [ "crid://vpro/media/vpro/VPWON_1236159" ],
+      "type" : "ARTICLE",
+      "url" : "http://www-acc.cultura.nl/genres/kunst/2015/fotostudio_de_jong_vpro.html",
+      "sortDate" : 1424252880000,
+      "crids" : [ "crid://vpro/website/a74f4c0b-5766-4ec4-8430-5771d78f6d6f" ],
       "broadcasters" : [ {
         "id" : "VPRO",
         "value" : "VPRO"
       } ],
       "portal" : {
-        "id" : "VPRONL",
-        "url" : "http://www-test.vpro.nl",
-        "value" : "VPRO.nl"
+        "id" : "CULTURA24",
+        "url" : "http://www-acc.cultura.nl",
+        "value" : "NPO Cultura"
       },
-      "title" : "Fotostudio de Jong",
-      "genres" : [ {
-        "id" : "3.0.1.7.24",
-        "terms" : [ "Informatief", "Kunst/cultuur" ],
-        "displayName" : "Informatief - Kunst/cultuur"
+      "title" : "Fotostudio De Jong",
+      "subTitle" : "5 februari 2015",
+      "summary" : "Vanaf donderdag 29 januari start een nieuw seizoen van Fotostudio De Jong op NPO 2. Vanuit het Machinegebouw in Amsterdam presenteert Wilfried de Jong acht weken lang een wekelijks liveprogramma over fotografie. De actualiteit vormt de opmaat voor studiogesprekken met verschillende gasten. Welke foto’s bepaalden het beeld van die week?",
+      "paragraphs" : [ {
+        "title" : "19 februari 2015",
+        "body" : "In de vierde aflevering is de Nederlandse fotograaf Jeroen Kramer te gast. Hij heeft de Syrische president Assad meerdere malen voor zijn lens gehad en leerde een andere man kennen dan alleen de dictator achter het schrikbewind. Fotograaf Marielle van Uitert is net terug uit Afghanistan en zij vertelt het verhaal achter de foto van een aan drugs verslaafde prostituee in Kaboel. En foto-onderzoeker Martijn Kleppe gaat in zijn rubriek 'Waar kijk ik naar' in op de vraag hoe verschillend foto's van politici in de media worden geïnterpreteerd.   NPO 2: Donderdag 19 februari om 20:25 uur"
+      }, {
+        "title" : "Meer Fotostudio De Jong"
+      }, {
+        "body" : "Alles over het tweede seizoen - VPRO"
+      }, {
+        "title" : "Kijk ook"
+      }, {
+        "title" : "Auteur",
+        "body" : "VPRO"
       } ],
       "embeds" : [ {
-        "title" : "Fotostudio de Jong",
-        "description" : "Vanuit het Machinegebouw in Amsterdam een liveprogramma over fotografie. De actualiteit vormt de opmaat voor studiogesprekken met verschillende gasten. Welke foto's bepaalden het beeld van de week? Vaste gast is Martijn Kleppe, specialist in persfotografie, die in zijn rubriek 'Waar kijk ik naar?' buiten de kaders van de foto treedt. Foto's die een ander verhaal vertellen dan gedacht. De Jong bespreekt met een bekende fotograaf één foto uit zijn of haar oeuvre. En documentaire-fotograaf Peter de Krom gaat iedere week op pad voor een eigenzinnige reportage. Het publiek mag elke week een foto meenemen met een bijzonder verhaal. De Jong maakt een selectie en bespreekt de meest aansprekende foto's.",
+        "title" : "19 februari",
         "media" : {
           "objectType" : "program",
-          "mid" : "VPWON_1236159",
-          "creationDate" : 1424065805295,
-          "lastModified" : 1426917264909,
-          "hasSubtitles" : true,
-          "sortDate" : 1426188359000,
-          "urn" : "urn:vpro:media:program:45905562",
+          "mid" : "VPWON_1236156",
+          "type" : "BROADCAST",
+          "avType" : "VIDEO",
+          "workflow" : "PUBLISHED",
+          "sortDate" : 1424373911000,
+          "creationDate" : 1422251525735,
+          "lastModified" : 1440077166851,
+          "urn" : "urn:vpro:media:program:50657190",
           "embeddable" : true,
           "episodeOf" : [ {
             "midRef" : "VPWON_1236152",
-            "urnRef" : "urn:vpro:media:group:45308346",
+            "urnRef" : "urn:vpro:media:group:49815164",
             "type" : "SEASON",
-            "index" : 7,
+            "index" : 4,
             "highlighted" : false,
-            "added" : 1424065805373
+            "added" : 1422251525837
           } ],
           "broadcasters" : [ {
             "id" : "VPRO",
@@ -333,200 +197,407 @@
             "value" : "Fotostudio de Jong",
             "owner" : "WHATS_ON",
             "type" : "MAIN"
-          }, {
-            "value" : "Fotostudio de Jong",
-            "owner" : "WHATS_ON",
-            "type" : "SUB"
           } ],
           "descriptions" : [ {
-            "value" : "Vanuit het Machinegebouw in Amsterdam een liveprogramma over fotografie. De actualiteit vormt de opmaat voor studiogesprekken met verschillende gasten. Welke foto's bepaalden het beeld van de week? Vaste gast is Martijn Kleppe, specialist in persfotografie, die in zijn rubriek 'Waar kijk ik naar?' buiten de kaders van de foto treedt. Foto's die een ander verhaal vertellen dan gedacht. De Jong bespreekt met een bekende fotograaf één foto uit zijn of haar oeuvre. En documentaire-fotograaf Peter de Krom gaat iedere week op pad voor een eigenzinnige reportage. Het publiek mag elke week een foto meenemen met een bijzonder verhaal. De Jong maakt een selectie en bespreekt de meest aansprekende foto's.",
+            "value" : "Te gast is de Nederlandse fotograaf Jeroen Kramer die de Syrische president Assad meerdere malen voor zijn lens had. Hij leerde een andere man kennen dan alleen de dictator achter het schrikbewind. Ook te gast is fotograaf Marielle van Uitert, die net terug is uit Afghanistan en in de studio het verhaal vertelt achter de foto van een aan drugs verslaafde prostituee in Kaboel. Foto-onderzoeker Martijn Kleppe gaat in zijn rubriek 'Waar kijk ik naar' in op de vraag hoe verschillend foto's van politici in de media worden geïnterpreteerd.  \n",
+            "owner" : "BROADCASTER",
+            "type" : "MAIN"
+          }, {
+            "value" : "Te gast is de Nederlandse fotograaf Jeroen Kramer die de Syrische president Assad meerdere malen voor zijn lens had. Hij leerde een andere man kennen dan alleen de dictator achter het schrikbewind. Ook te gast is fotograaf Marielle van Uitert, die net terug is uit Afghanistan en in de studio het verhaal vertelt achter de foto van een aan drugs verslaafde prostituee in Kaboel. Foto-onderzoeker Martijn Kleppe gaat in zijn rubriek 'Waar kijk ik naar' in op de vraag hoe verschillend foto's van politici in de media worden geïnterpreteerd.",
             "owner" : "MIS",
             "type" : "MAIN"
           }, {
-            "value" : "Vanuit het Machinegebouw in Amsterdam presenteert Wilfried de Jong een liveprogramma over fotografie. De actualiteit vormt de opmaat voor studiogesprekken met verschillende gasten. Welke foto's bepaalden het beeld van de week? Vaste gast is Martijn Kleppe, specialist in persfotografie, die in zijn rubriek 'Waar kijk ik naar?' buiten de kaders van de foto treedt. Foto's die een ander verhaal vertellen dan gedacht. De Jong bespreekt met een bekende fotograaf één foto uit zijn of haar oeuvre. En documentaire-fotograaf Peter de Krom gaat iedere week op pad voor een eigenzinnige reportage. Het publiek mag elke week een foto meenemen met een bijzonder verhaal. De Jong maakt een selectie en bespreekt de meest aansprekende foto's.",
+            "value" : "Te gast is de Nederlandse fotograaf Jeroen Kramer die de Syrische president Assad meerdere malen voor zijn lens had. Hij leerde een andere man kennen dan alleen de dictator achter het schrikbewind. Ook te gast is fotograaf Marielle van Uitert, die net terug is uit Afghanistan en in de studio het verhaal vertelt achter de foto van een aan drugs verslaafde prostituee in Kaboel. Foto-onderzoeker Martijn Kleppe gaat in zijn rubriek 'Waar kijk ik naar' in op de vraag hoe verschillend foto's van politici in de media worden geïnterpreteerd.",
             "owner" : "WHATS_ON",
             "type" : "MAIN"
           }, {
-            "value" : "Wilfried de Jong presenteert een liveprogramma over fotografie. De actualiteit vormt de opmaat voor studiogesprekken met verschillende gasten. Welke foto's bepaalden het beeld van de week?",
+            "value" : "Te gast zijn fotograaf Jeroen Kramer die de Syrische president Assad voor zijn lens had, fotograaf Marielle van Uitert, die net terug is uit Afghanistan en foto-onderzoeker Martijn Kleppe.  ",
+            "owner" : "BROADCASTER",
+            "type" : "SHORT"
+          }, {
+            "value" : "Te gast zijn fotograaf Jeroen Kramer die de Syrische president Assad voor zijn lens had, fotograaf Marielle van Uitert, die net terug is uit Afghanistan en foto-onderzoeker Martijn Kleppe.",
             "owner" : "MIS",
             "type" : "SHORT"
           }, {
-            "value" : "Wilfried de Jong presenteert een liveprogramma over fotografie. De actualiteit vormt de opmaat voor studiogesprekken met verschillende gasten. Welke foto's bepaalden het beeld van de week?",
+            "value" : "Te gast zijn fotograaf Jeroen Kramer die de Syrische president Assad voor zijn lens had, fotograaf Marielle van Uitert, die net terug is uit Afghanistan en foto-onderzoeker Martijn Kleppe.",
             "owner" : "WHATS_ON",
             "type" : "SHORT"
           }, {
-            "value" : "Wilfried de Jong presenteert een liveprogramma over fotografie met verschillende gasten. Welke foto's bepaalden het beeld van de week?",
+            "value" : "Te gast is de Nederlandse fotograaf Jeroen Kramer die de Syrische president Assad meerdere malen voor zijn lens had. Hij leerde een andere man kennen dan alleen de dictator achter het schrikbewind. Ook te gast is fotograaf Marielle van Uitert, die net terug is uit Afghanistan en in de studio het verhaal vertelt achter de foto van een aan drugs verslaafde prostituee in Kaboel. Foto-onderzoeker Martijn Kleppe gaat in zijn rubriek 'Waar kijk ik naar' in op de vraag hoe verschillend foto's van politici in de media worden geïnterpreteerd.  \n",
+            "owner" : "BROADCASTER",
+            "type" : "EPISODE"
+          }, {
+            "value" : "Te gast zijn fotograaf Jeroen Kramer, die Assad voor zijn lens had, fotograaf Marielle van Uitert en foto-onderzoeker Martijn Kleppe.",
             "owner" : "MIS",
             "type" : "KICKER"
-          }, {
-            "value" : " ",
-            "owner" : "MIS",
-            "type" : "EPISODE"
           } ],
           "genres" : [ {
             "id" : "3.0.1.7.24",
             "terms" : [ "Informatief", "Kunst/cultuur" ]
           } ],
+          "hasSubtitles" : true,
           "countries" : [ {
             "code" : "NL",
             "value" : "Nederland"
           } ],
           "languages" : [ ],
           "avAttributes" : {
-            "videoAttributes" : {
-              "color" : "BLACK_AND_WHITE_AND_COLOR",
-              "aspectRatio" : "16:9"
-            },
-            "audioAttributes" : {
-              "numberOfChannels" : 2
-            }
+            "videoAttributes" : { },
+            "audioAttributes" : { }
           },
           "releaseYear" : 2015,
-          "duration" : 2445000,
+          "duration" : 2323300,
           "descendantOf" : [ {
+            "midRef" : "POMS_S_VPRO_171668",
+            "urnRef" : "urn:vpro:media:group:14683553",
+            "type" : "ARCHIVE"
+          }, {
+            "midRef" : "POMS_S_VPRO_170138",
+            "urnRef" : "urn:vpro:media:group:14921822",
+            "type" : "ARCHIVE"
+          }, {
+            "midRef" : "POMS_S_VPRO_465233",
+            "urnRef" : "urn:vpro:media:group:35270752",
+            "type" : "SERIES"
+          }, {
             "midRef" : "VPWON_1236152",
-            "urnRef" : "urn:vpro:media:group:45308346",
+            "urnRef" : "urn:vpro:media:group:49815164",
             "type" : "SEASON"
+          }, {
+            "midRef" : "POMS_S_VPRO_793224",
+            "urnRef" : "urn:vpro:media:group:51646466",
+            "type" : "COLLECTION"
           } ],
           "predictions" : [ {
             "state" : "REALIZED",
             "platform" : "INTERNETVOD"
           }, {
-            "state" : "ANNOUNCED",
-            "publishStart" : 1426190772000,
-            "publishStop" : 1457813172000,
+            "state" : "REALIZED",
+            "publishStart" : 1424376352000,
+            "publishStop" : 1455998752000,
             "platform" : "PLUSVOD"
           } ],
           "locations" : [ {
-            "programUrl" : "odip+http://odi.omroep.nl/video/adaptive/VPWON_1236159",
+            "programUrl" : "odip+http://odi.omroep.nl/video/adaptive/VPWON_1236156",
             "avAttributes" : {
               "avFileFormat" : "HASP"
             },
             "owner" : "CERES",
-            "creationDate" : 1426192704706,
-            "lastModified" : 1426192704807,
-            "workflow" : "PUBLISHED",
             "platform" : "INTERNETVOD",
-            "urn" : "urn:vpro:media:location:46266069"
+            "creationDate" : 1424377865209,
+            "lastModified" : 1424377866012,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:51706357"
           }, {
-            "programUrl" : "odi+http://odi.omroep.nl/video/h264_sb/VPWON_1236159",
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_sb/VPWON_1236156",
             "avAttributes" : {
               "bitrate" : 200000,
               "avFileFormat" : "H264"
             },
             "owner" : "CERES",
-            "creationDate" : 1426191531137,
-            "lastModified" : 1426191531235,
-            "workflow" : "PUBLISHED",
             "platform" : "INTERNETVOD",
-            "urn" : "urn:vpro:media:location:46266019"
+            "creationDate" : 1424376679441,
+            "lastModified" : 1424376679945,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:51705948"
           }, {
-            "programUrl" : "odi+http://odi.omroep.nl/video/h264_bb/VPWON_1236159",
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_bb/VPWON_1236156",
             "avAttributes" : {
               "bitrate" : 500000,
               "avFileFormat" : "H264"
             },
             "owner" : "CERES",
-            "creationDate" : 1426191531338,
-            "lastModified" : 1426191531491,
-            "workflow" : "PUBLISHED",
             "platform" : "INTERNETVOD",
-            "urn" : "urn:vpro:media:location:46266021"
+            "creationDate" : 1424376965316,
+            "lastModified" : 1424376965567,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:51706065"
           }, {
-            "programUrl" : "odi+http://odi.omroep.nl/video/h264_std/VPWON_1236159",
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_std/VPWON_1236156",
             "avAttributes" : {
               "bitrate" : 1000000,
               "avFileFormat" : "H264"
             },
             "owner" : "CERES",
-            "creationDate" : 1426191928085,
-            "lastModified" : 1426191928249,
-            "workflow" : "PUBLISHED",
             "platform" : "INTERNETVOD",
-            "urn" : "urn:vpro:media:location:46266067"
+            "creationDate" : 1424376981685,
+            "lastModified" : 1424376982126,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:51706070"
+          }, {
+            "programUrl" : "sub+http://npoplus.nl/video/mpeg2_hr/VPWON_1236156",
+            "avAttributes" : {
+              "bitrate" : 3500000,
+              "avFileFormat" : "MPEG2"
+            },
+            "owner" : "CERES",
+            "platform" : "PLUSVOD",
+            "creationDate" : 1424376672128,
+            "lastModified" : 1424376672397,
+            "publishStart" : 1424376352000,
+            "publishStop" : 1455998752000,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:51705942"
           } ],
           "scheduleEvents" : [ {
-            "guideDay" : 1426114800000,
-            "start" : 1426188359000,
-            "duration" : 2418000,
-            "poProgID" : "VPWON_1236159",
+            "guideDay" : 1424300400000,
+            "start" : 1424373911000,
+            "duration" : 2323000,
+            "poProgID" : "VPWON_1236156",
             "channel" : "NED2",
-            "net" : "NED2",
-            "urnRef" : "urn:vpro:media:program:45905562",
-            "midRef" : "VPWON_1236159"
+            "urnRef" : "urn:vpro:media:program:50657190",
+            "midRef" : "VPWON_1236156"
           }, {
-            "repeat" : {
-              "isRerun" : true
+            "guideDay" : 1424818800000,
+            "start" : 1424905187000,
+            "duration" : 2321000,
+            "poProgID" : "VPWON_1236156",
+            "channel" : "NED2",
+            "urnRef" : "urn:vpro:media:program:50657190",
+            "midRef" : "VPWON_1236156"
+          }, {
+            "guideDay" : 1424905200000,
+            "start" : 1424956196000,
+            "duration" : 2322000,
+            "poProgID" : "VPWON_1236156",
+            "channel" : "NED2",
+            "urnRef" : "urn:vpro:media:program:50657190",
+            "midRef" : "VPWON_1236156"
+          } ],
+          "images" : [ {
+            "title" : "fotostudio de jong ",
+            "description" : "fotostudio de jong ",
+            "imageUri" : "urn:vpro:image:578187",
+            "height" : 598,
+            "width" : 1066,
+            "owner" : "BROADCASTER",
+            "type" : "STILL",
+            "highlighted" : true,
+            "creationDate" : 1424781921131,
+            "lastModified" : 1424781921345,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:51860533"
+          } ],
+          "publishDate" : 1440077285067
+        }
+      }, {
+        "title" : "12 februari ",
+        "media" : {
+          "objectType" : "program",
+          "mid" : "VPWON_1236155",
+          "type" : "BROADCAST",
+          "avType" : "VIDEO",
+          "workflow" : "PUBLISHED",
+          "sortDate" : 1423769426000,
+          "creationDate" : 1421646715378,
+          "lastModified" : 1440131193002,
+          "urn" : "urn:vpro:media:program:50379153",
+          "embeddable" : true,
+          "episodeOf" : [ {
+            "midRef" : "VPWON_1236152",
+            "urnRef" : "urn:vpro:media:group:49815164",
+            "type" : "SEASON",
+            "index" : 3,
+            "highlighted" : false,
+            "added" : 1421646715508
+          } ],
+          "broadcasters" : [ {
+            "id" : "VPRO",
+            "value" : "VPRO"
+          } ],
+          "titles" : [ {
+            "value" : "Fotostudio de Jong",
+            "owner" : "MIS",
+            "type" : "MAIN"
+          }, {
+            "value" : "Fotostudio de Jong",
+            "owner" : "WHATS_ON",
+            "type" : "MAIN"
+          } ],
+          "descriptions" : [ {
+            "value" : "Vanuit het Machinegebouw in Amsterdam presenteert Wilfried de Jong een liveprogramma over fotografie. De actualiteit vormt de opmaat voor studiogesprekken met verschillende gasten. Welke foto's bepaalden het beeld van de week? Vaste gast is Martijn Kleppe, specialist in persfotografie, die in zijn rubriek 'Waar kijk ik naar?' buiten de kaders van de foto treedt. Foto's die een ander verhaal vertellen dan gedacht. De Jong bespreekt met een bekende fotograaf één foto uit zijn of haar oeuvre. En documentaire-fotograaf Peter de Krom gaat iedere week op pad voor een eigenzinnige reportage. Het publiek mag elke week een foto meenemen met een bijzonder verhaal. De Jong maakt een selectie en bespreekt de meest aansprekende foto's.",
+            "owner" : "MIS",
+            "type" : "MAIN"
+          }, {
+            "value" : "Wilfried de Jong presenteert een liveprogramma over fotografie. De actualiteit vormt de opmaat voor studiogesprekken met verschillende gasten. Welke foto's bepaalden het beeld van de week?  Vanuit het Machinegebouw in Amsterdam presenteert Wilfried de Jong een liveprogramma over fotografie. De actualiteit vormt de opmaat voor studiogesprekken met verschillende gasten. Welke foto's bepaalden het beeld van de week? Vaste gast is Martijn Kleppe, specialist in persfotografie, die in zijn rubriek 'Waar kijk ik naar?' buiten de kaders van de foto treedt. Foto's die een ander verhaal vertellen dan gedacht. De Jong bespreekt met een bekende fotograaf één foto uit zijn of haar oeuvre. En documentaire-fotograaf Peter de Krom gaat iedere week op pad voor een eigenzinnige reportage. Het publiek mag elke week een foto meenemen met een bijzonder verhaal. De Jong maakt een selectie en bespreekt de meest aansprekende foto's.  Wilfried de Jong presenteert een liveprogramma over fotografie met verschillende gasten. Welke foto's bepaalden het beeld van de week?",
+            "owner" : "WHATS_ON",
+            "type" : "MAIN"
+          }, {
+            "value" : "Wilfried de Jong presenteert een liveprogramma over fotografie. De actualiteit vormt de opmaat voor studiogesprekken met verschillende gasten. Welke foto's bepaalden het beeld van de week?",
+            "owner" : "MIS",
+            "type" : "SHORT"
+          }, {
+            "value" : "Wilfried de Jong presenteert een liveprogramma over fotografie met verschillende gasten. Welke foto's bepaalden het beeld van de week?",
+            "owner" : "MIS",
+            "type" : "KICKER"
+          } ],
+          "genres" : [ {
+            "id" : "3.0.1.7.24",
+            "terms" : [ "Informatief", "Kunst/cultuur" ]
+          } ],
+          "hasSubtitles" : true,
+          "countries" : [ {
+            "code" : "NL",
+            "value" : "Nederland"
+          } ],
+          "languages" : [ ],
+          "avAttributes" : {
+            "videoAttributes" : { },
+            "audioAttributes" : { }
+          },
+          "releaseYear" : 2015,
+          "duration" : 2358600,
+          "descendantOf" : [ {
+            "midRef" : "POMS_S_VPRO_171668",
+            "urnRef" : "urn:vpro:media:group:14683553",
+            "type" : "ARCHIVE"
+          }, {
+            "midRef" : "POMS_S_VPRO_170138",
+            "urnRef" : "urn:vpro:media:group:14921822",
+            "type" : "ARCHIVE"
+          }, {
+            "midRef" : "POMS_S_VPRO_465233",
+            "urnRef" : "urn:vpro:media:group:35270752",
+            "type" : "SERIES"
+          }, {
+            "midRef" : "VPWON_1236152",
+            "urnRef" : "urn:vpro:media:group:49815164",
+            "type" : "SEASON"
+          }, {
+            "midRef" : "POMS_S_VPRO_793224",
+            "urnRef" : "urn:vpro:media:group:51646466",
+            "type" : "COLLECTION"
+          } ],
+          "predictions" : [ {
+            "state" : "REALIZED",
+            "platform" : "INTERNETVOD"
+          }, {
+            "state" : "REALIZED",
+            "publishStart" : 1423771867000,
+            "publishStop" : 1455394267000,
+            "platform" : "PLUSVOD"
+          } ],
+          "locations" : [ {
+            "programUrl" : "odip+http://odi.omroep.nl/video/adaptive/VPWON_1236155",
+            "avAttributes" : {
+              "avFileFormat" : "HASP"
             },
-            "textSubtitles" : "Teletekst ondertitels",
-            "guideDay" : 1426633200000,
-            "start" : 1426721100000,
-            "offset" : 57000,
-            "duration" : 2445000,
-            "poProgID" : "VPWON_1236159",
-            "channel" : "NED2",
-            "net" : "NED2",
-            "urnRef" : "urn:vpro:media:program:45905562",
-            "midRef" : "VPWON_1236159"
+            "owner" : "CERES",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1423773669088,
+            "lastModified" : 1423773670181,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:51430689"
           }, {
-            "guideDay" : 1426719600000,
-            "start" : 1426770548000,
-            "duration" : 2417000,
-            "poProgID" : "VPWON_1236159",
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_sb/VPWON_1236155",
+            "avAttributes" : {
+              "bitrate" : 200000,
+              "avFileFormat" : "H264"
+            },
+            "owner" : "CERES",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1423772168254,
+            "lastModified" : 1423772168547,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:51430012"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_bb/VPWON_1236155",
+            "avAttributes" : {
+              "bitrate" : 500000,
+              "avFileFormat" : "H264"
+            },
+            "owner" : "CERES",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1423772470540,
+            "lastModified" : 1423772470767,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:51430050"
+          }, {
+            "programUrl" : "odi+http://odi.omroep.nl/video/h264_std/VPWON_1236155",
+            "avAttributes" : {
+              "bitrate" : 1000000,
+              "avFileFormat" : "H264"
+            },
+            "owner" : "CERES",
+            "platform" : "INTERNETVOD",
+            "creationDate" : 1423772470906,
+            "lastModified" : 1423772471210,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:51430053"
+          }, {
+            "programUrl" : "sub+http://npoplus.nl/video/mpeg2_hr/VPWON_1236155",
+            "avAttributes" : {
+              "bitrate" : 3500000,
+              "avFileFormat" : "MPEG2"
+            },
+            "owner" : "CERES",
+            "platform" : "PLUSVOD",
+            "creationDate" : 1423772472228,
+            "lastModified" : 1423772472512,
+            "publishStart" : 1423771867000,
+            "publishStop" : 1455394267000,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:51430059"
+          } ],
+          "scheduleEvents" : [ {
+            "guideDay" : 1423695600000,
+            "start" : 1423769426000,
+            "duration" : 2358000,
+            "poProgID" : "VPWON_1236155",
             "channel" : "NED2",
-            "net" : "NED2",
-            "urnRef" : "urn:vpro:media:program:45905562",
-            "midRef" : "VPWON_1236159"
+            "urnRef" : "urn:vpro:media:program:50379153",
+            "midRef" : "VPWON_1236155"
+          }, {
+            "guideDay" : 1424214000000,
+            "start" : 1424300235000,
+            "duration" : 2358000,
+            "poProgID" : "VPWON_1236155",
+            "channel" : "NED2",
+            "urnRef" : "urn:vpro:media:program:50379153",
+            "midRef" : "VPWON_1236155"
+          }, {
+            "guideDay" : 1424300400000,
+            "start" : 1424351320000,
+            "duration" : 2358000,
+            "poProgID" : "VPWON_1236155",
+            "channel" : "NED2",
+            "urnRef" : "urn:vpro:media:program:50379153",
+            "midRef" : "VPWON_1236155"
           } ],
           "images" : [ {
             "title" : "Fotostudio de Jong",
-            "description" : "Liveprogramma over fotografie. De actualiteit vormt de opmaat voor studiogesprekken met verschillende gasten. Welke foto's bepaalden het beeld van de week?",
-            "imageUri" : "urn:vpro:image:397907",
+            "description" : "Wilfried de Jong presenteert een liveprogramma over fotografie. De actualiteit vormt de opmaat voor studiogesprekken met verschillende gasten. Welke foto's bepaalden het beeld van de week?",
+            "imageUri" : "urn:vpro:image:573149",
             "owner" : "NEBO",
             "type" : "STILL",
             "highlighted" : false,
-            "creationDate" : 1426194003214,
-            "lastModified" : 1426194005089,
+            "creationDate" : 1423773002430,
+            "lastModified" : 1423773004849,
             "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:image:46266113"
+            "urn" : "urn:vpro:media:image:51430416"
           }, {
             "title" : "Fotostudio de Jong",
-            "description" : "Liveprogramma over fotografie. De actualiteit vormt de opmaat voor studiogesprekken met verschillende gasten. Welke foto's bepaalden het beeld van de week?",
-            "imageUri" : "urn:vpro:image:397908",
+            "description" : "Wilfried de Jong presenteert een liveprogramma over fotografie. De actualiteit vormt de opmaat voor studiogesprekken met verschillende gasten. Welke foto's bepaalden het beeld van de week?",
+            "imageUri" : "urn:vpro:image:573150",
             "owner" : "NEBO",
             "type" : "STILL",
             "highlighted" : false,
-            "creationDate" : 1426194004454,
-            "lastModified" : 1426194005090,
+            "creationDate" : 1423773003818,
+            "lastModified" : 1423773004850,
             "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:image:46266114"
-          }, {
-            "title" : "Fotostudio de Jong",
-            "description" : "Liveprogramma over fotografie. De actualiteit vormt de opmaat voor studiogesprekken met verschillende gasten. Welke foto's bepaalden het beeld van de week?",
-            "imageUri" : "urn:vpro:image:397909",
-            "owner" : "NEBO",
-            "type" : "STILL",
-            "highlighted" : false,
-            "creationDate" : 1426194004862,
-            "lastModified" : 1426194005091,
-            "workflow" : "PUBLISHED",
-            "urn" : "urn:vpro:media:image:46266115"
+            "urn" : "urn:vpro:media:image:51430417"
           } ],
-          "publishDate" : 1426917714426,
-          "workflow" : "PUBLISHED",
-          "type" : "BROADCAST",
-          "avType" : "VIDEO"
+          "publishDate" : 1440131374189
         }
       } ],
       "images" : [ {
         "type" : "PICTURE",
-        "url" : "http://images.poms.omroep.nl/image/s360/397907.jpg",
-        "title" : "Fotostudio de Jong",
-        "description" : "Liveprogramma over fotografie. De actualiteit vormt de opmaat voor studiogesprekken met verschillende gasten. Welke foto's bepaalden het beeld van de week?"
+        "url" : "http://www-acc.cultura.nl/.imaging/stk/cultura/search/media/cultura/Kunst/FotostudiodeJong/original/FotostudiodeJong.jpg",
+        "title" : "/cultura/genres/kunst/2015/fotostudio_de_jong_vpro"
       } ],
-      "publishStart" : 1426188359000,
-      "creationDate" : 1426194054781,
-      "lastModified" : 1427201897287,
+      "publishStart" : 1424252880000,
+      "creationDate" : 1423227548165,
+      "lastModified" : 1443606155398,
       "refCount" : 0
     }
   } ]

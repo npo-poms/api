@@ -3,14 +3,17 @@
   "offset" : 0,
   "max" : 2,
   "items" : [ {
-    "score" : 27.943392,
+    "score" : 27.55592,
     "highlights" : [ ],
     "result" : {
       "objectType" : "program",
       "mid" : "WO_VPRO_336459",
+      "type" : "TRACK",
+      "avType" : "AUDIO",
+      "workflow" : "PUBLISHED",
+      "sortDate" : 1365082172037,
       "creationDate" : 1365082172037,
       "lastModified" : 1365082172530,
-      "sortDate" : 1365082172037,
       "urn" : "urn:vpro:media:program:24038959",
       "embeddable" : true,
       "broadcasters" : [ {
@@ -68,20 +71,20 @@
         "lastModified" : 1365082172530,
         "workflow" : "PUBLISHED",
         "urn" : "urn:vpro:media:image:24038967"
-      } ],
-      "workflow" : "PUBLISHED",
-      "type" : "TRACK",
-      "avType" : "AUDIO"
+      } ]
     }
   }, {
-    "score" : 26.124561,
+    "score" : 24.414347,
     "highlights" : [ ],
     "result" : {
       "objectType" : "program",
       "mid" : "POMS_VPRO_194437",
+      "type" : "TRACK",
+      "avType" : "AUDIO",
+      "workflow" : "PUBLISHED",
+      "sortDate" : 1325589509971,
       "creationDate" : 1325589509971,
       "lastModified" : 1325589510258,
-      "sortDate" : 1325589509971,
       "urn" : "urn:vpro:media:program:12219920",
       "embeddable" : true,
       "broadcasters" : [ {
@@ -131,7 +134,6 @@
       } ],
       "images" : [ {
         "title" : "Heavy Flowers",
-        "description" : "",
         "imageUri" : "urn:vpro.image:36153",
         "owner" : "BROADCASTER",
         "type" : "PICTURE",
@@ -140,10 +142,7 @@
         "lastModified" : 1325589510217,
         "workflow" : "PUBLISHED",
         "urn" : "urn:vpro:media:image:12219928"
-      } ],
-      "workflow" : "PUBLISHED",
-      "type" : "TRACK",
-      "avType" : "AUDIO"
+      } ]
     }
   } ]
 }

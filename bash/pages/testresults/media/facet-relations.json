@@ -3,28 +3,260 @@
   "selectedFacets" : { },
   "mediaFacets" : {
     "relations" : [ {
-      "name" : "labels",
-      "facet" : [ ]
+      "name" : "labels"
     }, {
       "name" : "artiesten",
-      "facet" : [ ]
+      "facet" : [ {
+        "count" : 8,
+        "selected" : true,
+        "id" : "Blaudzun",
+        "value" : "Blaudzun"
+      } ]
     } ]
   },
   "mediaSelectedFacets" : {
     "relations" : [ {
-      "name" : "labels",
-      "facet" : [ ]
+      "name" : "labels"
     }, {
       "name" : "artiesten",
       "facet" : [ {
-        "count" : 0,
+        "count" : 8,
         "selected" : true,
-        "id" : "Blaudzun"
+        "id" : "Blaudzun",
+        "value" : "Blaudzun"
       } ]
     } ]
   },
-  "total" : 0,
+  "total" : 8,
   "offset" : 0,
   "max" : 2,
-  "items" : [ ]
+  "items" : [ {
+    "highlights" : [ ],
+    "result" : {
+      "objectType" : "page",
+      "type" : "VIDEO",
+      "url" : "http://www-acc.vpro.nl/speel.WO_VPRO_032222.html",
+      "sortDate" : 1332164307853,
+      "crids" : [ "crid://vpro/media/vpro/WO_VPRO_032222" ],
+      "broadcasters" : [ {
+        "id" : "VPRO",
+        "value" : "VPRO"
+      } ],
+      "portal" : {
+        "id" : "VPRONL",
+        "url" : "http://www-acc.vpro.nl",
+        "value" : "VPRO.nl"
+      },
+      "title" : "AFZIEN?! - Mr. Polska & Boaz over Blaudzun - Elephants (MRT '12)",
+      "embeds" : [ {
+        "title" : "AFZIEN?! - Mr. Polska & Boaz over Blaudzun - Elephants (MRT '12)",
+        "media" : {
+          "objectType" : "program",
+          "mid" : "WO_VPRO_032222",
+          "type" : "CLIP",
+          "avType" : "VIDEO",
+          "workflow" : "PUBLISHED",
+          "sortDate" : 1332164307853,
+          "creationDate" : 1332164307853,
+          "lastModified" : 1421101315692,
+          "urn" : "urn:vpro:media:program:13258820",
+          "embeddable" : true,
+          "broadcasters" : [ {
+            "id" : "VPRO",
+            "value" : "VPRO"
+          } ],
+          "titles" : [ {
+            "value" : "AFZIEN?! - Mr. Polska & Boaz over Blaudzun - Elephants (MRT '12)",
+            "owner" : "BROADCASTER",
+            "type" : "MAIN"
+          } ],
+          "genres" : [ ],
+          "countries" : [ ],
+          "languages" : [ ],
+          "descendantOf" : [ {
+            "midRef" : "POMS_S_VPRO_195027",
+            "urnRef" : "urn:vpro:media:group:12066900",
+            "type" : "ARCHIVE"
+          }, {
+            "midRef" : "POMS_S_VPRO_165063",
+            "urnRef" : "urn:vpro:media:group:13258915",
+            "type" : "PLAYLIST"
+          } ],
+          "memberOf" : [ {
+            "midRef" : "POMS_S_VPRO_165063",
+            "urnRef" : "urn:vpro:media:group:13258915",
+            "type" : "PLAYLIST",
+            "index" : 88,
+            "highlighted" : false,
+            "added" : 1332165047019
+          } ],
+          "predictions" : [ {
+            "state" : "REALIZED",
+            "platform" : "INTERNETVOD"
+          } ],
+          "locations" : [ {
+            "programUrl" : "odis+http://content.omroep.nl/vpro/protected/luisterpaal/video/2012/03/15/2az13mrt2Blaudzun.mp4",
+            "avAttributes" : {
+              "bitrate" : 500000,
+              "avFileFormat" : "MP4"
+            },
+            "owner" : "BROADCASTER",
+            "creationDate" : 1332164360240,
+            "lastModified" : 1332164360352,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:13258824"
+          } ],
+          "relations" : [ {
+            "value" : "Blaudzun",
+            "urn" : "urn:vpro:media:relation:13258825",
+            "broadcaster" : "VPRO",
+            "type" : "ARTIST"
+          } ],
+          "images" : [ {
+            "title" : "blaudzun",
+            "description" : "blaudzun",
+            "imageUri" : "urn:vpro:image:56770",
+            "height" : 383,
+            "width" : 385,
+            "owner" : "BROADCASTER",
+            "type" : "PICTURE",
+            "highlighted" : false,
+            "creationDate" : 1332164360239,
+            "lastModified" : 1332164360342,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:13258822"
+          } ]
+        }
+      } ],
+      "images" : [ {
+        "type" : "PICTURE",
+        "url" : "http://images.poms.omroep.nl/image/s360/56770.jpg",
+        "title" : "blaudzun",
+        "description" : "blaudzun"
+      } ],
+      "publishStart" : 1332164307853,
+      "creationDate" : 1412021071377,
+      "lastModified" : 1430327278182,
+      "refCount" : 0
+    }
+  }, {
+    "highlights" : [ ],
+    "result" : {
+      "objectType" : "page",
+      "type" : "VIDEO",
+      "url" : "http://www-acc.vpro.nl/speel.WO_VPRO_044256.html",
+      "sortDate" : 1326114575395,
+      "crids" : [ "crid://vpro/media/vpro/WO_VPRO_044256" ],
+      "broadcasters" : [ {
+        "id" : "VPRO",
+        "value" : "VPRO"
+      } ],
+      "portal" : {
+        "id" : "VPRONL",
+        "url" : "http://www-acc.vpro.nl",
+        "value" : "VPRO.nl"
+      },
+      "title" : "Blaudzun - live in 3voor12radio",
+      "embeds" : [ {
+        "title" : "Blaudzun - live in 3voor12radio",
+        "description" : "3voor12radio - 5 januari 2012",
+        "media" : {
+          "objectType" : "program",
+          "mid" : "WO_VPRO_044256",
+          "type" : "CLIP",
+          "avType" : "VIDEO",
+          "workflow" : "PUBLISHED",
+          "sortDate" : 1326114575395,
+          "creationDate" : 1326114575395,
+          "lastModified" : 1421097196414,
+          "urn" : "urn:vpro:media:program:12304406",
+          "embeddable" : true,
+          "broadcasters" : [ {
+            "id" : "VPRO",
+            "value" : "VPRO"
+          } ],
+          "titles" : [ {
+            "value" : "Blaudzun - live in 3voor12radio",
+            "owner" : "BROADCASTER",
+            "type" : "MAIN"
+          } ],
+          "descriptions" : [ {
+            "value" : "3voor12radio - 5 januari 2012",
+            "owner" : "BROADCASTER",
+            "type" : "MAIN"
+          }, {
+            "value" : "3voor12radio - 5 januari 2012",
+            "owner" : "BROADCASTER",
+            "type" : "SHORT"
+          } ],
+          "genres" : [ ],
+          "countries" : [ ],
+          "languages" : [ ],
+          "descendantOf" : [ {
+            "midRef" : "POMS_S_VPRO_195027",
+            "urnRef" : "urn:vpro:media:group:12066900",
+            "type" : "ARCHIVE"
+          }, {
+            "midRef" : "POMS_S_VPRO_142022",
+            "urnRef" : "urn:vpro:media:group:12304400",
+            "type" : "PLAYLIST"
+          } ],
+          "memberOf" : [ {
+            "midRef" : "POMS_S_VPRO_142022",
+            "urnRef" : "urn:vpro:media:group:12304400",
+            "type" : "PLAYLIST",
+            "index" : 101,
+            "highlighted" : false,
+            "added" : 1326114575696
+          } ],
+          "predictions" : [ {
+            "state" : "REALIZED",
+            "platform" : "INTERNETVOD"
+          } ],
+          "locations" : [ {
+            "programUrl" : "odis+http://content.omroep.nl/vpro/protected/luisterpaal/video/2012/01/06/BlaudzunLive3voor12Radio05012012.mp4",
+            "avAttributes" : {
+              "bitrate" : 500000,
+              "avFileFormat" : "MP4"
+            },
+            "owner" : "BROADCASTER",
+            "creationDate" : 1326114575583,
+            "lastModified" : 1326114575641,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:location:12304411"
+          } ],
+          "relations" : [ {
+            "value" : "Blaudzun",
+            "urn" : "urn:vpro:media:relation:12304412",
+            "broadcaster" : "VPRO",
+            "type" : "ARTIST"
+          } ],
+          "images" : [ {
+            "title" : "blaudzun",
+            "description" : "blaudzun",
+            "imageUri" : "urn:vpro.image:37521",
+            "height" : 800,
+            "width" : 800,
+            "owner" : "BROADCASTER",
+            "type" : "PICTURE",
+            "highlighted" : false,
+            "creationDate" : 1326117855144,
+            "lastModified" : 1326117855171,
+            "workflow" : "PUBLISHED",
+            "urn" : "urn:vpro:media:image:12304806"
+          } ]
+        }
+      } ],
+      "images" : [ {
+        "type" : "PICTURE",
+        "url" : "http://images.poms.omroep.nl/image/s360/37521.jpg",
+        "title" : "blaudzun",
+        "description" : "blaudzun"
+      } ],
+      "publishStart" : 1326114575395,
+      "creationDate" : 1416966096231,
+      "lastModified" : 1430327259254,
+      "refCount" : 0
+    }
+  } ]
 }
