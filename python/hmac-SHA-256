@@ -1,0 +1,3 @@
+#!/usr/bin/env python
+import hmac, hashlib,base64,sys
+print(base64.b64encode(hmac.new(sys.argv[1].encode("utf-8"), msg=sys.argv[2], digestmod=hashlib.sha256).digest()))
