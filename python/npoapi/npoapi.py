@@ -62,6 +62,8 @@ class NpoApi:
         self.login(settings["apikey"], settings["secret"])
         if "origin" in settings:
             self.origin = settings["origin"]
+        if "env" in settings:
+            self.env(settings["env"])
         return self
 
     def authenticate(self, uri=None, now=utils.formatdate()):
