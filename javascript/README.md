@@ -112,6 +112,7 @@ request.send();
 ### POST request
 
 Below is a simple POST request to search for media through the `/media` endpoint of the NPO API.
+When testing, be sure to replace the API_KEY and API_SECRET with your values.
 
 ```Javascript
 
