@@ -1,4 +1,4 @@
-# NPO frontend API in JavaScript
+# Accessing the NPO frontend API with JavaScript
 
 This repository provides 2 mechanisms for accessing the NPO frontend API with JavaScript.
 
@@ -26,7 +26,8 @@ When testing, be sure to replace the `API_KEY` and `API_SECRET` with your values
  * It's SHA-256 and base64 encoding are used for NPO front end API authentication
  * Original code can be found at https://code.google.com/archive/p/crypto-js/
  *
- * Include the Auth.js class from this repository
+ * Include the Auth.js class from this repository, which is a helper class to create
+ * authenticated strings for the authorization header in your requests.
  *
  */
         
@@ -38,26 +39,30 @@ var request = new XMLHttpRequest();
 
 var server = 'https://rs.poms.omroep.nl/v1/api/';
 var resourcePath = 'media/POMS_S_VPRO_826834/descendants';
-var options = [
-    [ 'offset', 2 ],
-    [ 'sort', 'desc' ]
-];
+var options = {
+    offset: 2,
+    sort: 'desc'
+};
 var getOptionsAsQueryString = function ( options, encodeValues ) {
 
-    var params = '';
+    var queryString = '';
 
-    if ( options && options.length ) {
-        params += '?';
-        params += options.map( function ( option ) {
-
-            var queryParam = option[ 0 ] +'='+ ( ( encodeValues ) ? encodeURIComponent( option[ 1 ] ) : option[ 1 ] );
-
-            return queryParam;
-
-        } ).join('&');
+    for ( var param in options) {
+        
+        if ( options.hasOwnProperty( param ) ) {
+    
+            if ( queryString.length ) {
+                queryString += '&';
+            } else {
+                queryString += '?';
+            }                
+                
+            queryString += param +'=';
+            queryString += ( encodeValues ) ? encodeURIComponent( options[ param ] ) : options[ param ];
+        }
     }
-
-    return params;
+    
+    return queryString;
 };
 
 request.open( 'GET', server + resourcePath + getOptionsAsQueryString( options, true ), true );
