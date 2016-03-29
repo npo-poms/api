@@ -12,6 +12,9 @@ and their URL locations, etc.
 
 ## 1) Bare bones XMLHttpRequest 
 
+Basic information on authorization and GET / POST requests on the NPO frontend API can be found in the 
+[NPO API Wiki](http://wiki.publiekeomroep.nl/display/npoapi/Algemeen)
+
 ### GET request
 
 Below is an example of a simple GET request for a media item's descendants, including authentication.
