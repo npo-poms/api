@@ -1,0 +1,15 @@
+<pageUpdate:page xmlns:page="urn:vpro:pages:2013" xmlns:media="urn:vpro:media:2009" xmlns:shared="urn:vpro:shared:2009" xmlns:pageUpdate="urn:vpro:pages:update:2013" type="MOVIE" url="http://cinema-sample.localhost/Movie~apy3~absolute-power~.html">
+   <pageUpdate:crid>crid://vpro/cinema/movie/CINEMA_MOVIE_500187</pageUpdate:crid>
+   <pageUpdate:broadcaster>VPRO</pageUpdate:broadcaster>
+   <pageUpdate:portal id="CINEMANL" url="http://www-test.cinema.nl" />
+   <pageUpdate:title>Absolute Power</pageUpdate:title>
+   <pageUpdate:summary>Verenigde Staten 1997. Thriller van Clint Eastwood. Met oa Gene Hackman, Scott Glenn, Clint Eastwood, Dennis Haysbert en E.G. Marshall. </pageUpdate:summary>
+   <pageUpdate:paragraphs>
+       <pageUpdate:paragraph/>
+   </pageUpdate:paragraphs>
+   <pageUpdate:genre>3.0.7.13</pageUpdate:genre>
+   <pageUpdate:genre>3.0.7.25</pageUpdate:genre>
+   <pageUpdate:genre>3.0.7.9</pageUpdate:genre>
+   <pageUpdate:relation type="CINEMA_APPRECIATION" broadcaster="VPRO">4</pageUpdate:relation>
+   <pageUpdate:relation type="CINEMA_YEAR" broadcaster="VPRO">1997</pageUpdate:relation>
+</pageUpdate:page>

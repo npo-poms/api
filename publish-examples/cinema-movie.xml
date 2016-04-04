@@ -1,0 +1,12 @@
+<page type="MOVIE" url="http://www-test.cinema.nl/~movie/1235"  xmlns="urn:vpro:pages:update:2013">
+  <crid>crid://cinema.movie/1235</crid>
+  <portal id="CINEMANL" url="http://www-test.cinema.nl">
+    <section path="/cinema">Cinema</section>
+  </portal>
+  <broadcaster>VPRO</broadcaster>
+  <title>Pulp Fiction..</title>
+  <relation type="CINEMA_DIRECTOR" broadcaster="VPRO">Quintin Tarentino</relation>
+  <relation type="CINEMA_YEAR" broadcaster="VPRO">1993</relation>
+  <relation type="CINEMA_APPRECIATION" broadcaster="VPRO">5</relation>
+
+</page>
