@@ -3,7 +3,7 @@ NPO frontend API scripts
 
 PYTHON
 ======
-
+Python scripts are maintained in https://github.com/npo-poms/pyapi
 
 BASH
 ====
