@@ -16,5 +16,6 @@ target=$(getUrl)/pages/updates?url=$(rawurlencode "$url" )
 
 echo $target >&2
 curl -i -s --insecure --user $user --header "Content-Type: application/xml" --header "Accept: application/xml" -X DELETE  \
-    ${target}
+     ${target}
+echo
 echo $url
