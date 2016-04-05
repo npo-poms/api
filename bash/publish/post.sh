@@ -15,6 +15,6 @@ echo $target >&2
 curl -i -s --insecure --user $user --header "Content-Type: application/xml" --header "Accept: application/xml" -X POST --data @$1 \
     ${target}
 
-
+echo
 xsltproc $(dirname ${BASH_SOURCE[0]})/get_url.xslt $1
 echo
