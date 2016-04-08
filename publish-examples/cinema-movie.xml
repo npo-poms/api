@@ -3,7 +3,7 @@
   <portal id="CINEMANL" url="http://www-test.cinema.nl">
     <section path="/cinema">Cinema</section>
   </portal>
-  <broadcaster>VPRO</broadcaster>
+  <broadcaster>TROS</broadcaster>
   <title>Pulp Fiction..</title>
   <relation type="CINEMA_DIRECTOR" broadcaster="VPRO">Quintin Tarentino</relation>
   <relation type="CINEMA_YEAR" broadcaster="VPRO">1993</relation>
