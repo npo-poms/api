@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<pageUpdate:page xmlns:page="urn:vpro:pages:2013" xmlns:media="urn:vpro:media:2009" xmlns:shared="urn:vpro:shared:2009" xmlns:pageUpdate="urn:vpro:pages:update:2013" type="VIDEO" url="http://www-acc.2doc.nl/documentaires/series/2doc/2016/maart/paradijs-glaswater0.html" publishStart="2016-03-15T10:55:56.302+01:00">
+  <pageUpdate:crid>crid://vpro/website/dc97fa08-1cff-4b9e-bb1c-28a189b9fed8</pageUpdate:crid>
+  <pageUpdate:broadcaster>VPRO</pageUpdate:broadcaster>
+  <pageUpdate:portal id="HOLLANDDOC24" url="http://www-acc.2doc.nl"/>
+  <pageUpdate:title>Paradijs Glaswater</pageUpdate:title>
+  <pageUpdate:keyword>2doc.nl</pageUpdate:keyword>
+  <pageUpdate:keyword>2doc</pageUpdate:keyword>
+  <pageUpdate:keyword>kro-ncrv</pageUpdate:keyword>
+  <pageUpdate:keyword>paradijs glaswater</pageUpdate:keyword>
+  <pageUpdate:keyword>meervoudige handicap</pageUpdate:keyword>
+  <pageUpdate:keyword>internationale kunstwereld</pageUpdate:keyword>
+  <pageUpdate:summary>
+Marianne Schipaanboord is doof, stom en spastisch. Ondanks haar handicaps maakt ze furore in de internationale kunstwereld.
+</pageUpdate:summary>
+  <pageUpdate:paragraphs>
+    <pageUpdate:paragraph>
+      <pageUpdate:body>
+Marianne Schipaanboord leeft door haar handicaps ge&#xEF;soleerd van de buitenwereld. Haar wonderschone tekeningen getuigen echter van een rijke binnenwereld. In KRO-NCRV 2Doc: Paradijs Glaswater schetst regisseuse Fifi Visser het beeld van een meervoudig gehandicapte vrouw die communiceert via haar tekeningen. Door in de huid van de hoofdpersoon te kruipen ervaart de kijker hoe zij haar ogenschijnlijk lege en volkomen stille bestaan invult en beleeft. Een kleine, maar overrompelende geschiedenis van het Zeeuwse platteland, waar lichamelijke beperkingen nog niet zo heel lang geleden gewoon een straf van God waren. In Marianne bestaan geloof en de relativering ervan, naast elkaar.
+</pageUpdate:body>
+    </pageUpdate:paragraph>
+    <pageUpdate:paragraph>
+      <pageUpdate:title>Meer</pageUpdate:title>
+    </pageUpdate:paragraph>
+    <pageUpdate:paragraph>
+      <pageUpdate:title>Zie ook</pageUpdate:title>
+    </pageUpdate:paragraph>
+  </pageUpdate:paragraphs>
+  <pageUpdate:embeds>
+    <pageUpdate:embed midRef="KN_1678432"/>
+  </pageUpdate:embeds>
+  <pageUpdate:image type="PICTURE">
+    <pageUpdate:title>Kindertijd</pageUpdate:title>
+    <pageUpdate:description>
+Een gevarieerd kinderprogramma met: Draakje, Tippe en De post.
+</pageUpdate:description>
+    <pageUpdate:imageLocation>
+      <pageUpdate:url>http://images.poms.omroep.nl/image/s360/640556.jpg</pageUpdate:url>
+    </pageUpdate:imageLocation>
+  </pageUpdate:image>
+</pageUpdate:page>
