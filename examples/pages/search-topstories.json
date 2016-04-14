@@ -1,0 +1,12 @@
+{
+  "searches" : {
+    "referrals" : {
+      "types" : [ "TOP_STORY" ]
+    }
+  },
+  "facets" : {
+    "types" : { },
+    "broadcasters" : { },
+    "portals" : { }
+  }
+}
