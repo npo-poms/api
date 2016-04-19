@@ -220,4 +220,56 @@ request.send( JSON.stringify( searchForm ) );
 
 ## 2) NPO JavaScript client library
 
-..TODO.. will follow as soon as possible
+The NPO JavaScript client library is a standalone [UMD](https://github.com/umdjs/umd) library.
+You only need to include jQuery, provide a window.NpoApiConfig variable and include  
+`library/npoapi.library.js`, in that preferred order.
+
+
+### Api configuration
+With the NpoApiConfig variable you can easily configure the API's settings in
+the preferred way and it should contain the following settings:
+
+```javascript
+
+var NpoApiConfig = {
+
+    imageServer: 'POMS Image Server', // example: http://images.poms.omroep.nl/image/ (note the trailing slash)
+    
+    npoApiServer: 'NPO API Server', // example: https://rs.poms.omroep.nl
+        
+    npoApiKey: '{your NPO API key}',
+        
+    npoApiSecret: '{your NPO API secret}'    
+};
+
+```
+
+Only the `imageServer` variable actually needs to be configured this way. And only if you
+want to make use of the client library's capability to create URLs to POMS images
+with custom image sizes.
+ 
+The other 3 npo prefixed ones can also be passed on in the constructor of each available
+service mentioned in the next chapter.
+
+### Api usage
+
+The NpoApi exposes the following variables:
+
+-   MediaService - client library for NPO API's media endpoint
+-   PageService - client library for NPO API's pages endpoint
+-   ScheduleService - client library for NPO API's schedule endpoint
+-   domain
+    -   media - Domain Model classes returned / used by the MediaService
+    -   pages - Domain Model classes returned / used by the PageService
+    -   shared - Domain Model classes returned / used by all services   
+    
+All services are documented at [library/docs](library/docs/index.html), all domain
+model classes a level deeper in folders with their respective name, but below
+some examples.
+    
+#### MediaService    
+
+#### PageService
+    
+#### ScheduleService
+    
