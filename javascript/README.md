@@ -263,7 +263,7 @@ The NpoApi exposes the following variables:
     -   media - Domain Model classes returned / used by the MediaService
     -   pages - Domain Model classes returned / used by the PageService
     -   shared - Domain Model classes returned / used by all services    
--   MediaForm - Create a media search from needed in POST calls to the media endpoint
+-   MediaForm - Create a media search form needed in POST calls to the media endpoint
 -   PageForm - Create a page search form needed in POST calls to the pages endpoint
     
 All services are documented at [library/docs](library/docs/index.html) (view in a browser),
