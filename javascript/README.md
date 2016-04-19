@@ -254,7 +254,7 @@ service mentioned in the next chapter.
 
 ### Api usage
 
-The NpoApi exposes the following variables:
+The NpoApi variable exposed by `library/npoapi.library.js` exposes the following variables:
 
 -   MediaService - client library for NPO API's media endpoint
 -   PageService - client library for NPO API's pages endpoint
