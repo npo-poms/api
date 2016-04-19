@@ -4,7 +4,7 @@ This repository provides 2 mechanisms for accessing the NPO frontend API with Ja
 
 
 1.  A simple bare bones example using XMLHttpRequest with authentication and JSON results
-2.  An NPO API client library abstracting the authentication and requests and returning JavaScript Domain Model objects
+2.  An [NPO API client](#2-npo-javascript-client-library) library abstracting the authentication and requests and returning JavaScript Domain Model objects
 
 With the latter you get smart objects with easy access to properties like titles, descriptions, images
 and their URL locations, etc.
@@ -227,13 +227,14 @@ You only need to include jQuery, provide a window.NpoApiConfig variable and incl
 
 ### Api configuration
 With the NpoApiConfig variable you can easily configure the API's settings in
-the preferred way and it should contain the following settings:
+the preferred way and it can contain the following settings:
 
 ```javascript
 
 var NpoApiConfig = {
 
-    imageServer: 'POMS Image Server', // example: http://images.poms.omroep.nl/image/ (note the trailing slash)
+    imageServer: 'POMS Image Server', // example: http://images.poms.omroep.nl/image/ 
+                                      // (note the trailing slash)
     
     npoApiServer: 'NPO API Server', // example: https://rs.poms.omroep.nl
         
@@ -261,15 +262,261 @@ The NpoApi exposes the following variables:
 -   domain
     -   media - Domain Model classes returned / used by the MediaService
     -   pages - Domain Model classes returned / used by the PageService
-    -   shared - Domain Model classes returned / used by all services   
+    -   shared - Domain Model classes returned / used by all services    
+-   MediaForm - Create a media search from needed in POST calls to the media endpoint
+-   PageForm - Create a page search form needed in POST calls to the pages endpoint
     
-All services are documented at [library/docs](library/docs/index.html), all domain
-model classes a level deeper in folders with their respective name, but below
+All services are documented at [library/docs](library/docs/index.html) (view in a browser),
+all domain model classes a level deeper in folders with their respective name, but below
 some examples.
+
+To be able to communicate with the API through JavaScript you need to access your 
+(test)pages on a white-listed domain, like *.npo.nl.
     
-#### MediaService    
+#### MediaService
+
+The MediaService provides access to the NPO API's media endpoint. You can get / list
+media or search for it. The returned media objects are full-fledged group, program and
+segment domain models of which you can discover their full power in the 
+domain model docs [library/docs/media](library/docs/media/index.html).
+
+##### Get example
+```javascript
+
+var mediaService = new NpoApi.MediaService(); // taking API configuration from the NpoApiConfig
+// or
+var mediaService = new NpoApi.MediaService( 'https://rs.poms.omroep.nl', 'NPO API key', 'NPO API secret' );
+
+    // note, most API methods return a (jQuery) Promise (http://api.jquery.com/deferred.promise/)
+mediaService.load( 'VPWON_1223392' ).then(
+    function ( mediaObject ) {
+        // in this case, mediaObject is an instance of Program (library/docs/media/Program.html)
+        
+        var episodeTitle =  mediaObject.getSubTitle(); // returns the POMS episode title 
+                            // or falls back to the first title of type SUB
+        
+        console.log( episodeTitle );
+                            
+        var sortDate = mediaObject.getSortDate(); // returns a FormatDate (library/docs/shared/FormatDate.html)
+                                                           
+        console.log( sortDate.toLocaleString('d MMMM, yyyy') ); // outputs 1 januari, 2015      
+                                            
+        var tvShows = mediaObject.getScheduleEvents(); // returns a list of ScheduleEvents (library/docs/media/ScheduleEvent.html)    
+                                        
+        mediaObject.getImages().forEach( function ( image ) {
+            
+            console.log( image.getLocation( 500, 200 ) ); 
+                // needs the NpoApiConfig.imageServer property to be set
+        });                                     
+    }
+)
+
+```
+    
+##### Search example
+
+Extensive documentation on media search capabilities of the API (and usage in the forms below) can
+be found on the [NPO Wiki]( http://wiki.publiekeomroep.nl/display/npoapi/Media-+en+gids-API )
+
+```javascript
+
+var mediaService = new NpoApi.MediaService(); // taking API configuration from the NpoApiConfig
+// or
+var mediaService = new NpoApi.MediaService( 'https://rs.poms.omroep.nl', 'NPO API key', 'NPO API secret' );
+
+// there is an instantiable MediaForm object available on the NpoApi variable,
+// but it's modestly documented, so you can also use an object with a toJSON function instead
+var mediaForm = {   
+    toJSON: function () {
+        return {
+            highlight: true,
+            searches : {
+                text : {
+                    value : 'Nieuws'
+                }
+            }        
+        };
+    }
+};    
+    
+mediaService.find( mediaForm ).then(
+        
+        // returns a MediaSearchResult (library/docs/MediaSearchResult.html
+    function ( mediaSearchResult ) {
+    
+        console.log( 'found: '+ mediaSearchResult.getTotal() );
+    
+            // a searchResultItem (library/docs/SearchResultItem) contains 
+            // data on the search results' score, and optional highlights
+            // (in which media fields was the searched for term found)      
+        mediaSearchResult.getList().forEach( function ( searchResultItem ) {
+            
+            var mediaObject = searchResultItem.getResult();
+            
+            console.log( mediaObject instanceof NpoApi.domain.media.Program );
+            
+            console.log( mediaObject.getObjectType() );                        
+        });
+    }
+);    
+    
+```    
 
 #### PageService
     
-#### ScheduleService
+The PageService provides access to the NPO API's pages endpoint. You can get / list
+pages or search for them. The returned page objects' full power can be found in the 
+domain model docs [library/docs/media](library/docs/pages/index.html).    
     
+    
+##### Get example    
+```javascript
+
+var pageService = new NpoApi.PageService(); // taking API configuration from the NpoApiConfig
+// or
+var pageService = new NpoApi.PageService( 'https://rs.poms.omroep.nl', 'NPO API key', 'NPO API secret' );
+
+    // note, most API methods return a (jQuery) Promise (http://api.jquery.com/deferred.promise/)
+pageService.suggest( {
+        input: 'ba',
+        profile: 'vpro',
+        max: 20
+    } ).then(
+    
+    function ( suggestions ) {
+        suggestions.items.forEach(
+            function ( suggestion ) {
+                console.log( suggestion.text );
+            }
+        );                                 
+    }
+)
+
+```
+    
+##### Search example
+
+Extensive documentation on search capabilities of the pages API (and usage in the forms below) can
+be found on the [NPO Wiki]( http://wiki.publiekeomroep.nl/display/npoapi/Page+API )
+
+```javascript
+
+var pageService = new NpoApi.PageService(); // taking API configuration from the NpoApiConfig
+// or
+var pageService = new NpoApi.PageService( 'https://rs.poms.omroep.nl', 'NPO API key', 'NPO API secret' );
+
+// there is an instantiable PageForm object available on the NpoApi variable,
+// but it's modestly documented, so you can also use an object with a toJSON function instead
+var pageForm = {   
+    toJSON: function () {
+        return {            
+            facets: {
+                sortDates: [
+                    'LAST_WEEK', 'LAST_YEAR', 'BEFORE_LAST_YEAR'
+                ]
+            },
+            highlight: true,
+            searches: {
+                text: 'Tegenlicht',
+                types: [
+                    'ARTICLE'
+                ]
+            }                  
+        };
+    }
+};    
+    
+pageService.find( pageForm ).then(
+        
+        // returns a PageSearchResult (library/docs/PageSearchResult.html
+    function ( pageSearchResult ) {
+    
+        console.log( 'found: '+ pageSearchResult.getTotal() );
+    
+            // a searchResultItem (library/docs/SearchResultItem) contains 
+            // data on the search results' score, and optional highlights
+            // (in which page fields was the searched for term found)      
+        pageSearchResult.getList().forEach( function ( searchResultItem ) {
+            
+            var page = searchResultItem.getResult();
+          
+            console.log( NpoApi.domain.pages.PageType.displayNameForValue( page.getType() ) );
+        });
+    }
+);    
+    
+```      
+    
+#### ScheduleService
+
+The ScheduleService provides access to the NPO API's schedule endpoint.
+
+##### Get example    
+```javascript
+
+var scheduleService = new NpoApi.ScheduleService(); // taking API configuration from the NpoApiConfig
+// or
+var scheduleService = new NpoApi.ScheduleService( 'https://rs.poms.omroep.nl', 'NPO API key', 'NPO API secret' );
+
+    // note, most API methods return a (jQuery) Promise (http://api.jquery.com/deferred.promise/)
+scheduleService.getNextForChannel( 'NED1' ).then(
+    
+    function ( scheduleEvent ) {
+        console.log( scheduleEvent.getStart().toLocaleString('dd-MM-yyyy hh:mm') );   
+                                          
+        console.log( scheduleEvent.getMediaObject().getMainTitle() );
+    }
+)
+
+```
+    
+##### Search example 
+   
+Extensive documentation on schedule search capabilities of the API (and usage in the forms below) can
+be found on the [NPO Wiki]( http://wiki.publiekeomroep.nl/display/npoapi/Media-+en+gids-API )   
+
+    
+```javascript
+
+var scheduleService = new NpoApi.ScheduleService(); // taking API configuration from the NpoApiConfig
+// or
+var scheduleService = new NpoApi.ScheduleService( 'https://rs.poms.omroep.nl', 'NPO API key', 'NPO API secret' );
+
+// The form sent with a ScheduleService search request actually consists of a MediaSearch
+// so you can use a MediaForm.
+// There is an instantiable MediaForm object available on the NpoApi variable,
+// but it's modestly documented, so you can also use an object with a toJSON function instead
+var mediaForm = {   
+    toJSON: function () {
+        return {
+            searches : {
+                text : {
+                    value : 'Nieuws'
+                }
+            }        
+        };
+    }
+};    
+    
+scheduleService.find( mediaForm ).then(
+        
+        // returns a PagedSearchResult (library/docs/PagedSearchResult.html
+    function ( pagedSearchResult ) {
+    
+        console.log( 'found: '+ pagedSearchResult.getTotal() );
+    
+            // a searchResultItem (library/docs/SearchResultItem) contains 
+            // data on the search results' score, and optional highlights
+            // (in which media fields was the searched for term found)      
+        pagedSearchResult.getList().forEach( function ( searchResultItem ) {
+            
+            var scheduleEvent = searchResultItem.getResult();
+            
+            console.log( scheduleEvent.getStart().toLocaleString('dd-MM-yyyy hh:mm') );   
+                                              
+            console.log( scheduleEvent.getMediaObject().getMainTitle() );                     
+        });
+    }
+);    
+
+```    
