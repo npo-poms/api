@@ -1,0 +1,599 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>JSDoc: Class: FormatDate</title>
+
+    <script src="scripts/prettify/prettify.js"> </script>
+    <script src="scripts/prettify/lang-css.js"> </script>
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <link type="text/css" rel="stylesheet" href="styles/prettify-tomorrow.css">
+    <link type="text/css" rel="stylesheet" href="styles/jsdoc-default.css">
+</head>
+
+<body>
+
+<div id="main">
+
+    <h1 class="page-title">Class: FormatDate</h1>
+
+    
+
+
+
+
+<section>
+
+<header>
+    
+        <h2>FormatDate</h2>
+        
+            <div class="class-description">Provides a way to create a human readable string from a Date instance in numerous formats</div>
+        
+    
+</header>
+
+<article>
+    <div class="container-overview">
+    
+        
+
+    
+    <h2>Constructor</h2>
+    
+
+    <h4 class="name" id="FormatDate"><span class="type-signature"></span>new FormatDate<span class="signature">(date<span class="signature-attributes">opt</span>)</span><span class="type-signature"></span></h4>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+    <h5>Parameters:</h5>
+    
+
+<table class="params">
+    <thead>
+    <tr>
+        
+        <th>Name</th>
+        
+
+        <th>Type</th>
+
+        
+        <th>Attributes</th>
+        
+
+        
+        <th>Default</th>
+        
+
+        <th class="last">Description</th>
+    </tr>
+    </thead>
+
+    <tbody>
+    
+
+        <tr>
+            
+                <td class="name"><code>date</code></td>
+            
+
+            <td class="type">
+            
+                
+<span class="param-type">String</span>
+|
+
+<span class="param-type">Number</span>
+
+
+            
+            </td>
+
+            
+                <td class="attributes">
+                
+                    &lt;optional><br>
+                
+
+                
+
+                
+                </td>
+            
+
+            
+                <td class="default">
+                
+                    new Date()
+                
+                </td>
+            
+
+            <td class="description last">A value that the Date constructor understands (parseable date string, timestamp, ...)</td>
+        </tr>
+
+    
+    </tbody>
+</table>
+
+
+
+
+
+
+<dl class="details">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    <dt class="tag-see">See:</dt>
+    <dd class="tag-see">
+        <ul>
+            <li><a href="https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Date">https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Date</a></li>
+        </ul>
+    </dd>
+    
+
+    
+</dl>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    </div>
+
+    
+
+    
+
+    
+
+     
+
+    
+
+    
+
+    
+        <h3 class="subsection-title">Methods</h3>
+
+        
+            
+
+    
+
+    <h4 class="name" id="getRawDate"><span class="type-signature"></span>getRawDate<span class="signature">()</span><span class="type-signature"> &rarr; {Date}</span></h4>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<dl class="details">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+</dl>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h5>Returns:</h5>
+
+        
+<div class="param-desc">
+    - The Date instance this FormatDate represents
+</div>
+
+
+
+<dl>
+    <dt>
+        Type
+    </dt>
+    <dd>
+        
+<span class="param-type">Date</span>
+
+
+    </dd>
+</dl>
+
+    
+
+
+
+        
+            
+
+    
+
+    <h4 class="name" id="getTime"><span class="type-signature"></span>getTime<span class="signature">()</span><span class="type-signature"> &rarr; {number}</span></h4>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<dl class="details">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+</dl>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h5>Returns:</h5>
+
+        
+<div class="param-desc">
+    - the timestamp of the Date instance this FormatDate represents
+</div>
+
+
+
+<dl>
+    <dt>
+        Type
+    </dt>
+    <dd>
+        
+<span class="param-type">number</span>
+
+
+    </dd>
+</dl>
+
+    
+
+
+
+        
+            
+
+    
+
+    <h4 class="name" id="toLocaleString"><span class="type-signature"></span>toLocaleString<span class="signature">(format)</span><span class="type-signature"> &rarr; {String}</span></h4>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+    <h5>Parameters:</h5>
+    
+
+<table class="params">
+    <thead>
+    <tr>
+        
+        <th>Name</th>
+        
+
+        <th>Type</th>
+
+        
+
+        
+
+        <th class="last">Description</th>
+    </tr>
+    </thead>
+
+    <tbody>
+    
+
+        <tr>
+            
+                <td class="name"><code>format</code></td>
+            
+
+            <td class="type">
+            
+                
+<span class="param-type">String</span>
+
+
+            
+            </td>
+
+            
+
+            
+
+            <td class="description last">A combination of  d, dd, ddd, dddd, M, MM, MMM, MMMM, yyy, yyyy, h, hh, m, mm, s, ss and separators</td>
+        </tr>
+
+    
+    </tbody>
+</table>
+
+
+
+
+
+
+<dl class="details">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+</dl>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h5>Returns:</h5>
+
+        
+<div class="param-desc">
+    - The 'format' String representation of the date this FormatDate represents
+</div>
+
+
+
+<dl>
+    <dt>
+        Type
+    </dt>
+    <dd>
+        
+<span class="param-type">String</span>
+
+
+    </dd>
+</dl>
+
+    
+
+
+    <h5>Example</h5>
+    
+    <pre class="prettyprint"><code>var formatDate = new FormatDate();
+ formatDate.toLocaleString('d') //  returns the date's day number
+ formatDate.toLocaleString('dd') // returns the date's day number with a leading zero if the string length is below 2
+ formatDate.toLocaleString('ddd') // returns the 3 character abbreviation of the date's weekday in Dutch, like 'zon' for 'zondag'.
+ formatDate.toLocaleString('dddd') // returns the full weekday in Dutch, like 'zondag'
+ formatDate.toLocaleString('M') // returns the number of the month
+ formatDate.toLocaleString('MM') // returns the number of the month with a leading zero if the string length is below 2
+ formatDate.toLocaleString('MMM') // returns the 3 character abbreviation of the month in Dutch, like 'apr' for 'april'
+ formatDate.toLocaleString('MMMM') // returns the full name of the month in Dutch, like 'april'
+ formatDate.toLocaleString('yyy') // returns the last two digits of the date's year prefixed by ', like '02 or '89
+ formatDate.toLocaleString('yyyy') // returns the date's full year which might be 2020 but also 300 or 10
+ formatDate.toLocaleString('h') // returns the date's hours
+ formatDate.toLocaleString('hh') // returns the date's hours with a leading zero if the string length is below 2
+ formatDate.toLocaleString('m') // returns the date's minutes
+ formatDate.toLocaleString('mm') // returns the date's minutes with a leading zero if the string length is below 2
+ formatDate.toLocaleString('s') // returns the date's seconds
+ formatDate.toLocaleString('ss') // returns the date's seconds with a leading zero if the string length is below 2
+
+ // more complex
+
+ formatDate.toLocaleString('d MMMM, yyyy - hh:mm:ss') // the full Dutch date with clock</code></pre>
+
+
+
+        
+    
+
+    
+
+    
+</article>
+
+</section>
+
+
+
+
+</div>
+
+<nav>
+    <h2><a href="index.html">Home</a></h2><h3>Classes</h3><ul><li><a href="FormatDate.html">FormatDate</a></li><li><a href="FormatDuration.html">FormatDuration</a></li></ul>
+</nav>
+
+<br class="clear">
+
+<footer>
+    Documentation generated by <a href="https://github.com/jsdoc3/jsdoc">JSDoc 3.4.0</a> on Mon Apr 18 2016 15:41:18 GMT+0200 (CEST)
+</footer>
+
+<script> prettyPrint(); </script>
+<script src="scripts/linenumber.js"> </script>
+</body>
+</html>

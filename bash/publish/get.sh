@@ -7,10 +7,15 @@ fi
 
 source $(dirname ${BASH_SOURCE[0]})/functions.sh
 
-target="$(getUrl)/pages/updates"
+if [ -e "$1" ] ; then
+    url=`xsltproc $(dirname ${BASH_SOURCE[0]})/get_url.xslt $1`
+else
+    url=$1
+fi
+
+target=$(getUrl)/pages/updates?url=$(rawurlencode "$url" )
+
 
 echo $target >&2
 
-
-curl -i -s --insecure --user $user --header "Content-Type: application/xml" --header "Accept: application/xml" -X POST --data @$1 \
-    ${target}
+curl -s --insecure --user $user --header "Content-Type: application/xml" --header "Accept: application/xml" -X GET    ${target}
