@@ -351,7 +351,7 @@ class Request {
 		} else {
 			$result = json_decode($dataResult, True);
 			if(!is_array($result)) {
-				throw new \Ntr\PomsBundle\Poms\Exception\InvalidResponseException('Response for URL: ' . $url . ': "'.$dataResult.'" is invalid JSON', $this->siteId);
+				throw new \Ntr\PomsBundle\Poms\Exception\InvalidResponseException('Response for URL: ' . $url . ': "'.$dataResult.'" is invalid JSON');
 			}
 		}
 		return $result;
