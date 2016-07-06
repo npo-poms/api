@@ -1,15 +1,19 @@
 {
     "facets": {
         "tags": {
-            "include": "Lief.*", /* Limit the return tags to those matching this regex */
-            "max": 10000
+            "include": "(?i)Liefde.*", /* Limit the return tags to those matching this regex */
+            "caseSensitive": false,
+            "max": 10000,
+            "sort": "COUNT_DESC"
+
         }
     },
     "searches": {
         "tags": [{
-            "matchType": "WILDCARD",
+            "matchType": "REGEX",
             "match": "SHOULD",
-            "value": "Lief*"
+            "value": "lief.*",
+            "caseSensitive": false
         }]
 
     }
