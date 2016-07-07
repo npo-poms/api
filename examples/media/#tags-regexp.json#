@@ -1,0 +1,19 @@
+{
+    "facets": {
+        "tags": {
+            "include": "(?i)Liefde.*", /* Limit the return tags to those matching this regex */
+            "caseSensitive": false,
+            "max": 10000,
+            "sort": "COUNT_DESC"
+        }
+    },
+    "searches": {
+        "tags": [{
+            "matchType": "REGEX",
+            "match": "SHOULD",
+            "value": "liefde.*",
+            "caseSensitive": false
+        }]
+
+    }
+}

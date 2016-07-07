@@ -1,0 +1,10 @@
+{
+    "sort":{
+        "sortDate":"DESC"
+    },
+    "searches": {
+        "sortDate": {
+            "end": "1444255200000"
+        }
+    }
+}

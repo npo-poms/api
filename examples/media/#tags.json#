@@ -1,0 +1,16 @@
+{
+    "facets": {
+        "tags": {q
+            "include": "lief.*",
+            "max": 10000
+        }
+    },
+    "searches": {
+        "tags": [{
+            "matchType": "WILDCARD",
+            "match": "SHOULD",
+            "value": "lief*"
+        }]
+
+    }
+}

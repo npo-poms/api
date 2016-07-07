@@ -1,0 +1,26 @@
+{
+    "facets": {
+        "relations": {
+            "name": "artiesten",
+            "sort": "COUNT_DESC",
+            "caseSensitive": false,
+            "subSearch": {
+                "broadcasters": "VPRO",
+                "types": "ARTIST"
+            }
+        }
+    },
+    "searches": {
+        "relations": [
+            {
+                "match": "SHOULD",
+                "types": "ARTIST",
+                "broadcasters": "VPRO",
+                "values": {
+                    "value": "blaudzun",
+                    "caseSensitive": false
+                }
+            }
+        ]
+    }
+}

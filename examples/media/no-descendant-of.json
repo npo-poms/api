@@ -1,0 +1,8 @@
+{
+  "searches" : {
+    "descendantOf" : [ {
+      "value" : "POW_00751302",
+      "match" : "not"
+    } ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "searches" : {
+    "broadcasters" : {
+      "match" : "MUST",
+      "value" : "MAX"
+    },
+    "types" : {
+      "match" : "MUST",
+      "value" : [ {
+        "value" : "BROADCAST",
+        "match" : "SHOULD"
+      }, {
+        "value" : "SEGMENT",
+        "match" : "SHOULD"
+      } ]
+    },
+    "avTypes" : {
+      "match" : "MUST",
+      "value" : "VIDEO"
+    },
+    "descendantOf" : {
+      "match" : "MUST",
+      "value" : "POMS_S_MAX_059936"
+    },
+    "sortDates" : {
+      "begin" : 1451606400000,
+      "end" : 1454284800000
+    }
+  },
+  "sort" : {
+    "sortDate" : "DESC"
+  }
+}
