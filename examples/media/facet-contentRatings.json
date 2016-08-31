@@ -1,0 +1,8 @@
+{
+    "facets" : {
+        "contentRatings" : {
+            "sort" : "VALUE_ASC",
+            "max" : 100
+        }
+    }
+}
