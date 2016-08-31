@@ -1,7 +1,7 @@
 {
     "facets" : {
         "ageRating" : {
-            "sort" : "VALUE_ASC"
+            "sort" : "NUMERIC_VALUE_ASC"
         }
     }
 }
