@@ -1,0 +1,67 @@
+{
+  "highlight" : true,
+  "searches" : {
+    "text" : "woord",
+    "sortDates" : [ ]
+  },
+  "mediaForm" : {
+    "highlight" : false,
+    "facets" : {
+      "avTypes" : {
+        "sort" : "COUNT"
+      },
+      "durations" : [ {
+        "name" : "0-5m",
+        "begin" : 1,
+        "end" : 300000,
+        "inclusiveEnd" : true
+      }, {
+        "name" : "5-10m",
+        "begin" : 300001,
+        "end" : 600000,
+        "inclusiveEnd" : true
+      }, {
+        "name" : "10m-30m",
+        "begin" : 600001,
+        "end" : 1800000,
+        "inclusiveEnd" : true
+      }, {
+        "name" : "30m-60m",
+        "begin" : 1800001,
+        "end" : 3600000,
+        "inclusiveEnd" : true
+      }, {
+        "name" : "60m-∞",
+        "begin" : 3600001,
+        "end" : 14400000,
+        "inclusiveEnd" : true
+      } ],
+      "descendantOf" : {
+        "sort" : "COUNT",
+        "subSearch" : {
+          "types" : [ "SERIES" ],
+          "match" : "MUST"
+        }
+      },
+      "tags" : {
+        "sort" : "COUNT",
+        "dynamic" : true
+      },
+      "titles" : {
+        "sort" : "COUNT"
+      },
+      "types" : {
+        "sort" : "COUNT"
+      }
+    }
+  },
+  "facets" : {
+    "sortDates" : [ "YEAR" ],
+    "broadcasters" : {
+      "sort" : "COUNT"
+    },
+    "genres" : {
+      "sort" : "COUNT"
+    }
+  }
+}
