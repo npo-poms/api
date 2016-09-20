@@ -3,7 +3,7 @@
         "types": {}
     },
     "searches" : {
-        "sections" : [ "VPRONL./vpronl/cinema" ]
+        "sections" : [ {"value": "VPRONL./cinema", "match": "SHOULD"}, {"value": "VPRONL./vpronl/cinema", "match": "SHOULD"} ]
     }
 
 }
