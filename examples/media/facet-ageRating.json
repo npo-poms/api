@@ -1,10 +1,10 @@
 {
     "facets" : {
-        "ageRating" : {
+        "ageRatings" : {
             "sort" : "VALUE_ASC"
         }
     },
     "searches": {
-        //"ageRating": "6"
+//        "ageRatings": "6"
     }
 }
