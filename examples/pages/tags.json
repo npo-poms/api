@@ -7,7 +7,8 @@
     },
     "facets" : {
       "tags" : {
-        "sort" : "COUNT_DESC"
+          "sort" : "COUNT_DESC",
+          "max": 4
       }
     }
   }
