@@ -1,0 +1,14 @@
+{
+    "searches" : {
+        "tags" : [ {
+            "value" : "hersenen",
+            "match" : "MUST"
+        } ]
+    },
+    "facets" : {
+      "tags" : {
+        "sort" : "COUNT_DESC"
+      }
+    }
+  }
+}
