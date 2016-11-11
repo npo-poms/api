@@ -1,10 +1,11 @@
 {
-    "facets" : {
-        "ageRatings" : {
-            "sort" : "VALUE_ASC"
-        }
-    },
-    "searches": {
-//        "ageRatings": "6"
+  "facets" : {
+    "ageRatings" : {
+      "sort" : "VALUE_ASC",
+      "threshold": 0
     }
+  },
+  "searches": {
+    //        "ageRatings": "6"
+  }
 }
