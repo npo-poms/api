@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pageUpdate:page xmlns:page="urn:vpro:pages:2013" xmlns:media="urn:vpro:media:2009" xmlns:shared="urn:vpro:shared:2009" xmlns:pageUpdate="urn:vpro:pages:update:2013" type="ARTICLE" url="http://3voor12-beta-test.vpro.nl/lokaal/amsterdam/archief/Nieuws-test-pagina.html" publishStart="2016-11-30T10:00:10.582+01:00">
+    <pageUpdate:crid>crid://vpro/website/54eecfda-ea69-4d65-8b9a-f3f6196fefad</pageUpdate:crid>
+    <pageUpdate:broadcaster>VPRO</pageUpdate:broadcaster>
+    <pageUpdate:portal id="3VOOR12" url="http://3voor12-beta-test.vpro.nl">
+        <pageUpdate:section path="/3v12/lokaal/amsterdam">3voor12 Amsterdam</pageUpdate:section>
+    </pageUpdate:portal>
+    <pageUpdate:title>Nieuws-test-pagina</pageUpdate:title>
+    <pageUpdate:paragraphs/>
+    <pageUpdate:tag>test</pageUpdate:tag>
+    <pageUpdate:embeds/>
+</pageUpdate:page>
