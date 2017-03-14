@@ -1,59 +1,18 @@
 {
   "searches" : {
-    "text" : {
-      "value" : ""
-    },
-    "relations" : [ {
-      "types" : "NZ_RECORDING_DATE"
-    } ],
-    "tags" : [ {
-      "match" : "SHOULD",
-      "value" : "bemoediging"
-    }, {
-      "match" : "SHOULD",
-      "value" : "dankzegging"
-    }, {
-      "match" : "SHOULD",
-      "value" : "genade"
-    }, {
-      "match" : "SHOULD",
-      "value" : "troost"
-    } ],
-    "mediaIds" : [ {
-      "match" : "NOT",
-      "value" : "POMS_EO_1406328"
-    } ]
+      "tags" : [{
+          "match" : "SHOULD",
+          "value" : "dankzegging"
+      }, {
+          "match" : "SHOULD",
+          "value" : "troost"
+      } ]
   },
-  "facets" : {
+    "facets" : {
     "tags" : {
       "name" : "Thema's",
       "sort" : "COUNT_DESC",
       "max" : 20
-    },
-    "relations" : [ {
-      "name" : "Bundels",
-      "sort" : "COUNT_DESC",
-      "subSearch" : {
-        "types" : "NZ_BUNDLE",
-        "broadcasters" : "EO"
-      },
-      "max" : 20
-    }, {
-      "name" : "Uitvoerenden",
-      "sort" : "COUNT_DESC",
-      "subSearch" : {
-        "types" : "NZ_PERFORMERS",
-        "broadcasters" : "EO"
-      },
-      "max" : 20
-    }, {
-      "name" : "Plaatsen",
-      "sort" : "COUNT_DESC",
-      "subSearch" : {
-        "types" : "NZ_CITY",
-        "broadcasters" : "EO"
-      },
-      "max" : 20
-    } ]
+    }
   }
 }
