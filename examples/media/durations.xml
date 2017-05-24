@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<api:mediaForm xmlns:pages="urn:vpro:pages:2013" xmlns:api="urn:vpro:api:2013" xmlns:media="urn:vpro:media:2009">
+  <!--
+      Note: in NPO API <=5.2 the xml duration format was :
+      1970-01-01T01:05:00+01:00
+      (meaning '5M')
+      Which obviously makes no sense whatsoever.  It is still supported though
+  -->
+
+  <api:searches>
+    <api:durations match="MUST">
+      <api:matcher>
+        <api:begin>PT5M0.001S</api:begin>
+        <api:end>PT10M</api:end>
+      </api:matcher>
+    </api:durations>
+  </api:searches>
+
+  <api:facets>
+    <api:durations>
+      <api:range inclusiveEnd="false">
+        <api:name>0-5m</api:name>
+        <api:begin>PT0S</api:begin>
+        <api:end>PT5M</api:end>
+      </api:range>
+      <api:range inclusiveEnd="false">
+        <api:name>5-10m</api:name>
+        <api:begin>PT5M</api:begin>
+        <api:end>PT10M</api:end>
+      </api:range>
+      <api:range inclusiveEnd="false">
+        <api:range>
+          <api:name>10m-30m</api:name>
+          <api:begin>PT10M</api:begin>
+          <api:end>PT30M</api:end>
+        </api:range>
+        <api:range inclusiveEnd="false">
+          <api:name>30m-60m</api:name>
+          <api:begin>PT30M</api:begin>
+          <api:end>PT1H</api:end>
+        </api:range>
+        <api:range inclusiveEnd="true">
+          <api:name>60m-∞</api:name>
+          <api:begin>PT1H0.001S</api:begin>
+          <api:end>PT4H</api:end>
+        </api:range>
+      </api:durations>
+    </api:facets>
+</api:mediaForm>

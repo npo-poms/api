@@ -1,15 +1,36 @@
 {
-    "searches": {
 
+    "searches" : {
+        "durations" : [ {
+            "begin" : 0,
+            "end" : 500000
+        } ]
     },
     "facets" : {
-        "durations" : {
-            "sort" : "COUNT_DESC",
-            "max" : 100,
-            "filter": {
-                "durations": []
-            }
-
-        }
+        "durations" : [ {
+            "name" : "0-5m",
+            "begin" : 0,
+            "end" : 300000,
+            "inclusiveEnd" : false
+        }, {
+            "name" : "5-10m",
+            "begin" : 300000,
+            "end" : 600000,
+            "inclusiveEnd" : false
+        }, {
+            "name" : "10m-30m",
+            "begin" : 600000,
+            "end" : 1800000,
+            "inclusiveEnd" : false
+        }, {
+            "name" : "30m-60m",
+            "begin" : 1800000,
+            "end" : 3600000,
+            "inclusiveEnd" : false
+        }, {
+            "name" : "60m-∞",
+            "begin" : 3600000,
+            "inclusiveEnd" : true
+        } ]
     }
 }
