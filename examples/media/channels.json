@@ -1,0 +1,11 @@
+{
+    "searches" : {
+        "scheduleEvents" : [ {
+            "channel" : "NED3",
+            "match": "SHOULD"
+        }, {
+            "channel" : "NED2"
+            "match": "SHOULD"
+        } ]
+    }
+}
