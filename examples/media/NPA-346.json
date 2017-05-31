@@ -1,0 +1,21 @@
+{
+    "searches" : {
+        "mediaIds" : {
+            "value" : "VPWON_1268679",
+            "match" : "not"
+        },
+        "types" : [ {
+            "value" : "BROADCAST",
+            "match" : "should"
+        }, {
+            "value" : "CLIP",
+            "match" : "should"
+        }, {
+            "value" : "SEGMENT",
+            "match" : "should"
+        }, {
+            "value" : "TRACK",
+            "match" : "should"
+        } ]
+    }
+}
