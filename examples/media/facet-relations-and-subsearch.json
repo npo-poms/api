@@ -8,6 +8,7 @@
                 {
                     "name": "labels",
                     "sort": "COUNT_DESC",
+                    "max": 3,
                     "subSearch": {
                         "types": "LABEL"
                     }
@@ -15,6 +16,7 @@
                 {
                     "name": "artiesten",
                     "sort": "COUNT_DESC",
+                    "max": 3,
                     "subSearch": {
                         "types": "ARTIST"
                     }
