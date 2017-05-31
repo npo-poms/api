@@ -29,21 +29,20 @@
         <api:end>PT10M</api:end>
       </api:range>
       <api:range inclusiveEnd="false">
-        <api:range>
-          <api:name>10m-30m</api:name>
-          <api:begin>PT10M</api:begin>
-          <api:end>PT30M</api:end>
-        </api:range>
-        <api:range inclusiveEnd="false">
-          <api:name>30m-60m</api:name>
-          <api:begin>PT30M</api:begin>
-          <api:end>PT1H</api:end>
-        </api:range>
-        <api:range inclusiveEnd="true">
-          <api:name>60m-∞</api:name>
-          <api:begin>PT1H0.001S</api:begin>
-          <api:end>PT4H</api:end>
-        </api:range>
-      </api:durations>
-    </api:facets>
+        <api:name>10m-30m</api:name>
+        <api:begin>PT10M</api:begin>
+        <api:end>PT30M</api:end>
+      </api:range>
+      <api:range inclusiveEnd="false">
+        <api:name>30m-60m</api:name>
+        <api:begin>PT30M</api:begin>
+        <api:end>PT1H</api:end>
+      </api:range>
+      <api:range inclusiveEnd="true">
+        <api:name>60m-∞</api:name>
+        <api:begin>PT1H0.001S</api:begin>
+        <api:end>PT4H</api:end>
+      </api:range>
+    </api:durations>
+  </api:facets>
 </api:mediaForm>
