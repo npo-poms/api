@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<api:subtitlesForm xmlns:pages="urn:vpro:pages:2013" xmlns:api="urn:vpro:api:2013" xmlns:media="urn:vpro:media:2009">
+    <api:searches>
+        <api:text>bla</api:text>
+        <api:types match="MUST">
+            <api:matcher>CAPTION</api:matcher>
+        </api:types>
+    </api:searches>
+</api:subtitlesForm>
