@@ -1,0 +1,12 @@
+{
+  "searches" : {
+    "text" : "test"
+  },
+  "facets" : {
+    "broadcasters" : {
+      "sort" : "COUNT",
+      "treshold" : 1,
+      "max" : 10
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "searches" : {
+      "types" : [ "MOVIE" ],
+    } ]
+  },
+  "mediaForm" : {
+    "searches" : {
+      "tags" : ["politie"]
+    },
+    "facets" : {
+      "tags" : {
+        "sort" : "COUNT_DESC"
+      }
+    }
+  }
+}
