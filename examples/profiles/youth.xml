@@ -7,7 +7,10 @@
   </profile:pageProfile>
   <profile:mediaProfile>
     <media:filter>
-      <media:genre>3.0.1.1.*</media:genre>
+      <media:or>
+        <media:genre>3.0.1.1</media:genre>
+        <media:genre>3.0.1.1.*</media:genre>
+      </media:or>
     </media:filter>
   </profile:mediaProfile>
 </profile:profile>
