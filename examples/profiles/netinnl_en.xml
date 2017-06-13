@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<profile:profile xmlns:media="urn:vpro:api:constraint:media:2013" xmlns:page="urn:vpro:api:constraint:page:2013" xmlns:profile="urn:vpro:api:profile:2013" name="netinnl_en">
+  <profile:pageProfile>
+    <page:filter>
+      <page:portal>NETINNL</page:portal>
+      <page:section>/en</page:section>
+    </page:filter>
+  </profile:pageProfile>
+  <profile:mediaProfile>
+    <media:filter>
+      <media:and>
+        <media:or>
+          <media:descendantOf>POMS_S_VPRO_3400788</media:descendantOf> <!-- prod -->
+          <media:descendantOf>POMS_S_VPRO_1409252</media:descendantOf> <!-- test -->
+          <media:descendantOf>POMS_S_VPRO_1409253</media:descendantOf> <!-- dev -->
+        </media:or>
+        <!-- NPA-298
+        <media:or>
+          <media:hasLocation platform="INTERNETVOD"/>
+          <media:hasLocation platform="NONE"/>
+          </media:or>
+        -->
+        <media:or>
+          <media:not>
+            <media:isExclusive />
+          </media:not>
+          <media:exclusive>NETINNL</media:exclusive>
+        </media:or>
+      </media:and>
+    </media:filter>
+  </profile:mediaProfile>
+</profile:profile>

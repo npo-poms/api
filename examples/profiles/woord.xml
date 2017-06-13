@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<profile xmlns:media="urn:vpro:api:constraint:media:2013" xmlns:page="urn:vpro:api:constraint:page:2013"
+         xmlns="urn:vpro:api:profile:2013" name="woord">
+  <pageProfile>
+    <page:filter>
+      <page:portal>WOORD</page:portal>
+    </page:filter>
+  </pageProfile>
+  <mediaProfile>
+    <media:filter>
+      <media:and>
+        <media:or>
+          <media:type>SEGMENT</media:type>
+          <media:and>
+            <media:type>BROADCAST</media:type>
+            <media:avFileFormat>MP3</media:avFileFormat>
+          </media:and>
+          <media:and>
+            <media:type>CLIP</media:type>
+            <media:avFileFormat>MP3</media:avFileFormat>
+          </media:and>
+        </media:or>
+        <media:descendantOf>POMS_S_VPRO_195283</media:descendantOf>
+        <media:or>
+          <media:not>
+            <media:isExclusive />
+          </media:not>
+          <media:exclusive>WOORD</media:exclusive>
+        </media:or>
+      </media:and>
+    </media:filter>
+  </mediaProfile>
+</profile>

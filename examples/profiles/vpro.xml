@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<profile:profile
+  xmlns:media="urn:vpro:api:constraint:media:2013"
+  xmlns:page="urn:vpro:api:constraint:page:2013"
+  xmlns:profile="urn:vpro:api:profile:2013"
+  name="vpro">
+  <profile:pageProfile>
+    <page:filter>
+      <page:portal>VPRONL</page:portal>
+    </page:filter>
+  </profile:pageProfile>
+  <profile:mediaProfile>
+    <media:filter>
+      <media:and>
+        <media:broadcaster>VPRO</media:broadcaster>
+        <media:or>
+          <media:not>
+            <media:isExclusive/>
+          </media:not>
+          <media:exclusive>VPRONL</media:exclusive>
+        </media:or>
+        <media:or>
+          <media:and>
+            <media:hasImage/>
+            <media:or>
+              <media:hasLocation platform="INTERNETVOD" />
+              <media:hasLocation platform="NONE" />
+              <!--
+              <media:hasPrediction platform="INTERNETVOD"/>
+              -->
+              <media:type>SEGMENT</media:type>
+            </media:or>
+            <media:not>
+              <media:type>TRACK</media:type>
+            </media:not>
+          </media:and>
+          <media:or>
+            <!-- all group types but ALBUM (that'll be 3voor12) -->
+            <media:type>SERIES</media:type>
+            <media:type>SEASON</media:type>
+            <media:type>ARCHIVE</media:type>
+            <media:type>COLLECTION</media:type>
+            <media:type>PLAYLIST</media:type>
+            <media:type>STRAND</media:type>
+          </media:or>
+        </media:or>
+      </media:and>
+    </media:filter>
+  </profile:mediaProfile>
+</profile:profile>

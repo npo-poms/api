@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<profile:profile xmlns:media="urn:vpro:api:constraint:media:2013" xmlns:page="urn:vpro:api:constraint:page:2013" xmlns:profile="urn:vpro:api:profile:2013" name="twcctv">
+    <profile:mediaProfile>
+        <media:filter>
+            <media:or>
+                <media:avFileFormat>MP4</media:avFileFormat>
+                <media:avFileFormat>M4V</media:avFileFormat>
+                <media:avFileExtension>MP4</media:avFileExtension>
+                <media:avFileExtension>M4V</media:avFileExtension>
+            </media:or>
+        </media:filter>
+    </profile:mediaProfile>
+</profile:profile>

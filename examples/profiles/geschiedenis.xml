@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<profile:profile xmlns:media="urn:vpro:api:constraint:media:2013" xmlns:page="urn:vpro:api:constraint:page:2013" xmlns:profile="urn:vpro:api:profile:2013" name="geschiedenis">
+  <profile:pageProfile>
+    <page:filter>
+      <page:portal>GESCHIEDENIS24</page:portal>
+    </page:filter>
+  </profile:pageProfile>
+</profile:profile>

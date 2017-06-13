@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<profile:profile xmlns:page="urn:vpro:api:constraint:page:2013" xmlns:media="urn:vpro:api:constraint:media:2013" xmlns:profile="urn:vpro:api:profile:2013" timestamp="2014-05-21T15:46:49.539+02:00" name="eo">
+  <profile:pageProfile since="0">
+    <page:filter>
+      <page:portal>http://www.eo.nl</page:portal>
+    </page:filter>
+  </profile:pageProfile>
+  <profile:mediaProfile since="0">
+    <media:filter>
+      <media:broadcaster>EO</media:broadcaster>
+    </media:filter>
+  </profile:mediaProfile>
+</profile:profile>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<profile:profile xmlns:media="urn:vpro:api:constraint:media:2013" xmlns:page="urn:vpro:api:constraint:page:2013" xmlns:profile="urn:vpro:api:profile:2013" name="npodoc">
+  <profile:pageProfile>
+    <page:filter>
+      <page:portal>HOLLANDDOC24</page:portal>
+    </page:filter>
+  </profile:pageProfile>
+  <profile:mediaProfile>
+    <media:filter>
+      <media:and>
+        <media:descendantOf>POMS_S_VPRO_522139</media:descendantOf>
+        <media:or>
+          <media:and>
+            <!-- Can be enabled of NPA-226 deployed -->
+            <!--
+            <media:or>
+              <media:hasLocation platform="INTERNETVOD" />
+              <media:hasLocation platform="NO" />
+              </media:or>
+              -->
+
+            <media:hasLocation/>
+            <media:or>
+              <media:type>BROADCAST</media:type>
+              <media:type>CLIP</media:type>
+            </media:or>
+          </media:and>
+          <media:type>SEGMENT</media:type>
+        </media:or>
+        <media:or>
+          <media:not>
+            <media:isExclusive />
+          </media:not>
+          <media:exclusive>HOLLANDDOC24</media:exclusive>
+        </media:or>
+      </media:and>
+    </media:filter>
+  </profile:mediaProfile>
+</profile:profile>

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<profile:profile xmlns:page="urn:vpro:api:constraint:page:2013" xmlns:media="urn:vpro:api:constraint:media:2013" xmlns:profile="urn:vpro:api:profile:2013" timestamp="2014-05-07T17:06:06.405+02:00" name="vpro">
+  <profile:pageProfile>
+    <page:filter>
+      <page:or>
+        <page:portal>http://www.vpro.nl</page:portal>
+        <page:portal>http://www-acc.vpro.nl</page:portal>
+        <page:portal>http://www-test.vpro.nl</page:portal>
+      </page:or>
+    </page:filter>
+  </profile:pageProfile>
+  <profile:mediaProfile>
+    <media:filter>
+      <media:and>
+        <media:broadcaster>VPRO</media:broadcaster>
+        <media:hasImage/>
+        <media:or>
+          <media:hasLocation/>
+          <media:type>SEGMENT</media:type>
+        </media:or>
+      </media:and>
+    </media:filter>
+  </profile:mediaProfile>
+</profile:profile>
