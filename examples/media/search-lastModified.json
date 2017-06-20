@@ -1,12 +1,14 @@
 {
     "searches": {
-        "lastModified": [
+        "lastModifiedDates": [
             {
-                "end": 1449243921998 /* fill in the current time */
+                "end": 1356994800000 /* 2013 */
             }
 
         ]
     },
-    "sort": { "lastModified": "DESC" }
+    "sort": {
+        "lastModified": "DESC"
+    }
 
 }
