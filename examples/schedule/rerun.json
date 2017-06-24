@@ -1,20 +1,12 @@
 {
-    "searches": {
-        "scheduleEvents":        {
-            "begin":1495621570000,
-            "end":1503397570000,
-            "rerun":true
-        }        ,
-        "descendantOf":        {
-            "value":[
-                {
-                    "value":"POMS_S_VPRO_472240",
-                    "match":"MUST"
-                }
-            ]
-        }
-    },
-    "sort":    {
-        "sortDate":"ASC"
+  "searches": {
+    "scheduleEvents":        {
+      "begin": "2017-05-24", /* date parsing with natty supported > 5.4 */
+      "end": "2017-05-30",
+      "rerun":true
     }
+  },
+  "sort":    {
+    "sortDate":"ASC"
+  }
 }
