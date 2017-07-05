@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<profile:profile xmlns:page="urn:vpro:api:constraint:page:2013" xmlns:media="urn:vpro:api:constraint:media:2013" xmlns:profile="urn:vpro:api:profile:2013"  name="youth">
+  <profile:pageProfile>
+  </profile:pageProfile>
+  <profile:mediaProfile>
+    <media:filter>
+      <media:hasLocation platform="TVVOD" />
+    </media:filter>
+  </profile:mediaProfile>
+</profile:profile>
