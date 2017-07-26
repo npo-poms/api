@@ -1,0 +1,13 @@
+{
+    "searches" : {
+        "text" : "Twee vandaag"
+    },
+    "sort" : {
+        "title" :{
+            "order" : "ASC",
+            "type" : "LEXICO",
+            "owner" : "BROADCASTER"
+        },
+        "sortDate" : "DESC"
+    }
+}
