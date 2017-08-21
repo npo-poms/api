@@ -2,7 +2,7 @@
     "searches" : {
         "text" : "Twee vandaag"
     },
-    "sort" : {
+    "sort" : { /* deprecated format, see NPA-403-array.json */
         "title" :{
             "order" : "ASC",
             "type" : "LEXICO",

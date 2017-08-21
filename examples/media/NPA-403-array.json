@@ -1,5 +1,6 @@
 {
     "searches" : {
+        "memberOf": "POMS_S_VPRO_1442745"
 
     },
     /* json doesn't actually have a order, so we should support arrays too */
