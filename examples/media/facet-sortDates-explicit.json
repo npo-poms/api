@@ -1,0 +1,13 @@
+{
+    "facets" : {
+        "sortDates" : [
+            "MONTH",
+            "LAST_YEAR",
+            {
+                "name":"Een goed jaar",
+                "begin":94690800000,
+                "end":126226800000
+            }
+        ]
+    }
+}

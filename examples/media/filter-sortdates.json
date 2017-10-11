@@ -1,7 +1,6 @@
 {
     "searches" : {
-        "sortDates" :
-        {
+        "sortDates" :  {
             "match": "MUST",
             "begin" : 978303600000,
             "end" : 1009839600000

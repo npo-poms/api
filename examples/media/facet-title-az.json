@@ -1,0 +1,36 @@
+{
+    "facets": {
+        "titles": [
+             {
+                 "sort" : "COUNT_DESC",
+                 "max" : 24
+             }
+            {
+                "name": "a",
+                "subSearch": {
+                    "type": "MAIN",
+                    "value": "a*",
+                    "match": "WILDCARD"
+                }
+            },
+            {
+                "name": "b",
+                "subSearch": {
+                    "type": "MAIN",
+                    "value": "b*",
+                    "match": "WILDCARD"
+                }
+            }
+        ]
+    },
+    "searches": {
+        "titles": [
+            {
+                "match": "SHOULD",
+                "type": "MAIL",
+                "value": "a*",
+                "match": "WILDCARD"
+            }
+        ]
+    }
+}
