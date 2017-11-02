@@ -1,0 +1,20 @@
+{
+    "searches" : {
+        "memberOf": "POMS_S_VPRO_1442745"
+
+    },
+    /* json doesn't actually have a order, so we should support arrays too */
+    "sort" : [
+        {
+            "field": "title",
+            "order" : "ASC",
+            "type" : "LEXICO",
+            "owner" : "BROADCASTER"
+        },
+        {
+            "field": "sortDate",
+            "order" : "DESC"
+        },
+        "lastModified"
+    ]
+}

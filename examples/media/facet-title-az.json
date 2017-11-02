@@ -1,0 +1,31 @@
+{
+    "facets" : {
+        "titles" : [ {
+          "sort" : "COUNT_DESC",
+            "max" : 24
+        }, {
+            "name" : "a",
+            "caseSensitive": true,
+            "subSearch" : {
+                "type" : "MAIN",
+                "value" : "a*",
+                "matchType" : "WILDCARD"
+            }
+        }, {
+            "name" : "b",
+            "subSearch" : {
+                "type" : "MAIN",
+                "value" : "b*",
+                "matchType" : "WILDCARD"
+            }
+        } ]
+    },
+    "searches" : {
+        "titles" : [ {
+            "match" : "SHOULD",
+            "type" : "MAIN",
+            "value" : "a*",
+            "matchType" : "WILDCARD"
+        } ]
+  }
+}

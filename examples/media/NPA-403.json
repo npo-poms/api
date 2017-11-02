@@ -1,0 +1,13 @@
+{
+    "searches" : {
+        "text" : "Twee vandaag"
+    },
+    "sort" : { /* deprecated format, see NPA-403-array.json */
+        "title" :{
+            "order" : "ASC",
+            "type" : "LEXICO",
+            "owner" : "BROADCASTER"
+        },
+        "sortDate" : "DESC"
+    }
+}

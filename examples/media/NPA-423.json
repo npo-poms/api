@@ -1,0 +1,13 @@
+{
+  "highlight": true,
+  "searches": {
+    "text": "test"
+  },
+  "facets": {
+    "sortDates": [
+      "BEFORE_LAST_YEAR",
+      "LAST_YEAR",
+      "LAST_WEEK"
+    ]
+  }
+}

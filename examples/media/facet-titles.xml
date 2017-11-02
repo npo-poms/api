@@ -1,0 +1,17 @@
+<mediaForm xmlns="urn:vpro:api:2013">
+  <facets>
+    <titles sort="COUNT_DESC">
+      <max>24</max>
+      <!-- new since 5.5: -->
+      <title name="titlesWithA">
+        <subSearch>
+          <value matchType="WILDCARD" caseSensitive="false">a*</value>
+        </subSearch>
+      </title>
+      <title name="titlesWithB">
+        <subSearch>
+        <value matchType="WILDCARD" caseSensitive="false">b*</value>
+      </subSearch>
+    </titles>
+  </facets>
+</mediaForm>
