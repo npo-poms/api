@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<gtaa:newPersonRequest xmlns:gtaa="urn:vpro:gtaa:2017">
+  <gtaa:person>
+    <gtaa:familyName>Puk</gtaa:familyName>
+    <gtaa:givenName>Pietje</gtaa:givenName>
+    <gtaa:note>test</gtaa:note>
+  </gtaa:person>
+  <gtaa:jws>FILL THIS BEFORE POSTING</gtaa:jws>
+</gtaa:newPersonRequest>

@@ -1,0 +1,10 @@
+<page type="ARTICLE" url="http://www.vpro.nl/article_with_merged_embeds/123"  xmlns="urn:vpro:pages:update:2013">
+  <broadcaster>VPRO</broadcaster>
+  <title>Hoi okuks</title>
+  <embeds>
+     <embed midRef="POMS_S_VPRO_168360">
+       <title>Onze titel</title>
+       <description>En een omschrijving</description>
+     </embed>
+  </embeds>
+</page>

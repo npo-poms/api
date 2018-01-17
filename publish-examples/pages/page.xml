@@ -1,7 +1,7 @@
 <page type="AUDIO" url="http://test.vpro.nl/article/1234"  xmlns="urn:vpro:pages:update:2013">
   <crid>crid://bla/1234</crid>
   <broadcaster>VPRO</broadcaster>
-  <title>Hoi &amp; Hallo</title>
+  <title>Hoi &amp; Hallo foobar</title>
   <paragraphs>
     <paragraph>
       <title>Title of &amp; paragraph</title>

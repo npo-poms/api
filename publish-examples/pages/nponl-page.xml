@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<page type="OVERVIEW" url="http://www-test.npo.nl/ned3"  xmlns="urn:vpro:pages:update:2013">
+ <crid>crid://npo.nl/ned3</crid>
+ <portal id="NPONL" url="http://www-test.npo.nl">
+   <section path="/ned3">Ned3</section>
+ </portal>
+ <broadcaster>VPRO</broadcaster>
+ <title>De verplichte titel</title>
+ <link pageRef="http://www.npowetenschap.nl/zeergoedverhaal.html" type="TOP_STORY">
+   <text>Een pagina over bloe, bloebla en bloediebla</text>
+ </link>
+</page>

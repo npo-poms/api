@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<page xmlns="urn:vpro:pages:update:2013" type="HOME" url="http://www.lvhmm.me:3000/">
+  <crid>crid://meeuw.org.nl/lvhhome</crid>
+  <broadcaster>NPO</broadcaster>
+  <broadcaster>VPRO</broadcaster>
+  <portal id="VPRONL" url="http://www.lvh.me:3000/"/>
+  <title>Kijk en luister op npo.nl</title>
+  <paragraphs>
+    <paragraph>
+      <title>Introductie</title>
+      <body>Npo.nl is de vindplaats van programma's van de publieke omroepen. Kijk en luister live en on demand.</body>
+    </paragraph>
+  </paragraphs>
+  <link pageRef="http://www.lvh.me:3000/waarom-klagen-nederlanders-zoveel/11-12-2015/RBX_EO_582853/RBX_EO_2788728" type="TOP_STORY">
+    <text>Waarom klagen Nederlanders zoveel?</text>
+  </link>
+  <link pageRef="http://www.lvh.me:3000/jan-is-de-beste/16-12-2015/BNN_101376130" type="TOP_STORY">
+    <text>Jan Is De Beste</text>
+  </link>
+  <link pageRef="http://www.lvh.me:3000/draadstaal-sayid/30-11-2015/POMS_AT_2667055" type="TOP_STORY">
+    <text>Draadstaal - Sayid</text>
+  </link>
+</page>
