@@ -1,0 +1,20 @@
+{
+  "sort":{
+    "title":"ASC"
+  },
+  "searches":{
+    //    "text": "test",
+    "types":{
+      "value":[
+        {
+          "value":"SEASON",
+          "match":"SHOULD"
+        },
+        {
+          "value":"SERIES",
+          "match":"SHOULD"
+        }
+      ]
+    }
+  }
+}
