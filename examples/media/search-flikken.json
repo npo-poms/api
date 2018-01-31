@@ -1,0 +1,29 @@
+{
+  // try for example  npo_media_search -e dev -m 50 --properties mid  search-flikken.json  | jq .
+  "facets" : {
+      "titles" : {
+          "sort" : "COUNT_DESC",
+          "max" : 24
+      }
+  },
+  "searches" : {
+    "titles" : [ {
+        "type" : "MAIN",
+        "value" : "Flikken*",
+        "matchType": "WILDCARD"
+    } ],
+    "types":{
+      "value":[
+        {
+          "value":"SEASON",
+          "match":"SHOULD"
+        },
+        {
+          "value":"SERIES",
+          "match":"SHOULD"
+        }
+      ]
+    }
+  }
+  }
+}
