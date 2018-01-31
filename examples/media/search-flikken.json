@@ -4,6 +4,10 @@
       "titles" : {
           "sort" : "COUNT_DESC",
           "max" : 24
+      },
+      "broadcasters" : {
+          "sort" : "VALUE_ASC",
+          "max" : 24
       }
   },
   "searches" : {
