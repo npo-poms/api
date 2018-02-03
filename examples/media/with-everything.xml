@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<api:mediaForm xmlns:api="urn:vpro:api:2013" xmlns:media="urn:vpro:media:2009" xmlns:shared="urn:vpro:shared:2009" xmlns:pages="urn:vpro:pages:2013" highlight="true">
+    <api:searches>
+        <api:text fuzziness="AUTO" match="SHOULD">text</api:text>
+        <api:mediaIds match="MUST">
+            <api:matcher match="SHOULD">MID_123</api:matcher>
+            <api:matcher match="SHOULD">MID_234</api:matcher>
+        </api:mediaIds>
+        <api:types match="MUST">
+            <api:matcher match="NOT">VISUALRADIOSEGMENT</api:matcher>
+        </api:types>
+        <api:avTypes match="SHOULD">
+            <api:matcher match="SHOULD">VIDEO</api:matcher>
+        </api:avTypes>
+        <api:sortDates match="MUST">
+            <api:matcher inclusiveEnd="false">
+                <api:begin>2018-01-01T10:00:00+01:00</api:begin>
+                <api:end>2018-03-01T17:00:00+01:00</api:end>
+            </api:matcher>
+        </api:sortDates>
+        <api:publishDates match="MUST">
+            <api:matcher inclusiveEnd="true">
+                <api:begin>2018-01-01T10:00:00+01:00</api:begin>
+                <api:end>2018-03-01T17:00:00+01:00</api:end>
+            </api:matcher>
+        </api:publishDates>
+        <api:broadcasters match="MUST">
+            <api:matcher matchType="WILDCARD">VPR*</api:matcher>
+            <api:matcher>EO</api:matcher>
+        </api:broadcasters>
+        <api:locations match="MUST">
+            <api:matcher match="SHOULD">https://download.omroep.nl/test.mp4</api:matcher>
+            <api:matcher match="SHOULD">mp3</api:matcher>
+        </api:locations>
+        <api:tags match="MUST">
+            <api:matcher match="SHOULD">foo</api:matcher>
+            <api:matcher match="SHOULD">bar</api:matcher>
+        </api:tags>
+        <api:genres match="MUST">
+            <api:matcher matchType="WILDCARD">3.1.6.1.*</api:matcher>
+        </api:genres>
+        <api:durations match="MUST">
+            <api:matcher inclusiveEnd="false">
+                <api:begin>PT1M</api:begin>
+                <api:end>PT15M</api:end>
+            </api:matcher>
+        </api:durations>
+        <api:descendantOf match="MUST">
+            <api:matcher match="SHOULD">MID_789</api:matcher>
+        </api:descendantOf>
+        <api:episodeOf match="MUST">
+            <api:matcher match="SHOULD">MID_456</api:matcher>
+        </api:episodeOf>
+        <api:memberOf match="MUST">
+            <api:matcher match="SHOULD">MID_01230</api:matcher>
+        </api:memberOf>
+        <api:relations>
+            <api:relationSearch>
+                <api:types match="MUST">
+                    <api:matcher>ALBUM</api:matcher>
+                </api:types>
+                <api:broadcasters match="MUST">
+                    <api:matcher>VPRO</api:matcher>
+                </api:broadcasters>
+                <api:values match="MUST">
+                    <api:matcher>FOO</api:matcher>
+                </api:values>
+            </api:relationSearch>
+        </api:relations>
+        <api:scheduleEvents>
+            <api:end>2018-04-01T10:00:00+02:00</api:end>
+            <api:channel>NED1</api:channel>
+            <api:rerun>false</api:rerun>
+        </api:scheduleEvents>
+        <api:ageRatings match="MUST">
+            <api:matcher match="SHOULD">ALL</api:matcher>
+        </api:ageRatings>
+        <api:contentRatings match="MUST">
+            <api:matcher match="NOT">SEKS</api:matcher>
+        </api:contentRatings>
+        <api:titles type="MAIN" matchType="WILDCARD">Tegenlicht*</api:titles>
+    </api:searches>
+    <api:sortFields>
+        <api:sort order="ASC">creationDate</api:sort>
+        <api:sort order="DESC">title</api:sort>
+    </api:sortFields>
+    <api:facets>
+        <api:types sort="VALUE_ASC">
+            <api:max>24</api:max>
+        </api:types>
+        <api:avTypes sort="VALUE_ASC">
+            <api:max>24</api:max>
+        </api:avTypes>
+        <api:sortDates>
+            <api:preset>LAST_WEEK</api:preset>
+            <api:preset>THIS_WEEK</api:preset>
+        </api:sortDates>
+        <api:broadcasters sort="VALUE_ASC">
+            <api:max>24</api:max>
+        </api:broadcasters>
+        <api:genres sort="VALUE_ASC">
+            <api:max>24</api:max>
+        </api:genres>
+        <api:tags caseSensitive="false" sort="VALUE_ASC">
+            <api:max>24</api:max>
+        </api:tags>
+        <api:durations>
+            <api:interval/>
+        </api:durations>
+        <api:descendantOf sort="VALUE_ASC">
+            <api:max>24</api:max>
+        </api:descendantOf>
+        <api:episodeOf sort="VALUE_ASC">
+            <api:max>24</api:max>
+        </api:episodeOf>
+        <api:memberOf sort="VALUE_ASC">
+            <api:max>24</api:max>
+        </api:memberOf>
+        <api:relations>
+            <api:facet name="test" sort="VALUE_ASC">
+                <api:max>24</api:max>
+            </api:facet>
+        </api:relations>
+        <api:ageRatings sort="VALUE_ASC">
+            <api:max>24</api:max>
+        </api:ageRatings>
+        <api:contentRatings sort="VALUE_ASC">
+            <api:max>24</api:max>
+        </api:contentRatings>
+    </api:facets>
+</api:mediaForm>
