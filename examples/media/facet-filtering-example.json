@@ -1,7 +1,8 @@
 {
   "facets": {
     "tags": {
-      "max": 5
+      "max": 5,
+      "sort" : "COUNT_DESC"
     },
     "descendantOf": {
       "filter": {

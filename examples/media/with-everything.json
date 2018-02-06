@@ -136,8 +136,15 @@
       "end" : 600000
     } ],
     "descendantOf" : {
+      "threshold" : 10,
       "sort" : "VALUE_ASC",
-      "max" : 24
+      "max" : 24,
+      "subSearch" : {
+        "types" : {
+          "value" : "SERIES",
+          "match" : "NOT"
+        }
+      }
     },
     "episodeOf" : {
       "sort" : "VALUE_ASC",

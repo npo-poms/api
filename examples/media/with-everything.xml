@@ -118,7 +118,13 @@
             </api:range>
         </api:durations>
         <api:descendantOf sort="VALUE_ASC">
+            <api:threshold>10</api:threshold>
             <api:max>24</api:max>
+            <api:subSearch>
+                <api:types match="MUST">
+                    <api:matcher match="NOT">SERIES</api:matcher>
+                </api:types>
+            </api:subSearch>
         </api:descendantOf>
         <api:episodeOf sort="VALUE_ASC">
             <api:max>24</api:max>
