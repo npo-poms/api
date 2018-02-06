@@ -1,0 +1,12 @@
+{
+    "facets" : {
+         "descendantOf" : {
+            "subSearch" : {
+                "types" : "PLAYLIST"
+            },
+            "filter" : {
+                "descendantOf" : "POMS_S_VPRO_195283"
+            }
+        }
+    }
+}
