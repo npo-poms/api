@@ -83,6 +83,7 @@
     <api:sortFields>
         <api:sort order="ASC">creationDate</api:sort>
         <api:sort order="DESC">title</api:sort>
+        <api:titleSort type="MAIN" owner="NPO" order="ASC"/>
     </api:sortFields>
     <api:facets>
         <api:types sort="VALUE_ASC">
@@ -90,6 +91,11 @@
         </api:types>
         <api:avTypes sort="VALUE_ASC">
             <api:max>24</api:max>
+            <api:filter>
+                <api:contentRatings match="MUST">
+                    <api:matcher>ANGST</api:matcher>
+                </api:contentRatings>
+            </api:filter>
         </api:avTypes>
         <api:sortDates>
             <api:preset>LAST_WEEK</api:preset>
@@ -105,7 +111,11 @@
             <api:max>24</api:max>
         </api:tags>
         <api:durations>
-            <api:interval/>
+            <api:interval>2 MINUTES</api:interval>
+            <api:range>
+                <api:begin>PT5M</api:begin>
+                <api:end>PT10M</api:end>
+            </api:range>
         </api:durations>
         <api:descendantOf sort="VALUE_ASC">
             <api:max>24</api:max>

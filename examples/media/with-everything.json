@@ -1,10 +1,5 @@
 {
   "searches" : {
-    "text" : {
-      "value" : "text",
-      "match" : "SHOULD",
-      "fuzziness" : "AUTO"
-    },
     "mediaIds" : [ {
       "value" : "MID_123",
       "match" : "SHOULD"
@@ -94,10 +89,20 @@
       "type" : "MAIN",
       "value" : "Tegenlicht*",
       "matchType" : "WILDCARD"
-    } ]
+    } ],
+    "text" : {
+      "value" : "text",
+      "match" : "SHOULD",
+      "fuzziness" : "AUTO"
+    }
   },
   "sort" : [ "creationDate", {
     "order" : "DESC",
+    "field" : "title"
+  }, {
+    "order" : "ASC",
+    "type" : "MAIN",
+    "owner" : "NPO",
     "field" : "title"
   } ],
   "facets" : {
@@ -107,7 +112,10 @@
     },
     "avTypes" : {
       "sort" : "VALUE_ASC",
-      "max" : 24
+      "max" : 24,
+      "filter" : {
+        "contentRatings" : "ANGST"
+      }
     },
     "sortDates" : [ "LAST_WEEK", "THIS_WEEK" ],
     "broadcasters" : {
@@ -123,7 +131,10 @@
       "max" : 24,
       "caseSensitive" : false
     },
-    "durations" : [ null ],
+    "durations" : [ "2 MINUTES", {
+      "begin" : 300000,
+      "end" : 600000
+    } ],
     "descendantOf" : {
       "sort" : "VALUE_ASC",
       "max" : 24
@@ -151,5 +162,4 @@
     }
   },
   "highlight" : true
-
 }
