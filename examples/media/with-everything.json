@@ -1,0 +1,172 @@
+{
+  "searches" : {
+    "mediaIds" : [ {
+      "value" : "MID_123",
+      "match" : "SHOULD"
+    }, {
+      "value" : "MID_234",
+      "match" : "SHOULD"
+    } ],
+    "types" : {
+      "value" : "VISUALRADIOSEGMENT",
+      "match" : "NOT"
+    },
+    "avTypes" : {
+      "value" : [ {
+        "value" : "VIDEO",
+        "match" : "SHOULD"
+      } ],
+      "match" : "SHOULD"
+    },
+    "sortDates" : [ {
+      "begin" : 1514797200000,
+      "end" : 1519920000000,
+      "inclusiveEnd" : false
+    } ],
+    "publishDates" : [ {
+      "begin" : 1514797200000,
+      "end" : 1519920000000,
+      "inclusiveEnd" : true
+    } ],
+    "broadcasters" : [ {
+      "value" : "VPR*",
+      "matchType" : "WILDCARD"
+    }, "EO" ],
+    "locations" : [ {
+      "value" : "https://download.omroep.nl/test.mp4",
+      "match" : "SHOULD"
+    }, {
+      "value" : "mp3",
+      "match" : "SHOULD"
+    } ],
+    "tags" : [ {
+      "value" : "foo",
+      "match" : "SHOULD"
+    }, {
+      "value" : "bar",
+      "match" : "SHOULD"
+    } ],
+    "genres" : {
+      "value" : "3.1.6.1.*",
+      "matchType" : "WILDCARD"
+    },
+    "durations" : [ {
+      "begin" : 60000,
+      "end" : 900000,
+      "inclusiveEnd" : false
+    } ],
+    "descendantOf" : {
+      "value" : "MID_789",
+      "match" : "SHOULD"
+    },
+    "episodeOf" : {
+      "value" : "MID_456",
+      "match" : "SHOULD"
+    },
+    "memberOf" : {
+      "value" : "MID_01230",
+      "match" : "SHOULD"
+    },
+    "relations" : {
+      "types" : "ALBUM",
+      "broadcasters" : "VPRO",
+      "values" : "FOO"
+    },
+    "scheduleEvents" : {
+      "end" : 1522569600000,
+      "channel" : "NED1",
+      "rerun" : false
+    },
+    "ageRatings" : {
+      "value" : "ALL",
+      "match" : "SHOULD"
+    },
+    "contentRatings" : {
+      "value" : "SEKS",
+      "match" : "NOT"
+    },
+    "titles" : [ {
+      "type" : "MAIN",
+      "value" : "Tegenlicht*",
+      "matchType" : "WILDCARD"
+    } ],
+    "text" : {
+      "value" : "text",
+      "match" : "SHOULD",
+      "fuzziness" : "AUTO"
+    }
+  },
+  "sort" : [ "creationDate", {
+    "order" : "DESC",
+    "field" : "title"
+  }, {
+    "order" : "ASC",
+    "type" : "MAIN",
+    "owner" : "NPO",
+    "field" : "title"
+  } ],
+  "facets" : {
+    "types" : {
+      "sort" : "VALUE_ASC",
+      "max" : 24
+    },
+    "avTypes" : {
+      "sort" : "VALUE_ASC",
+      "max" : 24,
+      "filter" : {
+        "contentRatings" : "ANGST"
+      }
+    },
+    "sortDates" : [ "LAST_WEEK", "THIS_WEEK" ],
+    "broadcasters" : {
+      "sort" : "VALUE_ASC",
+      "max" : 24
+    },
+    "genres" : {
+      "sort" : "VALUE_ASC",
+      "max" : 24
+    },
+    "tags" : {
+      "sort" : "VALUE_ASC",
+      "max" : 24,
+      "caseSensitive" : false
+    },
+    "durations" : [ "2 MINUTES", {
+      "begin" : 300000,
+      "end" : 600000
+    } ],
+    "descendantOf" : {
+      "threshold" : 10,
+      "sort" : "VALUE_ASC",
+      "max" : 24,
+      "subSearch" : {
+        "types" : {
+          "value" : "SERIES",
+          "match" : "NOT"
+        }
+      }
+    },
+    "episodeOf" : {
+      "sort" : "VALUE_ASC",
+      "max" : 24
+    },
+    "memberOf" : {
+      "sort" : "VALUE_ASC",
+      "max" : 24
+    },
+    "relations" : {
+      "sort" : "VALUE_ASC",
+      "max" : 24,
+      "name" : "test"
+    },
+    "ageRatings" : {
+      "sort" : "VALUE_ASC",
+      "max" : 24
+    },
+    "contentRatings" : {
+      "sort" : "VALUE_ASC",
+      "max" : 24
+    }
+  },
+  "highlight" : true
+}

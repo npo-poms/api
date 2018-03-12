@@ -1,0 +1,19 @@
+{
+  "facets": {
+    "tags": {
+      "max": 5,
+      "sort" : "COUNT_DESC"
+    },
+    "descendantOf": {
+      "filter": {
+        "descendantOf": {
+          "match": "NOT",
+          "value": "SERIES"
+        }
+      }
+    },
+    "filter": {
+      "text": "tegenlicht"
+    }
+  }
+}
