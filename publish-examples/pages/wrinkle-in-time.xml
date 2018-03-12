@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pageUpdate:page xmlns:page="urn:vpro:pages:2013" xmlns:media="urn:vpro:media:2009" xmlns:shared="urn:vpro:shared:2009" xmlns:pageUpdate="urn:vpro:pages:update:2013" type="MOVIE" url="https://www-acc.vpro.nl/cinema/films/film~4836964~a-wrinkle-in-time~.html" publishStart="2003-01-01T00:00:00+01:00">
+    <pageUpdate:crid>crid://vpro/cinema/movie/CINEMA_MOVIE_4836964</pageUpdate:crid>
+    <pageUpdate:broadcaster>VPRO</pageUpdate:broadcaster>
+    <pageUpdate:portal id="VPRONL" url="https://null/cinema.html">
+        <pageUpdate:section path="/vpronl/cinema">Cinema</pageUpdate:section>
+    </pageUpdate:portal>
+    <pageUpdate:title>A Wrinkle in Time</pageUpdate:title>
+    <pageUpdate:summary>Canada 2003. Familiefilm van John Kent Harrison. Met o.a. Katie Stuart, David Dorfman en Chris Potter. </pageUpdate:summary>
+    <pageUpdate:paragraphs>
+        <pageUpdate:paragraph>
+            <pageUpdate:body>Meg Murry is iemand die denkt dat ze een sterke wil heeft, overdreven emotioneel is en wiskundig en wetenschappelijk onnozel is. Eigenlijk is ze sociaal gestoord, net als haar kleine broertje Charles Wallace, die niet praat met andere mensen dan zijn eigen familie. Het is voor Meg moeilijk om vrienden te maken. Megs vader en zijn collega verdwijnen als ze met een experiment bezig zijn. Mrs. Whatsit schijnt hier meer van te weten.</pageUpdate:body>
+        </pageUpdate:paragraph>
+    </pageUpdate:paragraphs>
+    <pageUpdate:genre>3.0.7.11</pageUpdate:genre>
+    <pageUpdate:genre>3.0.7.15</pageUpdate:genre>
+    <pageUpdate:genre>3.0.7.7</pageUpdate:genre>
+    <pageUpdate:genre>3.0.7.21</pageUpdate:genre>
+    <pageUpdate:embeds/>
+    <pageUpdate:image type="PICTURE">
+        <pageUpdate:title>A Wrinkle in Time</pageUpdate:title>
+        <pageUpdate:imageLocation>
+            <pageUpdate:url>https://www-acc.vpro.nl/.imaging/stk/vpronl/search/dam/cinema/12/16/46/image_12164643.jpeg/jcr:content/image_12164643.jpeg</pageUpdate:url>
+        </pageUpdate:imageLocation>
+    </pageUpdate:image>
+    <pageUpdate:image type="PROMO_PORTRAIT">
+        <pageUpdate:title>A Wrinkle in Time</pageUpdate:title>
+        <pageUpdate:imageLocation>
+            <pageUpdate:url>https://www-acc.vpro.nl/.imaging/stk/vpronl/search/dam/cinema/12/33/03/image_12330323.jpeg/jcr:content/image_12330323.jpeg</pageUpdate:url>
+        </pageUpdate:imageLocation>
+    </pageUpdate:image>
+    <pageUpdate:relation type="CINEMA_APPRECIATION" broadcaster="VPRO">0</pageUpdate:relation>
+    <pageUpdate:relation type="CINEMA_YEAR" broadcaster="VPRO">2003</pageUpdate:relation>
+    <pageUpdate:relation type="CINEMA_DIRECTOR" broadcaster="VPRO">John Kent Harrison</pageUpdate:relation>
+</pageUpdate:page>
