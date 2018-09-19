@@ -18,14 +18,182 @@
                 "value" : "b*",
                 "matchType" : "WILDCARD"
             }
+        }, {
+          "name" : "c",
+          "subSearch" : {
+            "type" : "MAIN",
+            "value" : "c*",
+            "matchType" : "WILDCARD"
+          }
+        }, {
+          "name" : "d",
+          "subSearch" : {
+            "type" : "MAIN",
+            "value" : "d*",
+            "matchType" : "WILDCARD"
+          }
+        }, {
+          "name" : "e",
+          "subSearch" : {
+            "type" : "MAIN",
+            "value" : "e*",
+            "matchType" : "WILDCARD"
+          }
+        }, {
+          "name" : "f",
+          "subSearch" : {
+            "type" : "MAIN",
+            "value" : "f*",
+            "matchType" : "WILDCARD"
+          }
+        }, {
+          "name" : "g",
+          "subSearch" : {
+            "type" : "MAIN",
+            "value" : "g*",
+            "matchType" : "WILDCARD"
+          }
+        }, {
+          "name" : "h",
+          "subSearch" : {
+            "type" : "MAIN",
+            "value" : "h*",
+            "matchType" : "WILDCARD"
+          }
+        }, {
+          "name" : "i",
+          "subSearch" : {
+            "type" : "MAIN",
+            "value" : "i*",
+            "matchType" : "WILDCARD"
+          }
+        }, {
+          "name" : "j",
+          "subSearch" : {
+            "type" : "MAIN",
+            "value" : "j*",
+            "matchType" : "WILDCARD"
+          }
+        }, {
+          "name" : "k",
+          "subSearch" : {
+            "type" : "MAIN",
+            "value" : "k*",
+            "matchType" : "WILDCARD"
+          }
+        }, {
+          "name" : "l",
+          "subSearch" : {
+            "type" : "MAIN",
+            "value" : "l*",
+            "matchType" : "WILDCARD"
+          }
+        }, {
+          "name" : "m",
+          "subSearch" : {
+            "type" : "MAIN",
+            "value" : "m*",
+            "matchType" : "WILDCARD"
+          }
+        }, {
+          "name" : "n",
+          "subSearch" : {
+            "type" : "MAIN",
+            "value" : "n*",
+            "matchType" : "WILDCARD"
+          }
+        }, {
+          "name" : "o",
+          "subSearch" : {
+            "type" : "MAIN",
+            "value" : "o*",
+            "matchType" : "WILDCARD"
+          }
+        }, {
+          "name" : "p",
+          "subSearch" : {
+            "type" : "MAIN",
+            "value" : "p*",
+            "matchType" : "WILDCARD"
+          }
+        }, {
+          "name" : "q",
+          "subSearch" : {
+            "type" : "MAIN",
+            "value" : "q*",
+            "matchType" : "WILDCARD"
+          }
+        }, {
+          "name" : "r",
+          "subSearch" : {
+            "type" : "MAIN",
+            "value" : "r*",
+            "matchType" : "WILDCARD"
+          }
+        }, {
+          "name" : "s",
+          "subSearch" : {
+            "type" : "MAIN",
+            "value" : "s*",
+            "matchType" : "WILDCARD"
+          }
+        }, {
+          "name" : "t",
+          "subSearch" : {
+            "type" : "MAIN",
+            "value" : "t*",
+            "matchType" : "WILDCARD"
+          }
+        }, {
+          "name" : "u",
+          "subSearch" : {
+            "type" : "MAIN",
+            "value" : "u*",
+            "matchType" : "WILDCARD"
+          }
+        }, {
+          "name" : "v",
+          "subSearch" : {
+            "type" : "MAIN",
+            "value" : "v*",
+            "matchType" : "WILDCARD"
+          }
+        }, {
+          "name" : "w",
+          "subSearch" : {
+            "type" : "MAIN",
+            "value" : "w*",
+            "matchType" : "WILDCARD"
+          }
+        }, {
+          "name" : "x",
+          "subSearch" : {
+            "type" : "MAIN",
+            "value" : "x*",
+            "matchType" : "WILDCARD"
+          }
+        }, {
+          "name" : "y",
+          "subSearch" : {
+            "type" : "MAIN",
+            "value" : "y*",
+            "matchType" : "WILDCARD"
+          }
+        }, {
+          "name" : "z",
+          "subSearch" : {
+            "type" : "MAIN",
+            "value" : "z*",
+            "matchType" : "WILDCARD"
+          }
         } ]
     },
-    "searches" : {
-        "titles" : [ {
-            "match" : "SHOULD",
-            "type" : "MAIN",
-            "value" : "a*",
-            "matchType" : "WILDCARD"
-        } ]
+  "searches" : {
+    "titles" : [ {
+      "match" : "SHOULD",
+      "type" : "MAIN",
+      "value" : "a*",
+      "matchType" : "WILDCARD"
+    } ]
   }
 }
