@@ -1,0 +1,8 @@
+{
+    "facets" : {
+        "sections" : {
+          "sort" : "COUNT_DESC",
+          "max": 200
+        }
+    }
+}
