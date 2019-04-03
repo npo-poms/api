@@ -1,0 +1,52 @@
+{
+  /* Reproduces NPA-477 */
+  "mediaForm" : {
+    "facets" : {
+      "durations" : [ {
+        "name" : "0-5m",
+        "begin" : 1,
+        "end" : 300000,
+        "inclusiveEnd" : true
+      }, {
+        "name" : "5-10m",
+        "begin" : 300001,
+        "end" : 600000,
+        "inclusiveEnd" : true
+      }, {
+        "name" : "10m-30m",
+        "begin" : 600001,
+        "end" : 1800000,
+        "inclusiveEnd" : true
+      }, {
+        "name" : "30m-60m",
+        "begin" : 1800001,
+        "end" : 3600000,
+        "inclusiveEnd" : true
+      }, {
+        "name" : "60m-∞",
+        "begin" : 3600001,
+        "end" : 14400000,
+        "inclusiveEnd" : true
+      } ]
+    }
+  },
+  "facets" : {
+    "types" : {
+      "sort" : "VALUE_ASC",
+      "exclusive" : "true",
+      "filter" : {
+        "types" : [ {
+          "value" : "HOME",
+          "match" : "NOT"
+        }, {
+          "value" : "PLAYLIST",
+          "match" : "NOT"
+        }, {
+          "value" : "PLAYER",
+          "match" : "NOT"
+        } ]
+      },
+      "include" : "ARTICLE|AUDIO|VIDEO"
+    }
+  }
+}
