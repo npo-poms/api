@@ -1,0 +1,15 @@
+{
+
+  'types': [ {
+    'match' : 'MUST',
+    'value' : 'BROADCAST'
+  }],
+
+  'scheduleEvents': [ {
+    'begin':  1560516322000,
+    'end': 1561207522000
+  }],
+  'sort': {
+    'sortDate' : 'ASC'
+  }
+}
