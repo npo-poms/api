@@ -1,0 +1,16 @@
+{
+  'searches': {
+    'types': [ {
+      'match' : 'MUST',
+      'value' : 'BROADCAST'
+    }],
+
+    'sortDates': [ {
+      'begin':  1560516322000,
+      'end': 1561207522000
+    }]
+  }
+  'sort': {
+    'sortDate' : 'ASC'
+  }
+}
