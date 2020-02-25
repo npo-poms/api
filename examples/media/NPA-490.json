@@ -1,0 +1,34 @@
+{
+  "searches" : {
+    "broadcasters" : {
+      "match" : "MUST",
+      "value" : "MAX"
+    },
+    "types" : {
+      "match" : "MUST",
+      "value" : [ {
+        "value" : "BROADCAST",
+        "match" : "SHOULD"
+      }, {
+        "value" : "SEGMENT",
+        "match" : "SHOULD"
+      } ]
+    },
+    "avTypes" : {
+      "match" : "MUST",
+      "value" : "VIDEO"
+    },
+    "descendantOf" : {
+      "match" : "MUST",
+      "value" : "POW_03108599"
+    },
+    "scheduleEvents" : {
+      "match" : "MUST",
+      "begin" : 1579083910883,
+      "rerun" : false
+    }
+  },
+  "sort" : {
+    "sortDate" : "ASC"
+  }
+}
