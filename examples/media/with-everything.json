@@ -166,6 +166,13 @@
     "contentRatings" : {
       "sort" : "VALUE_ASC",
       "max" : 24
+    },
+    "filter" : {
+      "creationDates" : {
+        "value" : [ {
+          "begin" : 1262343600000
+        } ]
+      }
     }
   },
   "highlight" : true
