@@ -143,5 +143,12 @@
         <api:contentRatings sort="VALUE_ASC">
             <api:max>24</api:max>
         </api:contentRatings>
+        <api:filter>
+            <api:creationDates>
+                <api:matcher>
+                    <api:begin>2010-01-01T12:00:00+01:00</api:begin>
+                </api:matcher>
+            </api:creationDates>
+        </api:filter>
     </api:facets>
 </api:mediaForm>
