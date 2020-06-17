@@ -5,6 +5,7 @@ import nl.vpro.api.client.utils.NpoApiMediaUtil;
 import nl.vpro.domain.api.Deletes;
 import nl.vpro.domain.api.MediaChange;
 import nl.vpro.domain.api.Order;
+import nl.vpro.domain.api.Tail;
 import nl.vpro.util.CountedIterator;
 import nl.vpro.util.Env;
 
@@ -39,7 +40,7 @@ public class Main {
         int call = 0;
         while(true) {
 
-            try (CountedIterator<MediaChange> changes = mediaUtil.changes(null, false, start, mid, Order.ASC, null, Deletes.ID_ONLY)) {
+            try (CountedIterator<MediaChange> changes = mediaUtil.changes(null, false, start, mid, Order.ASC, null, Deletes.ID_ONLY, Tail.ALWAYS)) {
                 while (changes.hasNext()) {
                     MediaChange change = changes.next();
                     System.out.println(call + ":" + change);
