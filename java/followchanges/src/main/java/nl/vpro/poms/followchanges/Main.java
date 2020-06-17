@@ -25,7 +25,7 @@ import static nl.vpro.util.Env.PROD;
 public class Main {
 
 
-    public static void main(String[] argv) throws Exception {
+    public static void main(String[] argv) throws InterruptedException {
         System.setOut(new PrintStream(new FileOutputStream(FileDescriptor.out), true, StandardCharsets.UTF_8));
 
 
@@ -48,8 +48,10 @@ public class Main {
                     mid = change.getMid();
                 }
                 call++;
-                Thread.sleep(1000L);
+            } catch (Exception e) {
+                System.err.println(e.getMessage());
             }
+            Thread.sleep(1000L);
         }
 
     }
