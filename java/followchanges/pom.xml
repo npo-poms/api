@@ -13,6 +13,7 @@
     <poms.version>5.13-SNAPSHOT</poms.version>
     <vpro.shared.version>2.12-SNAPSHOT</vpro.shared.version>
     <log4j2.version>2.13.3</log4j2.version>
+    <env>PROD</env>
   </properties>
 
 
@@ -54,7 +55,7 @@
         <configuration>
           <mainClass>nl.vpro.poms.followchanges.Main</mainClass>
           <arguments>
-
+            <argument>${env}</argument>
           </arguments>
         </configuration>
       </plugin>
