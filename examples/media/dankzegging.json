@@ -8,7 +8,7 @@
           "value" : "troost"
       } ]
   },
-    "facets" : {
+  "facets" : {
     "tags" : {
       "name" : "Thema's",
       "sort" : "COUNT_DESC",
