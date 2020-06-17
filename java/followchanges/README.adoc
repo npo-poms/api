@@ -1,0 +1,11 @@
+# Tail the changes in the NPO Frontend Media API
+
+
+Using java and the client at https://github.com/npo-poms/api-clients
+
+To run
+```bash
+mvn compile exec:java
+```
+
+(this is also default target)
