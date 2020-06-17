@@ -9,3 +9,9 @@ mvn compile exec:java
 ```
 
 (this is also default target)
+
+To run against TEST|DEV|LOCALHOST
+
+```bash
+mvn -Denv=[TEST|DEV|LOCALHOST]
+```
