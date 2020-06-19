@@ -33,7 +33,7 @@ public class Main {
 
 
         NpoApiClients clients = NpoApiClients
-            .configured(argv.length > 0 ? Env.valueOf(argv[0]) : PROD)
+            .configured(argv.length > 0 ? Env.valueOf(argv[0].toUpperCase()) : PROD)
             .build();
         NpoApiMediaUtil mediaUtil = NpoApiMediaUtil.builder()
             .clients(clients)
