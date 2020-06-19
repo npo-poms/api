@@ -9,41 +9,61 @@ import nl.vpro.domain.api.Order;
 import nl.vpro.domain.api.Tail;
 import nl.vpro.util.CountedIterator;
 import nl.vpro.util.Env;
+import nl.vpro.util.TimeUtils;
+import org.apache.commons.cli.*;
 
 import java.io.FileDescriptor;
 import java.io.FileOutputStream;
 import java.io.PrintStream;
-import java.time.Duration;
 import java.time.Instant;
 
 import static java.nio.charset.StandardCharsets.UTF_8;
-import static nl.vpro.util.Env.PROD;
 
 /**
  * @author Michiel Meeuwissen
- * @since ...
  */
 @Slf4j
 public class Main {
 
 
 
-    public static void main(String[] argv) throws InterruptedException {
+    public static void main(String[] argv) throws InterruptedException, ParseException {
+        // output utf-8 always, why would you want it differently.
         System.setOut(new PrintStream(new FileOutputStream(FileDescriptor.out), true, UTF_8));
 
+        Options options = new Options();
+        Option env = new Option("e", "env", true, "environment");
+        options.addOption(env);
 
+        Option profile = new Option("p", "profile", true, "profile");
+        profile.setRequired(false);
+        options.addOption(profile);
+
+        Option since = new Option("s", "since", true, "since");
+        since.setRequired(false);
+        options.addOption(since);
+
+        CommandLineParser parser = new DefaultParser();
+        CommandLine cmd = parser.parse(options, argv);
+
+        Main main = new Main();
+        main.changes(TimeUtils.parse(cmd.getOptionValue("since")).orElse(Instant.now()), cmd.getOptionValue("profile"), Env.valueOf(cmd.getOptionValue("env").toUpperCase()));
+    }
+
+    private void changes(Instant since, String profile, Env env) throws InterruptedException {
         NpoApiClients clients = NpoApiClients
-            .configured(argv.length > 0 ? Env.valueOf(argv[0].toUpperCase()) : PROD)
+            .configured(env)
             .build();
+
         NpoApiMediaUtil mediaUtil = NpoApiMediaUtil.builder()
             .clients(clients)
             .build();
-        Instant start = Instant.now().minus(Duration.ofMinutes(10));
+        Instant start = since;
         String mid = null;
         int call = 0;
         while(true) {
 
-            try (CountedIterator<MediaChange> changes = mediaUtil.changes(null, false, start, mid, Order.ASC, null, Deletes.ID_ONLY, Tail.ALWAYS))  {
+            try (CountedIterator<MediaChange> changes = mediaUtil.changes(profile, false, start, mid, Order.ASC, null, Deletes.ID_ONLY, Tail.ALWAYS)) {
                 while (changes.hasNext()) {
                     MediaChange change = changes.next();
                     log.info(call + ":" + change);
@@ -56,6 +76,5 @@ public class Main {
             call++;
             Thread.sleep(1000L);
         }
-
     }
 }
