@@ -75,7 +75,8 @@
         <configuration>
           <mainClass>nl.vpro.poms.followchanges.Main</mainClass>
           <arguments>
-            <argument>--env ${env}</argument>
+            <argument>--env</argument>
+            <argument>${env}</argument>
           </arguments>
         </configuration>
       </plugin>

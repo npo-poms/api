@@ -16,6 +16,7 @@ import java.io.FileDescriptor;
 import java.io.FileOutputStream;
 import java.io.PrintStream;
 import java.time.Instant;
+import java.util.Optional;
 
 import static java.nio.charset.StandardCharsets.UTF_8;
 
@@ -33,7 +34,9 @@ public class Main {
 
         Options options = new Options();
         Option env = new Option("e", "env", true, "environment");
+        env.setRequired(false);;
         options.addOption(env);
+
 
         Option profile = new Option("p", "profile", true, "profile");
         profile.setRequired(false);
@@ -47,7 +50,7 @@ public class Main {
         CommandLine cmd = parser.parse(options, argv);
 
         Main main = new Main();
-        main.changes(TimeUtils.parse(cmd.getOptionValue("since")).orElse(Instant.now()), cmd.getOptionValue("profile"), Env.valueOf(cmd.getOptionValue("env").toUpperCase()));
+        main.changes(TimeUtils.parse(cmd.getOptionValue("since")).orElse(Instant.now()), cmd.getOptionValue("profile"), Env.valueOf(Optional.ofNullable(cmd.getOptionValue("env")).orElse("prod").toUpperCase()));
     }
 
     private void changes(Instant since, String profile, Env env) throws InterruptedException {
