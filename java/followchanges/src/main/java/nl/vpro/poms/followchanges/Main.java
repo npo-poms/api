@@ -10,13 +10,16 @@ import nl.vpro.domain.api.Tail;
 import nl.vpro.util.CountedIterator;
 import nl.vpro.util.Env;
 import nl.vpro.util.TimeUtils;
-import org.apache.commons.cli.*;
+import picocli.CommandLine;
+import picocli.CommandLine.Command;
+import picocli.CommandLine.ITypeConverter;
+import picocli.CommandLine.Option;
 
 import java.io.FileDescriptor;
 import java.io.FileOutputStream;
 import java.io.PrintStream;
 import java.time.Instant;
-import java.util.Optional;
+import java.util.concurrent.Callable;
 
 import static java.nio.charset.StandardCharsets.UTF_8;
 
@@ -24,36 +27,27 @@ import static java.nio.charset.StandardCharsets.UTF_8;
  * @author Michiel Meeuwissen
  */
 @Slf4j
-public class Main {
+@Command(name = "followchange", mixinStandardHelpOptions = true, version = "1.0",
+         description = "Follows the media changes feed of the NPO API")
+public class Main implements Callable<Integer> {
 
 
+    @Option(names = {"-e", "--env"}, converter = EnvConvert.class)
+    private Env env = Env.PROD;
 
-    public static void main(String[] argv) throws InterruptedException, ParseException {
-        // output utf-8 always, why would you want it differently.
-        System.setOut(new PrintStream(new FileOutputStream(FileDescriptor.out), true, UTF_8));
+    @Option(names = {"-p", "--profile"})
+    private String profile;
 
-        Options options = new Options();
-        Option env = new Option("e", "env", true, "environment");
-        env.setRequired(false);;
-        options.addOption(env);
+    @Option(names = {"-s", "--since"}, converter = InstantConvert.class)
+    private Instant since = Instant.now();
 
-
-        Option profile = new Option("p", "profile", true, "profile");
-        profile.setRequired(false);
-        options.addOption(profile);
-
-        Option since = new Option("s", "since", true, "since");
-        since.setRequired(false);
-        options.addOption(since);
-
-        CommandLineParser parser = new DefaultParser();
-        CommandLine cmd = parser.parse(options, argv);
-
-        Main main = new Main();
-        main.changes(TimeUtils.parse(cmd.getOptionValue("since")).orElse(Instant.now()), cmd.getOptionValue("profile"), Env.valueOf(Optional.ofNullable(cmd.getOptionValue("env")).orElse("prod").toUpperCase()));
+    @Override
+    public Integer call() throws Exception {
+         changes();
+         return 0;
     }
 
-    private void changes(Instant since, String profile, Env env) throws InterruptedException {
+    private void changes() throws InterruptedException {
         NpoApiClients clients = NpoApiClients
             .configured(env)
             .build();
@@ -78,6 +72,29 @@ public class Main {
             }
             call++;
             Thread.sleep(1000L);
+        }
+    }
+
+
+
+    public static void main(String[] argv) throws InterruptedException {
+        // output utf-8 always, why would you want it differently.
+        System.setOut(new PrintStream(new FileOutputStream(FileDescriptor.out), true, UTF_8));
+        System.exit(new CommandLine(new Main()).execute(argv));
+
+
+    }
+
+    public static class EnvConvert implements ITypeConverter<Env> {
+        @Override
+        public Env convert(String value) {
+            return Env.valueOf(value.toUpperCase());
+        }
+    }
+    public static class InstantConvert implements ITypeConverter<Instant> {
+        @Override
+        public Instant convert(String value) {
+            return TimeUtils.parse(value).orElse(Instant.now());
         }
     }
 }
