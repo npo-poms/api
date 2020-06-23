@@ -37,7 +37,7 @@ public class Main implements Runnable {
     @Option(names = {"-p", "--profile"})
     private String profile = null;
 
-    @Option(names = {"-s", "--since"}, converter = Picocli.InstantConvert.class)
+    @Option(names = {"-s", "--since"}, converter = Picocli.InstantConverter.class)
     private Instant since = Instant.now();
 
     @SneakyThrows
