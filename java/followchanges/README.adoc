@@ -9,3 +9,18 @@ mvn compile exec:java
 ```
 
 (this is also default target)
+
+To run against TEST|DEV|LOCALHOST
+
+```bash
+mvn -Denv=[TEST|DEV|LOCALHOST]
+```
+
+You can also make a 'fat' jar
+```bash
+mvn package
+```
+and then call it like so:
+```bash
+ java -jar target/followchanges.jar -e prod -p vpro-predictions -s '2020-06-19T10:40'
+```
