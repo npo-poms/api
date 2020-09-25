@@ -40,6 +40,10 @@ public class Main implements Runnable {
     @Option(names = {"-s", "--since"}, converter = Picocli.InstantConverter.class)
     private Instant since = Instant.now();
 
+
+    @Option(names = {"-t", "--tails"})
+    private boolean showTails = false;
+
     @SneakyThrows
     public void run() {
         NpoApiClients clients = NpoApiClients
@@ -57,7 +61,9 @@ public class Main implements Runnable {
             try (CountedIterator<MediaChange> changes = mediaUtil.changes(profile, false, start, mid, Order.ASC, null, Deletes.ID_ONLY, Tail.ALWAYS)) {
                 while (changes.hasNext()) {
                     MediaChange change = changes.next();
-                    log.info(call + ":" + change);
+                    if (! change.isTail() || showTails) {
+                        log.info(call + ":" + change);
+                    }
                     start = change.getPublishDate();
                     mid = change.getMid();
                 }
