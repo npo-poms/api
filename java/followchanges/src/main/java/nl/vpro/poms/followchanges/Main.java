@@ -18,6 +18,7 @@ import picocli.CommandLine.Option;
 import java.io.FileDescriptor;
 import java.io.FileOutputStream;
 import java.io.PrintStream;
+import java.time.Duration;
 import java.time.Instant;
 
 import static java.nio.charset.StandardCharsets.UTF_8;
@@ -41,8 +42,15 @@ public class Main implements Runnable {
     private Instant since = Instant.now();
 
 
-    @Option(names = {"-t", "--tails"})
+    @Option(names = {"--showtails"})
     private boolean showTails = false;
+
+
+    @Option(names = {"--sleep"}, converter = Picocli.DurationConverter.class)
+    private Duration sleep = Duration.ofMillis(1000);
+
+    @Option(names = {"-t", "--tails"})
+    private Tail tail = Tail.IF_EMPTY;
 
     @SneakyThrows
     public void run() {
@@ -58,11 +66,11 @@ public class Main implements Runnable {
         int call = 0;
         while(true) {
 
-            try (CountedIterator<MediaChange> changes = mediaUtil.changes(profile, false, start, mid, Order.ASC, null, Deletes.ID_ONLY, Tail.ALWAYS)) {
+            try (CountedIterator<MediaChange> changes = mediaUtil.changes(profile, false, start, mid, Order.ASC, null, Deletes.ID_ONLY, tail)) {
                 while (changes.hasNext()) {
                     MediaChange change = changes.next();
-                    if (! change.isTail() || showTails) {
-                        log.info(call + ":" + change);
+                    if ((! change.isTail()) || showTails) {
+                        log.info(start + ":" + call + ":" + change);
                     }
                     start = change.getPublishDate();
                     mid = change.getMid();
@@ -71,7 +79,7 @@ public class Main implements Runnable {
                 log.info(e.getMessage());
             }
             call++;
-            Thread.sleep(1000L);
+            Thread.sleep(sleep.toMillis());
         }
     }
 
