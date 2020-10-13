@@ -1,0 +1,36 @@
+{
+  "searches" : {
+    "broadcasters" : {
+      "value" : "EO",
+      "match" : "SHOULD"
+    },
+    "scheduleEvents" : [ {
+      "channel" : "NED1",
+      "match" : "SHOULD"
+    }, {
+      "channel" : "NED2",
+      "match" : "SHOULD"
+    }, {
+      "channel" : "NED3",
+      "match" : "SHOULD"
+    }, {
+      "channel" : "RAD1",
+      "match" : "SHOULD"
+    }, {
+      "channel" : "RAD2",
+      "match" : "SHOULD"
+    }, {
+      "channel" : "RAD3",
+      "match" : "SHOULD"
+    }, {
+      "channel" : "RAD4",
+      "match" : "SHOULD"
+    }, {
+      "channel" : "RAD5",
+      "match" : "SHOULD"
+    } ]
+  },
+  "sort" : {
+    "sortDate" : "DESC"
+  }
+}
