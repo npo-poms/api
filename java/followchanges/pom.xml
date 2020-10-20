@@ -10,8 +10,8 @@
   <packaging>jar</packaging>
 
   <properties>
-    <poms.version>5.15.0</poms.version>
-    <vpro.shared.version>2.16-SNAPSHOT</vpro.shared.version>
+    <poms.version>5.17.1</poms.version>
+    <vpro.shared.version>2.16.0</vpro.shared.version>
     <log4j2.version>2.13.3</log4j2.version>
     <env>PROD</env>
   </properties>
