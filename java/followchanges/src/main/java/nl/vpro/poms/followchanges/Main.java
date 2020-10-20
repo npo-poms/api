@@ -2,35 +2,31 @@ package nl.vpro.poms.followchanges;
 
 import lombok.SneakyThrows;
 import lombok.extern.slf4j.Slf4j;
-import nl.vpro.api.client.frontend.NpoApiClients;
-import nl.vpro.api.client.utils.NpoApiMediaUtil;
-import nl.vpro.domain.api.Deletes;
-import nl.vpro.domain.api.MediaChange;
-import nl.vpro.domain.api.Order;
-import nl.vpro.domain.api.Tail;
-import nl.vpro.util.CountedIterator;
-import nl.vpro.util.Env;
-import nl.vpro.util.picocli.Picocli;
 import picocli.CommandLine;
 import picocli.CommandLine.Command;
 import picocli.CommandLine.Option;
 
-import java.io.FileDescriptor;
-import java.io.FileOutputStream;
-import java.io.PrintStream;
+import java.io.*;
 import java.time.Duration;
 import java.time.Instant;
+
+import nl.vpro.api.client.frontend.NpoApiClients;
+import nl.vpro.api.client.utils.NpoApiMediaUtil;
+import nl.vpro.domain.api.*;
+import nl.vpro.util.CountedIterator;
+import nl.vpro.util.Env;
+import nl.vpro.util.picocli.Picocli;
 
 import static java.nio.charset.StandardCharsets.UTF_8;
 
 /**
  * @author Michiel Meeuwissen
  */
+@SuppressWarnings({"FieldMayBeFinal", "InfiniteLoopStatement", "BusyWait"})
 @Slf4j
 @Command(name = "followchange", mixinStandardHelpOptions = true, version = "1.0",
          description = "Follows the media changes feed of the NPO API")
 public class Main implements Runnable {
-
 
     @Option(names = {"-e", "--env"}, converter = Picocli.EnvConverter.class)
     private Env env = Env.PROD;
@@ -41,10 +37,8 @@ public class Main implements Runnable {
     @Option(names = {"-s", "--since"}, converter = Picocli.InstantConverter.class)
     private Instant since = Instant.now();
 
-
     @Option(names = {"--showtails"})
     private boolean showTails = false;
-
 
     @Option(names = {"--sleep"}, converter = Picocli.DurationConverter.class)
     private Duration sleep = Duration.ofMillis(1000);
