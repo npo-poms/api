@@ -10,8 +10,9 @@
       </title>
       <title name="titlesWithB">
         <subSearch>
-        <value matchType="WILDCARD" caseSensitive="false">b*</value>
-      </subSearch>
+          <value matchType="WILDCARD" caseSensitive="false">b*</value>
+        </subSearch>
+      </title>
     </titles>
   </facets>
 </mediaForm>
