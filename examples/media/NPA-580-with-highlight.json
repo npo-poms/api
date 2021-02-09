@@ -1,0 +1,14 @@
+{
+  "searches" : {
+    "text" : "Jurjen",
+    "scheduleEvents": {
+      "begin": "2021-01-25T00:00:00.000Z",
+      "end": "2021-01-31:59:59.790Z",
+      "rerun": "false"
+    }
+  },
+  "highlight" : true,
+  "sort":{
+    "title":"ASC"
+  }
+}

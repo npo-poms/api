@@ -1,0 +1,21 @@
+{
+  "searches" : {
+    "broadcasters":  {
+      "match": "MUST",
+      "value": "EO"
+    },
+    "scheduleEvents": {
+      "begin": "2021-01-25T00:00:00.000Z",
+       "end": "2021-01-31:59:59.790Z",
+      "rerun": "false"
+    }
+  },
+  "sort":{
+    "title":"ASC"
+  },
+  "facets" : {
+    "broadcasters" : {
+      "sort" : "COUNT_DESC"
+    }
+  }
+}
