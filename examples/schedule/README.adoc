@@ -1,0 +1,26 @@
+Examples for the https://rs.poms.omroep.nl/v1/docs/api/#!/media/find_2[npo schedule api]
+
+e.g.
+
+[source,bash]
+----
+$ npo_schedule_search -e prod --properties title   search-broadcaster-ned3.xml | jq . | head -100
+----
+
+
+.all events for last week, for certain profile
+[source,bash]
+----
+$ npo_schedule_search -e prod -P max --properties title   thisweek.json  | jsongrep 'items.*.result.media.titles[0].value' | head -10
+items[0].result.media.titles[0].value=MAX Ouderenjournaal
+items[1].result.media.titles[0].value=Tijd voor MAX
+items[2].result.media.titles[0].value=De MAX!
+items[3].result.media.titles[0].value=Noord-Zuid-Oost-West
+items[4].result.media.titles[0].value=Meldpunt
+items[5].result.media.titles[0].value=Bed & Breakfast
+items[6].result.media.titles[0].value=Ron wacht op de nacht
+items[7].result.media.titles[0].value=Op1
+items[8].result.media.titles[0].value=Radio 5 Muzieknacht
+items[9].result.media.titles[0].value=Nachtzuster
+
+----

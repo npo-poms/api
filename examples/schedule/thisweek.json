@@ -1,0 +1,9 @@
+{
+    "searches": {
+        "scheduleEvents":  {
+            "begin": "last monday at midnight",
+            "end": "now",
+            "rerun": false
+        }
+    }
+}
