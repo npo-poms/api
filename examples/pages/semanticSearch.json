@@ -1,0 +1,9 @@
+
+{
+    "searches": {
+        "text" : {
+            "value": "buitenland",
+            "semantic": true
+        }
+    }
+}
