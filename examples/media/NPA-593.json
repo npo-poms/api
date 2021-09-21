@@ -1,0 +1,10 @@
+{
+  "searches" : {
+    "scheduleEvents" : [ {
+      "begin" : "2021-09-13T00:00:00.000Z",
+      "end" : "2021-09-13T23:59:59.998Z",
+        "channel" : "RAD1"
+    }]
+  },
+  "highlight" : true
+}
