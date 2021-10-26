@@ -4,7 +4,7 @@
         "scheduleEvents": {
             "begin" : "2021-10-23T06:00",
             "end": "2021-10-24T06:00",
-            "channel": 'NED3'
+            "channel": "NED3"
         },
         "types": {"value" : "BROADCAST"},
         "avTypes": {"value" : "VIDEO"}
