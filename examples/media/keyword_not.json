@@ -1,0 +1,10 @@
+{
+    "searches": {
+        "keywords": [
+            {
+                "value": "language_ar",
+                "match": "NOT"
+            }
+        ]
+    }
+}
