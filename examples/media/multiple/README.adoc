@@ -1,0 +1,7 @@
+
+
+[source,bash]
+----
+ npo_media_get -e test -M emptyid.xml
+
+----
