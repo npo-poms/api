@@ -1,0 +1,99 @@
+{
+	"info": {
+		"_postman_id": "5fc741dc-b7d8-4f82-9fb8-7e8bc2175783",
+		"name": "POMS",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "4342725"
+	},
+	"item": [
+		{
+			"name": "try",
+			"event": [
+				{
+					"listen": "prerequest",
+					"script": {
+						"exec": [
+							"let key = '<your key>';",
+							"let secret = '<your secret>';",
+							"let npoDate = (new Date).toUTCString();",
+							"let msg = 'origin:' + pm.request.headers.get('origin') ",
+							"    +',x-npo-date:'+ npoDate",
+							"    +',uri:/v1/api/media/KN_1726464';",
+							"",
+							"let enc = CryptoJS.HmacSHA256(msg, secret).toString(CryptoJS.enc.Base64 );",
+							" ",
+							"pm.collectionVariables.set(\"authorization\", 'NPO '+ key +':'+ enc);",
+							"pm.collectionVariables.set('X-NPO-Date', npoDate);"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "application/json",
+						"type": "text"
+					},
+					{
+						"key": "Content-type",
+						"value": "application/json",
+						"type": "text"
+					},
+					{
+						"key": "Origin",
+						"value": "https://acc.npoplayer.nl",
+						"type": "text"
+					},
+					{
+						"key": "X-NPO-Date",
+						"value": "{{X-NPO-Date}}",
+						"type": "text"
+					},
+					{
+						"key": "Authorization",
+						"value": "{{authorization}}",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://rs-acc.poms.omroep.nl/v1/api/media/KN_1726464",
+					"protocol": "http",
+					"host": [
+						"rs-acc",
+						"poms",
+						"omroep",
+						"nl"
+					],
+					"path": [
+						"v1",
+						"api",
+						"media",
+						"KN_1726464"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"variable": [
+		{
+			"key": "ddd",
+			"value": ""
+		},
+		{
+			"key": "msg",
+			"value": ""
+		},
+		{
+			"key": "X-NPO-Date",
+			"value": ""
+		},
+		{
+			"key": "authorization",
+			"value": ""
+		}
+	]
+}
