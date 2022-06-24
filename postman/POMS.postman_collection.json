@@ -66,6 +66,77 @@
 				}
 			},
 			"response": []
+		},
+		{
+			"name": "list media",
+			"event": [
+				{
+					"listen": "prerequest",
+					"script": {
+						"exec": [
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "application/json",
+						"type": "text"
+					},
+					{
+						"key": "Content-type",
+						"value": "application/json",
+						"type": "text"
+					},
+					{
+						"key": "Origin",
+						"value": "{{npoapi_origin}}",
+						"type": "text"
+					},
+					{
+						"key": "X-NPO-Date",
+						"value": "{{X-NPO-Date}}",
+						"type": "text"
+					},
+					{
+						"key": "Authorization",
+						"value": "{{authorization}}",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://rs-acc.poms.omroep.nl/v1/api/media/?sort=desc&max=10",
+					"protocol": "http",
+					"host": [
+						"rs-acc",
+						"poms",
+						"omroep",
+						"nl"
+					],
+					"path": [
+						"v1",
+						"api",
+						"media",
+						""
+					],
+					"query": [
+						{
+							"key": "sort",
+							"value": "desc"
+						},
+						{
+							"key": "max",
+							"value": "10"
+						}
+					]
+				}
+			},
+			"response": []
 		}
 	],
 	"event": [
@@ -79,11 +150,31 @@
 					"let secret = pm.globals.get(\"npoapi_secret\");",
 					"let origin = pm.globals.get(\"npoapi_origin\");",
 					"let npoDate = (new Date).toUTCString();",
-					"let path = pm.request.url.getPath()",
+					"let path = pm.request.url.getPath();",
+					"let query = pm.request.url.query;",
+					" ",
+					"",
+					"getParameters =  function (query) {",
+					"   ",
+					"    if (query.length == 0) {",
+					"        return \"\";",
+					"    }",
+					"    var result = '';    ",
+					"",
+					"    var sorted = [].sort.call(query.all(), (a, b) => a.key.localeCompare(b.key));",
+					"    for (p in sorted) {        ",
+					"       result += ',' + sorted[p].key + ':' + sorted[p].value;",
+					"    }",
+					"",
+					"    return result;",
+					"}",
+					"",
 					" ",
 					"let msg = 'origin:' + origin",
 					"    +',x-npo-date:'+ npoDate",
-					"    +',uri:' + path;",
+					"    +',uri:' + path + getParameters(query);",
+					"",
+					"console.log(msg);",
 					"",
 					"let enc = CryptoJS.HmacSHA256(msg, secret).toString(CryptoJS.enc.Base64 );",
 					" ",
