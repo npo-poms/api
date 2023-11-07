@@ -1,5 +1,4 @@
 # NPO API postman examples
 
-See also https://documenter.getpostman.com/view/4342725/UzBqp5de
 
-https://api.postman.com/collections/4342725-562989e2-0f3e-46bb-9f58-5d03850fc20e?access_key=PMAT-01HENRFYDZEGYKAAS0A509P0CT
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/4342725-562989e2-0f3e-46bb-9f58-5d03850fc20e?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D4342725-562989e2-0f3e-46bb-9f58-5d03850fc20e%26entityType%3Dcollection%26workspaceId%3D3e50f1e5-5c23-48f7-afaa-b8caf9870e98)
