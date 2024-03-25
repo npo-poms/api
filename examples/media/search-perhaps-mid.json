@@ -1,0 +1,12 @@
+{
+    "searches" : {
+        "text" : {
+            "value" : "POW_05640108",
+            "match" : "SHOULD"
+        },
+        "mediaIds" :{
+            "value" : "POW_05640108",
+            "match" : "SHOULD"
+        }
+    }
+}
