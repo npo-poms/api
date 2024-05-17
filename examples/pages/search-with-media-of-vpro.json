@@ -1,0 +1,10 @@
+{
+  "mediaForm" : {
+    "searches" : {
+      "broadcasters" : {
+        "value" : "VPRO",
+        "match" : "MUST"
+      }
+    }
+  }
+}
