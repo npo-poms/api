@@ -1,12 +1,11 @@
-import {NpoApi} from './npoapi'
+import NpoApi from "./npoapi";
 
 import dotenv from 'dotenv'
 dotenv.config();
 
-const secret = process.env.NPOAPI_SECRET;
-const key = process.env.NPOAPI_KEY;
-const origin = process.env.NPOAPI_ORIGIN;
-
+const secret: string = process.env.NPOAPI_SECRET;
+const key: string  = process.env.NPOAPI_KEY;
+const origin: string = process.env.NPOAPI_ORIGIN;
 
 const api = new NpoApi(key, secret, origin);
 

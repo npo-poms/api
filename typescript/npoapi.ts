@@ -9,7 +9,7 @@ import CryptoJS from 'crypto-js';
  * @param origin - Origin header value
  * @param base_url - Base URL for API requests
  */
-export class NpoApi {
+class NpoApi {
     constructor(private key: string,
                 private secret:string,
                 private origin: string,
@@ -50,5 +50,5 @@ export class NpoApi {
     }
 
 }
-
+export default NpoApi;
 
