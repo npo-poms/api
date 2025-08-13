@@ -20,8 +20,11 @@ export class NpoApi {
     /**
      * Get one media object by mid
      */
-    public async get(mid : string): Promise<any> {
-        let url = this.base_url + "media/" + mid;
+    public async get(mid : string, parameters:Record<string, string> = {}): Promise<any> {
+        let query = Object.entries(parameters)
+            .map(([key, value]) => `${key}=${value}`)
+            .join('&');
+        let url = this.base_url + "media/" + mid + (query !== "" ? "?" + query : "");
         let headers =  this.authHeaders(url);
         return axios.get(url, {headers});
     }

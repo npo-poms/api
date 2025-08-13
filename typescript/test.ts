@@ -10,7 +10,7 @@ const origin = process.env.NPOAPI_ORIGIN;
 
 const api = new NpoApi(key, secret, origin);
 
-api.get("AVRO_1656037?properties=ageRating").then(response => {
+api.get("AVRO_1656037", {properties: "ageRating"}).then(response => {
     console.log(response.data);
 }).catch(error => {
     console.error(error);
