@@ -22,18 +22,18 @@ export class NpoApi {
      */
     public async get(mid : string): Promise<any> {
         let url = this.base_url + "media/" + mid;
-        let headers =  this.autHeaders(url);
+        let headers =  this.authHeaders(url);
         return axios.get(url, {headers});
     }
 
-    private sortAndConcat(query: URLSearchParams): Promise<any> {
+    private sortAndConcat(query: URLSearchParams): string {
         return Array.from(query.entries())
             .sort((a, b) => a[0].localeCompare(b[0]))
             .map(([key, value]) => `,${key}:${value}`)
             .join('');
     }
 
-    private  autHeaders(url: string): Promise<any> {
+    private authHeaders(url: string): Record<string, string> {
         const u = new URL(url);
         const npoDate =  new Date().toUTCString();
         const queryMsg =  this.sortAndConcat(u.searchParams);
