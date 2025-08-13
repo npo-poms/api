@@ -1,8 +1,14 @@
 import {NpoApi} from './npoapi'
 
-const api = new NpoApi( "metadataservices", "<fill in>", "https://npo.nl")
+import dotenv from 'dotenv'
+dotenv.config();
 
-api.get("AVRO_1656037").then(response => {
+const secret = process.env.NPOAPI_SECRET;
+const key = process.env.NPOAPI_KEY;
+
+const api = new NpoApi(key, secret, "https://npo.nl")
+
+api.get("AVRO_1656037?properties=all").then(response => {
     console.log(response.data);
 }).catch(error => {
     console.error(error);
