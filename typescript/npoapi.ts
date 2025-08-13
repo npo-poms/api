@@ -2,6 +2,14 @@
 import axios from 'axios';
 import CryptoJS from 'crypto-js';
 
+/**
+ * NpoApi handles API requests to the NPO service.
+ *
+ * @param key - API key for authentication
+ * @param secret - API secret for signing requests
+ * @param origin - Origin header value
+ * @param base_url - Base URL for API requests
+ */
 export class NpoApi {
 
 
@@ -12,6 +20,10 @@ export class NpoApi {
                 ) {
 
     }
+
+    /**
+     * Get one media object by mid
+     */
     public async get(mid : string): Promise<any> {
         let url = this.base_url + "media/" + mid;
         let headers = await this.autHeaders(url);

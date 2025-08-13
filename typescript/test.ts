@@ -1,4 +1,4 @@
-import {NpoApi} from './auth'
+import {NpoApi} from './npoapi'
 
 const api = new NpoApi( "metadataservices", "<fill in>", "https://npo.nl")
 
