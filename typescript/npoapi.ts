@@ -30,17 +30,19 @@ export class NpoApi {
         return await axios.get(url, {headers});
     }
 
-    private async getParameter(query: string): Promise<any> {
+    private async getParameter(query: URLSearchParams): Promise<any> {
 
-        if (query.length == 0) {
+        const entries = Array.from(query.entries());
+        if (entries.length === 0) {
             return "";
         }
+        // Sort by key alphabetically
+        entries.sort((a, b) => a[0].localeCompare(b[0]));
+        // Build result string
         let result = '';
-        const sorted = [].sort.call(query.all(), (a, b) => a.key.localeCompare(b.key));
-        for (p in sorted) {
-            result += ',' + sorted[p].key + ':' + sorted[p].value;
+        for (const [key, value] of entries) {
+            result += `,${key}:${value}`;
         }
-
         return result;
     }
 
@@ -48,7 +50,7 @@ export class NpoApi {
         const u = new URL(url);
 
         const npoDate =  new Date().toUTCString();
-        const queryMsg = await this.getParameter(u.search);
+        const queryMsg = await this.getParameter(u.searchParams);
         const msg = `origin:${this.origin},x-npo-date:${npoDate},uri:${u.pathname}${queryMsg}`;
         const enc = CryptoJS.HmacSHA256(msg, this.secret).toString(CryptoJS.enc.Base64);
 
