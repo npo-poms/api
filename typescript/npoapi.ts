@@ -26,14 +26,8 @@ export class NpoApi {
             .join('&');
         let url = this.base_url + "media/" + mid + (query !== "" ? "?" + query : "");
         let headers =  this.authHeaders(url);
+        headers['Accept'] = 'application/json';
         return axios.get(url, {headers});
-    }
-
-    private sortAndConcat(query: URLSearchParams): string {
-        return Array.from(query.entries())
-            .sort((a, b) => a[0].localeCompare(b[0]))
-            .map(([key, value]) => `,${key}:${value}`)
-            .join('');
     }
 
     private authHeaders(url: string): Record<string, string> {
@@ -43,12 +37,16 @@ export class NpoApi {
         const msg = `origin:${this.origin},x-npo-date:${npoDate},uri:${u.pathname}${queryMsg}`;
         const enc = CryptoJS.HmacSHA256(msg, this.secret).toString(CryptoJS.enc.Base64);
         return {
-            'Accept': 'application/json',
             'Origin': this.origin,
             'X-NPO-Date': npoDate,
             'Authorization': `NPO ${this.key}:${enc}`
         };
-
+    }
+    private sortAndConcat(query: URLSearchParams): string {
+        return Array.from(query.entries())
+            .sort((a, b) => a[0].localeCompare(b[0]))
+            .map(([key, value]) => `,${key}:${value}`)
+            .join('');
     }
 
 }
