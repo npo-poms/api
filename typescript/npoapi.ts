@@ -30,7 +30,7 @@ export class NpoApi {
         return await axios.get(url, {headers});
     }
 
-    private async getParameter(query: URLSearchParams): Promise<any> {
+    private async sortAndConcat(query: URLSearchParams): Promise<any> {
 
         const entries = Array.from(query.entries());
         if (entries.length === 0) {
@@ -50,7 +50,7 @@ export class NpoApi {
         const u = new URL(url);
 
         const npoDate =  new Date().toUTCString();
-        const queryMsg = await this.getParameter(u.searchParams);
+        const queryMsg = await this.sortAndConcat(u.searchParams);
         const msg = `origin:${this.origin},x-npo-date:${npoDate},uri:${u.pathname}${queryMsg}`;
         const enc = CryptoJS.HmacSHA256(msg, this.secret).toString(CryptoJS.enc.Base64);
 
