@@ -13,7 +13,7 @@ export class NpoApi {
     constructor(private key: string,
                 private secret:string,
                 private origin: string,
-                public base_url: string = "https://rs-test.poms.omroep.nl/v1/api/"
+                public base_url: string = "https://rs.poms.omroep.nl/v1/api/"
                 ) {
     }
 
