@@ -1,6 +1,6 @@
 = Typescript version for npo api authentication
 
 
-
+Especially the authentication procedure can be a little bit tricky. Here you can find how it's done in typescript.
 
 
