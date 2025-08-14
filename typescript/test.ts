@@ -9,8 +9,12 @@ const origin: string = process.env.NPOAPI_ORIGIN;
 
 const api = new NpoApi(key, secret, origin);
 
-api.iterate( {properties: "ageRating", max: "100"}).then(response => {
-
+api.iterate( {properties: "ageRating,predictions", max: "100"}, {
+    searches: {
+        type: 'BROADCAST',
+        platform: [ 'INTERNETVOD', 'EXTRA' ]
+    }
+}).then(response => {
     console.log(response.data);
 }).catch(error => {
     console.error(error);
