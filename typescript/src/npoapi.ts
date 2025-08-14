@@ -42,7 +42,8 @@ class NpoApi {
 
     protected authHeaders(url: URL): Record<string, string> {
         const npoDate =  new Date().toUTCString();
-        const msg = `origin:${this.origin},x-npo-date:${npoDate},uri:${url.pathname}${this.sortAndConcat(url.searchParams)}`;
+        const queryMsg =  this.sortAndConcat(url.searchParams);
+        const msg = `origin:${this.origin},x-npo-date:${npoDate},uri:${url.pathname}${queryMsg}`;
         const enc = CryptoJS.HmacSHA256(msg, this.secret).toString(CryptoJS.enc.Base64);
         return {
             'Origin': this.origin,
