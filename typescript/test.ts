@@ -6,10 +6,10 @@ dotenv.config();
 
 class Test {
     readonly  api = new NpoApi(
-        process.env.NPOAPI_KEY,
-        process.env.NPOAPI_SECRET,
-        process.env.NPOAPI_ORIGIN,
-        'https://rs-test.poms.omroep.nl/v1/api/'
+        process.env.NPOAPI_KEY ?? "UNSET",
+        process.env.NPOAPI_SECRET ?? "UNSET",
+        process.env.NPOAPI_ORIGIN ?? "UNSET",
+        process.env.NPOAPI_BASE_URL ?? 'https://rs-test.poms.omroep.nl/v1/api/'
     );
 
     testGet() {
@@ -20,15 +20,15 @@ class Test {
         });
     }
 
-    testIterate() {
-        this.api.iterate({properties: "ageRating,predictions"},
+    testIterate(max:number =  1000000) {
+        this.api.iterate({properties: "ageRating,predictions", max: String(max)},
     `<api:mediaForm  xmlns:api="urn:vpro:api:2013" xmlns:media="urn:vpro:media:2009">
     <api:searches>
       
     </api:searches>
 </api:mediaForm>
 `).then(response => {
-            response.data.on('data', (chunk) => {
+            response.data.on('data', (chunk: Buffer) => {
                 // Process each chunk
                 console.log(chunk.toString());
             });
@@ -39,5 +39,5 @@ class Test {
 }
 
 const test = new Test();
-//test.testGet();
-test.testIterate();
+test.testGet();
+test.testIterate(10);
