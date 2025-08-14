@@ -9,7 +9,8 @@ const origin: string = process.env.NPOAPI_ORIGIN;
 
 const api = new NpoApi(key, secret, origin);
 
-api.get("AVRO_1656037", {properties: "ageRating"}).then(response => {
+api.iterate( {properties: "ageRating", max: "100"}).then(response => {
+
     console.log(response.data);
 }).catch(error => {
     console.error(error);

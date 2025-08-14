@@ -21,16 +21,33 @@ class NpoApi {
      * Get one media object by mid
      */
     public async get(mid : string, parameters:Record<string, string> = {}): Promise<any> {
-        let query = Object.entries(parameters)
-            .map(([key, value]) => `${key}=${value}`)
-            .join('&');
-        let url = this.base_url + "media/" + mid + (query !== "" ? "?" + query : "");
+        let query = this.joinParameters(parameters);
+        let url = this.base_url + "media/" + mid + query;
         let headers =  this.authHeaders(url);
         headers['Accept'] = 'application/json';
         return axios.get(url, {headers});
     }
 
-    private authHeaders(url: string): Record<string, string> {
+
+   public async iterate( parameters:Record<string, string> = {}): Promise<any> {
+
+        let query = this.joinParameters(parameters);
+        let url = this.base_url + "media/iterate" +  query;
+        let headers =  this.authHeaders(url);
+        headers['Accept'] = 'application/json';
+        return axios.post(url, {}, {headers});
+    }
+
+   private joinParameters(parameters:Record<string, string> = {}): string {
+     let result= Object.entries(parameters)
+            .map(([key, value]) => `${key}=${value}`)
+            .join('&');
+      return result === "" ? "" : "?" + result;
+   }
+
+
+
+   private authHeaders(url: string): Record<string, string> {
         const u = new URL(url);
         const npoDate =  new Date().toUTCString();
         const queryMsg =  this.sortAndConcat(u.searchParams);
