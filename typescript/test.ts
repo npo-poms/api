@@ -15,7 +15,10 @@ api.iterate( {properties: "ageRating,predictions", max: "100"}, {
         platform: [ 'INTERNETVOD', 'EXTRA' ]
     }
 }).then(response => {
-    console.log(response.data);
+    response.data.on('data', (chunk) => {
+        // Process each chunk
+        console.log(chunk.toString());
+    });
 }).catch(error => {
     console.error(error);
 });
