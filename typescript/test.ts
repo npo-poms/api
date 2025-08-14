@@ -9,7 +9,7 @@ const origin: string = process.env.NPOAPI_ORIGIN;
 
 const api = new NpoApi(key, secret, origin, 'https://rs-test.poms.omroep.nl/v1/api/');
 
-api.iterate( {properties: "ageRating,predictions", max: "100"}, {
+api.iterate( {properties: "ageRating,predictions"}, {
     searches: {
         type: 'BROADCAST',
         platform: [ 'INTERNETVOD', 'EXTRA' ]
