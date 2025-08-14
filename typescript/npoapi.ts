@@ -35,7 +35,10 @@ class NpoApi {
         let url = this.base_url + "media/iterate" +  query;
         let headers =  this.authHeaders(url);
         headers['Accept'] = 'application/json';
-        return axios.post(url, body, {headers});
+        return axios.post(url, body, {
+            headers,
+            responseType: 'stream' }
+        );
     }
 
    private joinParameters(parameters:Record<string, string> = {}): string {
