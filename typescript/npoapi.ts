@@ -29,15 +29,16 @@ class NpoApi {
     }
 
 
-   public async iterate( parameters:Record<string, string> = {}, body = {}): Promise<any> {
+   public async iterate( parameters:Record<string, string> = {}, body = ""): Promise<any> {
 
         let query = this.joinParameters(parameters);
         let url = this.base_url + "media/iterate" +  query;
         let headers =  this.authHeaders(url);
-        headers['Accept'] = 'application/json';
+        headers['Content-Type'] = 'application/xml';
         return axios.post(url, body, {
             headers,
-            responseType: 'stream' }
+            responseType: 'stream'
+        }
         );
     }
 
