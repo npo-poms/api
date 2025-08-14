@@ -1,2 +1,8 @@
 test:
-	npx ts-node test.ts
+	npm test
+
+build:
+	npx tsc
+
+publish: build
+	npm publish

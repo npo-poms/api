@@ -1,11 +1,17 @@
 {
+  "name": "npoapi",
+  "version": "1.0.0",
+  "main": "dist/npoapi.js",
+  "types": "dist/npoapi.d.ts",
   "dependencies": {
     "axios": "^1.11.0",
-    "crypto-js": "^4.2.0",
-    "ts-node": "^10.9.2"
+    "crypto-js": "^4.2.0"
+
   },
   "devDependencies": {
-    "@types/crypto-js": "^4.2.2"
+    "@types/crypto-js": "^4.2.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.0"
   },
   "scripts": {
     "test": "ts-node test.ts"

@@ -1,4 +1,4 @@
-import NpoApi from "./npoapi";
+import NpoApi from "./src/npoapi";
 
 import dotenv from 'dotenv'
 dotenv.config();
