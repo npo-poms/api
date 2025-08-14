@@ -24,14 +24,14 @@ class NpoApi {
         const url = this.constructUrl("media/" + mid, parameters);
         const headers =  this.authHeaders(url);
         headers['Accept'] = 'application/json';
-        return axios.get(url, {headers});
+        return axios.get(url.toString(), {headers});
     }
 
     public async iterate(parameters:Record<string, string> = {}, body = ""): Promise<any> {
         const url = this.constructUrl("media/iterate", parameters);
         const headers =  this.authHeaders(url);
         headers['Content-Type'] = 'application/xml';
-        return axios.post(url, body, {
+        return axios.post(url.toString(), body, {
             headers,
             responseType: 'stream'
             }
