@@ -10,11 +10,12 @@ import CryptoJS from 'crypto-js';
  * @param base_url - Base URL for API requests
  */
 class NpoApi {
-    constructor(private key: string,
-                private secret: string,
-                private origin: string,
-                public base_url: string = "https://rs.poms.omroep.nl/v1/api/"
-                ) {
+    constructor(
+        private readonly key: string,
+        private readonly secret: string,
+        private readonly origin: string,
+        public readonly base_url: string = "https://rs.poms.omroep.nl/v1/api/"
+    ) {
     }
 
     /**
@@ -41,8 +42,7 @@ class NpoApi {
 
     protected authHeaders(url: URL): Record<string, string> {
         const npoDate =  new Date().toUTCString();
-        const queryMsg =  this.sortAndConcat(url.searchParams);
-        const msg = `origin:${this.origin},x-npo-date:${npoDate},uri:${url.pathname}${queryMsg}`;
+        const msg = `origin:${this.origin},x-npo-date:${npoDate},uri:${url.pathname}${this.sortAndConcat(url.searchParams)}`;
         const enc = CryptoJS.HmacSHA256(msg, this.secret).toString(CryptoJS.enc.Base64);
         return {
             'Origin': this.origin,
