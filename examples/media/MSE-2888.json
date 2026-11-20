@@ -1,8 +1,5 @@
 {
   "searches" : {
-    "text" : {
-      "value" : ""
-    },
     "relations" : [ {
       "types" : "NZ_RECORDING_DATE"
     } ]
